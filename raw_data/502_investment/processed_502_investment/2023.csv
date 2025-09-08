@@ -1,0 +1,4460 @@
+year,county,state_name,county_fips,502_investment_dollars,number_of_502_investment
+2023,Bibb,Alabama,"1007",178787,1
+2023,Bibb,Alabama,"1007",136363,1
+2023,Bibb,Alabama,"1007",136363,1
+2023,Bibb,Alabama,"1007",212121,1
+2023,Bibb,Alabama,"1007",128282,1
+2023,Bibb,Alabama,"1007",136363,1
+2023,Bibb,Alabama,"1007",135252,1
+2023,Bibb,Alabama,"1007",184343,1
+2023,Bibb,Alabama,"1007",166666,1
+2023,Blount,Alabama,"1009",66000,1
+2023,Blount,Alabama,"1009",261216,1
+2023,Blount,Alabama,"1009",335000,1
+2023,Blount,Alabama,"1009",189898,1
+2023,Blount,Alabama,"1009",227272,1
+2023,Blount,Alabama,"1009",221212,1
+2023,Blount,Alabama,"1009",576403,3
+2023,Blount,Alabama,"1009",146464,1
+2023,Blount,Alabama,"1009",186868,1
+2023,Blount,Alabama,"1009",252525,1
+2023,Blount,Alabama,"1009",150000,1
+2023,Blount,Alabama,"1009",202020,1
+2023,Blount,Alabama,"1009",154040,1
+2023,Blount,Alabama,"1009",547978,3
+2023,Blount,Alabama,"1009",202020,1
+2023,Blount,Alabama,"1009",164646,1
+2023,Blount,Alabama,"1009",217853,1
+2023,Blount,Alabama,"1009",318080,2
+2023,Blount,Alabama,"1009",181919,1
+2023,Blount,Alabama,"1009",218181,1
+2023,Blount,Alabama,"1009",156464,1
+2023,Blount,Alabama,"1009",353939,2
+2023,Blount,Alabama,"1009",403030,1
+2023,Blount,Alabama,"1009",114141,1
+2023,Blount,Alabama,"1009",354544,2
+2023,Blount,Alabama,"1009",169696,1
+2023,Blount,Alabama,"1009",1436209,7
+2023,Calhoun,Alabama,"1015",202000,1
+2023,Calhoun,Alabama,"1015",305000,1
+2023,Calhoun,Alabama,"1015",394023,3
+2023,Calhoun,Alabama,"1015",229898,1
+2023,Calhoun,Alabama,"1015",2396520,15
+2023,Calhoun,Alabama,"1015",366565,2
+2023,Calhoun,Alabama,"1015",146969,1
+2023,Calhoun,Alabama,"1015",229696,2
+2023,Calhoun,Alabama,"1015",306059,2
+2023,Calhoun,Alabama,"1015",141414,1
+2023,Calhoun,Alabama,"1015",224242,1
+2023,Calhoun,Alabama,"1015",136262,1
+2023,Calhoun,Alabama,"1015",136363,1
+2023,Calhoun,Alabama,"1015",788280,5
+2023,Calhoun,Alabama,"1015",353534,2
+2023,Calhoun,Alabama,"1015",295655,2
+2023,Calhoun,Alabama,"1015",141414,1
+2023,Calhoun,Alabama,"1015",1282420,8
+2023,Chambers,Alabama,"1017",129947,1
+2023,Chambers,Alabama,"1017",127272,1
+2023,Chambers,Alabama,"1017",93080,1
+2023,Chambers,Alabama,"1017",1041915,8
+2023,Chambers,Alabama,"1017",411110,3
+2023,Chambers,Alabama,"1017",329292,2
+2023,Chambers,Alabama,"1017",121212,1
+2023,Chambers,Alabama,"1017",148484,1
+2023,Chambers,Alabama,"1017",223287,2
+2023,Chambers,Alabama,"1017",502019,3
+2023,Chambers,Alabama,"1017",257474,2
+2023,Chambers,Alabama,"1017",107575,1
+2023,Chambers,Alabama,"1017",138383,1
+2023,Chambers,Alabama,"1017",191919,1
+2023,Chambers,Alabama,"1017",154545,1
+2023,Chambers,Alabama,"1017",120202,1
+2023,Chambers,Alabama,"1017",244342,2
+2023,Chambers,Alabama,"1017",86868,1
+2023,Chambers,Alabama,"1017",64646,1
+2023,Cherokee,Alabama,"1019",252525,1
+2023,Cherokee,Alabama,"1019",150505,1
+2023,Cherokee,Alabama,"1019",156565,1
+2023,Cherokee,Alabama,"1019",202020,1
+2023,Cherokee,Alabama,"1019",195454,1
+2023,Cherokee,Alabama,"1019",185858,1
+2023,Cherokee,Alabama,"1019",232323,1
+2023,Cherokee,Alabama,"1019",126262,1
+2023,Chilton,Alabama,"1021",141313,1
+2023,Chilton,Alabama,"1021",2468959,13
+2023,Chilton,Alabama,"1021",174242,1
+2023,Chilton,Alabama,"1021",193939,1
+2023,Chilton,Alabama,"1021",255050,1
+2023,Chilton,Alabama,"1021",214646,1
+2023,Chilton,Alabama,"1021",183535,1
+2023,Chilton,Alabama,"1021",242323,1
+2023,Chilton,Alabama,"1021",106060,1
+2023,Chilton,Alabama,"1021",141414,1
+2023,Chilton,Alabama,"1021",136363,1
+2023,Chilton,Alabama,"1021",1889641,10
+2023,Chilton,Alabama,"1021",245454,1
+2023,Chilton,Alabama,"1021",212121,1
+2023,Chilton,Alabama,"1021",235353,1
+2023,Chilton,Alabama,"1021",828180,4
+2023,Chilton,Alabama,"1021",232222,1
+2023,Chilton,Alabama,"1021",186868,1
+2023,Chilton,Alabama,"1021",204171,1
+2023,Clay,Alabama,"1027",259670,2
+2023,Clay,Alabama,"1027",90909,1
+2023,Clay,Alabama,"1027",155555,1
+2023,Cleburne,Alabama,"1029",184848,1
+2023,Cleburne,Alabama,"1029",310100,2
+2023,Cleburne,Alabama,"1029",163636,1
+2023,Colbert,Alabama,"1033",483382,4
+2023,Colbert,Alabama,"1033",161616,1
+2023,Colbert,Alabama,"1033",72222,1
+2023,Colbert,Alabama,"1033",111111,1
+2023,Colbert,Alabama,"1033",311110,2
+2023,Colbert,Alabama,"1033",374695,3
+2023,Coosa,Alabama,"1037",101010,1
+2023,Coosa,Alabama,"1037",145353,1
+2023,Cullman,Alabama,"1043",476090,2
+2023,Cullman,Alabama,"1043",94000,1
+2023,Cullman,Alabama,"1043",681400,4
+2023,Cullman,Alabama,"1043",280000,2
+2023,Cullman,Alabama,"1043",102020,1
+2023,Cullman,Alabama,"1043",367171,2
+2023,Cullman,Alabama,"1043",106363,1
+2023,Cullman,Alabama,"1043",126262,1
+2023,Cullman,Alabama,"1043",246272,1
+2023,Cullman,Alabama,"1043",234848,1
+2023,Cullman,Alabama,"1043",262525,1
+2023,Cullman,Alabama,"1043",284847,2
+2023,Cullman,Alabama,"1043",176767,1
+2023,Cullman,Alabama,"1043",844745,5
+2023,Cullman,Alabama,"1043",1512978,9
+2023,Cullman,Alabama,"1043",1917065,10
+2023,Cullman,Alabama,"1043",780805,4
+2023,Cullman,Alabama,"1043",309221,1
+2023,Cullman,Alabama,"1043",200606,1
+2023,Cullman,Alabama,"1043",709897,4
+2023,Cullman,Alabama,"1043",196969,1
+2023,Cullman,Alabama,"1043",195454,1
+2023,Cullman,Alabama,"1043",171212,1
+2023,Cullman,Alabama,"1043",390908,2
+2023,Cullman,Alabama,"1043",161616,1
+2023,Cullman,Alabama,"1043",367575,2
+2023,Cullman,Alabama,"1043",176767,1
+2023,Cullman,Alabama,"1043",843837,5
+2023,Cullman,Alabama,"1043",2179995,11
+2023,Cullman,Alabama,"1043",237272,1
+2023,Cullman,Alabama,"1043",151515,1
+2023,Elmore,Alabama,"1051",444741,2
+2023,Elmore,Alabama,"1051",496291,2
+2023,Elmore,Alabama,"1051",222727,1
+2023,Elmore,Alabama,"1051",505049,2
+2023,Elmore,Alabama,"1051",1542119,8
+2023,Elmore,Alabama,"1051",469696,2
+2023,Elmore,Alabama,"1051",109090,1
+2023,Elmore,Alabama,"1051",606564,4
+2023,Elmore,Alabama,"1051",291918,2
+2023,Elmore,Alabama,"1051",201919,1
+2023,Elmore,Alabama,"1051",368686,2
+2023,Elmore,Alabama,"1051",656606,3
+2023,Elmore,Alabama,"1051",85858,1
+2023,Elmore,Alabama,"1051",180808,1
+2023,Etowah,Alabama,"1055",186000,1
+2023,Etowah,Alabama,"1055",110400,1
+2023,Etowah,Alabama,"1055",191919,1
+2023,Etowah,Alabama,"1055",227171,1
+2023,Etowah,Alabama,"1055",1226048,7
+2023,Etowah,Alabama,"1055",1441613,8
+2023,Etowah,Alabama,"1055",201919,1
+2023,Etowah,Alabama,"1055",1475450,9
+2023,Etowah,Alabama,"1055",565654,4
+2023,Etowah,Alabama,"1055",78787,1
+2023,Etowah,Alabama,"1055",191909,1
+2023,Etowah,Alabama,"1055",175757,1
+2023,Etowah,Alabama,"1055",252424,1
+2023,Etowah,Alabama,"1055",165656,1
+2023,Etowah,Alabama,"1055",257575,1
+2023,Etowah,Alabama,"1055",127272,1
+2023,Etowah,Alabama,"1055",154545,1
+2023,Etowah,Alabama,"1055",515150,2
+2023,Etowah,Alabama,"1055",136363,1
+2023,Etowah,Alabama,"1055",238383,1
+2023,Fayette,Alabama,"1057",332727,3
+2023,Fayette,Alabama,"1057",111111,1
+2023,Fayette,Alabama,"1057",220202,1
+2023,Fayette,Alabama,"1057",351715,3
+2023,Fayette,Alabama,"1057",89393,1
+2023,Fayette,Alabama,"1057",356060,3
+2023,Fayette,Alabama,"1057",233635,2
+2023,Fayette,Alabama,"1057",63641,1
+2023,Fayette,Alabama,"1057",238383,1
+2023,Franklin,Alabama,"1059",444343,2
+2023,Franklin,Alabama,"1059",163636,1
+2023,Franklin,Alabama,"1059",558079,3
+2023,Franklin,Alabama,"1059",97944,1
+2023,Franklin,Alabama,"1059",172727,1
+2023,Hale,Alabama,"1065",309900,1
+2023,Hale,Alabama,"1065",125252,1
+2023,Hale,Alabama,"1065",161111,1
+2023,Jackson,Alabama,"1071",217171,1
+2023,Jackson,Alabama,"1071",74747,1
+2023,Jackson,Alabama,"1071",111010,1
+2023,Jackson,Alabama,"1071",134343,1
+2023,Jackson,Alabama,"1071",718180,6
+2023,Jackson,Alabama,"1071",108989,1
+2023,Jackson,Alabama,"1071",349494,2
+2023,Jackson,Alabama,"1071",285352,2
+2023,Jackson,Alabama,"1071",323231,2
+2023,Jackson,Alabama,"1071",137373,1
+2023,Jackson,Alabama,"1071",141919,1
+2023,Jackson,Alabama,"1071",169696,1
+2023,Jackson,Alabama,"1071",209090,1
+2023,Jackson,Alabama,"1071",352726,2
+2023,Jackson,Alabama,"1071",233838,2
+2023,Jefferson,Alabama,"1073",245000,1
+2023,Jefferson,Alabama,"1073",210000,1
+2023,Jefferson,Alabama,"1073",664443,3
+2023,Jefferson,Alabama,"1073",282676,1
+2023,Jefferson,Alabama,"1073",408080,2
+2023,Jefferson,Alabama,"1073",166666,1
+2023,Jefferson,Alabama,"1073",471614,3
+2023,Jefferson,Alabama,"1073",89375,1
+2023,Jefferson,Alabama,"1073",146464,1
+2023,Jefferson,Alabama,"1073",412524,2
+2023,Jefferson,Alabama,"1073",383838,2
+2023,Jefferson,Alabama,"1073",166666,1
+2023,Jefferson,Alabama,"1073",343333,1
+2023,Jefferson,Alabama,"1073",213030,1
+2023,Jefferson,Alabama,"1073",301823,1
+2023,Jefferson,Alabama,"1073",183838,1
+2023,Jefferson,Alabama,"1073",171717,1
+2023,Jefferson,Alabama,"1073",261616,1
+2023,Jefferson,Alabama,"1073",179797,1
+2023,Jefferson,Alabama,"1073",189817,1
+2023,Jefferson,Alabama,"1073",1066462,6
+2023,Jefferson,Alabama,"1073",250000,1
+2023,Jefferson,Alabama,"1073",151515,1
+2023,Jefferson,Alabama,"1073",297979,1
+2023,Jefferson,Alabama,"1073",151515,1
+2023,Jefferson,Alabama,"1073",216161,1
+2023,Jefferson,Alabama,"1073",209292,1
+2023,Jefferson,Alabama,"1073",147473,1
+2023,Jefferson,Alabama,"1073",581767,2
+2023,Jefferson,Alabama,"1073",176767,1
+2023,Jefferson,Alabama,"1073",357473,2
+2023,Jefferson,Alabama,"1073",293938,2
+2023,Jefferson,Alabama,"1073",213445,1
+2023,Jefferson,Alabama,"1073",236363,1
+2023,Jefferson,Alabama,"1073",590807,2
+2023,Jefferson,Alabama,"1073",157070,1
+2023,Jefferson,Alabama,"1073",213131,1
+2023,Jefferson,Alabama,"1073",252525,1
+2023,Jefferson,Alabama,"1073",247474,1
+2023,Lamar,Alabama,"1075",169191,2
+2023,Lamar,Alabama,"1075",260605,2
+2023,Lamar,Alabama,"1075",97474,1
+2023,Lamar,Alabama,"1075",161616,1
+2023,Lamar,Alabama,"1075",221111,2
+2023,Lamar,Alabama,"1075",277777,1
+2023,Lauderdale,Alabama,"1077",166666,1
+2023,Lauderdale,Alabama,"1077",292828,2
+2023,Lauderdale,Alabama,"1077",142323,1
+2023,Lauderdale,Alabama,"1077",127272,1
+2023,Lauderdale,Alabama,"1077",116161,1
+2023,Lauderdale,Alabama,"1077",249494,1
+2023,Lauderdale,Alabama,"1077",848483,4
+2023,Lauderdale,Alabama,"1077",179292,1
+2023,Lauderdale,Alabama,"1077",291200,1
+2023,Lauderdale,Alabama,"1077",778785,4
+2023,Lauderdale,Alabama,"1077",139393,1
+2023,Lauderdale,Alabama,"1077",156565,1
+2023,Lauderdale,Alabama,"1077",908638,6
+2023,Lauderdale,Alabama,"1077",192929,1
+2023,Lauderdale,Alabama,"1077",306974,1
+2023,Lauderdale,Alabama,"1077",141414,1
+2023,Lauderdale,Alabama,"1077",181818,1
+2023,Lauderdale,Alabama,"1077",393938,2
+2023,Lauderdale,Alabama,"1077",202020,1
+2023,Lauderdale,Alabama,"1077",483837,3
+2023,Lauderdale,Alabama,"1077",1323569,7
+2023,Lauderdale,Alabama,"1077",250656,2
+2023,Lawrence,Alabama,"1079",297979,2
+2023,Lawrence,Alabama,"1079",455453,3
+2023,Lawrence,Alabama,"1079",300504,2
+2023,Lawrence,Alabama,"1079",328282,2
+2023,Lawrence,Alabama,"1079",277777,1
+2023,Lawrence,Alabama,"1079",374140,2
+2023,Lawrence,Alabama,"1079",116161,1
+2023,Lawrence,Alabama,"1079",212121,1
+2023,Lawrence,Alabama,"1079",262626,1
+2023,Lawrence,Alabama,"1079",222221,2
+2023,Lawrence,Alabama,"1079",141414,1
+2023,Limestone,Alabama,"1083",270000,1
+2023,Limestone,Alabama,"1083",250000,1
+2023,Limestone,Alabama,"1083",323358,1
+2023,Limestone,Alabama,"1083",84343,1
+2023,Limestone,Alabama,"1083",191919,1
+2023,Limestone,Alabama,"1083",247474,1
+2023,Limestone,Alabama,"1083",276883,1
+2023,Limestone,Alabama,"1083",1477642,5
+2023,Limestone,Alabama,"1083",297835,1
+2023,Limestone,Alabama,"1083",1142606,5
+2023,Limestone,Alabama,"1083",410100,2
+2023,Limestone,Alabama,"1083",290723,1
+2023,Limestone,Alabama,"1083",262525,1
+2023,Limestone,Alabama,"1083",487877,3
+2023,Limestone,Alabama,"1083",866160,4
+2023,Limestone,Alabama,"1083",286001,1
+2023,Limestone,Alabama,"1083",426262,2
+2023,Limestone,Alabama,"1083",878658,4
+2023,Limestone,Alabama,"1083",281818,1
+2023,Limestone,Alabama,"1083",232323,1
+2023,Limestone,Alabama,"1083",257954,1
+2023,Limestone,Alabama,"1083",212121,1
+2023,Limestone,Alabama,"1083",1956278,6
+2023,Limestone,Alabama,"1083",634241,3
+2023,Limestone,Alabama,"1083",262499,1
+2023,Limestone,Alabama,"1083",110101,1
+2023,Limestone,Alabama,"1083",202020,1
+2023,Limestone,Alabama,"1083",73976,1
+2023,Limestone,Alabama,"1083",222222,1
+2023,Limestone,Alabama,"1083",338383,1
+2023,Limestone,Alabama,"1083",1071715,5
+2023,Limestone,Alabama,"1083",277777,1
+2023,Limestone,Alabama,"1083",264646,1
+2023,Limestone,Alabama,"1083",4410700,18
+2023,Limestone,Alabama,"1083",267676,1
+2023,Limestone,Alabama,"1083",227272,1
+2023,Limestone,Alabama,"1083",484725,2
+2023,Limestone,Alabama,"1083",1544482,7
+2023,Limestone,Alabama,"1083",327735,1
+2023,Macon,Alabama,"1087",131313,1
+2023,Macon,Alabama,"1087",72727,1
+2023,Macon,Alabama,"1087",166666,1
+2023,Macon,Alabama,"1087",102020,1
+2023,Madison,Alabama,"1089",287200,1
+2023,Madison,Alabama,"1089",545800,2
+2023,Madison,Alabama,"1089",909341,3
+2023,Madison,Alabama,"1089",99700,1
+2023,Madison,Alabama,"1089",665247,3
+2023,Madison,Alabama,"1089",1272524,5
+2023,Madison,Alabama,"1089",242323,1
+2023,Madison,Alabama,"1089",242424,1
+2023,Madison,Alabama,"1089",287878,1
+2023,Madison,Alabama,"1089",415050,2
+2023,Madison,Alabama,"1089",148484,1
+2023,Madison,Alabama,"1089",254040,1
+2023,Madison,Alabama,"1089",225252,1
+2023,Madison,Alabama,"1089",3102031,11
+2023,Madison,Alabama,"1089",680797,2
+2023,Madison,Alabama,"1089",1140821,5
+2023,Madison,Alabama,"1089",749493,3
+2023,Madison,Alabama,"1089",232300,1
+2023,Madison,Alabama,"1089",3268570,13
+2023,Madison,Alabama,"1089",318181,1
+2023,Madison,Alabama,"1089",2022017,8
+2023,Madison,Alabama,"1089",494948,2
+2023,Madison,Alabama,"1089",933332,4
+2023,Madison,Alabama,"1089",171717,1
+2023,Madison,Alabama,"1089",638281,3
+2023,Madison,Alabama,"1089",224242,1
+2023,Madison,Alabama,"1089",363636,1
+2023,Madison,Alabama,"1089",714714,3
+2023,Madison,Alabama,"1089",467498,2
+2023,Madison,Alabama,"1089",555554,2
+2023,Madison,Alabama,"1089",286303,1
+2023,Madison,Alabama,"1089",328282,1
+2023,Madison,Alabama,"1089",366666,1
+2023,Madison,Alabama,"1089",318181,1
+2023,Madison,Alabama,"1089",180808,1
+2023,Madison,Alabama,"1089",404040,2
+2023,Madison,Alabama,"1089",191919,1
+2023,Madison,Alabama,"1089",479792,2
+2023,Madison,Alabama,"1089",1966304,7
+2023,Madison,Alabama,"1089",151515,1
+2023,Madison,Alabama,"1089",542322,2
+2023,Madison,Alabama,"1089",529264,2
+2023,Madison,Alabama,"1089",494848,2
+2023,Madison,Alabama,"1089",1132215,4
+2023,Madison,Alabama,"1089",264292,1
+2023,Madison,Alabama,"1089",1949390,9
+2023,Madison,Alabama,"1089",560004,2
+2023,Madison,Alabama,"1089",913101,4
+2023,Madison,Alabama,"1089",148484,1
+2023,Madison,Alabama,"1089",202020,1
+2023,Marion,Alabama,"1093",79797,1
+2023,Marion,Alabama,"1093",694442,4
+2023,Marion,Alabama,"1093",196969,1
+2023,Marion,Alabama,"1093",1573934,11
+2023,Marion,Alabama,"1093",220201,2
+2023,Marion,Alabama,"1093",151515,1
+2023,Marshall,Alabama,"1095",241414,1
+2023,Marshall,Alabama,"1095",193939,1
+2023,Marshall,Alabama,"1095",363434,2
+2023,Marshall,Alabama,"1095",133333,1
+2023,Marshall,Alabama,"1095",374747,2
+2023,Marshall,Alabama,"1095",148484,1
+2023,Marshall,Alabama,"1095",2265248,11
+2023,Marshall,Alabama,"1095",452524,2
+2023,Marshall,Alabama,"1095",2146913,11
+2023,Marshall,Alabama,"1095",1801536,9
+2023,Marshall,Alabama,"1095",856356,5
+2023,Marshall,Alabama,"1095",217171,1
+2023,Marshall,Alabama,"1095",712524,3
+2023,Marshall,Alabama,"1095",580706,3
+2023,Marshall,Alabama,"1095",594949,3
+2023,Marshall,Alabama,"1095",203030,1
+2023,Marshall,Alabama,"1095",181818,1
+2023,Marshall,Alabama,"1095",126262,1
+2023,Marshall,Alabama,"1095",167171,1
+2023,Marshall,Alabama,"1095",196969,1
+2023,Marshall,Alabama,"1095",220959,1
+2023,Marshall,Alabama,"1095",169696,1
+2023,Marshall,Alabama,"1095",143434,1
+2023,Marshall,Alabama,"1095",1275553,7
+2023,Marshall,Alabama,"1095",202613,1
+2023,Marshall,Alabama,"1095",479797,2
+2023,Marshall,Alabama,"1095",589898,3
+2023,Marshall,Alabama,"1095",177777,1
+2023,Morgan,Alabama,"1103",285000,1
+2023,Morgan,Alabama,"1103",198000,1
+2023,Morgan,Alabama,"1103",155555,1
+2023,Morgan,Alabama,"1103",510719,3
+2023,Morgan,Alabama,"1103",205111,1
+2023,Morgan,Alabama,"1103",183838,1
+2023,Morgan,Alabama,"1103",121806,1
+2023,Morgan,Alabama,"1103",618686,3
+2023,Morgan,Alabama,"1103",179797,1
+2023,Morgan,Alabama,"1103",155555,1
+2023,Morgan,Alabama,"1103",398989,2
+2023,Morgan,Alabama,"1103",88985,1
+2023,Morgan,Alabama,"1103",195959,1
+2023,Morgan,Alabama,"1103",451009,2
+2023,Morgan,Alabama,"1103",328282,1
+2023,Morgan,Alabama,"1103",181818,1
+2023,Morgan,Alabama,"1103",229797,1
+2023,Morgan,Alabama,"1103",159494,1
+2023,Morgan,Alabama,"1103",334342,2
+2023,Pickens,Alabama,"1107",108000,1
+2023,Pickens,Alabama,"1107",156565,1
+2023,Pickens,Alabama,"1107",181717,1
+2023,Pickens,Alabama,"1107",106060,1
+2023,Pickens,Alabama,"1107",186868,1
+2023,Pickens,Alabama,"1107",95959,1
+2023,Pickens,Alabama,"1107",141414,1
+2023,Pickens,Alabama,"1107",151515,1
+2023,Randolph,Alabama,"1111",119919,1
+2023,Randolph,Alabama,"1111",126262,1
+2023,Randolph,Alabama,"1111",170202,1
+2023,Randolph,Alabama,"1111",162626,1
+2023,Randolph,Alabama,"1111",324646,3
+2023,Randolph,Alabama,"1111",94641,1
+2023,Randolph,Alabama,"1111",126262,1
+2023,Randolph,Alabama,"1111",216161,1
+2023,Randolph,Alabama,"1111",123232,1
+2023,Randolph,Alabama,"1111",131313,1
+2023,Randolph,Alabama,"1111",181818,1
+2023,Randolph,Alabama,"1111",217171,1
+2023,Shelby,Alabama,"1117",282750,1
+2023,Shelby,Alabama,"1117",479792,2
+2023,Shelby,Alabama,"1117",236363,1
+2023,Shelby,Alabama,"1117",514141,2
+2023,Shelby,Alabama,"1117",225000,1
+2023,Shelby,Alabama,"1117",292929,1
+2023,Shelby,Alabama,"1117",242929,1
+2023,Shelby,Alabama,"1117",469898,2
+2023,Shelby,Alabama,"1117",1278987,4
+2023,Shelby,Alabama,"1117",217171,1
+2023,Shelby,Alabama,"1117",540807,2
+2023,Shelby,Alabama,"1117",282727,1
+2023,Shelby,Alabama,"1117",267676,1
+2023,Shelby,Alabama,"1117",604443,3
+2023,Shelby,Alabama,"1117",288767,1
+2023,Shelby,Alabama,"1117",535721,2
+2023,Shelby,Alabama,"1117",112858,1
+2023,Shelby,Alabama,"1117",650302,3
+2023,Shelby,Alabama,"1117",232828,1
+2023,Shelby,Alabama,"1117",219675,1
+2023,Shelby,Alabama,"1117",1551264,7
+2023,Shelby,Alabama,"1117",951513,4
+2023,Shelby,Alabama,"1117",190909,1
+2023,Shelby,Alabama,"1117",743029,3
+2023,Shelby,Alabama,"1117",483989,2
+2023,Shelby,Alabama,"1117",187878,1
+2023,Shelby,Alabama,"1117",547974,2
+2023,Shelby,Alabama,"1117",609948,3
+2023,St. Clair,Alabama,"1115",791710,3
+2023,St. Clair,Alabama,"1115",621510,2
+2023,St. Clair,Alabama,"1115",466252,2
+2023,St. Clair,Alabama,"1115",253030,1
+2023,St. Clair,Alabama,"1115",196969,1
+2023,St. Clair,Alabama,"1115",1103351,5
+2023,St. Clair,Alabama,"1115",256262,1
+2023,St. Clair,Alabama,"1115",2022522,8
+2023,St. Clair,Alabama,"1115",1115553,6
+2023,St. Clair,Alabama,"1115",136363,1
+2023,St. Clair,Alabama,"1115",328181,2
+2023,St. Clair,Alabama,"1115",292828,1
+2023,St. Clair,Alabama,"1115",281818,1
+2023,St. Clair,Alabama,"1115",127272,1
+2023,St. Clair,Alabama,"1115",310605,2
+2023,St. Clair,Alabama,"1115",148484,1
+2023,St. Clair,Alabama,"1115",221818,1
+2023,St. Clair,Alabama,"1115",242414,1
+2023,St. Clair,Alabama,"1115",630867,3
+2023,St. Clair,Alabama,"1115",227272,1
+2023,St. Clair,Alabama,"1115",191818,1
+2023,St. Clair,Alabama,"1115",271984,1
+2023,St. Clair,Alabama,"1115",267575,1
+2023,St. Clair,Alabama,"1115",2220035,10
+2023,St. Clair,Alabama,"1115",960150,4
+2023,St. Clair,Alabama,"1115",191919,1
+2023,St. Clair,Alabama,"1115",271954,1
+2023,St. Clair,Alabama,"1115",419191,2
+2023,St. Clair,Alabama,"1115",179696,1
+2023,St. Clair,Alabama,"1115",111010,1
+2023,St. Clair,Alabama,"1115",126262,1
+2023,St. Clair,Alabama,"1115",196969,1
+2023,St. Clair,Alabama,"1115",176666,1
+2023,St. Clair,Alabama,"1115",166666,1
+2023,Talladega,Alabama,"1121",120000,1
+2023,Talladega,Alabama,"1121",400000,2
+2023,Talladega,Alabama,"1121",196969,1
+2023,Talladega,Alabama,"1121",418181,3
+2023,Talladega,Alabama,"1121",252424,1
+2023,Talladega,Alabama,"1121",184848,1
+2023,Talladega,Alabama,"1121",113131,1
+2023,Talladega,Alabama,"1121",141414,1
+2023,Talladega,Alabama,"1121",615928,3
+2023,Talladega,Alabama,"1121",147979,1
+2023,Talladega,Alabama,"1121",745452,4
+2023,Talladega,Alabama,"1121",90909,1
+2023,Talladega,Alabama,"1121",126262,1
+2023,Talladega,Alabama,"1121",121212,1
+2023,Talladega,Alabama,"1121",137373,1
+2023,Talladega,Alabama,"1121",90909,1
+2023,Talladega,Alabama,"1121",1858684,11
+2023,Talladega,Alabama,"1121",105959,1
+2023,Talladega,Alabama,"1121",71287,1
+2023,Talladega,Alabama,"1121",202020,1
+2023,Talladega,Alabama,"1121",284847,2
+2023,Talladega,Alabama,"1121",130303,1
+2023,Talladega,Alabama,"1121",213292,1
+2023,Talladega,Alabama,"1121",564922,3
+2023,Talladega,Alabama,"1121",260843,1
+2023,Talladega,Alabama,"1121",197474,1
+2023,Talladega,Alabama,"1121",1045362,7
+2023,Talladega,Alabama,"1121",491119,3
+2023,Tallapoosa,Alabama,"1123",13867,1
+2023,Tallapoosa,Alabama,"1123",194000,1
+2023,Tallapoosa,Alabama,"1123",160101,1
+2023,Tallapoosa,Alabama,"1123",123131,1
+2023,Tallapoosa,Alabama,"1123",291476,2
+2023,Tallapoosa,Alabama,"1123",201010,1
+2023,Tallapoosa,Alabama,"1123",101010,1
+2023,Tallapoosa,Alabama,"1123",287878,1
+2023,Tallapoosa,Alabama,"1123",230807,2
+2023,Tallapoosa,Alabama,"1123",804340,4
+2023,Tuscaloosa,Alabama,"1125",267171,1
+2023,Tuscaloosa,Alabama,"1125",714039,3
+2023,Tuscaloosa,Alabama,"1125",227272,1
+2023,Tuscaloosa,Alabama,"1125",305000,1
+2023,Tuscaloosa,Alabama,"1125",248000,1
+2023,Tuscaloosa,Alabama,"1125",573620,2
+2023,Tuscaloosa,Alabama,"1125",416180,2
+2023,Tuscaloosa,Alabama,"1125",196290,1
+2023,Tuscaloosa,Alabama,"1125",219191,1
+2023,Tuscaloosa,Alabama,"1125",282828,1
+2023,Tuscaloosa,Alabama,"1125",224747,1
+2023,Tuscaloosa,Alabama,"1125",254545,1
+2023,Tuscaloosa,Alabama,"1125",267121,1
+2023,Tuscaloosa,Alabama,"1125",323631,1
+2023,Tuscaloosa,Alabama,"1125",409090,2
+2023,Tuscaloosa,Alabama,"1125",860352,4
+2023,Tuscaloosa,Alabama,"1125",707039,3
+2023,Tuscaloosa,Alabama,"1125",478686,2
+2023,Tuscaloosa,Alabama,"1125",202020,1
+2023,Tuscaloosa,Alabama,"1125",216161,1
+2023,Tuscaloosa,Alabama,"1125",306414,1
+2023,Tuscaloosa,Alabama,"1125",429898,2
+2023,Tuscaloosa,Alabama,"1125",176868,1
+2023,Tuscaloosa,Alabama,"1125",1604442,8
+2023,Tuscaloosa,Alabama,"1125",178787,1
+2023,Tuscaloosa,Alabama,"1125",214141,1
+2023,Tuscaloosa,Alabama,"1125",80808,1
+2023,Tuscaloosa,Alabama,"1125",2444125,11
+2023,Tuscaloosa,Alabama,"1125",2321218,10
+2023,Tuscaloosa,Alabama,"1125",259090,1
+2023,Tuscaloosa,Alabama,"1125",235212,1
+2023,Tuscaloosa,Alabama,"1125",406565,2
+2023,Walker,Alabama,"1127",121212,1
+2023,Walker,Alabama,"1127",119191,1
+2023,Walker,Alabama,"1127",231030,1
+2023,Walker,Alabama,"1127",224444,1
+2023,Walker,Alabama,"1127",492322,3
+2023,Walker,Alabama,"1127",77929,1
+2023,Walker,Alabama,"1127",287878,2
+2023,Walker,Alabama,"1127",233535,1
+2023,Walker,Alabama,"1127",157575,1
+2023,Walker,Alabama,"1127",451918,2
+2023,Walker,Alabama,"1127",187878,1
+2023,Walker,Alabama,"1127",94545,1
+2023,Walker,Alabama,"1127",153636,1
+2023,Walker,Alabama,"1127",254545,1
+2023,Walker,Alabama,"1127",378787,3
+2023,Walker,Alabama,"1127",863533,6
+2023,Winston,Alabama,"1133",120500,1
+2023,Winston,Alabama,"1133",181800,1
+2023,Winston,Alabama,"1133",581816,4
+2023,Winston,Alabama,"1133",96666,1
+2023,Winston,Alabama,"1133",181818,1
+2023,Banks,Georgia,"13011",294140,1
+2023,Banks,Georgia,"13011",186868,1
+2023,Banks,Georgia,"13011",277676,1
+2023,Banks,Georgia,"13011",302020,1
+2023,Banks,Georgia,"13011",303030,1
+2023,Banks,Georgia,"13011",333323,1
+2023,Banks,Georgia,"13011",232323,1
+2023,Banks,Georgia,"13011",176767,1
+2023,Barrow,Georgia,"13013",28922,1
+2023,Barrow,Georgia,"13013",157794,1
+2023,Barrow,Georgia,"13013",1027146,3
+2023,Barrow,Georgia,"13013",83621,1
+2023,Barrow,Georgia,"13013",325000,1
+2023,Barrow,Georgia,"13013",306060,1
+2023,Barrow,Georgia,"13013",987675,4
+2023,Barrow,Georgia,"13013",555454,2
+2023,Barrow,Georgia,"13013",181818,1
+2023,Barrow,Georgia,"13013",222222,1
+2023,Barrow,Georgia,"13013",217171,1
+2023,Barrow,Georgia,"13013",1079412,3
+2023,Barrow,Georgia,"13013",232323,1
+2023,Barrow,Georgia,"13013",287878,1
+2023,Barrow,Georgia,"13013",257575,1
+2023,Barrow,Georgia,"13013",343434,1
+2023,Barrow,Georgia,"13013",323131,1
+2023,Barrow,Georgia,"13013",287878,1
+2023,Barrow,Georgia,"13013",257575,1
+2023,Barrow,Georgia,"13013",285353,1
+2023,Barrow,Georgia,"13013",210101,1
+2023,Barrow,Georgia,"13013",290909,1
+2023,Barrow,Georgia,"13013",459595,1
+2023,Barrow,Georgia,"13013",407810,2
+2023,Barrow,Georgia,"13013",1069695,4
+2023,Bartow,Georgia,"13015",506000,2
+2023,Bartow,Georgia,"13015",704800,2
+2023,Bartow,Georgia,"13015",484847,2
+2023,Bartow,Georgia,"13015",247044,1
+2023,Bartow,Georgia,"13015",303020,1
+2023,Bartow,Georgia,"13015",315712,1
+2023,Bartow,Georgia,"13015",421426,1
+2023,Bartow,Georgia,"13015",302020,1
+2023,Bartow,Georgia,"13015",733231,3
+2023,Bartow,Georgia,"13015",207070,1
+2023,Bartow,Georgia,"13015",978686,4
+2023,Bartow,Georgia,"13015",616160,2
+2023,Bartow,Georgia,"13015",212121,1
+2023,Bartow,Georgia,"13015",1466867,5
+2023,Bartow,Georgia,"13015",785837,3
+2023,Bartow,Georgia,"13015",747373,3
+2023,Bartow,Georgia,"13015",187878,1
+2023,Bartow,Georgia,"13015",274747,1
+2023,Bartow,Georgia,"13015",493928,2
+2023,Bartow,Georgia,"13015",210606,1
+2023,Bartow,Georgia,"13015",164141,1
+2023,Bartow,Georgia,"13015",1581966,7
+2023,Bartow,Georgia,"13015",989115,3
+2023,Bartow,Georgia,"13015",979494,3
+2023,Bartow,Georgia,"13015",529787,2
+2023,Bartow,Georgia,"13015",549989,2
+2023,Carroll,Georgia,"13045",393000,1
+2023,Carroll,Georgia,"13045",896500,3
+2023,Carroll,Georgia,"13045",230323,1
+2023,Carroll,Georgia,"13045",470706,2
+2023,Carroll,Georgia,"13045",277777,1
+2023,Carroll,Georgia,"13045",247474,1
+2023,Carroll,Georgia,"13045",209595,1
+2023,Carroll,Georgia,"13045",287878,1
+2023,Carroll,Georgia,"13045",342424,1
+2023,Carroll,Georgia,"13045",203939,1
+2023,Carroll,Georgia,"13045",260606,1
+2023,Carroll,Georgia,"13045",274747,2
+2023,Carroll,Georgia,"13045",274747,1
+2023,Carroll,Georgia,"13045",488888,2
+2023,Carroll,Georgia,"13045",410605,2
+2023,Carroll,Georgia,"13045",1125250,5
+2023,Carroll,Georgia,"13045",194949,1
+2023,Carroll,Georgia,"13045",252015,1
+2023,Carroll,Georgia,"13045",242424,1
+2023,Carroll,Georgia,"13045",1270705,5
+2023,Carroll,Georgia,"13045",299989,1
+2023,Carroll,Georgia,"13045",252525,1
+2023,Carroll,Georgia,"13045",1201792,6
+2023,Carroll,Georgia,"13045",303030,1
+2023,Carroll,Georgia,"13045",237373,1
+2023,Carroll,Georgia,"13045",201010,1
+2023,Carroll,Georgia,"13045",235252,1
+2023,Carroll,Georgia,"13045",267676,1
+2023,Carroll,Georgia,"13045",212121,1
+2023,Carroll,Georgia,"13045",230303,1
+2023,Carroll,Georgia,"13045",795858,3
+2023,Carroll,Georgia,"13045",176767,1
+2023,Carroll,Georgia,"13045",292929,1
+2023,Carroll,Georgia,"13045",227525,1
+2023,Catoosa,Georgia,"13047",184609,1
+2023,Catoosa,Georgia,"13047",200252,1
+2023,Catoosa,Georgia,"13047",147515,1
+2023,Catoosa,Georgia,"13047",297979,1
+2023,Catoosa,Georgia,"13047",254545,1
+2023,Catoosa,Georgia,"13047",169191,1
+2023,Catoosa,Georgia,"13047",781817,3
+2023,Catoosa,Georgia,"13047",242424,1
+2023,Catoosa,Georgia,"13047",242424,1
+2023,Catoosa,Georgia,"13047",231212,1
+2023,Catoosa,Georgia,"13047",207676,1
+2023,Catoosa,Georgia,"13047",169696,1
+2023,Catoosa,Georgia,"13047",207070,1
+2023,Catoosa,Georgia,"13047",262626,1
+2023,Chattooga,Georgia,"13055",361615,2
+2023,Chattooga,Georgia,"13055",554587,4
+2023,Chattooga,Georgia,"13055",219000,1
+2023,Chattooga,Georgia,"13055",125050,1
+2023,Chattooga,Georgia,"13055",530504,3
+2023,Chattooga,Georgia,"13055",297979,2
+2023,Chattooga,Georgia,"13055",151515,1
+2023,Chattooga,Georgia,"13055",158585,1
+2023,Chattooga,Georgia,"13055",212625,2
+2023,Chattooga,Georgia,"13055",155555,1
+2023,Chattooga,Georgia,"13055",544242,3
+2023,Chattooga,Georgia,"13055",244292,2
+2023,Cherokee,Georgia,"13057",1199371,4
+2023,Cherokee,Georgia,"13057",240050,1
+2023,Cherokee,Georgia,"13057",208080,1
+2023,Dade,Georgia,"13083",244444,1
+2023,Dade,Georgia,"13083",159595,1
+2023,Dade,Georgia,"13083",349644,3
+2023,Dade,Georgia,"13083",132323,1
+2023,Dade,Georgia,"13083",151010,1
+2023,Dade,Georgia,"13083",217171,1
+2023,Dade,Georgia,"13083",245959,1
+2023,Dawson,Georgia,"13085",277777,1
+2023,Dawson,Georgia,"13085",187878,1
+2023,Dawson,Georgia,"13085",180808,1
+2023,Dawson,Georgia,"13085",384838,1
+2023,Dawson,Georgia,"13085",332323,1
+2023,Dawson,Georgia,"13085",298989,1
+2023,Dawson,Georgia,"13085",313131,1
+2023,Douglas,Georgia,"13097",292828,1
+2023,Douglas,Georgia,"13097",292929,1
+2023,Douglas,Georgia,"13097",210101,1
+2023,Douglas,Georgia,"13097",201919,1
+2023,Douglas,Georgia,"13097",253030,1
+2023,Douglas,Georgia,"13097",232300,1
+2023,Elbert,Georgia,"13105",88388,1
+2023,Elbert,Georgia,"13105",133333,1
+2023,Elbert,Georgia,"13105",149494,1
+2023,Elbert,Georgia,"13105",156565,1
+2023,Elbert,Georgia,"13105",237373,1
+2023,Elbert,Georgia,"13105",332323,1
+2023,Elbert,Georgia,"13105",251515,1
+2023,Elbert,Georgia,"13105",166666,1
+2023,Elbert,Georgia,"13105",737170,6
+2023,Elbert,Georgia,"13105",138383,1
+2023,Fannin,Georgia,"13111",161500,1
+2023,Fannin,Georgia,"13111",386867,2
+2023,Fannin,Georgia,"13111",393434,2
+2023,Fannin,Georgia,"13111",171717,1
+2023,Floyd,Georgia,"13115",224747,1
+2023,Floyd,Georgia,"13115",448484,2
+2023,Floyd,Georgia,"13115",214141,1
+2023,Floyd,Georgia,"13115",298989,2
+2023,Floyd,Georgia,"13115",93636,1
+2023,Floyd,Georgia,"13115",137878,1
+2023,Floyd,Georgia,"13115",156464,1
+2023,Floyd,Georgia,"13115",222222,1
+2023,Floyd,Georgia,"13115",1314946,7
+2023,Floyd,Georgia,"13115",230303,1
+2023,Floyd,Georgia,"13115",424242,2
+2023,Floyd,Georgia,"13115",162121,1
+2023,Floyd,Georgia,"13115",233263,1
+2023,Floyd,Georgia,"13115",209090,1
+2023,Floyd,Georgia,"13115",202020,1
+2023,Floyd,Georgia,"13115",219797,1
+2023,Floyd,Georgia,"13115",424141,2
+2023,Floyd,Georgia,"13115",167512,1
+2023,Forsyth,Georgia,"13117",251515,1
+2023,Forsyth,Georgia,"13117",270202,1
+2023,Forsyth,Georgia,"13117",282828,1
+2023,Forsyth,Georgia,"13117",196969,1
+2023,Franklin,Georgia,"13119",264646,1
+2023,Franklin,Georgia,"13119",207070,1
+2023,Franklin,Georgia,"13119",482827,2
+2023,Franklin,Georgia,"13119",200000,1
+2023,Franklin,Georgia,"13119",913130,4
+2023,Franklin,Georgia,"13119",217171,1
+2023,Franklin,Georgia,"13119",202020,1
+2023,Franklin,Georgia,"13119",177777,1
+2023,Franklin,Georgia,"13119",239898,1
+2023,Franklin,Georgia,"13119",171717,1
+2023,Franklin,Georgia,"13119",285353,1
+2023,Gilmer,Georgia,"13123",262626,1
+2023,Gilmer,Georgia,"13123",181333,1
+2023,Gordon,Georgia,"13129",212121,1
+2023,Gordon,Georgia,"13129",898165,3
+2023,Gordon,Georgia,"13129",655554,3
+2023,Gordon,Georgia,"13129",276767,1
+2023,Gordon,Georgia,"13129",632221,3
+2023,Gordon,Georgia,"13129",166414,1
+2023,Gordon,Georgia,"13129",190909,1
+2023,Gordon,Georgia,"13129",281818,1
+2023,Gordon,Georgia,"13129",1075300,5
+2023,Gordon,Georgia,"13129",224747,1
+2023,Gordon,Georgia,"13129",280303,1
+2023,Gordon,Georgia,"13129",181818,1
+2023,Gordon,Georgia,"13129",397877,2
+2023,Gordon,Georgia,"13129",241414,1
+2023,Gordon,Georgia,"13129",375555,2
+2023,Gordon,Georgia,"13129",601009,2
+2023,Gordon,Georgia,"13129",121111,1
+2023,Gordon,Georgia,"13129",176262,1
+2023,Gordon,Georgia,"13129",214141,1
+2023,Gordon,Georgia,"13129",383737,2
+2023,Habersham,Georgia,"13137",469988,2
+2023,Habersham,Georgia,"13137",326868,1
+2023,Habersham,Georgia,"13137",404040,1
+2023,Habersham,Georgia,"13137",230303,1
+2023,Habersham,Georgia,"13137",294949,1
+2023,Habersham,Georgia,"13137",201515,1
+2023,Habersham,Georgia,"13137",633837,3
+2023,Habersham,Georgia,"13137",493938,2
+2023,Habersham,Georgia,"13137",292929,1
+2023,Habersham,Georgia,"13137",147474,1
+2023,Habersham,Georgia,"13137",207070,1
+2023,Habersham,Georgia,"13137",282171,1
+2023,Habersham,Georgia,"13137",422120,2
+2023,Hall,Georgia,"13139",271645,2
+2023,Hall,Georgia,"13139",346500,1
+2023,Hall,Georgia,"13139",313131,1
+2023,Hall,Georgia,"13139",237373,1
+2023,Hall,Georgia,"13139",343434,1
+2023,Hall,Georgia,"13139",297979,1
+2023,Hall,Georgia,"13139",283636,1
+2023,Haralson,Georgia,"13143",265000,1
+2023,Haralson,Georgia,"13143",267676,1
+2023,Haralson,Georgia,"13143",519090,2
+2023,Haralson,Georgia,"13143",529428,3
+2023,Haralson,Georgia,"13143",217171,1
+2023,Haralson,Georgia,"13143",1299756,6
+2023,Haralson,Georgia,"13143",237373,1
+2023,Haralson,Georgia,"13143",464646,2
+2023,Haralson,Georgia,"13143",193939,1
+2023,Haralson,Georgia,"13143",156565,1
+2023,Haralson,Georgia,"13143",160404,1
+2023,Haralson,Georgia,"13143",260202,1
+2023,Hart,Georgia,"13147",478636,2
+2023,Hart,Georgia,"13147",444847,3
+2023,Hart,Georgia,"13147",212121,1
+2023,Hart,Georgia,"13147",191919,1
+2023,Hart,Georgia,"13147",258585,1
+2023,Hart,Georgia,"13147",260817,2
+2023,Hart,Georgia,"13147",379090,2
+2023,Hart,Georgia,"13147",222222,1
+2023,Hart,Georgia,"13147",277777,1
+2023,Hart,Georgia,"13147",227272,1
+2023,Hart,Georgia,"13147",383837,2
+2023,Heard,Georgia,"13149",250000,1
+2023,Heard,Georgia,"13149",202020,1
+2023,Heard,Georgia,"13149",538383,2
+2023,Heard,Georgia,"13149",277777,1
+2023,Heard,Georgia,"13149",292929,1
+2023,Jackson,Georgia,"13157",637260,2
+2023,Jackson,Georgia,"13157",279058,1
+2023,Jackson,Georgia,"13157",605174,2
+2023,Jackson,Georgia,"13157",499999,2
+2023,Jackson,Georgia,"13157",239292,1
+2023,Jackson,Georgia,"13157",305959,1
+2023,Jackson,Georgia,"13157",270707,1
+2023,Jackson,Georgia,"13157",247474,1
+2023,Jackson,Georgia,"13157",248484,1
+2023,Jackson,Georgia,"13157",231313,1
+2023,Jackson,Georgia,"13157",169696,1
+2023,Jackson,Georgia,"13157",530302,2
+2023,Jackson,Georgia,"13157",779069,3
+2023,Jackson,Georgia,"13157",324732,1
+2023,Jackson,Georgia,"13157",279797,1
+2023,Jackson,Georgia,"13157",323232,1
+2023,Jackson,Georgia,"13157",227777,1
+2023,Jackson,Georgia,"13157",786868,3
+2023,Jackson,Georgia,"13157",383934,1
+2023,Lumpkin,Georgia,"13187",302020,1
+2023,Lumpkin,Georgia,"13187",272727,1
+2023,Lumpkin,Georgia,"13187",181818,1
+2023,Lumpkin,Georgia,"13187",320808,1
+2023,Lumpkin,Georgia,"13187",274141,1
+2023,Lumpkin,Georgia,"13187",335353,1
+2023,Madison,Georgia,"13195",282280,1
+2023,Madison,Georgia,"13195",169018,1
+2023,Madison,Georgia,"13195",280746,1
+2023,Madison,Georgia,"13195",138888,1
+2023,Madison,Georgia,"13195",222222,1
+2023,Madison,Georgia,"13195",535252,2
+2023,Madison,Georgia,"13195",277676,1
+2023,Madison,Georgia,"13195",128838,1
+2023,Madison,Georgia,"13195",570706,3
+2023,Madison,Georgia,"13195",186868,1
+2023,Madison,Georgia,"13195",270707,1
+2023,Madison,Georgia,"13195",262616,1
+2023,Madison,Georgia,"13195",776463,3
+2023,Murray,Georgia,"13213",151678,1
+2023,Murray,Georgia,"13213",181717,1
+2023,Murray,Georgia,"13213",249494,1
+2023,Murray,Georgia,"13213",455701,2
+2023,Murray,Georgia,"13213",258585,1
+2023,Murray,Georgia,"13213",191818,1
+2023,Murray,Georgia,"13213",483560,2
+2023,Murray,Georgia,"13213",201919,1
+2023,Murray,Georgia,"13213",206060,1
+2023,Murray,Georgia,"13213",459595,2
+2023,Murray,Georgia,"13213",192424,1
+2023,Murray,Georgia,"13213",67676,1
+2023,Murray,Georgia,"13213",186868,1
+2023,Paulding,Georgia,"13223",277777,1
+2023,Paulding,Georgia,"13223",237373,1
+2023,Paulding,Georgia,"13223",238383,1
+2023,Paulding,Georgia,"13223",293434,1
+2023,Paulding,Georgia,"13223",313121,1
+2023,Paulding,Georgia,"13223",242424,1
+2023,Paulding,Georgia,"13223",237373,1
+2023,Paulding,Georgia,"13223",242424,1
+2023,Paulding,Georgia,"13223",547372,2
+2023,Paulding,Georgia,"13223",553332,2
+2023,Paulding,Georgia,"13223",270707,1
+2023,Paulding,Georgia,"13223",255555,1
+2023,Pickens,Georgia,"13227",335550,1
+2023,Pickens,Georgia,"13227",285353,1
+2023,Pickens,Georgia,"13227",421717,1
+2023,Polk,Georgia,"13233",242977,1
+2023,Polk,Georgia,"13233",136271,1
+2023,Polk,Georgia,"13233",232771,1
+2023,Polk,Georgia,"13233",209090,1
+2023,Polk,Georgia,"13233",188888,1
+2023,Polk,Georgia,"13233",242323,1
+2023,Polk,Georgia,"13233",242424,1
+2023,Polk,Georgia,"13233",168484,1
+2023,Polk,Georgia,"13233",1783228,9
+2023,Polk,Georgia,"13233",179900,1
+2023,Polk,Georgia,"13233",1370098,7
+2023,Polk,Georgia,"13233",227272,1
+2023,Polk,Georgia,"13233",391818,2
+2023,Polk,Georgia,"13233",287878,1
+2023,Polk,Georgia,"13233",217171,1
+2023,Polk,Georgia,"13233",232323,1
+2023,Polk,Georgia,"13233",190909,1
+2023,Polk,Georgia,"13233",154545,1
+2023,Polk,Georgia,"13233",579776,3
+2023,Polk,Georgia,"13233",383837,2
+2023,Polk,Georgia,"13233",186868,1
+2023,Rabun,Georgia,"13241",322222,1
+2023,Rabun,Georgia,"13241",368686,1
+2023,Rabun,Georgia,"13241",148484,1
+2023,Stephens,Georgia,"13257",182626,1
+2023,Stephens,Georgia,"13257",251515,1
+2023,Stephens,Georgia,"13257",198698,1
+2023,Stephens,Georgia,"13257",153535,1
+2023,Stephens,Georgia,"13257",204040,1
+2023,Stephens,Georgia,"13257",198989,1
+2023,Stephens,Georgia,"13257",168686,1
+2023,Stephens,Georgia,"13257",159898,1
+2023,Stephens,Georgia,"13257",387878,2
+2023,Stephens,Georgia,"13257",191414,1
+2023,Stephens,Georgia,"13257",201010,1
+2023,Stephens,Georgia,"13257",217171,1
+2023,Stephens,Georgia,"13257",101010,1
+2023,Stephens,Georgia,"13257",345454,2
+2023,Stephens,Georgia,"13257",357574,2
+2023,Stephens,Georgia,"13257",656762,2
+2023,Towns,Georgia,"13281",227272,1
+2023,Towns,Georgia,"13281",169630,1
+2023,Union,Georgia,"13291",72351,1
+2023,Union,Georgia,"13291",217386,1
+2023,Union,Georgia,"13291",318181,1
+2023,Walker,Georgia,"13295",111389,1
+2023,Walker,Georgia,"13295",221100,1
+2023,Walker,Georgia,"13295",193000,1
+2023,Walker,Georgia,"13295",201010,1
+2023,Walker,Georgia,"13295",181818,1
+2023,Walker,Georgia,"13295",510605,3
+2023,Walker,Georgia,"13295",175000,1
+2023,Walker,Georgia,"13295",135858,1
+2023,Walker,Georgia,"13295",133838,1
+2023,Walker,Georgia,"13295",230303,1
+2023,Walker,Georgia,"13295",190333,1
+2023,Walker,Georgia,"13295",415049,2
+2023,Walker,Georgia,"13295",223232,1
+2023,Walker,Georgia,"13295",165656,1
+2023,Walker,Georgia,"13295",389898,2
+2023,Walker,Georgia,"13295",287877,2
+2023,Walker,Georgia,"13295",572725,3
+2023,Walker,Georgia,"13295",373736,2
+2023,Walker,Georgia,"13295",195454,1
+2023,Walker,Georgia,"13295",242323,1
+2023,Walker,Georgia,"13295",414141,2
+2023,Walker,Georgia,"13295",339898,1
+2023,Walker,Georgia,"13295",119191,1
+2023,Walker,Georgia,"13295",767119,4
+2023,White,Georgia,"13311",277777,1
+2023,White,Georgia,"13311",318181,1
+2023,White,Georgia,"13311",271212,1
+2023,White,Georgia,"13311",295000,1
+2023,White,Georgia,"13311",644318,3
+2023,White,Georgia,"13311",227272,1
+2023,Whitfield,Georgia,"13313",45487,1
+2023,Whitfield,Georgia,"13313",215538,1
+2023,Whitfield,Georgia,"13313",208080,1
+2023,Whitfield,Georgia,"13313",222121,1
+2023,Whitfield,Georgia,"13313",231212,1
+2023,Whitfield,Georgia,"13313",69191,1
+2023,Whitfield,Georgia,"13313",214141,1
+2023,Whitfield,Georgia,"13313",233838,1
+2023,Whitfield,Georgia,"13313",255555,1
+2023,Whitfield,Georgia,"13313",301010,1
+2023,Whitfield,Georgia,"13313",171717,1
+2023,Whitfield,Georgia,"13313",343423,2
+2023,Whitfield,Georgia,"13313",356464,2
+2023,Whitfield,Georgia,"13313",176767,1
+2023,Whitfield,Georgia,"13313",153535,1
+2023,Whitfield,Georgia,"13313",431312,2
+2023,Whitfield,Georgia,"13313",201919,1
+2023,Whitfield,Georgia,"13313",247777,1
+2023,Whitfield,Georgia,"13313",376767,2
+2023,Adair,Kentucky,"21001",205000,1
+2023,Adair,Kentucky,"21001",120202,1
+2023,Adair,Kentucky,"21001",111515,1
+2023,Adair,Kentucky,"21001",237292,1
+2023,Adair,Kentucky,"21001",185858,1
+2023,Adair,Kentucky,"21001",391413,4
+2023,Bath,Kentucky,"21011",180500,1
+2023,Bath,Kentucky,"21011",232700,1
+2023,Bath,Kentucky,"21011",294507,2
+2023,Bath,Kentucky,"21011",156287,1
+2023,Bath,Kentucky,"21011",235353,1
+2023,Bath,Kentucky,"21011",148989,1
+2023,Bath,Kentucky,"21011",151515,1
+2023,Bath,Kentucky,"21011",154545,1
+2023,Bell,Kentucky,"21013",75757,1
+2023,Bell,Kentucky,"21013",409955,3
+2023,Bell,Kentucky,"21013",144545,1
+2023,Bell,Kentucky,"21013",121212,1
+2023,Bell,Kentucky,"21013",144242,1
+2023,Bell,Kentucky,"21013",131313,1
+2023,Bell,Kentucky,"21013",95959,1
+2023,Bell,Kentucky,"21013",365151,2
+2023,Bell,Kentucky,"21013",226309,2
+2023,Bell,Kentucky,"21013",260100,2
+2023,Bell,Kentucky,"21013",158585,1
+2023,Bell,Kentucky,"21013",260807,2
+2023,Bell,Kentucky,"21013",171717,1
+2023,Boyd,Kentucky,"21019",167676,1
+2023,Boyd,Kentucky,"21019",530554,5
+2023,Boyd,Kentucky,"21019",333433,3
+2023,Boyd,Kentucky,"21019",108080,1
+2023,Boyd,Kentucky,"21019",494544,4
+2023,Boyd,Kentucky,"21019",128282,1
+2023,Boyd,Kentucky,"21019",89898,1
+2023,Boyd,Kentucky,"21019",116161,1
+2023,Breathitt,Kentucky,"21025",162053,2
+2023,Breathitt,Kentucky,"21025",177710,1
+2023,Carter,Kentucky,"21043",351514,2
+2023,Carter,Kentucky,"21043",665653,6
+2023,Carter,Kentucky,"21043",176767,1
+2023,Carter,Kentucky,"21043",146464,1
+2023,Carter,Kentucky,"21043",140404,1
+2023,Carter,Kentucky,"21043",275241,2
+2023,Carter,Kentucky,"21043",248636,2
+2023,Carter,Kentucky,"21043",209494,2
+2023,Carter,Kentucky,"21043",191919,1
+2023,Casey,Kentucky,"21045",126262,1
+2023,Casey,Kentucky,"21045",191414,1
+2023,Casey,Kentucky,"21045",186868,1
+2023,Clark,Kentucky,"21049",252525,1
+2023,Clay,Kentucky,"21051",91919,1
+2023,Clay,Kentucky,"21051",62186,1
+2023,Clay,Kentucky,"21051",310484,2
+2023,Clay,Kentucky,"21051",202020,1
+2023,Clay,Kentucky,"21051",460604,3
+2023,Clinton,Kentucky,"21053",167272,2
+2023,Clinton,Kentucky,"21053",93737,1
+2023,Clinton,Kentucky,"21053",134343,1
+2023,Cumberland,Kentucky,"21057",123737,1
+2023,Cumberland,Kentucky,"21057",145707,1
+2023,Edmonson,Kentucky,"21061",459393,2
+2023,Edmonson,Kentucky,"21061",95959,1
+2023,Edmonson,Kentucky,"21061",133900,1
+2023,Edmonson,Kentucky,"21061",206060,1
+2023,Edmonson,Kentucky,"21061",318181,2
+2023,Edmonson,Kentucky,"21061",272727,1
+2023,Edmonson,Kentucky,"21061",180808,1
+2023,Elliott,Kentucky,"21063",145454,1
+2023,Elliott,Kentucky,"21063",210000,1
+2023,Estill,Kentucky,"21065",168400,1
+2023,Estill,Kentucky,"21065",162000,1
+2023,Estill,Kentucky,"21065",80707,1
+2023,Estill,Kentucky,"21065",275252,2
+2023,Estill,Kentucky,"21065",284342,2
+2023,Estill,Kentucky,"21065",268282,2
+2023,Estill,Kentucky,"21065",144949,1
+2023,Estill,Kentucky,"21065",101010,1
+2023,Estill,Kentucky,"21065",267676,1
+2023,Estill,Kentucky,"21065",85858,1
+2023,Estill,Kentucky,"21065",183838,1
+2023,Estill,Kentucky,"21065",232323,1
+2023,Fleming,Kentucky,"21069",389700,2
+2023,Fleming,Kentucky,"21069",258484,1
+2023,Fleming,Kentucky,"21069",131313,1
+2023,Fleming,Kentucky,"21069",223231,2
+2023,Fleming,Kentucky,"21069",111111,1
+2023,Fleming,Kentucky,"21069",166565,1
+2023,Fleming,Kentucky,"21069",143420,1
+2023,Floyd,Kentucky,"21071",166666,1
+2023,Floyd,Kentucky,"21071",143434,1
+2023,Floyd,Kentucky,"21071",126262,1
+2023,Floyd,Kentucky,"21071",150338,1
+2023,Floyd,Kentucky,"21071",211515,1
+2023,Floyd,Kentucky,"21071",168686,1
+2023,Floyd,Kentucky,"21071",190909,1
+2023,Floyd,Kentucky,"21071",123484,1
+2023,Floyd,Kentucky,"21071",45858,1
+2023,Floyd,Kentucky,"21071",301615,2
+2023,Floyd,Kentucky,"21071",137373,1
+2023,Garrard,Kentucky,"21079",177900,1
+2023,Garrard,Kentucky,"21079",112000,1
+2023,Garrard,Kentucky,"21079",171717,1
+2023,Garrard,Kentucky,"21079",279797,1
+2023,Garrard,Kentucky,"21079",171717,1
+2023,Garrard,Kentucky,"21079",241414,1
+2023,Garrard,Kentucky,"21079",148484,1
+2023,Garrard,Kentucky,"21079",156565,1
+2023,Garrard,Kentucky,"21079",171717,1
+2023,Garrard,Kentucky,"21079",222222,1
+2023,Garrard,Kentucky,"21079",315807,2
+2023,Green,Kentucky,"21087",158500,1
+2023,Green,Kentucky,"21087",113600,1
+2023,Green,Kentucky,"21087",80808,1
+2023,Green,Kentucky,"21087",188787,2
+2023,Green,Kentucky,"21087",161616,1
+2023,Green,Kentucky,"21087",55555,1
+2023,Green,Kentucky,"21087",369796,3
+2023,Greenup,Kentucky,"21089",64775,1
+2023,Greenup,Kentucky,"21089",130000,1
+2023,Greenup,Kentucky,"21089",62734,1
+2023,Greenup,Kentucky,"21089",142464,1
+2023,Greenup,Kentucky,"21089",146464,1
+2023,Greenup,Kentucky,"21089",444949,3
+2023,Greenup,Kentucky,"21089",247979,2
+2023,Greenup,Kentucky,"21089",160606,1
+2023,Greenup,Kentucky,"21089",966966,8
+2023,Greenup,Kentucky,"21089",1149794,8
+2023,Greenup,Kentucky,"21089",192626,1
+2023,Greenup,Kentucky,"21089",385353,3
+2023,Greenup,Kentucky,"21089",248484,2
+2023,Greenup,Kentucky,"21089",141414,1
+2023,Greenup,Kentucky,"21089",647472,5
+2023,Greenup,Kentucky,"21089",116161,1
+2023,Greenup,Kentucky,"21089",489023,4
+2023,Greenup,Kentucky,"21089",153535,1
+2023,Greenup,Kentucky,"21089",120707,1
+2023,Harlan,Kentucky,"21095",6000,1
+2023,Harlan,Kentucky,"21095",98000,1
+2023,Harlan,Kentucky,"21095",155555,1
+2023,Harlan,Kentucky,"21095",302019,2
+2023,Harlan,Kentucky,"21095",169191,2
+2023,Harlan,Kentucky,"21095",256537,3
+2023,Harlan,Kentucky,"21095",76515,1
+2023,Harlan,Kentucky,"21095",121111,1
+2023,Harlan,Kentucky,"21095",88585,2
+2023,Hart,Kentucky,"21099",108430,1
+2023,Hart,Kentucky,"21099",185858,1
+2023,Hart,Kentucky,"21099",186868,1
+2023,Hart,Kentucky,"21099",142626,1
+2023,Hart,Kentucky,"21099",326766,2
+2023,Hart,Kentucky,"21099",272626,2
+2023,Hart,Kentucky,"21099",169191,1
+2023,Jackson,Kentucky,"21109",137750,1
+2023,Jackson,Kentucky,"21109",316161,2
+2023,Jackson,Kentucky,"21109",116161,1
+2023,Jackson,Kentucky,"21109",143896,1
+2023,Jackson,Kentucky,"21109",207070,2
+2023,Johnson,Kentucky,"21115",90909,1
+2023,Johnson,Kentucky,"21115",187272,2
+2023,Johnson,Kentucky,"21115",170202,1
+2023,Johnson,Kentucky,"21115",247272,2
+2023,Johnson,Kentucky,"21115",158080,1
+2023,Johnson,Kentucky,"21115",119065,1
+2023,Johnson,Kentucky,"21115",213332,2
+2023,Johnson,Kentucky,"21115",115656,1
+2023,Knott,Kentucky,"21119",62500,1
+2023,Knott,Kentucky,"21119",90453,1
+2023,Knott,Kentucky,"21119",105200,1
+2023,Knott,Kentucky,"21119",49430,1
+2023,Knott,Kentucky,"21119",169191,1
+2023,Knott,Kentucky,"21119",124747,1
+2023,Knott,Kentucky,"21119",149353,1
+2023,Knox,Kentucky,"21121",120000,1
+2023,Knox,Kentucky,"21121",445049,3
+2023,Knox,Kentucky,"21121",227777,1
+2023,Knox,Kentucky,"21121",166161,1
+2023,Knox,Kentucky,"21121",118080,1
+2023,Knox,Kentucky,"21121",146464,1
+2023,Knox,Kentucky,"21121",131313,1
+2023,Knox,Kentucky,"21121",186767,1
+2023,Knox,Kentucky,"21121",311247,2
+2023,Knox,Kentucky,"21121",291160,2
+2023,Knox,Kentucky,"21121",521210,4
+2023,Knox,Kentucky,"21121",259292,2
+2023,Knox,Kentucky,"21121",696968,4
+2023,Laurel,Kentucky,"21125",173225,2
+2023,Laurel,Kentucky,"21125",215000,1
+2023,Laurel,Kentucky,"21125",771448,3
+2023,Laurel,Kentucky,"21125",831600,4
+2023,Laurel,Kentucky,"21125",156000,1
+2023,Laurel,Kentucky,"21125",219500,1
+2023,Laurel,Kentucky,"21125",163636,1
+2023,Laurel,Kentucky,"21125",968200,6
+2023,Laurel,Kentucky,"21125",170707,1
+2023,Laurel,Kentucky,"21125",348484,2
+2023,Laurel,Kentucky,"21125",473232,2
+2023,Laurel,Kentucky,"21125",94949,1
+2023,Laurel,Kentucky,"21125",131313,1
+2023,Laurel,Kentucky,"21125",492928,3
+2023,Laurel,Kentucky,"21125",1094443,6
+2023,Laurel,Kentucky,"21125",1580093,8
+2023,Laurel,Kentucky,"21125",186868,1
+2023,Laurel,Kentucky,"21125",151818,1
+2023,Laurel,Kentucky,"21125",488888,4
+2023,Laurel,Kentucky,"21125",550504,2
+2023,Laurel,Kentucky,"21125",1489390,8
+2023,Lawrence,Kentucky,"21127",146464,1
+2023,Lawrence,Kentucky,"21127",219191,1
+2023,Lawrence,Kentucky,"21127",242525,2
+2023,Lawrence,Kentucky,"21127",125252,1
+2023,Lee,Kentucky,"21129",130000,1
+2023,Lee,Kentucky,"21129",136363,1
+2023,Leslie,Kentucky,"21131",87121,1
+2023,Leslie,Kentucky,"21131",268181,2
+2023,Leslie,Kentucky,"21131",135858,2
+2023,Letcher,Kentucky,"21133",12378,1
+2023,Letcher,Kentucky,"21133",124242,1
+2023,Letcher,Kentucky,"21133",127272,1
+2023,Letcher,Kentucky,"21133",78787,1
+2023,Lewis,Kentucky,"21135",169000,1
+2023,Lewis,Kentucky,"21135",90000,1
+2023,Lewis,Kentucky,"21135",191919,1
+2023,Lewis,Kentucky,"21135",150505,1
+2023,Lewis,Kentucky,"21135",131313,1
+2023,Lewis,Kentucky,"21135",71212,1
+2023,Lewis,Kentucky,"21135",110909,1
+2023,Lewis,Kentucky,"21135",124242,1
+2023,Lewis,Kentucky,"21135",176767,1
+2023,Lincoln,Kentucky,"21137",125551,1
+2023,Lincoln,Kentucky,"21137",101010,1
+2023,Lincoln,Kentucky,"21137",176767,1
+2023,Lincoln,Kentucky,"21137",539393,3
+2023,Lincoln,Kentucky,"21137",313282,2
+2023,Lincoln,Kentucky,"21137",376767,2
+2023,Lincoln,Kentucky,"21137",217171,1
+2023,Lincoln,Kentucky,"21137",177777,1
+2023,Lincoln,Kentucky,"21137",148989,1
+2023,Lincoln,Kentucky,"21137",65656,1
+2023,Lincoln,Kentucky,"21137",967674,6
+2023,Lincoln,Kentucky,"21137",205049,2
+2023,Lincoln,Kentucky,"21137",160606,1
+2023,Madison,Kentucky,"21151",750000,3
+2023,Madison,Kentucky,"21151",1019539,4
+2023,Madison,Kentucky,"21151",410455,2
+2023,Madison,Kentucky,"21151",267575,1
+2023,Madison,Kentucky,"21151",222222,1
+2023,Madison,Kentucky,"21151",131212,1
+2023,Madison,Kentucky,"21151",721918,4
+2023,Madison,Kentucky,"21151",548484,3
+2023,Madison,Kentucky,"21151",287878,1
+2023,Madison,Kentucky,"21151",977270,5
+2023,Madison,Kentucky,"21151",234343,1
+2023,Madison,Kentucky,"21151",153535,1
+2023,Madison,Kentucky,"21151",124242,1
+2023,Madison,Kentucky,"21151",169696,1
+2023,Madison,Kentucky,"21151",773128,5
+2023,Madison,Kentucky,"21151",197878,1
+2023,Madison,Kentucky,"21151",285858,1
+2023,Madison,Kentucky,"21151",302929,1
+2023,Magoffin,Kentucky,"21153",69800,1
+2023,Magoffin,Kentucky,"21153",159595,1
+2023,Martin,Kentucky,"21159",90358,1
+2023,Martin,Kentucky,"21159",118257,1
+2023,Martin,Kentucky,"21159",60606,1
+2023,Martin,Kentucky,"21159",87121,1
+2023,McCreary,Kentucky,"21147",160230,1
+2023,McCreary,Kentucky,"21147",83050,1
+2023,McCreary,Kentucky,"21147",138000,1
+2023,McCreary,Kentucky,"21147",129500,1
+2023,McCreary,Kentucky,"21147",82323,1
+2023,McCreary,Kentucky,"21147",113333,1
+2023,McCreary,Kentucky,"21147",426261,3
+2023,McCreary,Kentucky,"21147",134848,1
+2023,McCreary,Kentucky,"21147",146464,1
+2023,McCreary,Kentucky,"21147",87260,1
+2023,McCreary,Kentucky,"21147",473836,3
+2023,McCreary,Kentucky,"21147",144949,1
+2023,McCreary,Kentucky,"21147",80303,1
+2023,McCreary,Kentucky,"21147",140404,1
+2023,Menifee,Kentucky,"21165",122447,1
+2023,Menifee,Kentucky,"21165",260857,3
+2023,Metcalfe,Kentucky,"21169",140000,1
+2023,Metcalfe,Kentucky,"21169",210101,1
+2023,Monroe,Kentucky,"21171",117171,1
+2023,Monroe,Kentucky,"21171",120454,1
+2023,Monroe,Kentucky,"21171",114141,1
+2023,Monroe,Kentucky,"21171",121212,1
+2023,Montgomery,Kentucky,"21173",195000,1
+2023,Montgomery,Kentucky,"21173",221774,1
+2023,Montgomery,Kentucky,"21173",436068,2
+2023,Montgomery,Kentucky,"21173",217912,1
+2023,Montgomery,Kentucky,"21173",190909,1
+2023,Montgomery,Kentucky,"21173",181818,1
+2023,Montgomery,Kentucky,"21173",166666,1
+2023,Montgomery,Kentucky,"21173",123838,1
+2023,Montgomery,Kentucky,"21173",215151,1
+2023,Montgomery,Kentucky,"21173",521210,3
+2023,Montgomery,Kentucky,"21173",434342,2
+2023,Montgomery,Kentucky,"21173",184848,1
+2023,Montgomery,Kentucky,"21173",856967,4
+2023,Montgomery,Kentucky,"21173",171717,1
+2023,Montgomery,Kentucky,"21173",142323,1
+2023,Montgomery,Kentucky,"21173",166363,1
+2023,Montgomery,Kentucky,"21173",343434,2
+2023,Montgomery,Kentucky,"21173",179797,1
+2023,Montgomery,Kentucky,"21173",187373,1
+2023,Montgomery,Kentucky,"21173",939806,5
+2023,Montgomery,Kentucky,"21173",181717,1
+2023,Morgan,Kentucky,"21175",185000,1
+2023,Morgan,Kentucky,"21175",148787,1
+2023,Nicholas,Kentucky,"21181",163000,1
+2023,Nicholas,Kentucky,"21181",163636,1
+2023,Nicholas,Kentucky,"21181",186363,1
+2023,Nicholas,Kentucky,"21181",281312,2
+2023,Owsley,Kentucky,"21189",146666,1
+2023,Perry,Kentucky,"21193",151000,1
+2023,Perry,Kentucky,"21193",169300,2
+2023,Perry,Kentucky,"21193",150000,1
+2023,Perry,Kentucky,"21193",612256,6
+2023,Perry,Kentucky,"21193",257979,1
+2023,Perry,Kentucky,"21193",94444,1
+2023,Perry,Kentucky,"21193",108979,1
+2023,Perry,Kentucky,"21193",206867,2
+2023,Perry,Kentucky,"21193",85858,1
+2023,Perry,Kentucky,"21193",124242,1
+2023,Pike,Kentucky,"21195",180000,1
+2023,Pike,Kentucky,"21195",199340,1
+2023,Pike,Kentucky,"21195",135353,1
+2023,Pike,Kentucky,"21195",52020,1
+2023,Pike,Kentucky,"21195",505958,5
+2023,Pike,Kentucky,"21195",114646,1
+2023,Pike,Kentucky,"21195",160756,3
+2023,Powell,Kentucky,"21197",173838,1
+2023,Powell,Kentucky,"21197",221212,1
+2023,Powell,Kentucky,"21197",150505,1
+2023,Powell,Kentucky,"21197",74747,1
+2023,Powell,Kentucky,"21197",175000,1
+2023,Powell,Kentucky,"21197",66064,1
+2023,Pulaski,Kentucky,"21199",169900,1
+2023,Pulaski,Kentucky,"21199",159900,1
+2023,Pulaski,Kentucky,"21199",186807,1
+2023,Pulaski,Kentucky,"21199",173200,1
+2023,Pulaski,Kentucky,"21199",352427,2
+2023,Pulaski,Kentucky,"21199",101010,1
+2023,Pulaski,Kentucky,"21199",196969,1
+2023,Pulaski,Kentucky,"21199",584544,3
+2023,Pulaski,Kentucky,"21199",198989,1
+2023,Pulaski,Kentucky,"21199",151515,1
+2023,Pulaski,Kentucky,"21199",187873,1
+2023,Pulaski,Kentucky,"21199",322726,3
+2023,Pulaski,Kentucky,"21199",255555,1
+2023,Pulaski,Kentucky,"21199",168888,1
+2023,Pulaski,Kentucky,"21199",88383,1
+2023,Pulaski,Kentucky,"21199",491260,4
+2023,Pulaski,Kentucky,"21199",222222,1
+2023,Pulaski,Kentucky,"21199",438383,3
+2023,Pulaski,Kentucky,"21199",619897,4
+2023,Pulaski,Kentucky,"21199",209090,1
+2023,Pulaski,Kentucky,"21199",200000,1
+2023,Pulaski,Kentucky,"21199",70707,1
+2023,Pulaski,Kentucky,"21199",325757,1
+2023,Pulaski,Kentucky,"21199",444847,3
+2023,Pulaski,Kentucky,"21199",126262,1
+2023,Pulaski,Kentucky,"21199",451008,3
+2023,Pulaski,Kentucky,"21199",151010,1
+2023,Pulaski,Kentucky,"21199",167171,1
+2023,Pulaski,Kentucky,"21199",337877,2
+2023,Rockcastle,Kentucky,"21203",237964,2
+2023,Rockcastle,Kentucky,"21203",151670,1
+2023,Rockcastle,Kentucky,"21203",186500,1
+2023,Rockcastle,Kentucky,"21203",158000,1
+2023,Rockcastle,Kentucky,"21203",198989,1
+2023,Rockcastle,Kentucky,"21203",259191,2
+2023,Rockcastle,Kentucky,"21203",161616,1
+2023,Rockcastle,Kentucky,"21203",93131,1
+2023,Rockcastle,Kentucky,"21203",598070,5
+2023,Rockcastle,Kentucky,"21203",364645,2
+2023,Rockcastle,Kentucky,"21203",181818,1
+2023,Rockcastle,Kentucky,"21203",145454,1
+2023,Rockcastle,Kentucky,"21203",141313,1
+2023,Rockcastle,Kentucky,"21203",362626,2
+2023,Rockcastle,Kentucky,"21203",141313,1
+2023,Rockcastle,Kentucky,"21203",214242,1
+2023,Rockcastle,Kentucky,"21203",330808,1
+2023,Rowan,Kentucky,"21205",337983,2
+2023,Rowan,Kentucky,"21205",147950,1
+2023,Rowan,Kentucky,"21205",369432,2
+2023,Rowan,Kentucky,"21205",141388,1
+2023,Rowan,Kentucky,"21205",91497,1
+2023,Rowan,Kentucky,"21205",139393,1
+2023,Rowan,Kentucky,"21205",121111,1
+2023,Rowan,Kentucky,"21205",236363,1
+2023,Rowan,Kentucky,"21205",227171,1
+2023,Rowan,Kentucky,"21205",160606,1
+2023,Rowan,Kentucky,"21205",176767,1
+2023,Russell,Kentucky,"21207",71500,1
+2023,Russell,Kentucky,"21207",88257,1
+2023,Russell,Kentucky,"21207",207070,1
+2023,Russell,Kentucky,"21207",136363,1
+2023,Russell,Kentucky,"21207",340403,2
+2023,Russell,Kentucky,"21207",227222,1
+2023,Russell,Kentucky,"21207",166666,1
+2023,Russell,Kentucky,"21207",101010,1
+2023,Russell,Kentucky,"21207",219696,1
+2023,Russell,Kentucky,"21207",121212,1
+2023,Wayne,Kentucky,"21231",276700,2
+2023,Wayne,Kentucky,"21231",189100,1
+2023,Wayne,Kentucky,"21231",358000,2
+2023,Wayne,Kentucky,"21231",172400,1
+2023,Wayne,Kentucky,"21231",139393,1
+2023,Wayne,Kentucky,"21231",90404,1
+2023,Wayne,Kentucky,"21231",197712,1
+2023,Wayne,Kentucky,"21231",267878,2
+2023,Wayne,Kentucky,"21231",279797,2
+2023,Wayne,Kentucky,"21231",277777,2
+2023,Whitley,Kentucky,"21235",92500,1
+2023,Whitley,Kentucky,"21235",596261,4
+2023,Whitley,Kentucky,"21235",221212,1
+2023,Whitley,Kentucky,"21235",85858,1
+2023,Whitley,Kentucky,"21235",111161,1
+2023,Whitley,Kentucky,"21235",215150,2
+2023,Whitley,Kentucky,"21235",350252,2
+2023,Whitley,Kentucky,"21235",75757,1
+2023,Whitley,Kentucky,"21235",179292,1
+2023,Whitley,Kentucky,"21235",632302,4
+2023,Whitley,Kentucky,"21235",245454,1
+2023,Whitley,Kentucky,"21235",272626,2
+2023,Whitley,Kentucky,"21235",944005,6
+2023,Whitley,Kentucky,"21235",197171,1
+2023,Whitley,Kentucky,"21235",1806055,10
+2023,Allegany,Maryland,"24001",1694083,16
+2023,Allegany,Maryland,"24001",1214138,8
+2023,Allegany,Maryland,"24001",297095,2
+2023,Allegany,Maryland,"24001",482422,4
+2023,Allegany,Maryland,"24001",139393,1
+2023,Allegany,Maryland,"24001",161616,1
+2023,Allegany,Maryland,"24001",871240,7
+2023,Allegany,Maryland,"24001",179292,1
+2023,Allegany,Maryland,"24001",242120,2
+2023,Allegany,Maryland,"24001",144443,2
+2023,Allegany,Maryland,"24001",175757,1
+2023,Allegany,Maryland,"24001",202424,1
+2023,Allegany,Maryland,"24001",83838,1
+2023,Allegany,Maryland,"24001",137780,1
+2023,Allegany,Maryland,"24001",87373,1
+2023,Allegany,Maryland,"24001",166666,1
+2023,Allegany,Maryland,"24001",100909,1
+2023,Allegany,Maryland,"24001",500844,4
+2023,Allegany,Maryland,"24001",128282,1
+2023,Allegany,Maryland,"24001",287878,1
+2023,Allegany,Maryland,"24001",201919,1
+2023,Allegany,Maryland,"24001",171717,1
+2023,Garrett,Maryland,"24023",223737,1
+2023,Garrett,Maryland,"24023",171717,1
+2023,Garrett,Maryland,"24023",1211514,7
+2023,Garrett,Maryland,"24023",323231,2
+2023,Garrett,Maryland,"24023",892423,3
+2023,Washington,Maryland,"24043",220000,1
+2023,Washington,Maryland,"24043",630469,3
+2023,Washington,Maryland,"24043",176767,1
+2023,Washington,Maryland,"24043",287878,1
+2023,Washington,Maryland,"24043",212020,1
+2023,Washington,Maryland,"24043",627777,2
+2023,Washington,Maryland,"24043",303030,1
+2023,Washington,Maryland,"24043",290404,1
+2023,Washington,Maryland,"24043",643433,3
+2023,Washington,Maryland,"24043",241287,2
+2023,Washington,Maryland,"24043",170707,1
+2023,Washington,Maryland,"24043",205050,1
+2023,Washington,Maryland,"24043",540352,2
+2023,Washington,Maryland,"24043",597978,2
+2023,Washington,Maryland,"24043",176767,1
+2023,Washington,Maryland,"24043",161616,1
+2023,Alcorn,Mississippi,"28003",180707,1
+2023,Alcorn,Mississippi,"28003",436665,3
+2023,Alcorn,Mississippi,"28003",181818,1
+2023,Alcorn,Mississippi,"28003",202020,1
+2023,Alcorn,Mississippi,"28003",324868,3
+2023,Alcorn,Mississippi,"28003",424846,4
+2023,Alcorn,Mississippi,"28003",125252,1
+2023,Alcorn,Mississippi,"28003",784342,5
+2023,Alcorn,Mississippi,"28003",140909,1
+2023,Alcorn,Mississippi,"28003",73737,1
+2023,Alcorn,Mississippi,"28003",324140,2
+2023,Alcorn,Mississippi,"28003",130202,1
+2023,Alcorn,Mississippi,"28003",88888,1
+2023,Alcorn,Mississippi,"28003",324671,2
+2023,Alcorn,Mississippi,"28003",212121,1
+2023,Alcorn,Mississippi,"28003",119191,1
+2023,Alcorn,Mississippi,"28003",358099,3
+2023,Benton,Mississippi,"28009",111111,1
+2023,Benton,Mississippi,"28009",146464,1
+2023,Benton,Mississippi,"28009",337373,2
+2023,Benton,Mississippi,"28009",143434,1
+2023,Calhoun,Mississippi,"28013",151515,1
+2023,Calhoun,Mississippi,"28013",206565,1
+2023,Calhoun,Mississippi,"28013",99494,1
+2023,Calhoun,Mississippi,"28013",120303,1
+2023,Calhoun,Mississippi,"28013",101010,1
+2023,Calhoun,Mississippi,"28013",370100,3
+2023,Calhoun,Mississippi,"28013",91818,1
+2023,Calhoun,Mississippi,"28013",60404,1
+2023,Calhoun,Mississippi,"28013",80808,1
+2023,Chickasaw,Mississippi,"28017",116730,1
+2023,Chickasaw,Mississippi,"28017",423939,3
+2023,Chickasaw,Mississippi,"28017",181818,1
+2023,Chickasaw,Mississippi,"28017",153535,1
+2023,Chickasaw,Mississippi,"28017",60101,1
+2023,Chickasaw,Mississippi,"28017",154545,1
+2023,Chickasaw,Mississippi,"28017",136363,1
+2023,Choctaw,Mississippi,"28019",121212,1
+2023,Choctaw,Mississippi,"28019",68686,1
+2023,Choctaw,Mississippi,"28019",216988,2
+2023,Choctaw,Mississippi,"28019",76969,1
+2023,Choctaw,Mississippi,"28019",187878,1
+2023,Choctaw,Mississippi,"28019",164626,1
+2023,Clay,Mississippi,"28025",10320,1
+2023,Clay,Mississippi,"28025",234190,2
+2023,Clay,Mississippi,"28025",162000,1
+2023,Clay,Mississippi,"28025",198323,1
+2023,Clay,Mississippi,"28025",163000,1
+2023,Clay,Mississippi,"28025",288360,3
+2023,Clay,Mississippi,"28025",8300,1
+2023,Clay,Mississippi,"28025",167000,1
+2023,Clay,Mississippi,"28025",151515,1
+2023,Clay,Mississippi,"28025",128282,1
+2023,Clay,Mississippi,"28025",67171,1
+2023,Clay,Mississippi,"28025",352322,3
+2023,Clay,Mississippi,"28025",136363,1
+2023,Itawamba,Mississippi,"28057",109292,1
+2023,Itawamba,Mississippi,"28057",433686,3
+2023,Itawamba,Mississippi,"28057",290908,2
+2023,Itawamba,Mississippi,"28057",159595,1
+2023,Itawamba,Mississippi,"28057",166666,1
+2023,Itawamba,Mississippi,"28057",847983,6
+2023,Itawamba,Mississippi,"28057",715149,5
+2023,Itawamba,Mississippi,"28057",121212,1
+2023,Itawamba,Mississippi,"28057",481817,3
+2023,Itawamba,Mississippi,"28057",147979,1
+2023,Itawamba,Mississippi,"28057",125252,1
+2023,Itawamba,Mississippi,"28057",620200,4
+2023,Itawamba,Mississippi,"28057",61414,1
+2023,Itawamba,Mississippi,"28057",226262,1
+2023,Kemper,Mississippi,"28069",93939,1
+2023,Lee,Mississippi,"28081",161611,1
+2023,Lee,Mississippi,"28081",134900,1
+2023,Lee,Mississippi,"28081",272539,1
+2023,Lee,Mississippi,"28081",217171,1
+2023,Lee,Mississippi,"28081",656261,3
+2023,Lee,Mississippi,"28081",247474,1
+2023,Lee,Mississippi,"28081",217171,1
+2023,Lee,Mississippi,"28081",415289,3
+2023,Lee,Mississippi,"28081",688685,4
+2023,Lee,Mississippi,"28081",97933,1
+2023,Lee,Mississippi,"28081",1528734,9
+2023,Lee,Mississippi,"28081",528282,2
+2023,Lee,Mississippi,"28081",191919,1
+2023,Lee,Mississippi,"28081",604036,3
+2023,Lee,Mississippi,"28081",579696,3
+2023,Lee,Mississippi,"28081",582321,4
+2023,Lee,Mississippi,"28081",138383,1
+2023,Lowndes,Mississippi,"28087",460200,2
+2023,Lowndes,Mississippi,"28087",86859,1
+2023,Lowndes,Mississippi,"28087",27756,1
+2023,Lowndes,Mississippi,"28087",433730,2
+2023,Lowndes,Mississippi,"28087",178000,1
+2023,Lowndes,Mississippi,"28087",572500,2
+2023,Lowndes,Mississippi,"28087",401500,2
+2023,Lowndes,Mississippi,"28087",662625,4
+2023,Lowndes,Mississippi,"28087",1401206,8
+2023,Lowndes,Mississippi,"28087",136363,1
+2023,Lowndes,Mississippi,"28087",939795,7
+2023,Lowndes,Mississippi,"28087",3288375,17
+2023,Lowndes,Mississippi,"28087",507069,4
+2023,Lowndes,Mississippi,"28087",125251,2
+2023,Lowndes,Mississippi,"28087",477270,4
+2023,Lowndes,Mississippi,"28087",202020,1
+2023,Lowndes,Mississippi,"28087",186060,1
+2023,Lowndes,Mississippi,"28087",1622585,10
+2023,Lowndes,Mississippi,"28087",161616,1
+2023,Lowndes,Mississippi,"28087",113636,1
+2023,Lowndes,Mississippi,"28087",146464,1
+2023,Lowndes,Mississippi,"28087",323130,2
+2023,Lowndes,Mississippi,"28087",164646,1
+2023,Marshall,Mississippi,"28093",310381,1
+2023,Marshall,Mississippi,"28093",235909,1
+2023,Marshall,Mississippi,"28093",252424,1
+2023,Marshall,Mississippi,"28093",166666,1
+2023,Marshall,Mississippi,"28093",337373,1
+2023,Marshall,Mississippi,"28093",457479,2
+2023,Marshall,Mississippi,"28093",254545,1
+2023,Marshall,Mississippi,"28093",316151,1
+2023,Marshall,Mississippi,"28093",671210,3
+2023,Marshall,Mississippi,"28093",237373,1
+2023,Marshall,Mississippi,"28093",197474,1
+2023,Marshall,Mississippi,"28093",200990,1
+2023,Marshall,Mississippi,"28093",156565,1
+2023,Marshall,Mississippi,"28093",198989,1
+2023,Marshall,Mississippi,"28093",353535,2
+2023,Monroe,Mississippi,"28095",160416,1
+2023,Monroe,Mississippi,"28095",73131,1
+2023,Monroe,Mississippi,"28095",259494,1
+2023,Monroe,Mississippi,"28095",106060,1
+2023,Monroe,Mississippi,"28095",64242,1
+2023,Monroe,Mississippi,"28095",118768,1
+2023,Monroe,Mississippi,"28095",158585,1
+2023,Monroe,Mississippi,"28095",717878,4
+2023,Monroe,Mississippi,"28095",101010,1
+2023,Monroe,Mississippi,"28095",111010,1
+2023,Monroe,Mississippi,"28095",366362,4
+2023,Monroe,Mississippi,"28095",1170798,11
+2023,Montgomery,Mississippi,"28097",84681,1
+2023,Montgomery,Mississippi,"28097",58000,1
+2023,Montgomery,Mississippi,"28097",131313,1
+2023,Montgomery,Mississippi,"28097",122020,1
+2023,Montgomery,Mississippi,"28097",220201,2
+2023,Montgomery,Mississippi,"28097",121212,1
+2023,Montgomery,Mississippi,"28097",101010,1
+2023,Noxubee,Mississippi,"28103",39128,1
+2023,Noxubee,Mississippi,"28103",227103,1
+2023,Noxubee,Mississippi,"28103",131313,1
+2023,Oktibbeha,Mississippi,"28105",240000,1
+2023,Oktibbeha,Mississippi,"28105",215484,1
+2023,Oktibbeha,Mississippi,"28105",130303,1
+2023,Oktibbeha,Mississippi,"28105",191314,1
+2023,Oktibbeha,Mississippi,"28105",281291,1
+2023,Oktibbeha,Mississippi,"28105",216000,1
+2023,Oktibbeha,Mississippi,"28105",180000,1
+2023,Oktibbeha,Mississippi,"28105",191835,1
+2023,Oktibbeha,Mississippi,"28105",247474,1
+2023,Oktibbeha,Mississippi,"28105",190184,1
+2023,Oktibbeha,Mississippi,"28105",176767,1
+2023,Oktibbeha,Mississippi,"28105",533231,3
+2023,Oktibbeha,Mississippi,"28105",501515,2
+2023,Oktibbeha,Mississippi,"28105",348484,2
+2023,Panola,Mississippi,"28107",527151,3
+2023,Panola,Mississippi,"28107",150000,1
+2023,Panola,Mississippi,"28107",124975,1
+2023,Panola,Mississippi,"28107",1126726,5
+2023,Panola,Mississippi,"28107",176000,1
+2023,Panola,Mississippi,"28107",202020,1
+2023,Panola,Mississippi,"28107",124242,1
+2023,Panola,Mississippi,"28107",231312,2
+2023,Panola,Mississippi,"28107",528282,2
+2023,Panola,Mississippi,"28107",487737,3
+2023,Panola,Mississippi,"28107",339393,2
+2023,Panola,Mississippi,"28107",176666,1
+2023,Panola,Mississippi,"28107",575757,3
+2023,Panola,Mississippi,"28107",176767,1
+2023,Panola,Mississippi,"28107",166666,1
+2023,Panola,Mississippi,"28107",131313,1
+2023,Pontotoc,Mississippi,"28115",117171,1
+2023,Pontotoc,Mississippi,"28115",1818731,10
+2023,Pontotoc,Mississippi,"28115",378787,2
+2023,Pontotoc,Mississippi,"28115",594646,3
+2023,Pontotoc,Mississippi,"28115",294443,2
+2023,Pontotoc,Mississippi,"28115",196969,1
+2023,Pontotoc,Mississippi,"28115",105050,1
+2023,Pontotoc,Mississippi,"28115",232323,1
+2023,Pontotoc,Mississippi,"28115",171717,1
+2023,Pontotoc,Mississippi,"28115",146464,1
+2023,Prentiss,Mississippi,"28117",89900,1
+2023,Prentiss,Mississippi,"28117",80707,1
+2023,Prentiss,Mississippi,"28117",101010,1
+2023,Prentiss,Mississippi,"28117",143939,1
+2023,Prentiss,Mississippi,"28117",216362,2
+2023,Prentiss,Mississippi,"28117",170706,2
+2023,Prentiss,Mississippi,"28117",222878,1
+2023,Prentiss,Mississippi,"28117",508584,4
+2023,Prentiss,Mississippi,"28117",75757,1
+2023,Prentiss,Mississippi,"28117",445453,3
+2023,Prentiss,Mississippi,"28117",148484,1
+2023,Prentiss,Mississippi,"28117",117171,1
+2023,Prentiss,Mississippi,"28117",95959,1
+2023,Prentiss,Mississippi,"28117",403534,3
+2023,Tippah,Mississippi,"28139",130909,1
+2023,Tippah,Mississippi,"28139",141414,1
+2023,Tippah,Mississippi,"28139",411109,3
+2023,Tippah,Mississippi,"28139",489898,3
+2023,Tippah,Mississippi,"28139",179797,1
+2023,Tippah,Mississippi,"28139",391918,2
+2023,Tippah,Mississippi,"28139",405554,3
+2023,Tippah,Mississippi,"28139",672219,4
+2023,Tishomingo,Mississippi,"28141",155000,1
+2023,Tishomingo,Mississippi,"28141",138888,1
+2023,Tishomingo,Mississippi,"28141",397365,3
+2023,Tishomingo,Mississippi,"28141",530302,3
+2023,Tishomingo,Mississippi,"28141",149494,1
+2023,Tishomingo,Mississippi,"28141",151515,1
+2023,Tishomingo,Mississippi,"28141",349898,3
+2023,Tishomingo,Mississippi,"28141",158585,1
+2023,Tishomingo,Mississippi,"28141",99239,1
+2023,Tishomingo,Mississippi,"28141",296464,3
+2023,Tishomingo,Mississippi,"28141",764393,5
+2023,Union,Mississippi,"28145",239900,1
+2023,Union,Mississippi,"28145",232587,1
+2023,Union,Mississippi,"28145",287373,2
+2023,Union,Mississippi,"28145",275756,2
+2023,Union,Mississippi,"28145",251515,2
+2023,Union,Mississippi,"28145",287878,1
+2023,Union,Mississippi,"28145",111111,1
+2023,Union,Mississippi,"28145",1213128,7
+2023,Union,Mississippi,"28145",410504,3
+2023,Union,Mississippi,"28145",182828,1
+2023,Union,Mississippi,"28145",181818,1
+2023,Union,Mississippi,"28145",476261,3
+2023,Union,Mississippi,"28145",297474,2
+2023,Webster,Mississippi,"28155",192000,1
+2023,Webster,Mississippi,"28155",860098,5
+2023,Webster,Mississippi,"28155",184848,1
+2023,Webster,Mississippi,"28155",208181,2
+2023,Webster,Mississippi,"28155",240303,1
+2023,Winston,Mississippi,"28159",276767,2
+2023,Winston,Mississippi,"28159",121212,1
+2023,Winston,Mississippi,"28159",191818,2
+2023,Winston,Mississippi,"28159",75757,1
+2023,Winston,Mississippi,"28159",89898,1
+2023,Winston,Mississippi,"28159",90909,1
+2023,Yalobusha,Mississippi,"28161",240300,2
+2023,Yalobusha,Mississippi,"28161",112121,1
+2023,Yalobusha,Mississippi,"28161",69595,1
+2023,Yalobusha,Mississippi,"28161",195958,2
+2023,Allegany,New York,"36003",52729,1
+2023,Allegany,New York,"36003",90909,1
+2023,Allegany,New York,"36003",87878,1
+2023,Broome,New York,"36007",58968,2
+2023,Broome,New York,"36007",100505,1
+2023,Broome,New York,"36007",291413,2
+2023,Broome,New York,"36007",309389,2
+2023,Broome,New York,"36007",155813,1
+2023,Broome,New York,"36007",131313,1
+2023,Cattaraugus,New York,"36009",204840,2
+2023,Cattaraugus,New York,"36009",511890,4
+2023,Cattaraugus,New York,"36009",672645,7
+2023,Cattaraugus,New York,"36009",91021,1
+2023,Cattaraugus,New York,"36009",250000,2
+2023,Cattaraugus,New York,"36009",70707,1
+2023,Cattaraugus,New York,"36009",343695,3
+2023,Cattaraugus,New York,"36009",296035,3
+2023,Cattaraugus,New York,"36009",86727,1
+2023,Cattaraugus,New York,"36009",1205705,12
+2023,Cattaraugus,New York,"36009",328079,3
+2023,Cattaraugus,New York,"36009",85858,1
+2023,Cattaraugus,New York,"36009",199500,1
+2023,Cattaraugus,New York,"36009",133838,1
+2023,Chautauqua,New York,"36013",90330,1
+2023,Chautauqua,New York,"36013",156830,1
+2023,Chautauqua,New York,"36013",243180,1
+2023,Chautauqua,New York,"36013",334570,2
+2023,Chautauqua,New York,"36013",242424,2
+2023,Chautauqua,New York,"36013",158585,1
+2023,Chemung,New York,"36015",150332,1
+2023,Chemung,New York,"36015",337029,3
+2023,Chemung,New York,"36015",393313,3
+2023,Chemung,New York,"36015",168181,1
+2023,Chemung,New York,"36015",112424,1
+2023,Chenango,New York,"36017",132040,1
+2023,Chenango,New York,"36017",98860,1
+2023,Chenango,New York,"36017",165959,1
+2023,Chenango,New York,"36017",216652,2
+2023,Delaware,New York,"36025",163636,1
+2023,Delaware,New York,"36025",228282,2
+2023,Otsego,New York,"36077",115000,1
+2023,Otsego,New York,"36077",158464,1
+2023,Otsego,New York,"36077",96363,1
+2023,Otsego,New York,"36077",77474,1
+2023,Otsego,New York,"36077",133333,1
+2023,Otsego,New York,"36077",103030,1
+2023,Otsego,New York,"36077",131000,1
+2023,Otsego,New York,"36077",102340,1
+2023,Otsego,New York,"36077",132222,1
+2023,Otsego,New York,"36077",396968,3
+2023,Otsego,New York,"36077",180808,1
+2023,Otsego,New York,"36077",128484,1
+2023,Schoharie,New York,"36095",172228,1
+2023,Schoharie,New York,"36095",75757,1
+2023,Schoharie,New York,"36095",249494,1
+2023,Schoharie,New York,"36095",376767,2
+2023,Schoharie,New York,"36095",149494,1
+2023,Schuyler,New York,"36097",125500,1
+2023,Steuben,New York,"36101",599990,4
+2023,Steuben,New York,"36101",95000,1
+2023,Steuben,New York,"36101",85858,1
+2023,Steuben,New York,"36101",278356,2
+2023,Steuben,New York,"36101",149898,1
+2023,Steuben,New York,"36101",905451,7
+2023,Steuben,New York,"36101",110101,1
+2023,Steuben,New York,"36101",366665,3
+2023,Tioga,New York,"36107",398989,2
+2023,Tioga,New York,"36107",121111,1
+2023,Tioga,New York,"36107",111111,1
+2023,Tioga,New York,"36107",141414,1
+2023,Tioga,New York,"36107",140404,1
+2023,Tioga,New York,"36107",297979,2
+2023,Tompkins,New York,"36109",105186,1
+2023,Tompkins,New York,"36109",259000,1
+2023,Tompkins,New York,"36109",183250,1
+2023,Tompkins,New York,"36109",310303,1
+2023,Alexander,North Carolina,"37003",197649,1
+2023,Alexander,North Carolina,"37003",136262,1
+2023,Alexander,North Carolina,"37003",885452,4
+2023,Alexander,North Carolina,"37003",270000,1
+2023,Alexander,North Carolina,"37003",186666,1
+2023,Alexander,North Carolina,"37003",161616,1
+2023,Alexander,North Carolina,"37003",272727,1
+2023,Alexander,North Carolina,"37003",161616,1
+2023,Alexander,North Carolina,"37003",107070,1
+2023,Alexander,North Carolina,"37003",451882,2
+2023,Alleghany,North Carolina,"37005",120000,1
+2023,Alleghany,North Carolina,"37005",232490,2
+2023,Alleghany,North Carolina,"37005",91000,1
+2023,Alleghany,North Carolina,"37005",283050,1
+2023,Ashe,North Carolina,"37009",300000,1
+2023,Ashe,North Carolina,"37009",215000,1
+2023,Ashe,North Carolina,"37009",187000,1
+2023,Ashe,North Carolina,"37009",134595,1
+2023,Ashe,North Carolina,"37009",186363,1
+2023,Avery,North Carolina,"37011",200818,1
+2023,Avery,North Carolina,"37011",250505,1
+2023,Avery,North Carolina,"37011",415767,2
+2023,Buncombe,North Carolina,"37021",125220,1
+2023,Buncombe,North Carolina,"37021",2129608,7
+2023,Buncombe,North Carolina,"37021",1275375,5
+2023,Buncombe,North Carolina,"37021",997019,7
+2023,Buncombe,North Carolina,"37021",1199298,4
+2023,Buncombe,North Carolina,"37021",252525,1
+2023,Buncombe,North Carolina,"37021",328282,1
+2023,Buncombe,North Carolina,"37021",597828,2
+2023,Buncombe,North Carolina,"37021",822221,3
+2023,Buncombe,North Carolina,"37021",210101,1
+2023,Burke,North Carolina,"37023",452422,3
+2023,Burke,North Carolina,"37023",1591673,9
+2023,Burke,North Carolina,"37023",220202,1
+2023,Burke,North Carolina,"37023",764230,4
+2023,Burke,North Carolina,"37023",385858,2
+2023,Burke,North Carolina,"37023",518240,3
+2023,Burke,North Carolina,"37023",356766,2
+2023,Burke,North Carolina,"37023",474746,2
+2023,Caldwell,North Carolina,"37027",99000,1
+2023,Caldwell,North Carolina,"37027",257070,1
+2023,Caldwell,North Carolina,"37027",912927,4
+2023,Caldwell,North Carolina,"37027",186767,1
+2023,Caldwell,North Carolina,"37027",2080622,11
+2023,Caldwell,North Carolina,"37027",131818,1
+2023,Caldwell,North Carolina,"37027",67424,1
+2023,Caldwell,North Carolina,"37027",163636,1
+2023,Caldwell,North Carolina,"37027",146679,1
+2023,Caldwell,North Carolina,"37027",223232,1
+2023,Caldwell,North Carolina,"37027",169696,1
+2023,Caldwell,North Carolina,"37027",171717,1
+2023,Caldwell,North Carolina,"37027",227272,1
+2023,Caldwell,North Carolina,"37027",226000,1
+2023,Caldwell,North Carolina,"37027",290909,1
+2023,Caldwell,North Carolina,"37027",217171,1
+2023,Caldwell,North Carolina,"37027",131313,1
+2023,Caldwell,North Carolina,"37027",154545,1
+2023,Catawba,North Carolina,"37035",107644,1
+2023,Catawba,North Carolina,"37035",296000,1
+2023,Catawba,North Carolina,"37035",527069,3
+2023,Catawba,North Carolina,"37035",270202,1
+2023,Catawba,North Carolina,"37035",173737,1
+2023,Catawba,North Carolina,"37035",979398,5
+2023,Catawba,North Carolina,"37035",189375,1
+2023,Catawba,North Carolina,"37035",698888,3
+2023,Catawba,North Carolina,"37035",348484,2
+2023,Catawba,North Carolina,"37035",544443,2
+2023,Catawba,North Carolina,"37035",328272,1
+2023,Catawba,North Carolina,"37035",448484,2
+2023,Catawba,North Carolina,"37035",151515,1
+2023,Catawba,North Carolina,"37035",176767,1
+2023,Catawba,North Carolina,"37035",232323,1
+2023,Catawba,North Carolina,"37035",527272,2
+2023,Catawba,North Carolina,"37035",252515,1
+2023,Catawba,North Carolina,"37035",304039,1
+2023,Catawba,North Carolina,"37035",434241,3
+2023,Catawba,North Carolina,"37035",533333,2
+2023,Catawba,North Carolina,"37035",232323,1
+2023,Catawba,North Carolina,"37035",207066,1
+2023,Catawba,North Carolina,"37035",195959,1
+2023,Cherokee,North Carolina,"37039",199900,1
+2023,Cherokee,North Carolina,"37039",188184,1
+2023,Cherokee,North Carolina,"37039",130303,1
+2023,Clay,North Carolina,"37043",228395,1
+2023,Clay,North Carolina,"37043",254898,1
+2023,Cleveland,North Carolina,"37045",254290,1
+2023,Cleveland,North Carolina,"37045",1250906,6
+2023,Cleveland,North Carolina,"37045",876769,4
+2023,Cleveland,North Carolina,"37045",217171,1
+2023,Cleveland,North Carolina,"37045",252525,1
+2023,Cleveland,North Carolina,"37045",561611,2
+2023,Cleveland,North Carolina,"37045",212121,1
+2023,Cleveland,North Carolina,"37045",441413,2
+2023,Cleveland,North Carolina,"37045",204040,1
+2023,Cleveland,North Carolina,"37045",2787571,18
+2023,Cleveland,North Carolina,"37045",284848,1
+2023,Cleveland,North Carolina,"37045",190909,1
+2023,Cleveland,North Carolina,"37045",191818,1
+2023,Cleveland,North Carolina,"37045",191818,1
+2023,Cleveland,North Carolina,"37045",196969,1
+2023,Cleveland,North Carolina,"37045",245454,1
+2023,Cleveland,North Carolina,"37045",241404,1
+2023,Cleveland,North Carolina,"37045",435350,2
+2023,Davie,North Carolina,"37059",166666,1
+2023,Davie,North Carolina,"37059",391413,2
+2023,Davie,North Carolina,"37059",171616,1
+2023,Davie,North Carolina,"37059",184343,1
+2023,Davie,North Carolina,"37059",332828,1
+2023,Davie,North Carolina,"37059",482669,3
+2023,Davie,North Carolina,"37059",247979,1
+2023,Davie,North Carolina,"37059",257474,1
+2023,Forsyth,North Carolina,"37067",183692,1
+2023,Forsyth,North Carolina,"37067",300000,1
+2023,Forsyth,North Carolina,"37067",258920,1
+2023,Forsyth,North Carolina,"37067",282828,1
+2023,Forsyth,North Carolina,"37067",254545,1
+2023,Forsyth,North Carolina,"37067",230303,1
+2023,Forsyth,North Carolina,"37067",266262,1
+2023,Forsyth,North Carolina,"37067",206961,1
+2023,Forsyth,North Carolina,"37067",232323,1
+2023,Forsyth,North Carolina,"37067",130252,1
+2023,Forsyth,North Carolina,"37067",252525,1
+2023,Haywood,North Carolina,"37087",250000,1
+2023,Haywood,North Carolina,"37087",275000,1
+2023,Haywood,North Carolina,"37087",295000,1
+2023,Haywood,North Carolina,"37087",223030,1
+2023,Haywood,North Carolina,"37087",159090,1
+2023,Haywood,North Carolina,"37087",524241,2
+2023,Haywood,North Carolina,"37087",343433,2
+2023,Haywood,North Carolina,"37087",223989,1
+2023,Haywood,North Carolina,"37087",325000,1
+2023,Haywood,North Carolina,"37087",289595,1
+2023,Haywood,North Carolina,"37087",292828,1
+2023,Haywood,North Carolina,"37087",240404,1
+2023,Henderson,North Carolina,"37089",134535,1
+2023,Henderson,North Carolina,"37089",1609000,5
+2023,Henderson,North Carolina,"37089",1844600,5
+2023,Henderson,North Carolina,"37089",247500,1
+2023,Henderson,North Carolina,"37089",818500,3
+2023,Henderson,North Carolina,"37089",240216,1
+2023,Henderson,North Carolina,"37089",265026,1
+2023,Henderson,North Carolina,"37089",200000,1
+2023,Henderson,North Carolina,"37089",491057,2
+2023,Henderson,North Carolina,"37089",356565,1
+2023,Henderson,North Carolina,"37089",328282,1
+2023,Henderson,North Carolina,"37089",289898,1
+2023,Henderson,North Carolina,"37089",292929,1
+2023,Henderson,North Carolina,"37089",275671,1
+2023,Henderson,North Carolina,"37089",257575,1
+2023,Jackson,North Carolina,"37099",63365,3
+2023,Macon,North Carolina,"37113",171368,1
+2023,Macon,North Carolina,"37113",221212,1
+2023,Macon,North Carolina,"37113",166666,1
+2023,Macon,North Carolina,"37113",247474,1
+2023,Macon,North Carolina,"37113",341414,1
+2023,Macon,North Carolina,"37113",200000,1
+2023,Madison,North Carolina,"37115",377000,1
+2023,Madison,North Carolina,"37115",377600,1
+2023,Madison,North Carolina,"37115",206277,1
+2023,Madison,North Carolina,"37115",261639,1
+2023,McDowell,North Carolina,"37111",561210,4
+2023,McDowell,North Carolina,"37111",237373,1
+2023,McDowell,North Carolina,"37111",181818,1
+2023,McDowell,North Carolina,"37111",237373,1
+2023,Mitchell,North Carolina,"37121",712726,3
+2023,Polk,North Carolina,"37149",787500,3
+2023,Polk,North Carolina,"37149",258994,1
+2023,Polk,North Carolina,"37149",343434,1
+2023,Rutherford,North Carolina,"37161",207440,1
+2023,Rutherford,North Carolina,"37161",406200,2
+2023,Rutherford,North Carolina,"37161",201010,1
+2023,Rutherford,North Carolina,"37161",121212,1
+2023,Rutherford,North Carolina,"37161",702390,4
+2023,Rutherford,North Carolina,"37161",252525,1
+2023,Rutherford,North Carolina,"37161",1178380,7
+2023,Rutherford,North Carolina,"37161",1133885,6
+2023,Rutherford,North Carolina,"37161",168142,1
+2023,Rutherford,North Carolina,"37161",265302,2
+2023,Rutherford,North Carolina,"37161",286867,2
+2023,Rutherford,North Carolina,"37161",272929,1
+2023,Stokes,North Carolina,"37169",75000,1
+2023,Stokes,North Carolina,"37169",351514,2
+2023,Stokes,North Carolina,"37169",227272,1
+2023,Stokes,North Carolina,"37169",414645,2
+2023,Stokes,North Carolina,"37169",186868,1
+2023,Stokes,North Carolina,"37169",90808,1
+2023,Stokes,North Carolina,"37169",212121,1
+2023,Stokes,North Carolina,"37169",253030,1
+2023,Stokes,North Carolina,"37169",171717,1
+2023,Stokes,North Carolina,"37169",176767,1
+2023,Stokes,North Carolina,"37169",696969,3
+2023,Stokes,North Carolina,"37169",233333,1
+2023,Surry,North Carolina,"37171",179900,1
+2023,Surry,North Carolina,"37171",213131,1
+2023,Surry,North Carolina,"37171",339898,2
+2023,Surry,North Carolina,"37171",196969,1
+2023,Surry,North Carolina,"37171",765655,4
+2023,Surry,North Carolina,"37171",227272,1
+2023,Surry,North Carolina,"37171",279797,2
+2023,Surry,North Carolina,"37171",661614,4
+2023,Surry,North Carolina,"37171",1436259,7
+2023,Surry,North Carolina,"37171",435858,2
+2023,Surry,North Carolina,"37171",181818,1
+2023,Surry,North Carolina,"37171",217171,1
+2023,Surry,North Carolina,"37171",369696,2
+2023,Surry,North Carolina,"37171",207575,1
+2023,Surry,North Carolina,"37171",146464,1
+2023,Surry,North Carolina,"37171",1027067,6
+2023,Surry,North Carolina,"37171",125252,1
+2023,Swain,North Carolina,"37173",176767,1
+2023,Swain,North Carolina,"37173",87070,1
+2023,Transylvania,North Carolina,"37175",191919,1
+2023,Transylvania,North Carolina,"37175",233106,1
+2023,Watauga,North Carolina,"37189",278100,1
+2023,Wilkes,North Carolina,"37193",94000,1
+2023,Wilkes,North Carolina,"37193",1347774,7
+2023,Wilkes,North Carolina,"37193",377777,2
+2023,Wilkes,North Carolina,"37193",172727,1
+2023,Wilkes,North Carolina,"37193",171717,1
+2023,Wilkes,North Carolina,"37193",156363,1
+2023,Wilkes,North Carolina,"37193",169696,1
+2023,Wilkes,North Carolina,"37193",173737,1
+2023,Wilkes,North Carolina,"37193",441413,2
+2023,Wilkes,North Carolina,"37193",264949,1
+2023,Yadkin,North Carolina,"37197",130000,1
+2023,Yadkin,North Carolina,"37197",116161,1
+2023,Yadkin,North Carolina,"37197",63636,1
+2023,Yadkin,North Carolina,"37197",277777,1
+2023,Yadkin,North Carolina,"37197",288888,1
+2023,Yadkin,North Carolina,"37197",217171,1
+2023,Yadkin,North Carolina,"37197",243555,1
+2023,Yancey,North Carolina,"37199",237139,1
+2023,Yancey,North Carolina,"37199",303030,1
+2023,Yancey,North Carolina,"37199",230303,1
+2023,Adams,Ohio,"39001",76868,1
+2023,Adams,Ohio,"39001",136363,1
+2023,Adams,Ohio,"39001",179797,1
+2023,Adams,Ohio,"39001",196969,1
+2023,Adams,Ohio,"39001",353534,3
+2023,Adams,Ohio,"39001",101010,1
+2023,Adams,Ohio,"39001",312434,2
+2023,Adams,Ohio,"39001",121212,1
+2023,Adams,Ohio,"39001",138383,1
+2023,Adams,Ohio,"39001",491968,3
+2023,Adams,Ohio,"39001",106060,1
+2023,Adams,Ohio,"39001",191968,3
+2023,Adams,Ohio,"39001",176767,1
+2023,Ashtabula,Ohio,"39007",255174,2
+2023,Ashtabula,Ohio,"39007",1849900,8
+2023,Ashtabula,Ohio,"39007",1235700,7
+2023,Ashtabula,Ohio,"39007",268250,2
+2023,Ashtabula,Ohio,"39007",280000,1
+2023,Ashtabula,Ohio,"39007",2358291,15
+2023,Ashtabula,Ohio,"39007",201500,1
+2023,Ashtabula,Ohio,"39007",132323,1
+2023,Ashtabula,Ohio,"39007",181818,1
+2023,Ashtabula,Ohio,"39007",1502924,11
+2023,Ashtabula,Ohio,"39007",97979,1
+2023,Ashtabula,Ohio,"39007",177777,1
+2023,Ashtabula,Ohio,"39007",325229,2
+2023,Ashtabula,Ohio,"39007",102020,1
+2023,Ashtabula,Ohio,"39007",217171,2
+2023,Ashtabula,Ohio,"39007",202020,2
+2023,Ashtabula,Ohio,"39007",486867,3
+2023,Ashtabula,Ohio,"39007",171211,2
+2023,Ashtabula,Ohio,"39007",403691,3
+2023,Ashtabula,Ohio,"39007",136363,1
+2023,Ashtabula,Ohio,"39007",916613,7
+2023,Ashtabula,Ohio,"39007",78282,1
+2023,Athens,Ohio,"39009",147900,1
+2023,Athens,Ohio,"39009",50505,1
+2023,Athens,Ohio,"39009",132323,1
+2023,Athens,Ohio,"39009",101010,1
+2023,Athens,Ohio,"39009",110101,1
+2023,Athens,Ohio,"39009",119191,1
+2023,Athens,Ohio,"39009",108080,1
+2023,Athens,Ohio,"39009",288888,2
+2023,Athens,Ohio,"39009",185838,1
+2023,Athens,Ohio,"39009",131313,1
+2023,Belmont,Ohio,"39013",94790,1
+2023,Belmont,Ohio,"39013",302100,2
+2023,Belmont,Ohio,"39013",167540,1
+2023,Belmont,Ohio,"39013",115691,1
+2023,Belmont,Ohio,"39013",73737,1
+2023,Belmont,Ohio,"39013",1512218,10
+2023,Belmont,Ohio,"39013",176767,1
+2023,Belmont,Ohio,"39013",956511,9
+2023,Belmont,Ohio,"39013",450991,3
+2023,Belmont,Ohio,"39013",126262,1
+2023,Belmont,Ohio,"39013",95252,1
+2023,Belmont,Ohio,"39013",166666,1
+2023,Belmont,Ohio,"39013",452422,4
+2023,Belmont,Ohio,"39013",184848,1
+2023,Belmont,Ohio,"39013",370706,3
+2023,Belmont,Ohio,"39013",121212,1
+2023,Belmont,Ohio,"39013",975147,8
+2023,Belmont,Ohio,"39013",1018144,6
+2023,Brown,Ohio,"39015",274646,2
+2023,Brown,Ohio,"39015",297979,1
+2023,Brown,Ohio,"39015",1928884,11
+2023,Brown,Ohio,"39015",250505,1
+2023,Brown,Ohio,"39015",290302,2
+2023,Brown,Ohio,"39015",639291,3
+2023,Brown,Ohio,"39015",176767,1
+2023,Brown,Ohio,"39015",121212,1
+2023,Brown,Ohio,"39015",202424,1
+2023,Brown,Ohio,"39015",191919,1
+2023,Brown,Ohio,"39015",100608,1
+2023,Brown,Ohio,"39015",234555,1
+2023,Brown,Ohio,"39015",331514,2
+2023,Brown,Ohio,"39015",139393,1
+2023,Brown,Ohio,"39015",144444,1
+2023,Brown,Ohio,"39015",116161,1
+2023,Brown,Ohio,"39015",96202,1
+2023,Brown,Ohio,"39015",242423,2
+2023,Brown,Ohio,"39015",260606,1
+2023,Carroll,Ohio,"39019",126262,1
+2023,Carroll,Ohio,"39019",137373,1
+2023,Carroll,Ohio,"39019",135898,1
+2023,Carroll,Ohio,"39019",107070,1
+2023,Carroll,Ohio,"39019",111010,1
+2023,Carroll,Ohio,"39019",159595,1
+2023,Clermont,Ohio,"39025",336646,1
+2023,Clermont,Ohio,"39025",168000,1
+2023,Clermont,Ohio,"39025",304040,1
+2023,Clermont,Ohio,"39025",452777,2
+2023,Clermont,Ohio,"39025",375757,2
+2023,Clermont,Ohio,"39025",1752986,9
+2023,Clermont,Ohio,"39025",217171,1
+2023,Clermont,Ohio,"39025",227272,1
+2023,Clermont,Ohio,"39025",207070,1
+2023,Clermont,Ohio,"39025",358585,2
+2023,Clermont,Ohio,"39025",772725,4
+2023,Clermont,Ohio,"39025",222222,1
+2023,Clermont,Ohio,"39025",277272,1
+2023,Clermont,Ohio,"39025",171616,1
+2023,Clermont,Ohio,"39025",208080,1
+2023,Clermont,Ohio,"39025",220000,1
+2023,Clermont,Ohio,"39025",1039315,4
+2023,Clermont,Ohio,"39025",390908,2
+2023,Clermont,Ohio,"39025",227272,1
+2023,Clermont,Ohio,"39025",145454,1
+2023,Clermont,Ohio,"39025",385656,2
+2023,Clermont,Ohio,"39025",154545,1
+2023,Clermont,Ohio,"39025",501009,3
+2023,Clermont,Ohio,"39025",227272,1
+2023,Clermont,Ohio,"39025",176750,1
+2023,Clermont,Ohio,"39025",637272,3
+2023,Columbiana,Ohio,"39029",117500,1
+2023,Columbiana,Ohio,"39029",250000,1
+2023,Columbiana,Ohio,"39029",88475,1
+2023,Columbiana,Ohio,"39029",109900,1
+2023,Columbiana,Ohio,"39029",322221,2
+2023,Columbiana,Ohio,"39029",175757,2
+2023,Columbiana,Ohio,"39029",128282,1
+2023,Columbiana,Ohio,"39029",169696,2
+2023,Columbiana,Ohio,"39029",87575,1
+2023,Columbiana,Ohio,"39029",150505,1
+2023,Columbiana,Ohio,"39029",556564,3
+2023,Columbiana,Ohio,"39029",296969,1
+2023,Columbiana,Ohio,"39029",2068881,16
+2023,Columbiana,Ohio,"39029",417145,2
+2023,Columbiana,Ohio,"39029",100909,1
+2023,Columbiana,Ohio,"39029",136363,1
+2023,Columbiana,Ohio,"39029",66666,1
+2023,Columbiana,Ohio,"39029",101010,1
+2023,Columbiana,Ohio,"39029",125151,1
+2023,Columbiana,Ohio,"39029",97474,1
+2023,Columbiana,Ohio,"39029",224545,2
+2023,Columbiana,Ohio,"39029",275756,2
+2023,Columbiana,Ohio,"39029",176767,1
+2023,Columbiana,Ohio,"39029",208080,2
+2023,Columbiana,Ohio,"39029",123232,1
+2023,Columbiana,Ohio,"39029",74747,1
+2023,Coshocton,Ohio,"39031",359000,3
+2023,Coshocton,Ohio,"39031",650265,5
+2023,Coshocton,Ohio,"39031",1467166,11
+2023,Coshocton,Ohio,"39031",768785,5
+2023,Coshocton,Ohio,"39031",692725,6
+2023,Coshocton,Ohio,"39031",212625,2
+2023,Coshocton,Ohio,"39031",116470,1
+2023,Coshocton,Ohio,"39031",157575,1
+2023,Coshocton,Ohio,"39031",191919,1
+2023,Coshocton,Ohio,"39031",325231,2
+2023,Coshocton,Ohio,"39031",91888,1
+2023,Coshocton,Ohio,"39031",147474,1
+2023,Gallia,Ohio,"39053",40000,1
+2023,Gallia,Ohio,"39053",111515,1
+2023,Gallia,Ohio,"39053",130101,1
+2023,Gallia,Ohio,"39053",100000,1
+2023,Gallia,Ohio,"39053",336565,2
+2023,Gallia,Ohio,"39053",87373,1
+2023,Gallia,Ohio,"39053",315807,2
+2023,Gallia,Ohio,"39053",205050,1
+2023,Gallia,Ohio,"39053",210101,1
+2023,Guernsey,Ohio,"39059",128000,1
+2023,Guernsey,Ohio,"39059",150000,1
+2023,Guernsey,Ohio,"39059",379089,3
+2023,Guernsey,Ohio,"39059",376058,3
+2023,Guernsey,Ohio,"39059",262625,2
+2023,Guernsey,Ohio,"39059",1486966,10
+2023,Guernsey,Ohio,"39059",125252,1
+2023,Guernsey,Ohio,"39059",146464,1
+2023,Guernsey,Ohio,"39059",867742,6
+2023,Guernsey,Ohio,"39059",156565,1
+2023,Guernsey,Ohio,"39059",127171,1
+2023,Guernsey,Ohio,"39059",186868,1
+2023,Guernsey,Ohio,"39059",278787,2
+2023,Guernsey,Ohio,"39059",164646,1
+2023,Guernsey,Ohio,"39059",169696,2
+2023,Guernsey,Ohio,"39059",215151,1
+2023,Harrison,Ohio,"39067",521211,3
+2023,Harrison,Ohio,"39067",65656,1
+2023,Highland,Ohio,"39071",106800,1
+2023,Highland,Ohio,"39071",257500,1
+2023,Highland,Ohio,"39071",690200,5
+2023,Highland,Ohio,"39071",93434,1
+2023,Highland,Ohio,"39071",440402,3
+2023,Highland,Ohio,"39071",73737,1
+2023,Highland,Ohio,"39071",264494,2
+2023,Highland,Ohio,"39071",287777,1
+2023,Highland,Ohio,"39071",154040,1
+2023,Highland,Ohio,"39071",165656,1
+2023,Highland,Ohio,"39071",186868,1
+2023,Highland,Ohio,"39071",160606,1
+2023,Highland,Ohio,"39071",85757,1
+2023,Highland,Ohio,"39071",492112,3
+2023,Highland,Ohio,"39071",156565,1
+2023,Highland,Ohio,"39071",85065,1
+2023,Highland,Ohio,"39071",217171,1
+2023,Highland,Ohio,"39071",761513,5
+2023,Highland,Ohio,"39071",224747,1
+2023,Highland,Ohio,"39071",166666,1
+2023,Highland,Ohio,"39071",127979,1
+2023,Highland,Ohio,"39071",174747,1
+2023,Highland,Ohio,"39071",112121,1
+2023,Highland,Ohio,"39071",225757,1
+2023,Hocking,Ohio,"39073",285900,1
+2023,Hocking,Ohio,"39073",259000,2
+2023,Hocking,Ohio,"39073",176767,1
+2023,Hocking,Ohio,"39073",181818,1
+2023,Hocking,Ohio,"39073",538550,3
+2023,Hocking,Ohio,"39073",337373,2
+2023,Hocking,Ohio,"39073",817413,4
+2023,Hocking,Ohio,"39073",227272,1
+2023,Holmes,Ohio,"39075",141414,1
+2023,Holmes,Ohio,"39075",151000,1
+2023,Holmes,Ohio,"39075",453535,3
+2023,Jackson,Ohio,"39079",212121,1
+2023,Jackson,Ohio,"39079",498786,3
+2023,Jackson,Ohio,"39079",310100,2
+2023,Jackson,Ohio,"39079",151515,1
+2023,Jackson,Ohio,"39079",164141,1
+2023,Jackson,Ohio,"39079",214141,1
+2023,Jackson,Ohio,"39079",314141,2
+2023,Jackson,Ohio,"39079",393844,3
+2023,Jackson,Ohio,"39079",161616,1
+2023,Jackson,Ohio,"39079",127777,1
+2023,Jefferson,Ohio,"39081",180980,1
+2023,Jefferson,Ohio,"39081",129292,1
+2023,Jefferson,Ohio,"39081",161616,1
+2023,Jefferson,Ohio,"39081",185858,1
+2023,Jefferson,Ohio,"39081",216161,2
+2023,Jefferson,Ohio,"39081",141414,1
+2023,Jefferson,Ohio,"39081",35757,1
+2023,Jefferson,Ohio,"39081",166666,1
+2023,Jefferson,Ohio,"39081",298483,3
+2023,Jefferson,Ohio,"39081",166666,1
+2023,Jefferson,Ohio,"39081",940804,8
+2023,Jefferson,Ohio,"39081",149494,1
+2023,Jefferson,Ohio,"39081",313835,4
+2023,Jefferson,Ohio,"39081",788885,7
+2023,Jefferson,Ohio,"39081",465402,5
+2023,Lawrence,Ohio,"39087",64422,1
+2023,Lawrence,Ohio,"39087",283000,1
+2023,Lawrence,Ohio,"39087",137373,1
+2023,Lawrence,Ohio,"39087",101010,1
+2023,Lawrence,Ohio,"39087",81388,1
+2023,Lawrence,Ohio,"39087",193938,2
+2023,Lawrence,Ohio,"39087",372727,2
+2023,Lawrence,Ohio,"39087",161616,1
+2023,Lawrence,Ohio,"39087",1736055,12
+2023,Lawrence,Ohio,"39087",202020,1
+2023,Lawrence,Ohio,"39087",65656,1
+2023,Lawrence,Ohio,"39087",137500,1
+2023,Lawrence,Ohio,"39087",427776,3
+2023,Lawrence,Ohio,"39087",232323,1
+2023,Lawrence,Ohio,"39087",151515,1
+2023,Lawrence,Ohio,"39087",90606,1
+2023,Lawrence,Ohio,"39087",176767,1
+2023,Mahoning,Ohio,"39099",136229,1
+2023,Mahoning,Ohio,"39099",181818,1
+2023,Mahoning,Ohio,"39099",358585,2
+2023,Mahoning,Ohio,"39099",171616,1
+2023,Mahoning,Ohio,"39099",77777,1
+2023,Mahoning,Ohio,"39099",192929,1
+2023,Mahoning,Ohio,"39099",120505,1
+2023,Mahoning,Ohio,"39099",105050,1
+2023,Meigs,Ohio,"39105",1613,1
+2023,Meigs,Ohio,"39105",274948,2
+2023,Meigs,Ohio,"39105",170707,1
+2023,Meigs,Ohio,"39105",177777,1
+2023,Monroe,Ohio,"39111",116161,1
+2023,Monroe,Ohio,"39111",84848,1
+2023,Monroe,Ohio,"39111",203535,1
+2023,Monroe,Ohio,"39111",228282,2
+2023,Morgan,Ohio,"39115",115250,1
+2023,Morgan,Ohio,"39115",151515,1
+2023,Morgan,Ohio,"39115",141414,1
+2023,Morgan,Ohio,"39115",191919,1
+2023,Morgan,Ohio,"39115",132727,1
+2023,Morgan,Ohio,"39115",196969,1
+2023,Morgan,Ohio,"39115",56565,1
+2023,Muskingum,Ohio,"39119",1314338,7
+2023,Muskingum,Ohio,"39119",902017,5
+2023,Muskingum,Ohio,"39119",101010,1
+2023,Muskingum,Ohio,"39119",366160,2
+2023,Muskingum,Ohio,"39119",599089,3
+2023,Muskingum,Ohio,"39119",166666,1
+2023,Muskingum,Ohio,"39119",157559,1
+2023,Muskingum,Ohio,"39119",369519,2
+2023,Muskingum,Ohio,"39119",126262,1
+2023,Muskingum,Ohio,"39119",237373,1
+2023,Muskingum,Ohio,"39119",282676,2
+2023,Muskingum,Ohio,"39119",299999,2
+2023,Muskingum,Ohio,"39119",180808,1
+2023,Muskingum,Ohio,"39119",216161,1
+2023,Noble,Ohio,"39121",161616,1
+2023,Noble,Ohio,"39121",154949,1
+2023,Perry,Ohio,"39127",250000,1
+2023,Perry,Ohio,"39127",227000,1
+2023,Perry,Ohio,"39127",290807,2
+2023,Perry,Ohio,"39127",156565,1
+2023,Perry,Ohio,"39127",103232,1
+2023,Perry,Ohio,"39127",179797,1
+2023,Perry,Ohio,"39127",908281,5
+2023,Perry,Ohio,"39127",320202,1
+2023,Perry,Ohio,"39127",103030,1
+2023,Perry,Ohio,"39127",129292,1
+2023,Perry,Ohio,"39127",212020,1
+2023,Perry,Ohio,"39127",749042,5
+2023,Perry,Ohio,"39127",255252,1
+2023,Perry,Ohio,"39127",297878,2
+2023,Perry,Ohio,"39127",285353,1
+2023,Perry,Ohio,"39127",367676,2
+2023,Perry,Ohio,"39127",745135,5
+2023,Perry,Ohio,"39127",414746,2
+2023,Perry,Ohio,"39127",237373,1
+2023,Perry,Ohio,"39127",191919,1
+2023,Perry,Ohio,"39127",182272,2
+2023,Pike,Ohio,"39131",146000,1
+2023,Pike,Ohio,"39131",165555,1
+2023,Pike,Ohio,"39131",119090,1
+2023,Pike,Ohio,"39131",711614,4
+2023,Pike,Ohio,"39131",118080,1
+2023,Pike,Ohio,"39131",146363,1
+2023,Pike,Ohio,"39131",142929,1
+2023,Pike,Ohio,"39131",437069,3
+2023,Pike,Ohio,"39131",134343,1
+2023,Ross,Ohio,"39141",252082,2
+2023,Ross,Ohio,"39141",207200,1
+2023,Ross,Ohio,"39141",201700,1
+2023,Ross,Ohio,"39141",176767,1
+2023,Ross,Ohio,"39141",146969,1
+2023,Ross,Ohio,"39141",126262,1
+2023,Ross,Ohio,"39141",178989,1
+2023,Ross,Ohio,"39141",153535,1
+2023,Ross,Ohio,"39141",233333,1
+2023,Ross,Ohio,"39141",1073886,6
+2023,Ross,Ohio,"39141",208787,1
+2023,Ross,Ohio,"39141",173737,1
+2023,Ross,Ohio,"39141",94444,1
+2023,Ross,Ohio,"39141",157560,1
+2023,Ross,Ohio,"39141",320201,2
+2023,Ross,Ohio,"39141",142929,1
+2023,Ross,Ohio,"39141",297979,1
+2023,Ross,Ohio,"39141",394933,2
+2023,Scioto,Ohio,"39145",83875,2
+2023,Scioto,Ohio,"39145",24999,1
+2023,Scioto,Ohio,"39145",69393,1
+2023,Scioto,Ohio,"39145",1081403,8
+2023,Scioto,Ohio,"39145",106060,1
+2023,Scioto,Ohio,"39145",128282,1
+2023,Scioto,Ohio,"39145",335352,2
+2023,Scioto,Ohio,"39145",202020,1
+2023,Scioto,Ohio,"39145",310100,2
+2023,Scioto,Ohio,"39145",555664,6
+2023,Scioto,Ohio,"39145",133333,1
+2023,Scioto,Ohio,"39145",225252,1
+2023,Scioto,Ohio,"39145",128282,1
+2023,Scioto,Ohio,"39145",111111,1
+2023,Scioto,Ohio,"39145",281818,1
+2023,Scioto,Ohio,"39145",371716,3
+2023,Trumbull,Ohio,"39155",178000,1
+2023,Trumbull,Ohio,"39155",255000,1
+2023,Trumbull,Ohio,"39155",195640,1
+2023,Trumbull,Ohio,"39155",647473,4
+2023,Trumbull,Ohio,"39155",254040,2
+2023,Trumbull,Ohio,"39155",138383,1
+2023,Trumbull,Ohio,"39155",1376158,9
+2023,Trumbull,Ohio,"39155",71010,1
+2023,Trumbull,Ohio,"39155",333333,2
+2023,Trumbull,Ohio,"39155",147979,1
+2023,Trumbull,Ohio,"39155",367171,2
+2023,Trumbull,Ohio,"39155",170202,1
+2023,Trumbull,Ohio,"39155",85858,1
+2023,Trumbull,Ohio,"39155",122593,1
+2023,Trumbull,Ohio,"39155",95959,1
+2023,Trumbull,Ohio,"39155",161616,1
+2023,Trumbull,Ohio,"39155",529241,4
+2023,Tuscarawas,Ohio,"39157",222000,1
+2023,Tuscarawas,Ohio,"39157",116161,1
+2023,Tuscarawas,Ohio,"39157",404846,3
+2023,Tuscarawas,Ohio,"39157",96979,1
+2023,Tuscarawas,Ohio,"39157",101010,1
+2023,Tuscarawas,Ohio,"39157",950073,7
+2023,Tuscarawas,Ohio,"39157",80808,1
+2023,Tuscarawas,Ohio,"39157",603846,5
+2023,Tuscarawas,Ohio,"39157",442382,4
+2023,Tuscarawas,Ohio,"39157",159090,1
+2023,Tuscarawas,Ohio,"39157",358282,2
+2023,Tuscarawas,Ohio,"39157",166666,1
+2023,Tuscarawas,Ohio,"39157",92323,1
+2023,Tuscarawas,Ohio,"39157",122222,1
+2023,Tuscarawas,Ohio,"39157",161515,1
+2023,Tuscarawas,Ohio,"39157",131212,1
+2023,Tuscarawas,Ohio,"39157",189898,1
+2023,Tuscarawas,Ohio,"39157",131212,1
+2023,Tuscarawas,Ohio,"39157",262070,2
+2023,Tuscarawas,Ohio,"39157",139393,1
+2023,Tuscarawas,Ohio,"39157",123232,1
+2023,Vinton,Ohio,"39163",133333,1
+2023,Washington,Ohio,"39167",168000,1
+2023,Washington,Ohio,"39167",89000,1
+2023,Washington,Ohio,"39167",171600,1
+2023,Washington,Ohio,"39167",100000,1
+2023,Washington,Ohio,"39167",186868,1
+2023,Washington,Ohio,"39167",308080,2
+2023,Washington,Ohio,"39167",283838,2
+2023,Washington,Ohio,"39167",921513,6
+2023,Washington,Ohio,"39167",1361087,10
+2023,Washington,Ohio,"39167",131313,1
+2023,Washington,Ohio,"39167",183838,1
+2023,Washington,Ohio,"39167",178282,1
+2023,Washington,Ohio,"39167",126161,1
+2023,Washington,Ohio,"39167",110101,1
+2023,Allegheny,Pennsylvania,"42003",239500,1
+2023,Allegheny,Pennsylvania,"42003",75252,1
+2023,Allegheny,Pennsylvania,"42003",232323,1
+2023,Allegheny,Pennsylvania,"42003",192910,1
+2023,Allegheny,Pennsylvania,"42003",181717,1
+2023,Allegheny,Pennsylvania,"42003",191919,1
+2023,Allegheny,Pennsylvania,"42003",174747,1
+2023,Allegheny,Pennsylvania,"42003",242424,2
+2023,Allegheny,Pennsylvania,"42003",252525,1
+2023,Allegheny,Pennsylvania,"42003",232323,1
+2023,Allegheny,Pennsylvania,"42003",222222,1
+2023,Allegheny,Pennsylvania,"42003",74141,1
+2023,Allegheny,Pennsylvania,"42003",118181,1
+2023,Allegheny,Pennsylvania,"42003",181818,1
+2023,Allegheny,Pennsylvania,"42003",206565,1
+2023,Allegheny,Pennsylvania,"42003",182570,1
+2023,Allegheny,Pennsylvania,"42003",202020,1
+2023,Armstrong,Pennsylvania,"42005",107474,1
+2023,Armstrong,Pennsylvania,"42005",75757,1
+2023,Armstrong,Pennsylvania,"42005",156565,1
+2023,Armstrong,Pennsylvania,"42005",161515,1
+2023,Armstrong,Pennsylvania,"42005",119191,1
+2023,Armstrong,Pennsylvania,"42005",156565,1
+2023,Armstrong,Pennsylvania,"42005",281817,2
+2023,Armstrong,Pennsylvania,"42005",117777,1
+2023,Armstrong,Pennsylvania,"42005",350203,3
+2023,Armstrong,Pennsylvania,"42005",138888,1
+2023,Armstrong,Pennsylvania,"42005",543457,6
+2023,Armstrong,Pennsylvania,"42005",217171,2
+2023,Armstrong,Pennsylvania,"42005",154545,1
+2023,Armstrong,Pennsylvania,"42005",812220,5
+2023,Armstrong,Pennsylvania,"42005",58888,1
+2023,Armstrong,Pennsylvania,"42005",254444,2
+2023,Beaver,Pennsylvania,"42007",151500,1
+2023,Beaver,Pennsylvania,"42007",157200,1
+2023,Beaver,Pennsylvania,"42007",152500,1
+2023,Beaver,Pennsylvania,"42007",171202,1
+2023,Beaver,Pennsylvania,"42007",104545,1
+2023,Beaver,Pennsylvania,"42007",273736,2
+2023,Beaver,Pennsylvania,"42007",186868,1
+2023,Beaver,Pennsylvania,"42007",151515,1
+2023,Beaver,Pennsylvania,"42007",131200,1
+2023,Beaver,Pennsylvania,"42007",196969,1
+2023,Beaver,Pennsylvania,"42007",3440570,21
+2023,Beaver,Pennsylvania,"42007",353346,2
+2023,Beaver,Pennsylvania,"42007",207070,2
+2023,Beaver,Pennsylvania,"42007",136363,1
+2023,Beaver,Pennsylvania,"42007",123131,1
+2023,Beaver,Pennsylvania,"42007",225252,1
+2023,Beaver,Pennsylvania,"42007",56565,1
+2023,Beaver,Pennsylvania,"42007",214141,1
+2023,Beaver,Pennsylvania,"42007",149494,1
+2023,Beaver,Pennsylvania,"42007",101717,1
+2023,Beaver,Pennsylvania,"42007",139393,1
+2023,Beaver,Pennsylvania,"42007",161515,1
+2023,Beaver,Pennsylvania,"42007",348483,3
+2023,Beaver,Pennsylvania,"42007",224747,2
+2023,Beaver,Pennsylvania,"42007",121212,1
+2023,Beaver,Pennsylvania,"42007",455789,3
+2023,Beaver,Pennsylvania,"42007",129797,1
+2023,Beaver,Pennsylvania,"42007",451988,3
+2023,Beaver,Pennsylvania,"42007",780299,6
+2023,Beaver,Pennsylvania,"42007",112121,1
+2023,Bedford,Pennsylvania,"42009",298000,1
+2023,Bedford,Pennsylvania,"42009",77777,1
+2023,Bedford,Pennsylvania,"42009",126262,1
+2023,Bedford,Pennsylvania,"42009",3203475,20
+2023,Bedford,Pennsylvania,"42009",141414,1
+2023,Bedford,Pennsylvania,"42009",136262,1
+2023,Bedford,Pennsylvania,"42009",81818,1
+2023,Bedford,Pennsylvania,"42009",101010,1
+2023,Blair,Pennsylvania,"42013",315200,1
+2023,Blair,Pennsylvania,"42013",333000,1
+2023,Blair,Pennsylvania,"42013",141313,1
+2023,Blair,Pennsylvania,"42013",102525,1
+2023,Blair,Pennsylvania,"42013",356060,2
+2023,Blair,Pennsylvania,"42013",333737,2
+2023,Blair,Pennsylvania,"42013",382069,4
+2023,Blair,Pennsylvania,"42013",98888,1
+2023,Blair,Pennsylvania,"42013",139898,1
+2023,Blair,Pennsylvania,"42013",252525,1
+2023,Blair,Pennsylvania,"42013",181818,1
+2023,Blair,Pennsylvania,"42013",1075249,7
+2023,Blair,Pennsylvania,"42013",112020,1
+2023,Blair,Pennsylvania,"42013",232323,1
+2023,Bradford,Pennsylvania,"42015",155000,1
+2023,Bradford,Pennsylvania,"42015",198795,1
+2023,Bradford,Pennsylvania,"42015",212100,1
+2023,Bradford,Pennsylvania,"42015",1291964,9
+2023,Bradford,Pennsylvania,"42015",181818,1
+2023,Bradford,Pennsylvania,"42015",117171,1
+2023,Bradford,Pennsylvania,"42015",196969,1
+2023,Butler,Pennsylvania,"42019",152000,1
+2023,Butler,Pennsylvania,"42019",108059,1
+2023,Butler,Pennsylvania,"42019",214263,1
+2023,Butler,Pennsylvania,"42019",104907,1
+2023,Butler,Pennsylvania,"42019",257575,1
+2023,Butler,Pennsylvania,"42019",138888,1
+2023,Butler,Pennsylvania,"42019",181818,1
+2023,Butler,Pennsylvania,"42019",171717,1
+2023,Butler,Pennsylvania,"42019",169696,1
+2023,Butler,Pennsylvania,"42019",254545,1
+2023,Butler,Pennsylvania,"42019",1248573,7
+2023,Cambria,Pennsylvania,"42021",163636,2
+2023,Cambria,Pennsylvania,"42021",90808,1
+2023,Cambria,Pennsylvania,"42021",82828,1
+2023,Cambria,Pennsylvania,"42021",1194240,11
+2023,Cambria,Pennsylvania,"42021",352423,3
+2023,Cambria,Pennsylvania,"42021",1103025,9
+2023,Cambria,Pennsylvania,"42021",65656,1
+2023,Cambria,Pennsylvania,"42021",78686,1
+2023,Cambria,Pennsylvania,"42021",160101,1
+2023,Cambria,Pennsylvania,"42021",212020,1
+2023,Cambria,Pennsylvania,"42021",236970,2
+2023,Cambria,Pennsylvania,"42021",121212,1
+2023,Cambria,Pennsylvania,"42021",128888,1
+2023,Cambria,Pennsylvania,"42021",280302,3
+2023,Cambria,Pennsylvania,"42021",78787,1
+2023,Cambria,Pennsylvania,"42021",274544,3
+2023,Cambria,Pennsylvania,"42021",359140,3
+2023,Cambria,Pennsylvania,"42021",446887,4
+2023,Cambria,Pennsylvania,"42021",193838,2
+2023,Cambria,Pennsylvania,"42021",136363,1
+2023,Cameron,Pennsylvania,"42023",68686,1
+2023,Carbon,Pennsylvania,"42025",265000,1
+2023,Carbon,Pennsylvania,"42025",255190,1
+2023,Carbon,Pennsylvania,"42025",118181,1
+2023,Carbon,Pennsylvania,"42025",308080,2
+2023,Carbon,Pennsylvania,"42025",146464,1
+2023,Carbon,Pennsylvania,"42025",156565,1
+2023,Carbon,Pennsylvania,"42025",120202,1
+2023,Carbon,Pennsylvania,"42025",358585,2
+2023,Carbon,Pennsylvania,"42025",108080,1
+2023,Carbon,Pennsylvania,"42025",201010,1
+2023,Carbon,Pennsylvania,"42025",174747,1
+2023,Carbon,Pennsylvania,"42025",118181,1
+2023,Carbon,Pennsylvania,"42025",553464,3
+2023,Centre,Pennsylvania,"42027",291770,1
+2023,Centre,Pennsylvania,"42027",252700,1
+2023,Centre,Pennsylvania,"42027",531312,3
+2023,Centre,Pennsylvania,"42027",180808,1
+2023,Centre,Pennsylvania,"42027",324242,2
+2023,Centre,Pennsylvania,"42027",1907873,10
+2023,Centre,Pennsylvania,"42027",502524,3
+2023,Centre,Pennsylvania,"42027",239393,1
+2023,Centre,Pennsylvania,"42027",232323,1
+2023,Clarion,Pennsylvania,"42031",303587,2
+2023,Clarion,Pennsylvania,"42031",121212,1
+2023,Clarion,Pennsylvania,"42031",151414,1
+2023,Clarion,Pennsylvania,"42031",327272,2
+2023,Clarion,Pennsylvania,"42031",87878,1
+2023,Clearfield,Pennsylvania,"42033",80000,1
+2023,Clearfield,Pennsylvania,"42033",151340,1
+2023,Clearfield,Pennsylvania,"42033",126262,1
+2023,Clearfield,Pennsylvania,"42033",66565,1
+2023,Clearfield,Pennsylvania,"42033",630291,4
+2023,Clearfield,Pennsylvania,"42033",90909,1
+2023,Clearfield,Pennsylvania,"42033",350504,2
+2023,Clearfield,Pennsylvania,"42033",74747,1
+2023,Clearfield,Pennsylvania,"42033",118181,1
+2023,Clearfield,Pennsylvania,"42033",3008703,26
+2023,Clearfield,Pennsylvania,"42033",190807,2
+2023,Clearfield,Pennsylvania,"42033",330301,3
+2023,Clearfield,Pennsylvania,"42033",378786,3
+2023,Clearfield,Pennsylvania,"42033",101009,1
+2023,Clinton,Pennsylvania,"42035",83610,1
+2023,Clinton,Pennsylvania,"42035",184390,1
+2023,Clinton,Pennsylvania,"42035",1453565,10
+2023,Clinton,Pennsylvania,"42035",657574,4
+2023,Clinton,Pennsylvania,"42035",363383,2
+2023,Clinton,Pennsylvania,"42035",130303,1
+2023,Columbia,Pennsylvania,"42037",661816,4
+2023,Columbia,Pennsylvania,"42037",89898,1
+2023,Columbia,Pennsylvania,"42037",171717,1
+2023,Columbia,Pennsylvania,"42037",143939,1
+2023,Columbia,Pennsylvania,"42037",160606,1
+2023,Columbia,Pennsylvania,"42037",978886,6
+2023,Columbia,Pennsylvania,"42037",414645,3
+2023,Columbia,Pennsylvania,"42037",169696,1
+2023,Crawford,Pennsylvania,"42039",141100,1
+2023,Crawford,Pennsylvania,"42039",273800,2
+2023,Crawford,Pennsylvania,"42039",94949,1
+2023,Crawford,Pennsylvania,"42039",448483,4
+2023,Crawford,Pennsylvania,"42039",131313,1
+2023,Crawford,Pennsylvania,"42039",201818,1
+2023,Crawford,Pennsylvania,"42039",439292,2
+2023,Crawford,Pennsylvania,"42039",90202,1
+2023,Crawford,Pennsylvania,"42039",213130,2
+2023,Crawford,Pennsylvania,"42039",210100,2
+2023,Crawford,Pennsylvania,"42039",504241,4
+2023,Crawford,Pennsylvania,"42039",564032,4
+2023,Elk,Pennsylvania,"42047",151515,1
+2023,Elk,Pennsylvania,"42047",71212,1
+2023,Elk,Pennsylvania,"42047",80808,1
+2023,Elk,Pennsylvania,"42047",90909,1
+2023,Elk,Pennsylvania,"42047",267675,3
+2023,Erie,Pennsylvania,"42049",200100,2
+2023,Erie,Pennsylvania,"42049",315500,2
+2023,Erie,Pennsylvania,"42049",88684,1
+2023,Erie,Pennsylvania,"42049",181818,1
+2023,Erie,Pennsylvania,"42049",150505,1
+2023,Erie,Pennsylvania,"42049",373636,2
+2023,Erie,Pennsylvania,"42049",169696,1
+2023,Erie,Pennsylvania,"42049",191919,1
+2023,Erie,Pennsylvania,"42049",308080,2
+2023,Erie,Pennsylvania,"42049",171717,1
+2023,Erie,Pennsylvania,"42049",133838,1
+2023,Erie,Pennsylvania,"42049",151515,1
+2023,Fayette,Pennsylvania,"42051",154000,2
+2023,Fayette,Pennsylvania,"42051",645700,4
+2023,Fayette,Pennsylvania,"42051",695200,4
+2023,Fayette,Pennsylvania,"42051",726000,5
+2023,Fayette,Pennsylvania,"42051",236000,3
+2023,Fayette,Pennsylvania,"42051",264646,2
+2023,Fayette,Pennsylvania,"42051",45454,1
+2023,Fayette,Pennsylvania,"42051",60303,1
+2023,Fayette,Pennsylvania,"42051",355555,2
+2023,Fayette,Pennsylvania,"42051",287878,2
+2023,Fayette,Pennsylvania,"42051",458887,4
+2023,Fayette,Pennsylvania,"42051",495757,3
+2023,Fayette,Pennsylvania,"42051",158585,2
+2023,Fayette,Pennsylvania,"42051",207070,1
+2023,Fayette,Pennsylvania,"42051",125757,1
+2023,Fayette,Pennsylvania,"42051",124141,1
+2023,Fayette,Pennsylvania,"42051",53363,1
+2023,Fayette,Pennsylvania,"42051",2447281,19
+2023,Fayette,Pennsylvania,"42051",181717,1
+2023,Fayette,Pennsylvania,"42051",80808,1
+2023,Fayette,Pennsylvania,"42051",813735,7
+2023,Fayette,Pennsylvania,"42051",594670,5
+2023,Fayette,Pennsylvania,"42051",228282,1
+2023,Fayette,Pennsylvania,"42051",673029,6
+2023,Fayette,Pennsylvania,"42051",866563,7
+2023,Fayette,Pennsylvania,"42051",88888,1
+2023,Fayette,Pennsylvania,"42051",248746,2
+2023,Fayette,Pennsylvania,"42051",142222,1
+2023,Fayette,Pennsylvania,"42051",141414,1
+2023,Fayette,Pennsylvania,"42051",252525,2
+2023,Fayette,Pennsylvania,"42051",302020,1
+2023,Fulton,Pennsylvania,"42057",219191,1
+2023,Fulton,Pennsylvania,"42057",126262,1
+2023,Greene,Pennsylvania,"42059",108000,1
+2023,Greene,Pennsylvania,"42059",554544,4
+2023,Greene,Pennsylvania,"42059",327777,3
+2023,Greene,Pennsylvania,"42059",211716,3
+2023,Greene,Pennsylvania,"42059",116161,1
+2023,Greene,Pennsylvania,"42059",100425,1
+2023,Greene,Pennsylvania,"42059",312121,3
+2023,Greene,Pennsylvania,"42059",188888,2
+2023,Greene,Pennsylvania,"42059",261615,2
+2023,Greene,Pennsylvania,"42059",79797,1
+2023,Huntingdon,Pennsylvania,"42061",131111,1
+2023,Huntingdon,Pennsylvania,"42061",85858,1
+2023,Huntingdon,Pennsylvania,"42061",381211,3
+2023,Huntingdon,Pennsylvania,"42061",226161,2
+2023,Huntingdon,Pennsylvania,"42061",216666,2
+2023,Huntingdon,Pennsylvania,"42061",1200500,9
+2023,Huntingdon,Pennsylvania,"42061",151515,1
+2023,Huntingdon,Pennsylvania,"42061",121111,1
+2023,Huntingdon,Pennsylvania,"42061",156565,1
+2023,Indiana,Pennsylvania,"42063",336500,1
+2023,Indiana,Pennsylvania,"42063",126262,1
+2023,Indiana,Pennsylvania,"42063",354544,3
+2023,Indiana,Pennsylvania,"42063",348720,3
+2023,Indiana,Pennsylvania,"42063",106060,1
+2023,Indiana,Pennsylvania,"42063",1197684,11
+2023,Indiana,Pennsylvania,"42063",86868,1
+2023,Indiana,Pennsylvania,"42063",675953,5
+2023,Indiana,Pennsylvania,"42063",156565,1
+2023,Indiana,Pennsylvania,"42063",449494,2
+2023,Indiana,Pennsylvania,"42063",187777,2
+2023,Indiana,Pennsylvania,"42063",287878,3
+2023,Indiana,Pennsylvania,"42063",210807,2
+2023,Indiana,Pennsylvania,"42063",373737,2
+2023,Indiana,Pennsylvania,"42063",75757,1
+2023,Indiana,Pennsylvania,"42063",517402,3
+2023,Jefferson,Pennsylvania,"42065",121100,2
+2023,Jefferson,Pennsylvania,"42065",70707,1
+2023,Jefferson,Pennsylvania,"42065",121111,1
+2023,Jefferson,Pennsylvania,"42065",1440197,11
+2023,Jefferson,Pennsylvania,"42065",131313,1
+2023,Jefferson,Pennsylvania,"42065",141414,1
+2023,Jefferson,Pennsylvania,"42065",36588,1
+2023,Jefferson,Pennsylvania,"42065",77907,1
+2023,Jefferson,Pennsylvania,"42065",95185,1
+2023,Juniata,Pennsylvania,"42067",277777,2
+2023,Juniata,Pennsylvania,"42067",162626,1
+2023,Lackawanna,Pennsylvania,"42069",260000,1
+2023,Lackawanna,Pennsylvania,"42069",181800,1
+2023,Lackawanna,Pennsylvania,"42069",317676,2
+2023,Lackawanna,Pennsylvania,"42069",211616,2
+2023,Lackawanna,Pennsylvania,"42069",222222,1
+2023,Lackawanna,Pennsylvania,"42069",241414,1
+2023,Lackawanna,Pennsylvania,"42069",418661,2
+2023,Lackawanna,Pennsylvania,"42069",227272,1
+2023,Lackawanna,Pennsylvania,"42069",272727,1
+2023,Lackawanna,Pennsylvania,"42069",150404,1
+2023,Lawrence,Pennsylvania,"42073",467000,2
+2023,Lawrence,Pennsylvania,"42073",292000,1
+2023,Lawrence,Pennsylvania,"42073",181717,1
+2023,Lawrence,Pennsylvania,"42073",141414,1
+2023,Lawrence,Pennsylvania,"42073",116161,1
+2023,Lawrence,Pennsylvania,"42073",131868,1
+2023,Lawrence,Pennsylvania,"42073",585755,5
+2023,Lawrence,Pennsylvania,"42073",79797,1
+2023,Lawrence,Pennsylvania,"42073",200989,1
+2023,Lawrence,Pennsylvania,"42073",299999,2
+2023,Lawrence,Pennsylvania,"42073",166666,1
+2023,Lawrence,Pennsylvania,"42073",221212,1
+2023,Lawrence,Pennsylvania,"42073",202020,1
+2023,Lawrence,Pennsylvania,"42073",180808,1
+2023,Luzerne,Pennsylvania,"42079",131688,1
+2023,Luzerne,Pennsylvania,"42079",262626,1
+2023,Luzerne,Pennsylvania,"42079",148989,1
+2023,Luzerne,Pennsylvania,"42079",695300,4
+2023,Luzerne,Pennsylvania,"42079",98989,1
+2023,Luzerne,Pennsylvania,"42079",237373,1
+2023,Luzerne,Pennsylvania,"42079",191919,1
+2023,Luzerne,Pennsylvania,"42079",86363,1
+2023,Luzerne,Pennsylvania,"42079",392625,3
+2023,Luzerne,Pennsylvania,"42079",233837,2
+2023,Lycoming,Pennsylvania,"42081",515151,3
+2023,Lycoming,Pennsylvania,"42081",967674,6
+2023,Lycoming,Pennsylvania,"42081",176666,1
+2023,Lycoming,Pennsylvania,"42081",160606,1
+2023,Lycoming,Pennsylvania,"42081",370706,2
+2023,Lycoming,Pennsylvania,"42081",186868,1
+2023,Lycoming,Pennsylvania,"42081",239393,1
+2023,Lycoming,Pennsylvania,"42081",151515,1
+2023,Lycoming,Pennsylvania,"42081",514140,4
+2023,Lycoming,Pennsylvania,"42081",111010,1
+2023,Lycoming,Pennsylvania,"42081",383818,2
+2023,Lycoming,Pennsylvania,"42081",97979,1
+2023,McKean,Pennsylvania,"42083",100000,1
+2023,McKean,Pennsylvania,"42083",125080,2
+2023,McKean,Pennsylvania,"42083",176595,1
+2023,McKean,Pennsylvania,"42083",83585,1
+2023,Mercer,Pennsylvania,"42085",126600,1
+2023,Mercer,Pennsylvania,"42085",336363,2
+2023,Mercer,Pennsylvania,"42085",167535,1
+2023,Mercer,Pennsylvania,"42085",95292,1
+2023,Mercer,Pennsylvania,"42085",317171,2
+2023,Mercer,Pennsylvania,"42085",421110,2
+2023,Mercer,Pennsylvania,"42085",229292,1
+2023,Mercer,Pennsylvania,"42085",155555,1
+2023,Mercer,Pennsylvania,"42085",113636,1
+2023,Mercer,Pennsylvania,"42085",534259,3
+2023,Mercer,Pennsylvania,"42085",57575,1
+2023,Mercer,Pennsylvania,"42085",126262,1
+2023,Mercer,Pennsylvania,"42085",80808,1
+2023,Mercer,Pennsylvania,"42085",140404,1
+2023,Mercer,Pennsylvania,"42085",69696,1
+2023,Mercer,Pennsylvania,"42085",76666,1
+2023,Mifflin,Pennsylvania,"42087",136363,1
+2023,Mifflin,Pennsylvania,"42087",171313,1
+2023,Mifflin,Pennsylvania,"42087",212121,1
+2023,Mifflin,Pennsylvania,"42087",85858,1
+2023,Mifflin,Pennsylvania,"42087",127777,1
+2023,Mifflin,Pennsylvania,"42087",740806,8
+2023,Mifflin,Pennsylvania,"42087",85858,1
+2023,Mifflin,Pennsylvania,"42087",264646,2
+2023,Monroe,Pennsylvania,"42089",327400,1
+2023,Monroe,Pennsylvania,"42089",251515,1
+2023,Monroe,Pennsylvania,"42089",563200,2
+2023,Monroe,Pennsylvania,"42089",239500,1
+2023,Monroe,Pennsylvania,"42089",602100,2
+2023,Monroe,Pennsylvania,"42089",269500,1
+2023,Monroe,Pennsylvania,"42089",257575,1
+2023,Monroe,Pennsylvania,"42089",139696,1
+2023,Monroe,Pennsylvania,"42089",421211,2
+2023,Monroe,Pennsylvania,"42089",262626,1
+2023,Monroe,Pennsylvania,"42089",260606,1
+2023,Monroe,Pennsylvania,"42089",205454,1
+2023,Monroe,Pennsylvania,"42089",257575,1
+2023,Monroe,Pennsylvania,"42089",217171,1
+2023,Monroe,Pennsylvania,"42089",176767,1
+2023,Monroe,Pennsylvania,"42089",171717,1
+2023,Monroe,Pennsylvania,"42089",175252,1
+2023,Monroe,Pennsylvania,"42089",460604,3
+2023,Monroe,Pennsylvania,"42089",264646,1
+2023,Monroe,Pennsylvania,"42089",228282,1
+2023,Monroe,Pennsylvania,"42089",303030,1
+2023,Montour,Pennsylvania,"42093",378190,2
+2023,Montour,Pennsylvania,"42093",128787,1
+2023,Northumberland,Pennsylvania,"42097",216050,1
+2023,Northumberland,Pennsylvania,"42097",53000,1
+2023,Northumberland,Pennsylvania,"42097",146400,2
+2023,Northumberland,Pennsylvania,"42097",1503028,9
+2023,Northumberland,Pennsylvania,"42097",1130095,12
+2023,Northumberland,Pennsylvania,"42097",176767,1
+2023,Northumberland,Pennsylvania,"42097",424242,2
+2023,Northumberland,Pennsylvania,"42097",90909,1
+2023,Northumberland,Pennsylvania,"42097",673331,4
+2023,Northumberland,Pennsylvania,"42097",132323,1
+2023,Northumberland,Pennsylvania,"42097",140303,1
+2023,Northumberland,Pennsylvania,"42097",449898,4
+2023,Northumberland,Pennsylvania,"42097",64646,1
+2023,Northumberland,Pennsylvania,"42097",543311,5
+2023,Northumberland,Pennsylvania,"42097",493484,3
+2023,Northumberland,Pennsylvania,"42097",379291,3
+2023,Northumberland,Pennsylvania,"42097",151414,1
+2023,Perry,Pennsylvania,"42099",623100,2
+2023,Perry,Pennsylvania,"42099",336500,1
+2023,Perry,Pennsylvania,"42099",210606,1
+2023,Perry,Pennsylvania,"42099",191818,1
+2023,Perry,Pennsylvania,"42099",323130,2
+2023,Perry,Pennsylvania,"42099",208080,1
+2023,Perry,Pennsylvania,"42099",151414,1
+2023,Perry,Pennsylvania,"42099",421211,2
+2023,Pike,Pennsylvania,"42103",135000,1
+2023,Pike,Pennsylvania,"42103",534500,2
+2023,Pike,Pennsylvania,"42103",470706,2
+2023,Pike,Pennsylvania,"42103",209090,1
+2023,Pike,Pennsylvania,"42103",181818,1
+2023,Pike,Pennsylvania,"42103",322221,2
+2023,Pike,Pennsylvania,"42103",183333,1
+2023,Pike,Pennsylvania,"42103",166666,1
+2023,Pike,Pennsylvania,"42103",214141,1
+2023,Pike,Pennsylvania,"42103",220202,1
+2023,Pike,Pennsylvania,"42103",204040,1
+2023,Pike,Pennsylvania,"42103",504039,3
+2023,Pike,Pennsylvania,"42103",207070,1
+2023,Potter,Pennsylvania,"42105",186868,1
+2023,Schuylkill,Pennsylvania,"42107",267000,1
+2023,Schuylkill,Pennsylvania,"42107",435150,3
+2023,Schuylkill,Pennsylvania,"42107",239393,1
+2023,Schuylkill,Pennsylvania,"42107",226151,2
+2023,Schuylkill,Pennsylvania,"42107",371210,3
+2023,Schuylkill,Pennsylvania,"42107",167660,1
+2023,Schuylkill,Pennsylvania,"42107",21717,1
+2023,Schuylkill,Pennsylvania,"42107",205050,1
+2023,Schuylkill,Pennsylvania,"42107",1425448,12
+2023,Schuylkill,Pennsylvania,"42107",210504,2
+2023,Schuylkill,Pennsylvania,"42107",109090,1
+2023,Schuylkill,Pennsylvania,"42107",233332,2
+2023,Schuylkill,Pennsylvania,"42107",104040,1
+2023,Schuylkill,Pennsylvania,"42107",165656,1
+2023,Schuylkill,Pennsylvania,"42107",127272,1
+2023,Schuylkill,Pennsylvania,"42107",50505,1
+2023,Snyder,Pennsylvania,"42109",189898,1
+2023,Snyder,Pennsylvania,"42109",176767,1
+2023,Snyder,Pennsylvania,"42109",125050,1
+2023,Snyder,Pennsylvania,"42109",137373,1
+2023,Snyder,Pennsylvania,"42109",202020,1
+2023,Snyder,Pennsylvania,"42109",178787,1
+2023,Snyder,Pennsylvania,"42109",1470173,10
+2023,Somerset,Pennsylvania,"42111",124242,1
+2023,Somerset,Pennsylvania,"42111",158585,1
+2023,Somerset,Pennsylvania,"42111",107575,1
+2023,Somerset,Pennsylvania,"42111",362624,4
+2023,Somerset,Pennsylvania,"42111",151515,1
+2023,Somerset,Pennsylvania,"42111",161616,1
+2023,Somerset,Pennsylvania,"42111",64444,1
+2023,Somerset,Pennsylvania,"42111",72727,1
+2023,Somerset,Pennsylvania,"42111",101010,1
+2023,Somerset,Pennsylvania,"42111",694138,7
+2023,Somerset,Pennsylvania,"42111",661144,7
+2023,Somerset,Pennsylvania,"42111",400504,3
+2023,Somerset,Pennsylvania,"42111",69191,1
+2023,Sullivan,Pennsylvania,"42113",176767,1
+2023,Sullivan,Pennsylvania,"42113",196969,2
+2023,Sullivan,Pennsylvania,"42113",186868,1
+2023,Susquehanna,Pennsylvania,"42115",105308,1
+2023,Susquehanna,Pennsylvania,"42115",197868,1
+2023,Susquehanna,Pennsylvania,"42115",157575,1
+2023,Susquehanna,Pennsylvania,"42115",1449169,11
+2023,Tioga,Pennsylvania,"42117",444000,2
+2023,Tioga,Pennsylvania,"42117",277777,1
+2023,Tioga,Pennsylvania,"42117",353464,2
+2023,Tioga,Pennsylvania,"42117",406059,2
+2023,Tioga,Pennsylvania,"42117",101010,1
+2023,Union,Pennsylvania,"42119",219191,1
+2023,Union,Pennsylvania,"42119",252525,1
+2023,Union,Pennsylvania,"42119",151515,1
+2023,Union,Pennsylvania,"42119",181818,1
+2023,Union,Pennsylvania,"42119",191818,1
+2023,Venango,Pennsylvania,"42121",150505,1
+2023,Venango,Pennsylvania,"42121",404947,4
+2023,Venango,Pennsylvania,"42121",120202,1
+2023,Venango,Pennsylvania,"42121",258484,2
+2023,Venango,Pennsylvania,"42121",257474,2
+2023,Venango,Pennsylvania,"42121",110000,1
+2023,Venango,Pennsylvania,"42121",97979,1
+2023,Venango,Pennsylvania,"42121",126262,1
+2023,Venango,Pennsylvania,"42121",353029,3
+2023,Venango,Pennsylvania,"42121",121212,1
+2023,Venango,Pennsylvania,"42121",191818,2
+2023,Venango,Pennsylvania,"42121",122222,1
+2023,Warren,Pennsylvania,"42123",136300,1
+2023,Warren,Pennsylvania,"42123",232323,1
+2023,Warren,Pennsylvania,"42123",227892,2
+2023,Warren,Pennsylvania,"42123",178377,2
+2023,Warren,Pennsylvania,"42123",310605,2
+2023,Warren,Pennsylvania,"42123",92929,1
+2023,Washington,Pennsylvania,"42125",185000,1
+2023,Washington,Pennsylvania,"42125",665500,3
+2023,Washington,Pennsylvania,"42125",130085,1
+2023,Washington,Pennsylvania,"42125",341817,3
+2023,Washington,Pennsylvania,"42125",121212,1
+2023,Washington,Pennsylvania,"42125",72727,1
+2023,Washington,Pennsylvania,"42125",536210,3
+2023,Washington,Pennsylvania,"42125",705352,4
+2023,Washington,Pennsylvania,"42125",1222520,11
+2023,Washington,Pennsylvania,"42125",129747,1
+2023,Washington,Pennsylvania,"42125",447978,3
+2023,Washington,Pennsylvania,"42125",212121,1
+2023,Washington,Pennsylvania,"42125",146464,1
+2023,Washington,Pennsylvania,"42125",75757,1
+2023,Washington,Pennsylvania,"42125",313131,2
+2023,Washington,Pennsylvania,"42125",109090,1
+2023,Washington,Pennsylvania,"42125",202020,1
+2023,Washington,Pennsylvania,"42125",105050,1
+2023,Washington,Pennsylvania,"42125",262626,1
+2023,Washington,Pennsylvania,"42125",126262,1
+2023,Washington,Pennsylvania,"42125",139393,1
+2023,Washington,Pennsylvania,"42125",134242,1
+2023,Washington,Pennsylvania,"42125",198484,1
+2023,Washington,Pennsylvania,"42125",302019,2
+2023,Washington,Pennsylvania,"42125",1043835,7
+2023,Washington,Pennsylvania,"42125",50404,1
+2023,Wayne,Pennsylvania,"42127",293700,1
+2023,Wayne,Pennsylvania,"42127",227000,1
+2023,Wayne,Pennsylvania,"42127",171000,1
+2023,Wayne,Pennsylvania,"42127",179797,1
+2023,Wayne,Pennsylvania,"42127",1321160,7
+2023,Wayne,Pennsylvania,"42127",100000,1
+2023,Wayne,Pennsylvania,"42127",227424,1
+2023,Westmoreland,Pennsylvania,"42129",149000,1
+2023,Westmoreland,Pennsylvania,"42129",166666,1
+2023,Westmoreland,Pennsylvania,"42129",126262,1
+2023,Westmoreland,Pennsylvania,"42129",271717,1
+2023,Westmoreland,Pennsylvania,"42129",161515,1
+2023,Westmoreland,Pennsylvania,"42129",467069,3
+2023,Westmoreland,Pennsylvania,"42129",262626,1
+2023,Westmoreland,Pennsylvania,"42129",309090,1
+2023,Westmoreland,Pennsylvania,"42129",136616,1
+2023,Westmoreland,Pennsylvania,"42129",213400,1
+2023,Westmoreland,Pennsylvania,"42129",197800,2
+2023,Westmoreland,Pennsylvania,"42129",152525,1
+2023,Westmoreland,Pennsylvania,"42129",413635,3
+2023,Westmoreland,Pennsylvania,"42129",440302,3
+2023,Westmoreland,Pennsylvania,"42129",124242,1
+2023,Westmoreland,Pennsylvania,"42129",552321,4
+2023,Westmoreland,Pennsylvania,"42129",126262,1
+2023,Westmoreland,Pennsylvania,"42129",611816,4
+2023,Westmoreland,Pennsylvania,"42129",141414,1
+2023,Westmoreland,Pennsylvania,"42129",50505,1
+2023,Westmoreland,Pennsylvania,"42129",239292,2
+2023,Westmoreland,Pennsylvania,"42129",171717,1
+2023,Westmoreland,Pennsylvania,"42129",131212,1
+2023,Westmoreland,Pennsylvania,"42129",90909,1
+2023,Westmoreland,Pennsylvania,"42129",121212,1
+2023,Westmoreland,Pennsylvania,"42129",282727,1
+2023,Westmoreland,Pennsylvania,"42129",88383,1
+2023,Westmoreland,Pennsylvania,"42129",1814788,12
+2023,Westmoreland,Pennsylvania,"42129",1560298,10
+2023,Westmoreland,Pennsylvania,"42129",465049,3
+2023,Westmoreland,Pennsylvania,"42129",531831,4
+2023,Westmoreland,Pennsylvania,"42129",177272,1
+2023,Westmoreland,Pennsylvania,"42129",1150199,8
+2023,Westmoreland,Pennsylvania,"42129",237373,1
+2023,Westmoreland,Pennsylvania,"42129",357978,3
+2023,Westmoreland,Pennsylvania,"42129",127272,1
+2023,Westmoreland,Pennsylvania,"42129",126262,1
+2023,Westmoreland,Pennsylvania,"42129",213635,2
+2023,Westmoreland,Pennsylvania,"42129",436766,3
+2023,Wyoming,Pennsylvania,"42131",431850,2
+2023,Wyoming,Pennsylvania,"42131",267300,1
+2023,Wyoming,Pennsylvania,"42131",200000,1
+2023,Wyoming,Pennsylvania,"42131",129797,1
+2023,Wyoming,Pennsylvania,"42131",184848,1
+2023,Wyoming,Pennsylvania,"42131",141313,1
+2023,Wyoming,Pennsylvania,"42131",99292,1
+2023,Anderson,South Carolina,"45007",225445,2
+2023,Anderson,South Carolina,"45007",359300,1
+2023,Anderson,South Carolina,"45007",281600,1
+2023,Anderson,South Carolina,"45007",251500,1
+2023,Anderson,South Carolina,"45007",1914320,8
+2023,Anderson,South Carolina,"45007",241131,1
+2023,Anderson,South Carolina,"45007",966210,4
+2023,Anderson,South Carolina,"45007",926742,4
+2023,Anderson,South Carolina,"45007",249214,1
+2023,Anderson,South Carolina,"45007",166666,1
+2023,Anderson,South Carolina,"45007",523231,3
+2023,Anderson,South Carolina,"45007",358584,2
+2023,Anderson,South Carolina,"45007",262525,1
+2023,Anderson,South Carolina,"45007",1193937,5
+2023,Anderson,South Carolina,"45007",176767,1
+2023,Anderson,South Carolina,"45007",176767,1
+2023,Anderson,South Carolina,"45007",181818,1
+2023,Anderson,South Carolina,"45007",367676,2
+2023,Anderson,South Carolina,"45007",632524,2
+2023,Anderson,South Carolina,"45007",3430598,15
+2023,Anderson,South Carolina,"45007",182070,1
+2023,Anderson,South Carolina,"45007",297979,1
+2023,Anderson,South Carolina,"45007",184343,1
+2023,Anderson,South Carolina,"45007",237373,1
+2023,Anderson,South Carolina,"45007",161616,1
+2023,Anderson,South Carolina,"45007",268686,1
+2023,Anderson,South Carolina,"45007",688382,4
+2023,Anderson,South Carolina,"45007",211111,1
+2023,Anderson,South Carolina,"45007",641412,3
+2023,Anderson,South Carolina,"45007",141000,1
+2023,Anderson,South Carolina,"45007",249494,1
+2023,Anderson,South Carolina,"45007",277676,1
+2023,Anderson,South Carolina,"45007",190909,1
+2023,Anderson,South Carolina,"45007",877981,5
+2023,Anderson,South Carolina,"45007",262626,2
+2023,Anderson,South Carolina,"45007",815451,3
+2023,Anderson,South Carolina,"45007",820200,4
+2023,Anderson,South Carolina,"45007",345453,2
+2023,Anderson,South Carolina,"45007",156565,1
+2023,Anderson,South Carolina,"45007",1117876,5
+2023,Anderson,South Carolina,"45007",126161,1
+2023,Anderson,South Carolina,"45007",187878,1
+2023,Anderson,South Carolina,"45007",272626,1
+2023,Anderson,South Carolina,"45007",242424,1
+2023,Anderson,South Carolina,"45007",1923459,9
+2023,Anderson,South Carolina,"45007",232222,1
+2023,Anderson,South Carolina,"45007",544949,2
+2023,Anderson,South Carolina,"45007",173737,1
+2023,Anderson,South Carolina,"45007",232222,1
+2023,Anderson,South Carolina,"45007",1243391,7
+2023,Cherokee,South Carolina,"45021",213178,1
+2023,Cherokee,South Carolina,"45021",235000,1
+2023,Cherokee,South Carolina,"45021",353000,2
+2023,Cherokee,South Carolina,"45021",77632,1
+2023,Cherokee,South Carolina,"45021",692927,4
+2023,Cherokee,South Carolina,"45021",173737,1
+2023,Cherokee,South Carolina,"45021",171616,1
+2023,Cherokee,South Carolina,"45021",148484,1
+2023,Cherokee,South Carolina,"45021",535352,3
+2023,Cherokee,South Carolina,"45021",595958,3
+2023,Cherokee,South Carolina,"45021",285353,1
+2023,Cherokee,South Carolina,"45021",196969,1
+2023,Cherokee,South Carolina,"45021",478767,2
+2023,Cherokee,South Carolina,"45021",377676,2
+2023,Cherokee,South Carolina,"45021",757977,4
+2023,Cherokee,South Carolina,"45021",197979,1
+2023,Cherokee,South Carolina,"45021",160101,1
+2023,Cherokee,South Carolina,"45021",151515,1
+2023,Cherokee,South Carolina,"45021",169696,1
+2023,Cherokee,South Carolina,"45021",1466663,7
+2023,Cherokee,South Carolina,"45021",161616,1
+2023,Cherokee,South Carolina,"45021",406130,2
+2023,Cherokee,South Carolina,"45021",497878,2
+2023,Greenville,South Carolina,"45045",997310,3
+2023,Greenville,South Carolina,"45045",309900,1
+2023,Greenville,South Carolina,"45045",1153200,4
+2023,Greenville,South Carolina,"45045",264636,1
+2023,Greenville,South Carolina,"45045",237373,1
+2023,Greenville,South Carolina,"45045",306050,1
+2023,Greenville,South Carolina,"45045",229797,1
+2023,Greenville,South Carolina,"45045",1220998,4
+2023,Greenville,South Carolina,"45045",268181,1
+2023,Greenville,South Carolina,"45045",256526,1
+2023,Greenville,South Carolina,"45045",281818,1
+2023,Greenville,South Carolina,"45045",244444,1
+2023,Greenville,South Carolina,"45045",249494,1
+2023,Greenville,South Carolina,"45045",227000,1
+2023,Greenville,South Carolina,"45045",234444,1
+2023,Greenville,South Carolina,"45045",249494,1
+2023,Greenville,South Carolina,"45045",235353,1
+2023,Greenville,South Carolina,"45045",574999,2
+2023,Greenville,South Carolina,"45045",346666,1
+2023,Greenville,South Carolina,"45045",310044,1
+2023,Greenville,South Carolina,"45045",210006,1
+2023,Greenville,South Carolina,"45045",253535,1
+2023,Greenville,South Carolina,"45045",310000,1
+2023,Greenville,South Carolina,"45045",272031,1
+2023,Greenville,South Carolina,"45045",902490,3
+2023,Greenville,South Carolina,"45045",620005,2
+2023,Greenville,South Carolina,"45045",232323,1
+2023,Greenville,South Carolina,"45045",211111,1
+2023,Greenville,South Carolina,"45045",287878,1
+2023,Greenville,South Carolina,"45045",266666,1
+2023,Greenville,South Carolina,"45045",282828,1
+2023,Greenville,South Carolina,"45045",820100,3
+2023,Greenville,South Carolina,"45045",307565,1
+2023,Greenville,South Carolina,"45045",803028,3
+2023,Greenville,South Carolina,"45045",197979,1
+2023,Greenville,South Carolina,"45045",252424,1
+2023,Greenville,South Carolina,"45045",517674,2
+2023,Greenville,South Carolina,"45045",493938,2
+2023,Greenville,South Carolina,"45045",249494,1
+2023,Greenville,South Carolina,"45045",305012,1
+2023,Greenville,South Carolina,"45045",333333,1
+2023,Greenville,South Carolina,"45045",506060,2
+2023,Greenville,South Carolina,"45045",126363,1
+2023,Greenville,South Carolina,"45045",268676,1
+2023,Greenville,South Carolina,"45045",328282,1
+2023,Oconee,South Carolina,"45073",836100,3
+2023,Oconee,South Carolina,"45073",230000,1
+2023,Oconee,South Carolina,"45073",283333,2
+2023,Oconee,South Carolina,"45073",456060,2
+2023,Oconee,South Carolina,"45073",186868,1
+2023,Oconee,South Carolina,"45073",223717,1
+2023,Oconee,South Carolina,"45073",367676,2
+2023,Oconee,South Carolina,"45073",125252,1
+2023,Oconee,South Carolina,"45073",192878,1
+2023,Oconee,South Carolina,"45073",211101,1
+2023,Oconee,South Carolina,"45073",559297,3
+2023,Oconee,South Carolina,"45073",217171,1
+2023,Oconee,South Carolina,"45073",161616,1
+2023,Oconee,South Carolina,"45073",210101,1
+2023,Oconee,South Carolina,"45073",93434,1
+2023,Oconee,South Carolina,"45073",212121,1
+2023,Oconee,South Carolina,"45073",252515,1
+2023,Oconee,South Carolina,"45073",696363,3
+2023,Oconee,South Carolina,"45073",225252,1
+2023,Oconee,South Carolina,"45073",127272,1
+2023,Oconee,South Carolina,"45073",123989,1
+2023,Oconee,South Carolina,"45073",197979,1
+2023,Oconee,South Carolina,"45073",342424,2
+2023,Pickens,South Carolina,"45077",237000,1
+2023,Pickens,South Carolina,"45077",325252,1
+2023,Pickens,South Carolina,"45077",190955,1
+2023,Pickens,South Carolina,"45077",200000,1
+2023,Pickens,South Carolina,"45077",1369541,7
+2023,Pickens,South Carolina,"45077",259595,1
+2023,Pickens,South Carolina,"45077",717070,3
+2023,Pickens,South Carolina,"45077",272727,1
+2023,Pickens,South Carolina,"45077",166666,1
+2023,Pickens,South Carolina,"45077",118181,1
+2023,Pickens,South Carolina,"45077",71717,1
+2023,Pickens,South Carolina,"45077",162626,1
+2023,Pickens,South Carolina,"45077",373673,2
+2023,Pickens,South Carolina,"45077",446363,2
+2023,Pickens,South Carolina,"45077",227272,1
+2023,Pickens,South Carolina,"45077",285353,1
+2023,Pickens,South Carolina,"45077",190909,1
+2023,Pickens,South Carolina,"45077",526814,2
+2023,Spartanburg,South Carolina,"45083",283200,1
+2023,Spartanburg,South Carolina,"45083",184000,1
+2023,Spartanburg,South Carolina,"45083",722850,3
+2023,Spartanburg,South Carolina,"45083",1419355,5
+2023,Spartanburg,South Carolina,"45083",115300,1
+2023,Spartanburg,South Carolina,"45083",265655,1
+2023,Spartanburg,South Carolina,"45083",197979,1
+2023,Spartanburg,South Carolina,"45083",211111,1
+2023,Spartanburg,South Carolina,"45083",395236,2
+2023,Spartanburg,South Carolina,"45083",2068874,10
+2023,Spartanburg,South Carolina,"45083",605049,3
+2023,Spartanburg,South Carolina,"45083",156565,1
+2023,Spartanburg,South Carolina,"45083",196969,1
+2023,Spartanburg,South Carolina,"45083",116161,1
+2023,Spartanburg,South Carolina,"45083",420976,2
+2023,Spartanburg,South Carolina,"45083",416716,2
+2023,Spartanburg,South Carolina,"45083",191919,1
+2023,Spartanburg,South Carolina,"45083",269792,1
+2023,Spartanburg,South Carolina,"45083",691918,3
+2023,Spartanburg,South Carolina,"45083",1251403,4
+2023,Spartanburg,South Carolina,"45083",2082632,9
+2023,Spartanburg,South Carolina,"45083",151515,1
+2023,Spartanburg,South Carolina,"45083",206060,1
+2023,Spartanburg,South Carolina,"45083",217070,1
+2023,Spartanburg,South Carolina,"45083",196969,1
+2023,Spartanburg,South Carolina,"45083",428080,2
+2023,Spartanburg,South Carolina,"45083",161515,1
+2023,Spartanburg,South Carolina,"45083",215151,1
+2023,Spartanburg,South Carolina,"45083",170707,1
+2023,Spartanburg,South Carolina,"45083",510079,2
+2023,Spartanburg,South Carolina,"45083",253123,1
+2023,Spartanburg,South Carolina,"45083",281312,1
+2023,Spartanburg,South Carolina,"45083",321909,1
+2023,Spartanburg,South Carolina,"45083",626514,3
+2023,Spartanburg,South Carolina,"45083",237373,1
+2023,Spartanburg,South Carolina,"45083",1097321,5
+2023,Spartanburg,South Carolina,"45083",247474,1
+2023,Spartanburg,South Carolina,"45083",245959,1
+2023,Spartanburg,South Carolina,"45083",202020,1
+2023,Spartanburg,South Carolina,"45083",139898,1
+2023,Spartanburg,South Carolina,"45083",999511,4
+2023,Spartanburg,South Carolina,"45083",193939,1
+2023,Spartanburg,South Carolina,"45083",641312,3
+2023,Spartanburg,South Carolina,"45083",1689316,9
+2023,Spartanburg,South Carolina,"45083",221212,1
+2023,Spartanburg,South Carolina,"45083",570706,3
+2023,Spartanburg,South Carolina,"45083",4432416,18
+2023,Spartanburg,South Carolina,"45083",212121,1
+2023,Spartanburg,South Carolina,"45083",267676,1
+2023,Spartanburg,South Carolina,"45083",125252,1
+2023,Spartanburg,South Carolina,"45083",453534,2
+2023,Spartanburg,South Carolina,"45083",851402,4
+2023,Spartanburg,South Carolina,"45083",641470,3
+2023,Spartanburg,South Carolina,"45083",196740,1
+2023,Spartanburg,South Carolina,"45083",1342219,6
+2023,Spartanburg,South Carolina,"45083",182828,1
+2023,Spartanburg,South Carolina,"45083",179292,1
+2023,Spartanburg,South Carolina,"45083",285858,1
+2023,Spartanburg,South Carolina,"45083",219191,1
+2023,Spartanburg,South Carolina,"45083",341414,1
+2023,Spartanburg,South Carolina,"45083",410605,2
+2023,Spartanburg,South Carolina,"45083",288888,1
+2023,Spartanburg,South Carolina,"45083",237363,1
+2023,Spartanburg,South Carolina,"45083",247474,1
+2023,Spartanburg,South Carolina,"45083",181818,1
+2023,Spartanburg,South Carolina,"45083",906967,4
+2023,Spartanburg,South Carolina,"45083",173737,1
+2023,Spartanburg,South Carolina,"45083",253939,1
+2023,Spartanburg,South Carolina,"45083",349494,1
+2023,Spartanburg,South Carolina,"45083",390908,2
+2023,Spartanburg,South Carolina,"45083",721234,4
+2023,Spartanburg,South Carolina,"45083",262626,1
+2023,Spartanburg,South Carolina,"45083",242323,1
+2023,Union,South Carolina,"45087",167000,1
+2023,Union,South Carolina,"45087",709724,5
+2023,Union,South Carolina,"45087",161616,1
+2023,Union,South Carolina,"45087",228282,1
+2023,Union,South Carolina,"45087",764644,5
+2023,Union,South Carolina,"45087",116161,1
+2023,Union,South Carolina,"45087",190404,1
+2023,Union,South Carolina,"45087",151515,1
+2023,Anderson,Tennessee,"47001",116363,1
+2023,Anderson,Tennessee,"47001",63000,1
+2023,Anderson,Tennessee,"47001",184848,1
+2023,Anderson,Tennessee,"47001",397472,2
+2023,Anderson,Tennessee,"47001",265656,1
+2023,Anderson,Tennessee,"47001",205050,1
+2023,Anderson,Tennessee,"47001",191919,1
+2023,Anderson,Tennessee,"47001",590214,3
+2023,Anderson,Tennessee,"47001",182555,1
+2023,Anderson,Tennessee,"47001",244949,1
+2023,Anderson,Tennessee,"47001",2024840,9
+2023,Anderson,Tennessee,"47001",257575,1
+2023,Anderson,Tennessee,"47001",499999,2
+2023,Anderson,Tennessee,"47001",161616,1
+2023,Anderson,Tennessee,"47001",217171,1
+2023,Anderson,Tennessee,"47001",246464,1
+2023,Bledsoe,Tennessee,"47007",332727,1
+2023,Bledsoe,Tennessee,"47007",151515,1
+2023,Bledsoe,Tennessee,"47007",228282,1
+2023,Bledsoe,Tennessee,"47007",208080,1
+2023,Blount,Tennessee,"47009",332000,1
+2023,Blount,Tennessee,"47009",336000,1
+2023,Blount,Tennessee,"47009",292630,2
+2023,Blount,Tennessee,"47009",232323,1
+2023,Blount,Tennessee,"47009",271463,1
+2023,Blount,Tennessee,"47009",192020,1
+2023,Blount,Tennessee,"47009",388888,2
+2023,Blount,Tennessee,"47009",1189493,5
+2023,Blount,Tennessee,"47009",1374750,6
+2023,Blount,Tennessee,"47009",202020,1
+2023,Blount,Tennessee,"47009",202020,1
+2023,Blount,Tennessee,"47009",278282,1
+2023,Blount,Tennessee,"47009",327272,1
+2023,Blount,Tennessee,"47009",512120,2
+2023,Bradley,Tennessee,"47011",110456,1
+2023,Bradley,Tennessee,"47011",300000,1
+2023,Bradley,Tennessee,"47011",394900,2
+2023,Bradley,Tennessee,"47011",228000,1
+2023,Bradley,Tennessee,"47011",248383,2
+2023,Bradley,Tennessee,"47011",222222,1
+2023,Bradley,Tennessee,"47011",550504,2
+2023,Bradley,Tennessee,"47011",366565,2
+2023,Bradley,Tennessee,"47011",227272,1
+2023,Bradley,Tennessee,"47011",403605,2
+2023,Bradley,Tennessee,"47011",527171,2
+2023,Bradley,Tennessee,"47011",242424,1
+2023,Campbell,Tennessee,"47013",210000,1
+2023,Campbell,Tennessee,"47013",193939,1
+2023,Campbell,Tennessee,"47013",399998,3
+2023,Campbell,Tennessee,"47013",220202,1
+2023,Campbell,Tennessee,"47013",127777,1
+2023,Campbell,Tennessee,"47013",101010,1
+2023,Campbell,Tennessee,"47013",394545,3
+2023,Campbell,Tennessee,"47013",196969,1
+2023,Campbell,Tennessee,"47013",176767,1
+2023,Campbell,Tennessee,"47013",147474,1
+2023,Campbell,Tennessee,"47013",606665,3
+2023,Campbell,Tennessee,"47013",204040,1
+2023,Campbell,Tennessee,"47013",156565,1
+2023,Campbell,Tennessee,"47013",231818,1
+2023,Campbell,Tennessee,"47013",157575,1
+2023,Campbell,Tennessee,"47013",168686,1
+2023,Campbell,Tennessee,"47013",943047,5
+2023,Campbell,Tennessee,"47013",214141,1
+2023,Campbell,Tennessee,"47013",210101,1
+2023,Campbell,Tennessee,"47013",69696,1
+2023,Campbell,Tennessee,"47013",216161,1
+2023,Cannon,Tennessee,"47015",264900,1
+2023,Cannon,Tennessee,"47015",185353,1
+2023,Cannon,Tennessee,"47015",252525,1
+2023,Cannon,Tennessee,"47015",292929,1
+2023,Cannon,Tennessee,"47015",242323,1
+2023,Cannon,Tennessee,"47015",198888,1
+2023,Carter,Tennessee,"47019",559985,2
+2023,Carter,Tennessee,"47019",315000,1
+2023,Carter,Tennessee,"47019",286868,2
+2023,Carter,Tennessee,"47019",494949,2
+2023,Carter,Tennessee,"47019",640301,4
+2023,Carter,Tennessee,"47019",352424,2
+2023,Carter,Tennessee,"47019",227272,1
+2023,Carter,Tennessee,"47019",930199,5
+2023,Carter,Tennessee,"47019",247474,1
+2023,Carter,Tennessee,"47019",296464,2
+2023,Carter,Tennessee,"47019",156565,1
+2023,Claiborne,Tennessee,"47025",220000,1
+2023,Claiborne,Tennessee,"47025",308000,1
+2023,Claiborne,Tennessee,"47025",549510,2
+2023,Claiborne,Tennessee,"47025",136363,1
+2023,Claiborne,Tennessee,"47025",193939,1
+2023,Claiborne,Tennessee,"47025",751008,5
+2023,Claiborne,Tennessee,"47025",278787,1
+2023,Claiborne,Tennessee,"47025",196969,1
+2023,Claiborne,Tennessee,"47025",1481455,7
+2023,Claiborne,Tennessee,"47025",176767,1
+2023,Claiborne,Tennessee,"47025",412626,2
+2023,Claiborne,Tennessee,"47025",148257,1
+2023,Claiborne,Tennessee,"47025",134242,1
+2023,Claiborne,Tennessee,"47025",874545,5
+2023,Claiborne,Tennessee,"47025",203636,1
+2023,Claiborne,Tennessee,"47025",317171,1
+2023,Clay,Tennessee,"47027",162626,1
+2023,Clay,Tennessee,"47027",119696,1
+2023,Cocke,Tennessee,"47029",694948,3
+2023,Cocke,Tennessee,"47029",267676,1
+2023,Cocke,Tennessee,"47029",608040,3
+2023,Cocke,Tennessee,"47029",175050,1
+2023,Cocke,Tennessee,"47029",252525,1
+2023,Cocke,Tennessee,"47029",308859,2
+2023,Cocke,Tennessee,"47029",171717,1
+2023,Cocke,Tennessee,"47029",232323,1
+2023,Coffee,Tennessee,"47031",275000,1
+2023,Coffee,Tennessee,"47031",360606,1
+2023,Coffee,Tennessee,"47031",1148381,4
+2023,Coffee,Tennessee,"47031",148484,1
+2023,Coffee,Tennessee,"47031",287878,1
+2023,Coffee,Tennessee,"47031",241414,1
+2023,Coffee,Tennessee,"47031",1368886,6
+2023,Coffee,Tennessee,"47031",187878,1
+2023,Coffee,Tennessee,"47031",825046,3
+2023,Coffee,Tennessee,"47031",1315857,5
+2023,Coffee,Tennessee,"47031",902826,3
+2023,Coffee,Tennessee,"47031",290808,1
+2023,Coffee,Tennessee,"47031",305050,1
+2023,Coffee,Tennessee,"47031",316060,2
+2023,Coffee,Tennessee,"47031",271212,1
+2023,Coffee,Tennessee,"47031",604544,2
+2023,Coffee,Tennessee,"47031",260000,1
+2023,Coffee,Tennessee,"47031",247474,1
+2023,Coffee,Tennessee,"47031",840301,3
+2023,Coffee,Tennessee,"47031",141414,1
+2023,Coffee,Tennessee,"47031",161515,1
+2023,Coffee,Tennessee,"47031",222222,1
+2023,Coffee,Tennessee,"47031",512120,2
+2023,Cumberland,Tennessee,"47035",134066,1
+2023,Cumberland,Tennessee,"47035",2813980,10
+2023,Cumberland,Tennessee,"47035",581000,2
+2023,Cumberland,Tennessee,"47035",947499,5
+2023,Cumberland,Tennessee,"47035",2542892,10
+2023,Cumberland,Tennessee,"47035",1060900,5
+2023,Cumberland,Tennessee,"47035",214000,1
+2023,Cumberland,Tennessee,"47035",256000,1
+2023,Cumberland,Tennessee,"47035",210101,1
+2023,Cumberland,Tennessee,"47035",202020,1
+2023,Cumberland,Tennessee,"47035",636362,3
+2023,Cumberland,Tennessee,"47035",213535,1
+2023,Cumberland,Tennessee,"47035",241414,1
+2023,Cumberland,Tennessee,"47035",161515,1
+2023,Cumberland,Tennessee,"47035",719190,3
+2023,Cumberland,Tennessee,"47035",456378,2
+2023,Cumberland,Tennessee,"47035",191818,1
+2023,Cumberland,Tennessee,"47035",252424,1
+2023,Cumberland,Tennessee,"47035",208080,1
+2023,Cumberland,Tennessee,"47035",543281,3
+2023,Cumberland,Tennessee,"47035",124242,1
+2023,Cumberland,Tennessee,"47035",252525,1
+2023,Cumberland,Tennessee,"47035",202020,1
+2023,Cumberland,Tennessee,"47035",278787,2
+2023,Fentress,Tennessee,"47049",179900,1
+2023,Fentress,Tennessee,"47049",136363,1
+2023,Fentress,Tennessee,"47049",146464,1
+2023,Fentress,Tennessee,"47049",160606,1
+2023,Fentress,Tennessee,"47049",260606,1
+2023,Fentress,Tennessee,"47049",280807,2
+2023,Fentress,Tennessee,"47049",174747,1
+2023,Fentress,Tennessee,"47049",70606,1
+2023,Fentress,Tennessee,"47049",406060,2
+2023,Fentress,Tennessee,"47049",777775,5
+2023,Fentress,Tennessee,"47049",156565,1
+2023,Fentress,Tennessee,"47049",130303,1
+2023,Franklin,Tennessee,"47051",176767,1
+2023,Franklin,Tennessee,"47051",106060,1
+2023,Franklin,Tennessee,"47051",227272,1
+2023,Franklin,Tennessee,"47051",449494,2
+2023,Franklin,Tennessee,"47051",799777,4
+2023,Franklin,Tennessee,"47051",429368,2
+2023,Franklin,Tennessee,"47051",158955,1
+2023,Franklin,Tennessee,"47051",1768783,8
+2023,Franklin,Tennessee,"47051",176767,1
+2023,Franklin,Tennessee,"47051",232323,1
+2023,Franklin,Tennessee,"47051",156565,1
+2023,Franklin,Tennessee,"47051",166666,1
+2023,Franklin,Tennessee,"47051",439999,2
+2023,Franklin,Tennessee,"47051",348484,2
+2023,Franklin,Tennessee,"47051",186868,1
+2023,Franklin,Tennessee,"47051",193939,1
+2023,Franklin,Tennessee,"47051",262626,1
+2023,Grainger,Tennessee,"47057",274000,1
+2023,Grainger,Tennessee,"47057",190000,1
+2023,Grainger,Tennessee,"47057",260145,1
+2023,Grainger,Tennessee,"47057",239393,1
+2023,Grainger,Tennessee,"47057",267676,1
+2023,Grainger,Tennessee,"47057",227272,1
+2023,Grainger,Tennessee,"47057",181818,1
+2023,Grainger,Tennessee,"47057",198787,1
+2023,Grainger,Tennessee,"47057",204040,1
+2023,Grainger,Tennessee,"47057",187373,1
+2023,Greene,Tennessee,"47059",308000,1
+2023,Greene,Tennessee,"47059",353000,2
+2023,Greene,Tennessee,"47059",490403,2
+2023,Greene,Tennessee,"47059",311009,2
+2023,Greene,Tennessee,"47059",415150,2
+2023,Greene,Tennessee,"47059",267575,1
+2023,Greene,Tennessee,"47059",133434,1
+2023,Greene,Tennessee,"47059",207070,1
+2023,Greene,Tennessee,"47059",204545,1
+2023,Greene,Tennessee,"47059",227272,1
+2023,Greene,Tennessee,"47059",201010,1
+2023,Greene,Tennessee,"47059",313029,2
+2023,Greene,Tennessee,"47059",158585,1
+2023,Greene,Tennessee,"47059",330808,1
+2023,Greene,Tennessee,"47059",631480,3
+2023,Greene,Tennessee,"47059",214646,1
+2023,Greene,Tennessee,"47059",191919,1
+2023,Greene,Tennessee,"47059",456090,2
+2023,Greene,Tennessee,"47059",644847,3
+2023,Grundy,Tennessee,"47061",231000,1
+2023,Grundy,Tennessee,"47061",280000,1
+2023,Grundy,Tennessee,"47061",117301,1
+2023,Grundy,Tennessee,"47061",193939,1
+2023,Grundy,Tennessee,"47061",121212,1
+2023,Grundy,Tennessee,"47061",275757,2
+2023,Grundy,Tennessee,"47061",158636,1
+2023,Grundy,Tennessee,"47061",317473,2
+2023,Grundy,Tennessee,"47061",191919,1
+2023,Grundy,Tennessee,"47061",179797,2
+2023,Grundy,Tennessee,"47061",79797,1
+2023,Hamblen,Tennessee,"47063",159409,1
+2023,Hamblen,Tennessee,"47063",536895,2
+2023,Hamblen,Tennessee,"47063",316275,1
+2023,Hamblen,Tennessee,"47063",199000,1
+2023,Hamblen,Tennessee,"47063",414039,2
+2023,Hamblen,Tennessee,"47063",176767,1
+2023,Hamblen,Tennessee,"47063",233636,1
+2023,Hamblen,Tennessee,"47063",253535,1
+2023,Hamblen,Tennessee,"47063",188888,1
+2023,Hamblen,Tennessee,"47063",1040806,5
+2023,Hamblen,Tennessee,"47063",283262,1
+2023,Hamblen,Tennessee,"47063",272727,1
+2023,Hamblen,Tennessee,"47063",269696,1
+2023,Hamblen,Tennessee,"47063",248383,1
+2023,Hamblen,Tennessee,"47063",346330,2
+2023,Hamblen,Tennessee,"47063",828200,4
+2023,Hamblen,Tennessee,"47063",201010,1
+2023,Hamblen,Tennessee,"47063",221009,2
+2023,Hamblen,Tennessee,"47063",368181,2
+2023,Hamblen,Tennessee,"47063",232323,1
+2023,Hamilton,Tennessee,"47065",187000,1
+2023,Hamilton,Tennessee,"47065",345000,1
+2023,Hamilton,Tennessee,"47065",303030,1
+2023,Hamilton,Tennessee,"47065",262626,1
+2023,Hamilton,Tennessee,"47065",404040,1
+2023,Hamilton,Tennessee,"47065",520201,2
+2023,Hamilton,Tennessee,"47065",196969,1
+2023,Hamilton,Tennessee,"47065",257575,1
+2023,Hamilton,Tennessee,"47065",408080,2
+2023,Hamilton,Tennessee,"47065",196969,1
+2023,Hamilton,Tennessee,"47065",216820,1
+2023,Hamilton,Tennessee,"47065",198888,1
+2023,Hamilton,Tennessee,"47065",252525,1
+2023,Hamilton,Tennessee,"47065",202020,1
+2023,Hamilton,Tennessee,"47065",1129291,4
+2023,Hancock,Tennessee,"47067",202020,1
+2023,Hancock,Tennessee,"47067",395453,3
+2023,Hancock,Tennessee,"47067",252525,1
+2023,Hawkins,Tennessee,"47073",223500,1
+2023,Hawkins,Tennessee,"47073",240000,1
+2023,Hawkins,Tennessee,"47073",711540,3
+2023,Hawkins,Tennessee,"47073",245220,1
+2023,Hawkins,Tennessee,"47073",135353,1
+2023,Hawkins,Tennessee,"47073",946260,5
+2023,Hawkins,Tennessee,"47073",576180,3
+2023,Hawkins,Tennessee,"47073",166666,1
+2023,Hawkins,Tennessee,"47073",209090,1
+2023,Hawkins,Tennessee,"47073",406059,2
+2023,Hawkins,Tennessee,"47073",268686,1
+2023,Hawkins,Tennessee,"47073",205000,1
+2023,Hawkins,Tennessee,"47073",252525,1
+2023,Hawkins,Tennessee,"47073",124141,1
+2023,Hawkins,Tennessee,"47073",251515,1
+2023,Hawkins,Tennessee,"47073",423655,3
+2023,Hawkins,Tennessee,"47073",344191,2
+2023,Hawkins,Tennessee,"47073",157575,1
+2023,Hawkins,Tennessee,"47073",250404,1
+2023,Hawkins,Tennessee,"47073",289393,2
+2023,Hawkins,Tennessee,"47073",141414,1
+2023,Hawkins,Tennessee,"47073",131313,1
+2023,Hawkins,Tennessee,"47073",155555,1
+2023,Jackson,Tennessee,"47087",115959,1
+2023,Jackson,Tennessee,"47087",166666,1
+2023,Jackson,Tennessee,"47087",186868,1
+2023,Jefferson,Tennessee,"47089",290000,1
+2023,Jefferson,Tennessee,"47089",201000,1
+2023,Jefferson,Tennessee,"47089",273000,1
+2023,Jefferson,Tennessee,"47089",1445330,6
+2023,Jefferson,Tennessee,"47089",243589,1
+2023,Jefferson,Tennessee,"47089",240784,1
+2023,Jefferson,Tennessee,"47089",386665,2
+2023,Jefferson,Tennessee,"47089",202020,1
+2023,Jefferson,Tennessee,"47089",417171,2
+2023,Jefferson,Tennessee,"47089",171717,1
+2023,Jefferson,Tennessee,"47089",634746,3
+2023,Jefferson,Tennessee,"47089",244444,1
+2023,Jefferson,Tennessee,"47089",263393,1
+2023,Jefferson,Tennessee,"47089",505049,2
+2023,Jefferson,Tennessee,"47089",505049,2
+2023,Jefferson,Tennessee,"47089",564039,3
+2023,Jefferson,Tennessee,"47089",212121,1
+2023,Jefferson,Tennessee,"47089",752524,3
+2023,Jefferson,Tennessee,"47089",416666,2
+2023,Jefferson,Tennessee,"47089",102222,1
+2023,Jefferson,Tennessee,"47089",417777,2
+2023,Jefferson,Tennessee,"47089",203030,1
+2023,Jefferson,Tennessee,"47089",210101,1
+2023,Jefferson,Tennessee,"47089",186868,1
+2023,Jefferson,Tennessee,"47089",216161,1
+2023,Jefferson,Tennessee,"47089",164661,1
+2023,Jefferson,Tennessee,"47089",232323,1
+2023,Johnson,Tennessee,"47091",186500,1
+2023,Johnson,Tennessee,"47091",150505,1
+2023,Johnson,Tennessee,"47091",204040,1
+2023,Johnson,Tennessee,"47091",199494,1
+2023,Knox,Tennessee,"47093",312000,1
+2023,Knox,Tennessee,"47093",325000,1
+2023,Knox,Tennessee,"47093",587400,2
+2023,Knox,Tennessee,"47093",207058,1
+2023,Knox,Tennessee,"47093",455943,2
+2023,Knox,Tennessee,"47093",217171,1
+2023,Knox,Tennessee,"47093",577777,2
+2023,Knox,Tennessee,"47093",292929,1
+2023,Knox,Tennessee,"47093",878923,3
+2023,Knox,Tennessee,"47093",280808,1
+2023,Knox,Tennessee,"47093",257575,1
+2023,Knox,Tennessee,"47093",232222,1
+2023,Knox,Tennessee,"47093",972252,4
+2023,Knox,Tennessee,"47093",2376117,9
+2023,Knox,Tennessee,"47093",265000,1
+2023,Knox,Tennessee,"47093",216919,1
+2023,Knox,Tennessee,"47093",227272,1
+2023,Knox,Tennessee,"47093",212121,1
+2023,Knox,Tennessee,"47093",207070,1
+2023,Knox,Tennessee,"47093",340807,2
+2023,Knox,Tennessee,"47093",863715,3
+2023,Lawrence,Tennessee,"47099",224380,1
+2023,Lawrence,Tennessee,"47099",429291,3
+2023,Lawrence,Tennessee,"47099",426954,2
+2023,Lawrence,Tennessee,"47099",208080,1
+2023,Lawrence,Tennessee,"47099",1064139,5
+2023,Lawrence,Tennessee,"47099",257069,2
+2023,Lawrence,Tennessee,"47099",447473,2
+2023,Lawrence,Tennessee,"47099",262525,1
+2023,Lawrence,Tennessee,"47099",222222,1
+2023,Lawrence,Tennessee,"47099",717170,3
+2023,Lawrence,Tennessee,"47099",390053,2
+2023,Lawrence,Tennessee,"47099",217171,1
+2023,Lawrence,Tennessee,"47099",196969,1
+2023,Lawrence,Tennessee,"47099",586261,3
+2023,Lawrence,Tennessee,"47099",578483,3
+2023,Lewis,Tennessee,"47101",135000,1
+2023,Lewis,Tennessee,"47101",540200,2
+2023,Lewis,Tennessee,"47101",191919,1
+2023,Lewis,Tennessee,"47101",150101,1
+2023,Lewis,Tennessee,"47101",893108,5
+2023,Lewis,Tennessee,"47101",210606,1
+2023,Lewis,Tennessee,"47101",471875,3
+2023,Loudon,Tennessee,"47105",65417,1
+2023,Loudon,Tennessee,"47105",325001,2
+2023,Loudon,Tennessee,"47105",545541,2
+2023,Loudon,Tennessee,"47105",377575,2
+2023,Loudon,Tennessee,"47105",246464,1
+2023,Loudon,Tennessee,"47105",267676,1
+2023,Loudon,Tennessee,"47105",511817,2
+2023,Loudon,Tennessee,"47105",245454,1
+2023,Loudon,Tennessee,"47105",499999,2
+2023,Loudon,Tennessee,"47105",857509,4
+2023,Loudon,Tennessee,"47105",411110,2
+2023,Loudon,Tennessee,"47105",252424,1
+2023,Loudon,Tennessee,"47105",222222,1
+2023,Loudon,Tennessee,"47105",134343,1
+2023,Loudon,Tennessee,"47105",192929,1
+2023,Loudon,Tennessee,"47105",417171,2
+2023,Macon,Tennessee,"47111",289900,1
+2023,Macon,Tennessee,"47111",156500,1
+2023,Macon,Tennessee,"47111",434595,2
+2023,Macon,Tennessee,"47111",292095,1
+2023,Macon,Tennessee,"47111",221111,1
+2023,Macon,Tennessee,"47111",111111,1
+2023,Macon,Tennessee,"47111",540302,2
+2023,Macon,Tennessee,"47111",570504,2
+2023,Macon,Tennessee,"47111",282727,1
+2023,Macon,Tennessee,"47111",756486,4
+2023,Macon,Tennessee,"47111",242424,1
+2023,Macon,Tennessee,"47111",113636,1
+2023,Macon,Tennessee,"47111",1221009,5
+2023,Macon,Tennessee,"47111",232222,1
+2023,Macon,Tennessee,"47111",242323,1
+2023,Macon,Tennessee,"47111",284343,1
+2023,Macon,Tennessee,"47111",196969,1
+2023,Macon,Tennessee,"47111",208080,1
+2023,Macon,Tennessee,"47111",236767,1
+2023,Macon,Tennessee,"47111",1308988,5
+2023,Marion,Tennessee,"47115",198989,1
+2023,Marion,Tennessee,"47115",529797,3
+2023,Marion,Tennessee,"47115",291918,2
+2023,Marion,Tennessee,"47115",232323,1
+2023,Marion,Tennessee,"47115",194260,1
+2023,Marion,Tennessee,"47115",210101,1
+2023,Marion,Tennessee,"47115",396868,2
+2023,Marion,Tennessee,"47115",190909,1
+2023,Marion,Tennessee,"47115",165656,1
+2023,Marion,Tennessee,"47115",222727,1
+2023,Marion,Tennessee,"47115",799998,4
+2023,Marion,Tennessee,"47115",171717,1
+2023,Marion,Tennessee,"47115",191919,1
+2023,McMinn,Tennessee,"47107",478140,2
+2023,McMinn,Tennessee,"47107",200000,1
+2023,McMinn,Tennessee,"47107",539000,2
+2023,McMinn,Tennessee,"47107",240000,2
+2023,McMinn,Tennessee,"47107",308080,1
+2023,McMinn,Tennessee,"47107",193939,1
+2023,McMinn,Tennessee,"47107",207070,1
+2023,McMinn,Tennessee,"47107",212121,1
+2023,McMinn,Tennessee,"47107",126161,1
+2023,McMinn,Tennessee,"47107",257575,1
+2023,McMinn,Tennessee,"47107",72727,1
+2023,McMinn,Tennessee,"47107",819696,3
+2023,McMinn,Tennessee,"47107",1037654,4
+2023,McMinn,Tennessee,"47107",239444,1
+2023,McMinn,Tennessee,"47107",343090,2
+2023,McMinn,Tennessee,"47107",982409,5
+2023,McMinn,Tennessee,"47107",264848,1
+2023,McMinn,Tennessee,"47107",245646,1
+2023,McMinn,Tennessee,"47107",222222,1
+2023,McMinn,Tennessee,"47107",127272,1
+2023,McMinn,Tennessee,"47107",187878,1
+2023,McMinn,Tennessee,"47107",1102226,6
+2023,McMinn,Tennessee,"47107",669696,3
+2023,McMinn,Tennessee,"47107",398888,2
+2023,McMinn,Tennessee,"47107",148484,1
+2023,McMinn,Tennessee,"47107",202020,1
+2023,McMinn,Tennessee,"47107",237373,1
+2023,McMinn,Tennessee,"47107",215151,1
+2023,McMinn,Tennessee,"47107",277777,1
+2023,McMinn,Tennessee,"47107",196868,1
+2023,McMinn,Tennessee,"47107",154545,1
+2023,McMinn,Tennessee,"47107",786765,4
+2023,Meigs,Tennessee,"47121",136111,1
+2023,Meigs,Tennessee,"47121",266666,1
+2023,Monroe,Tennessee,"47123",252525,1
+2023,Monroe,Tennessee,"47123",151515,1
+2023,Monroe,Tennessee,"47123",88787,1
+2023,Monroe,Tennessee,"47123",257575,1
+2023,Monroe,Tennessee,"47123",226262,1
+2023,Monroe,Tennessee,"47123",754219,4
+2023,Monroe,Tennessee,"47123",919090,4
+2023,Monroe,Tennessee,"47123",1193937,6
+2023,Monroe,Tennessee,"47123",101010,1
+2023,Monroe,Tennessee,"47123",178787,1
+2023,Monroe,Tennessee,"47123",171717,1
+2023,Morgan,Tennessee,"47129",217171,1
+2023,Morgan,Tennessee,"47129",151515,1
+2023,Morgan,Tennessee,"47129",237373,1
+2023,Morgan,Tennessee,"47129",161616,1
+2023,Overton,Tennessee,"47133",819000,3
+2023,Overton,Tennessee,"47133",299929,1
+2023,Overton,Tennessee,"47133",149187,1
+2023,Overton,Tennessee,"47133",212121,1
+2023,Overton,Tennessee,"47133",239393,1
+2023,Overton,Tennessee,"47133",106060,1
+2023,Overton,Tennessee,"47133",141414,1
+2023,Overton,Tennessee,"47133",121679,1
+2023,Overton,Tennessee,"47133",377777,2
+2023,Overton,Tennessee,"47133",148181,1
+2023,Overton,Tennessee,"47133",223232,1
+2023,Overton,Tennessee,"47133",636958,3
+2023,Overton,Tennessee,"47133",150000,1
+2023,Overton,Tennessee,"47133",212020,1
+2023,Overton,Tennessee,"47133",201010,1
+2023,Overton,Tennessee,"47133",370707,1
+2023,Overton,Tennessee,"47133",404039,2
+2023,Overton,Tennessee,"47133",314141,1
+2023,Overton,Tennessee,"47133",141414,1
+2023,Overton,Tennessee,"47133",373484,2
+2023,Pickett,Tennessee,"47137",125260,1
+2023,Polk,Tennessee,"47139",133990,1
+2023,Polk,Tennessee,"47139",312120,2
+2023,Polk,Tennessee,"47139",252525,1
+2023,Putnam,Tennessee,"47141",461500,2
+2023,Putnam,Tennessee,"47141",477100,2
+2023,Putnam,Tennessee,"47141",1503412,6
+2023,Putnam,Tennessee,"47141",486890,2
+2023,Putnam,Tennessee,"47141",1047523,4
+2023,Putnam,Tennessee,"47141",269696,1
+2023,Putnam,Tennessee,"47141",137373,1
+2023,Putnam,Tennessee,"47141",300505,1
+2023,Putnam,Tennessee,"47141",281818,1
+2023,Putnam,Tennessee,"47141",222222,1
+2023,Putnam,Tennessee,"47141",217171,1
+2023,Putnam,Tennessee,"47141",297979,1
+2023,Putnam,Tennessee,"47141",208585,1
+2023,Putnam,Tennessee,"47141",222222,1
+2023,Rhea,Tennessee,"47143",370883,2
+2023,Rhea,Tennessee,"47143",222222,1
+2023,Rhea,Tennessee,"47143",224242,1
+2023,Rhea,Tennessee,"47143",272727,1
+2023,Rhea,Tennessee,"47143",202020,1
+2023,Rhea,Tennessee,"47143",533988,3
+2023,Rhea,Tennessee,"47143",252525,1
+2023,Rhea,Tennessee,"47143",188888,1
+2023,Rhea,Tennessee,"47143",196969,1
+2023,Rhea,Tennessee,"47143",349797,2
+2023,Rhea,Tennessee,"47143",214141,1
+2023,Rhea,Tennessee,"47143",202020,1
+2023,Rhea,Tennessee,"47143",505050,2
+2023,Roane,Tennessee,"47145",250000,1
+2023,Roane,Tennessee,"47145",682827,3
+2023,Roane,Tennessee,"47145",191919,1
+2023,Roane,Tennessee,"47145",168686,1
+2023,Roane,Tennessee,"47145",186767,1
+2023,Roane,Tennessee,"47145",207070,1
+2023,Roane,Tennessee,"47145",1119184,6
+2023,Roane,Tennessee,"47145",560756,3
+2023,Roane,Tennessee,"47145",161616,1
+2023,Roane,Tennessee,"47145",1864643,9
+2023,Roane,Tennessee,"47145",182828,1
+2023,Roane,Tennessee,"47145",422727,2
+2023,Roane,Tennessee,"47145",181818,1
+2023,Roane,Tennessee,"47145",161111,1
+2023,Roane,Tennessee,"47145",551917,3
+2023,Scott,Tennessee,"47151",212121,1
+2023,Scott,Tennessee,"47151",176767,1
+2023,Scott,Tennessee,"47151",434343,2
+2023,Scott,Tennessee,"47151",212121,1
+2023,Scott,Tennessee,"47151",180808,1
+2023,Scott,Tennessee,"47151",292676,2
+2023,Scott,Tennessee,"47151",228585,1
+2023,Sequatchie,Tennessee,"47153",286000,1
+2023,Sequatchie,Tennessee,"47153",191919,1
+2023,Sequatchie,Tennessee,"47153",224242,1
+2023,Sequatchie,Tennessee,"47153",231691,1
+2023,Sequatchie,Tennessee,"47153",191919,1
+2023,Sequatchie,Tennessee,"47153",417170,3
+2023,Sequatchie,Tennessee,"47153",328282,1
+2023,Sevier,Tennessee,"47155",358923,3
+2023,Sevier,Tennessee,"47155",238000,2
+2023,Sevier,Tennessee,"47155",284500,1
+2023,Sevier,Tennessee,"47155",526040,2
+2023,Sevier,Tennessee,"47155",272727,1
+2023,Sevier,Tennessee,"47155",323232,1
+2023,Sevier,Tennessee,"47155",588888,2
+2023,Sevier,Tennessee,"47155",899447,3
+2023,Sevier,Tennessee,"47155",148989,1
+2023,Sevier,Tennessee,"47155",341171,1
+2023,Sevier,Tennessee,"47155",252525,1
+2023,Smith,Tennessee,"47159",341900,1
+2023,Smith,Tennessee,"47159",247474,1
+2023,Smith,Tennessee,"47159",323231,1
+2023,Smith,Tennessee,"47159",193838,1
+2023,Smith,Tennessee,"47159",292828,1
+2023,Smith,Tennessee,"47159",252424,1
+2023,Smith,Tennessee,"47159",572413,2
+2023,Smith,Tennessee,"47159",494949,2
+2023,Smith,Tennessee,"47159",272727,1
+2023,Sullivan,Tennessee,"47163",340128,2
+2023,Sullivan,Tennessee,"47163",263000,1
+2023,Sullivan,Tennessee,"47163",274400,1
+2023,Sullivan,Tennessee,"47163",55791,1
+2023,Sullivan,Tennessee,"47163",566000,2
+2023,Sullivan,Tennessee,"47163",102323,1
+2023,Sullivan,Tennessee,"47163",230656,1
+2023,Sullivan,Tennessee,"47163",385858,1
+2023,Sullivan,Tennessee,"47163",141414,1
+2023,Sullivan,Tennessee,"47163",452525,2
+2023,Unicoi,Tennessee,"47171",176767,1
+2023,Unicoi,Tennessee,"47171",506110,3
+2023,Unicoi,Tennessee,"47171",414141,2
+2023,Unicoi,Tennessee,"47171",196969,1
+2023,Unicoi,Tennessee,"47171",144444,1
+2023,Unicoi,Tennessee,"47171",247474,1
+2023,Unicoi,Tennessee,"47171",227272,1
+2023,Union,Tennessee,"47173",165070,1
+2023,Union,Tennessee,"47173",213000,1
+2023,Union,Tennessee,"47173",242000,1
+2023,Union,Tennessee,"47173",388418,2
+2023,Union,Tennessee,"47173",272727,1
+2023,Union,Tennessee,"47173",397120,2
+2023,Union,Tennessee,"47173",254545,1
+2023,Union,Tennessee,"47173",240909,1
+2023,Union,Tennessee,"47173",793883,4
+2023,Union,Tennessee,"47173",210606,1
+2023,Union,Tennessee,"47173",200000,1
+2023,Union,Tennessee,"47173",241414,1
+2023,Union,Tennessee,"47173",295858,1
+2023,Van Buren,Tennessee,"47175",184848,1
+2023,Van Buren,Tennessee,"47175",227272,1
+2023,Van Buren,Tennessee,"47175",127525,1
+2023,Van Buren,Tennessee,"47175",167171,1
+2023,Warren,Tennessee,"47177",122882,1
+2023,Warren,Tennessee,"47177",214900,1
+2023,Warren,Tennessee,"47177",282360,1
+2023,Warren,Tennessee,"47177",252000,1
+2023,Warren,Tennessee,"47177",227272,1
+2023,Warren,Tennessee,"47177",2790070,11
+2023,Warren,Tennessee,"47177",183838,1
+2023,Warren,Tennessee,"47177",147979,1
+2023,Warren,Tennessee,"47177",407938,2
+2023,Warren,Tennessee,"47177",530201,2
+2023,Warren,Tennessee,"47177",416161,2
+2023,Warren,Tennessee,"47177",267575,1
+2023,Warren,Tennessee,"47177",194949,1
+2023,Warren,Tennessee,"47177",181818,1
+2023,Warren,Tennessee,"47177",416161,2
+2023,Warren,Tennessee,"47177",272727,1
+2023,Warren,Tennessee,"47177",109090,1
+2023,Warren,Tennessee,"47177",339393,2
+2023,Warren,Tennessee,"47177",470605,2
+2023,Warren,Tennessee,"47177",1247268,6
+2023,Warren,Tennessee,"47177",244444,1
+2023,Warren,Tennessee,"47177",267575,1
+2023,Warren,Tennessee,"47177",95959,1
+2023,Warren,Tennessee,"47177",231313,1
+2023,Warren,Tennessee,"47177",175757,1
+2023,Washington,Tennessee,"47179",91703,1
+2023,Washington,Tennessee,"47179",958000,3
+2023,Washington,Tennessee,"47179",268985,1
+2023,Washington,Tennessee,"47179",560792,2
+2023,Washington,Tennessee,"47179",260303,1
+2023,Washington,Tennessee,"47179",148888,1
+2023,Washington,Tennessee,"47179",217171,1
+2023,Washington,Tennessee,"47179",303030,1
+2023,Washington,Tennessee,"47179",405050,2
+2023,Washington,Tennessee,"47179",196969,1
+2023,Washington,Tennessee,"47179",877675,4
+2023,Washington,Tennessee,"47179",389898,1
+2023,Washington,Tennessee,"47179",270201,2
+2023,Washington,Tennessee,"47179",277777,1
+2023,Washington,Tennessee,"47179",242424,1
+2023,Washington,Tennessee,"47179",355555,1
+2023,White,Tennessee,"47185",133122,1
+2023,White,Tennessee,"47185",1133700,5
+2023,White,Tennessee,"47185",238000,1
+2023,White,Tennessee,"47185",165176,1
+2023,White,Tennessee,"47185",798383,4
+2023,White,Tennessee,"47185",185353,1
+2023,White,Tennessee,"47185",151515,1
+2023,White,Tennessee,"47185",277777,1
+2023,White,Tennessee,"47185",257575,1
+2023,White,Tennessee,"47185",237373,1
+2023,White,Tennessee,"47185",189898,1
+2023,White,Tennessee,"47185",484442,3
+2023,White,Tennessee,"47185",154444,1
+2023,White,Tennessee,"47185",809220,4
+2023,White,Tennessee,"47185",227272,1
+2023,White,Tennessee,"47185",212121,1
+2023,White,Tennessee,"47185",262525,1
+2023,White,Tennessee,"47185",229292,1
+2023,Bath,Virginia,"51017",117878,1
+2023,Bland,Virginia,"51021",252525,1
+2023,Bland,Virginia,"51021",45454,1
+2023,Bland,Virginia,"51021",157575,1
+2023,Bland,Virginia,"51021",153520,1
+2023,Botetourt,Virginia,"51023",579291,3
+2023,Botetourt,Virginia,"51023",118181,1
+2023,Botetourt,Virginia,"51023",201010,1
+2023,Botetourt,Virginia,"51023",521918,2
+2023,Botetourt,Virginia,"51023",462575,2
+2023,Botetourt,Virginia,"51023",141919,1
+2023,Botetourt,Virginia,"51023",393939,2
+2023,Buchanan,Virginia,"51027",105000,1
+2023,Buchanan,Virginia,"51027",76000,1
+2023,Buchanan,Virginia,"51027",164000,2
+2023,Buchanan,Virginia,"51027",169696,1
+2023,Buchanan,Virginia,"51027",143068,2
+2023,Buchanan,Virginia,"51027",277777,2
+2023,Craig,Virginia,"51045",116331,1
+2023,Dickenson,Virginia,"51051",134343,1
+2023,Dickenson,Virginia,"51051",133333,1
+2023,Dickenson,Virginia,"51051",233333,2
+2023,Floyd,Virginia,"51063",252525,1
+2023,Floyd,Virginia,"51063",280808,1
+2023,Floyd,Virginia,"51063",232323,1
+2023,Giles,Virginia,"51071",1187118,7
+2023,Giles,Virginia,"51071",168686,1
+2023,Giles,Virginia,"51071",83939,1
+2023,Giles,Virginia,"51071",121111,1
+2023,Giles,Virginia,"51071",151414,1
+2023,Giles,Virginia,"51071",268686,2
+2023,Giles,Virginia,"51071",90808,1
+2023,Giles,Virginia,"51071",186868,1
+2023,Grayson,Virginia,"51077",342098,2
+2023,Grayson,Virginia,"51077",567978,4
+2023,Grayson,Virginia,"51077",166666,1
+2023,Grayson,Virginia,"51077",1296218,9
+2023,Grayson,Virginia,"51077",465050,2
+2023,Lee,Virginia,"51105",162626,1
+2023,Lee,Virginia,"51105",151010,1
+2023,Lee,Virginia,"51105",158080,1
+2023,Lee,Virginia,"51105",178787,1
+2023,Lee,Virginia,"51105",128282,1
+2023,Lee,Virginia,"51105",101010,1
+2023,Patrick,Virginia,"51141",114343,1
+2023,Patrick,Virginia,"51141",100000,1
+2023,Patrick,Virginia,"51141",80808,1
+2023,Patrick,Virginia,"51141",379090,2
+2023,Patrick,Virginia,"51141",169679,1
+2023,Patrick,Virginia,"51141",131313,1
+2023,Patrick,Virginia,"51141",106060,1
+2023,Pulaski,Virginia,"51155",218921,1
+2023,Pulaski,Virginia,"51155",1545098,10
+2023,Pulaski,Virginia,"51155",2380885,18
+2023,Pulaski,Virginia,"51155",477272,3
+2023,Pulaski,Virginia,"51155",444846,4
+2023,Pulaski,Virginia,"51155",450505,2
+2023,Pulaski,Virginia,"51155",304040,2
+2023,Pulaski,Virginia,"51155",194444,1
+2023,Pulaski,Virginia,"51155",138383,1
+2023,Pulaski,Virginia,"51155",267676,2
+2023,Pulaski,Virginia,"51155",212121,1
+2023,Pulaski,Virginia,"51155",226767,1
+2023,Pulaski,Virginia,"51155",134943,1
+2023,Pulaski,Virginia,"51155",76767,1
+2023,Pulaski,Virginia,"51155",141414,1
+2023,Pulaski,Virginia,"51155",101616,1
+2023,Pulaski,Virginia,"51155",464644,2
+2023,Russell,Virginia,"51167",36000,1
+2023,Russell,Virginia,"51167",166666,1
+2023,Russell,Virginia,"51167",139714,1
+2023,Russell,Virginia,"51167",116161,1
+2023,Russell,Virginia,"51167",309393,3
+2023,Russell,Virginia,"51167",132121,1
+2023,Russell,Virginia,"51167",80505,1
+2023,Russell,Virginia,"51167",475534,4
+2023,Scott,Virginia,"51169",104000,1
+2023,Scott,Virginia,"51169",357675,2
+2023,Scott,Virginia,"51169",127272,1
+2023,Scott,Virginia,"51169",139393,1
+2023,Scott,Virginia,"51169",65656,1
+2023,Scott,Virginia,"51169",176767,1
+2023,Smyth,Virginia,"51173",200500,1
+2023,Smyth,Virginia,"51173",140866,1
+2023,Smyth,Virginia,"51173",83000,1
+2023,Smyth,Virginia,"51173",143434,1
+2023,Smyth,Virginia,"51173",116161,1
+2023,Smyth,Virginia,"51173",347979,2
+2023,Smyth,Virginia,"51173",837775,6
+2023,Smyth,Virginia,"51173",91212,1
+2023,Smyth,Virginia,"51173",98357,2
+2023,Smyth,Virginia,"51173",1373025,10
+2023,Smyth,Virginia,"51173",127272,1
+2023,Smyth,Virginia,"51173",939088,5
+2023,Smyth,Virginia,"51173",143434,1
+2023,Tazewell,Virginia,"51185",372000,2
+2023,Tazewell,Virginia,"51185",129000,1
+2023,Tazewell,Virginia,"51185",433333,2
+2023,Tazewell,Virginia,"51185",153535,1
+2023,Tazewell,Virginia,"51185",2824788,22
+2023,Tazewell,Virginia,"51185",1170925,9
+2023,Tazewell,Virginia,"51185",69696,1
+2023,Tazewell,Virginia,"51185",75757,1
+2023,Tazewell,Virginia,"51185",166666,1
+2023,Tazewell,Virginia,"51185",2232441,18
+2023,Tazewell,Virginia,"51185",90909,1
+2023,Tazewell,Virginia,"51185",303039,2
+2023,Wythe,Virginia,"51197",387000,2
+2023,Wythe,Virginia,"51197",143600,1
+2023,Wythe,Virginia,"51197",958341,4
+2023,Wythe,Virginia,"51197",196000,1
+2023,Wythe,Virginia,"51197",97000,1
+2023,Wythe,Virginia,"51197",354544,2
+2023,Wythe,Virginia,"51197",1550066,10
+2023,Wythe,Virginia,"51197",232323,1
+2023,Wythe,Virginia,"51197",237373,1
+2023,Wythe,Virginia,"51197",413029,3
+2023,Wythe,Virginia,"51197",116161,1
+2023,Barbour,West Virginia,"54001",31380,1
+2023,Barbour,West Virginia,"54001",133500,1
+2023,Barbour,West Virginia,"54001",97700,1
+2023,Barbour,West Virginia,"54001",130000,1
+2023,Barbour,West Virginia,"54001",140909,1
+2023,Barbour,West Virginia,"54001",222222,1
+2023,Barbour,West Virginia,"54001",126262,1
+2023,Barbour,West Virginia,"54001",191918,2
+2023,Barbour,West Virginia,"54001",161616,1
+2023,Barbour,West Virginia,"54001",277777,1
+2023,Berkeley,West Virginia,"54003",1181500,4
+2023,Berkeley,West Virginia,"54003",927400,3
+2023,Berkeley,West Virginia,"54003",282828,1
+2023,Berkeley,West Virginia,"54003",232313,1
+2023,Berkeley,West Virginia,"54003",227272,1
+2023,Berkeley,West Virginia,"54003",201010,1
+2023,Berkeley,West Virginia,"54003",252525,1
+2023,Berkeley,West Virginia,"54003",227312,1
+2023,Berkeley,West Virginia,"54003",262626,1
+2023,Berkeley,West Virginia,"54003",1029797,4
+2023,Berkeley,West Virginia,"54003",202020,1
+2023,Berkeley,West Virginia,"54003",243434,1
+2023,Berkeley,West Virginia,"54003",631312,3
+2023,Berkeley,West Virginia,"54003",203383,1
+2023,Berkeley,West Virginia,"54003",1665704,7
+2023,Berkeley,West Virginia,"54003",265151,1
+2023,Berkeley,West Virginia,"54003",232323,1
+2023,Berkeley,West Virginia,"54003",315000,1
+2023,Berkeley,West Virginia,"54003",255554,2
+2023,Berkeley,West Virginia,"54003",944947,4
+2023,Berkeley,West Virginia,"54003",228181,1
+2023,Berkeley,West Virginia,"54003",237363,1
+2023,Berkeley,West Virginia,"54003",290453,1
+2023,Berkeley,West Virginia,"54003",999988,4
+2023,Berkeley,West Virginia,"54003",1369353,6
+2023,Berkeley,West Virginia,"54003",313131,1
+2023,Berkeley,West Virginia,"54003",757019,3
+2023,Berkeley,West Virginia,"54003",2958829,12
+2023,Berkeley,West Virginia,"54003",314141,1
+2023,Berkeley,West Virginia,"54003",6435508,26
+2023,Berkeley,West Virginia,"54003",994836,4
+2023,Berkeley,West Virginia,"54003",362979,1
+2023,Berkeley,West Virginia,"54003",269696,1
+2023,Berkeley,West Virginia,"54003",156565,1
+2023,Berkeley,West Virginia,"54003",459595,2
+2023,Berkeley,West Virginia,"54003",212121,1
+2023,Berkeley,West Virginia,"54003",5787912,22
+2023,Berkeley,West Virginia,"54003",798988,3
+2023,Berkeley,West Virginia,"54003",1626663,7
+2023,Berkeley,West Virginia,"54003",3622659,16
+2023,Berkeley,West Virginia,"54003",540393,2
+2023,Berkeley,West Virginia,"54003",2568379,10
+2023,Berkeley,West Virginia,"54003",835958,4
+2023,Berkeley,West Virginia,"54003",313131,1
+2023,Berkeley,West Virginia,"54003",190909,1
+2023,Berkeley,West Virginia,"54003",227272,1
+2023,Berkeley,West Virginia,"54003",1141411,5
+2023,Berkeley,West Virginia,"54003",1039595,4
+2023,Berkeley,West Virginia,"54003",238000,1
+2023,Boone,West Virginia,"54005",651838,6
+2023,Boone,West Virginia,"54005",122222,1
+2023,Boone,West Virginia,"54005",131912,1
+2023,Braxton,West Virginia,"54007",439393,1
+2023,Brooke,West Virginia,"54009",111111,1
+2023,Brooke,West Virginia,"54009",67676,1
+2023,Brooke,West Virginia,"54009",189898,1
+2023,Brooke,West Virginia,"54009",214141,2
+2023,Brooke,West Virginia,"54009",509089,4
+2023,Brooke,West Virginia,"54009",130303,1
+2023,Cabell,West Virginia,"54011",804543,5
+2023,Cabell,West Virginia,"54011",254040,1
+2023,Cabell,West Virginia,"54011",501008,3
+2023,Cabell,West Virginia,"54011",244040,2
+2023,Cabell,West Virginia,"54011",237373,1
+2023,Cabell,West Virginia,"54011",356034,2
+2023,Cabell,West Virginia,"54011",58080,1
+2023,Cabell,West Virginia,"54011",275757,1
+2023,Cabell,West Virginia,"54011",123232,1
+2023,Cabell,West Virginia,"54011",399207,3
+2023,Clay,West Virginia,"54015",85858,1
+2023,Fayette,West Virginia,"54019",208000,2
+2023,Fayette,West Virginia,"54019",95950,1
+2023,Fayette,West Virginia,"54019",95959,1
+2023,Fayette,West Virginia,"54019",210100,2
+2023,Fayette,West Virginia,"54019",943642,8
+2023,Fayette,West Virginia,"54019",66666,1
+2023,Fayette,West Virginia,"54019",120707,1
+2023,Fayette,West Virginia,"54019",196868,2
+2023,Fayette,West Virginia,"54019",98989,1
+2023,Grant,West Virginia,"54023",85858,1
+2023,Grant,West Virginia,"54023",153535,1
+2023,Greenbrier,West Virginia,"54025",2611566,21
+2023,Greenbrier,West Virginia,"54025",181313,1
+2023,Greenbrier,West Virginia,"54025",474746,4
+2023,Greenbrier,West Virginia,"54025",153914,1
+2023,Greenbrier,West Virginia,"54025",156565,2
+2023,Greenbrier,West Virginia,"54025",347070,2
+2023,Hampshire,West Virginia,"54027",100000,1
+2023,Hampshire,West Virginia,"54027",230000,1
+2023,Hampshire,West Virginia,"54027",221450,1
+2023,Hampshire,West Virginia,"54027",212121,1
+2023,Hampshire,West Virginia,"54027",348484,1
+2023,Hampshire,West Virginia,"54027",207070,1
+2023,Hampshire,West Virginia,"54027",126262,1
+2023,Hampshire,West Virginia,"54027",121212,1
+2023,Hampshire,West Virginia,"54027",130636,1
+2023,Hampshire,West Virginia,"54027",711736,4
+2023,Hampshire,West Virginia,"54027",196969,1
+2023,Hampshire,West Virginia,"54027",462372,2
+2023,Hampshire,West Virginia,"54027",151515,1
+2023,Hampshire,West Virginia,"54027",166666,1
+2023,Hancock,West Virginia,"54029",52900,1
+2023,Hancock,West Virginia,"54029",195252,1
+2023,Hancock,West Virginia,"54029",133333,1
+2023,Hancock,West Virginia,"54029",133333,1
+2023,Hardy,West Virginia,"54031",543434,3
+2023,Hardy,West Virginia,"54031",258585,1
+2023,Hardy,West Virginia,"54031",161515,1
+2023,Harrison,West Virginia,"54033",61370,1
+2023,Harrison,West Virginia,"54033",161000,1
+2023,Harrison,West Virginia,"54033",39500,1
+2023,Harrison,West Virginia,"54033",125252,1
+2023,Harrison,West Virginia,"54033",60606,1
+2023,Harrison,West Virginia,"54033",93434,1
+2023,Harrison,West Virginia,"54033",285656,2
+2023,Harrison,West Virginia,"54033",128787,1
+2023,Harrison,West Virginia,"54033",62626,1
+2023,Harrison,West Virginia,"54033",141414,1
+2023,Harrison,West Virginia,"54033",100000,1
+2023,Harrison,West Virginia,"54033",55454,1
+2023,Harrison,West Virginia,"54033",277979,1
+2023,Harrison,West Virginia,"54033",235959,2
+2023,Harrison,West Virginia,"54033",71717,1
+2023,Harrison,West Virginia,"54033",192929,1
+2023,Harrison,West Virginia,"54033",142424,1
+2023,Harrison,West Virginia,"54033",459644,4
+2023,Harrison,West Virginia,"54033",131313,1
+2023,Harrison,West Virginia,"54033",189393,2
+2023,Harrison,West Virginia,"54033",539393,2
+2023,Harrison,West Virginia,"54033",797978,5
+2023,Harrison,West Virginia,"54033",180808,1
+2023,Jackson,West Virginia,"54035",156000,1
+2023,Jackson,West Virginia,"54035",167000,1
+2023,Jackson,West Virginia,"54035",86363,1
+2023,Jackson,West Virginia,"54035",299999,2
+2023,Jackson,West Virginia,"54035",194949,1
+2023,Jackson,West Virginia,"54035",158484,1
+2023,Jackson,West Virginia,"54035",131313,1
+2023,Jackson,West Virginia,"54035",325757,2
+2023,Jackson,West Virginia,"54035",344040,2
+2023,Jackson,West Virginia,"54035",110000,1
+2023,Jackson,West Virginia,"54035",124242,1
+2023,Jackson,West Virginia,"54035",343332,2
+2023,Jefferson,West Virginia,"54037",113500,1
+2023,Jefferson,West Virginia,"54037",400000,1
+2023,Jefferson,West Virginia,"54037",322727,1
+2023,Jefferson,West Virginia,"54037",287878,1
+2023,Jefferson,West Virginia,"54037",196969,1
+2023,Jefferson,West Virginia,"54037",806141,3
+2023,Jefferson,West Virginia,"54037",568908,2
+2023,Jefferson,West Virginia,"54037",1454503,4
+2023,Jefferson,West Virginia,"54037",217171,1
+2023,Jefferson,West Virginia,"54037",789676,3
+2023,Jefferson,West Virginia,"54037",232323,1
+2023,Jefferson,West Virginia,"54037",243589,1
+2023,Jefferson,West Virginia,"54037",252525,1
+2023,Jefferson,West Virginia,"54037",221111,1
+2023,Jefferson,West Virginia,"54037",3533775,14
+2023,Jefferson,West Virginia,"54037",323232,1
+2023,Jefferson,West Virginia,"54037",303030,1
+2023,Jefferson,West Virginia,"54037",291919,1
+2023,Jefferson,West Virginia,"54037",166666,1
+2023,Jefferson,West Virginia,"54037",626261,2
+2023,Jefferson,West Virginia,"54037",353535,1
+2023,Jefferson,West Virginia,"54037",561615,2
+2023,Jefferson,West Virginia,"54037",318181,1
+2023,Jefferson,West Virginia,"54037",628282,2
+2023,Jefferson,West Virginia,"54037",226262,1
+2023,Jefferson,West Virginia,"54037",297979,1
+2023,Kanawha,West Virginia,"54039",280000,1
+2023,Kanawha,West Virginia,"54039",191045,1
+2023,Kanawha,West Virginia,"54039",126262,1
+2023,Kanawha,West Virginia,"54039",312626,2
+2023,Kanawha,West Virginia,"54039",371716,2
+2023,Kanawha,West Virginia,"54039",136363,1
+2023,Kanawha,West Virginia,"54039",199494,2
+2023,Kanawha,West Virginia,"54039",2610828,19
+2023,Kanawha,West Virginia,"54039",247474,2
+2023,Kanawha,West Virginia,"54039",176767,1
+2023,Kanawha,West Virginia,"54039",427777,3
+2023,Kanawha,West Virginia,"54039",998885,7
+2023,Kanawha,West Virginia,"54039",247473,2
+2023,Kanawha,West Virginia,"54039",116161,1
+2023,Kanawha,West Virginia,"54039",156565,1
+2023,Kanawha,West Virginia,"54039",966212,7
+2023,Kanawha,West Virginia,"54039",331009,3
+2023,Kanawha,West Virginia,"54039",363635,3
+2023,Kanawha,West Virginia,"54039",237373,2
+2023,Kanawha,West Virginia,"54039",665653,5
+2023,Lewis,West Virginia,"54041",128800,1
+2023,Lewis,West Virginia,"54041",202828,1
+2023,Lewis,West Virginia,"54041",78989,1
+2023,Lewis,West Virginia,"54041",154040,1
+2023,Lincoln,West Virginia,"54043",28000,1
+2023,Lincoln,West Virginia,"54043",148484,1
+2023,Lincoln,West Virginia,"54043",132323,1
+2023,Lincoln,West Virginia,"54043",408569,3
+2023,Lincoln,West Virginia,"54043",63636,1
+2023,Lincoln,West Virginia,"54043",84636,1
+2023,Logan,West Virginia,"54045",116161,1
+2023,Logan,West Virginia,"54045",424241,3
+2023,Logan,West Virginia,"54045",90909,1
+2023,Logan,West Virginia,"54045",62323,1
+2023,Logan,West Virginia,"54045",137676,1
+2023,Marion,West Virginia,"54049",240000,1
+2023,Marion,West Virginia,"54049",630500,3
+2023,Marion,West Virginia,"54049",151515,1
+2023,Marion,West Virginia,"54049",134848,1
+2023,Marion,West Virginia,"54049",95959,1
+2023,Marion,West Virginia,"54049",202020,1
+2023,Marion,West Virginia,"54049",164343,2
+2023,Marion,West Virginia,"54049",131313,1
+2023,Marion,West Virginia,"54049",179797,1
+2023,Marion,West Virginia,"54049",570704,4
+2023,Marion,West Virginia,"54049",166665,2
+2023,Marion,West Virginia,"54049",189393,1
+2023,Marion,West Virginia,"54049",212121,1
+2023,Marion,West Virginia,"54049",127918,1
+2023,Marion,West Virginia,"54049",168181,1
+2023,Marion,West Virginia,"54049",175252,1
+2023,Marion,West Virginia,"54049",77272,1
+2023,Marion,West Virginia,"54049",124242,1
+2023,Marion,West Virginia,"54049",266666,2
+2023,Marion,West Virginia,"54049",84848,1
+2023,Marion,West Virginia,"54049",455554,3
+2023,Marshall,West Virginia,"54051",202000,1
+2023,Marshall,West Virginia,"54051",155000,1
+2023,Marshall,West Virginia,"54051",278300,2
+2023,Marshall,West Virginia,"54051",225252,2
+2023,Marshall,West Virginia,"54051",410100,2
+2023,Marshall,West Virginia,"54051",343434,2
+2023,Marshall,West Virginia,"54051",341918,3
+2023,Marshall,West Virginia,"54051",279292,2
+2023,Mason,West Virginia,"54053",111111,1
+2023,Mason,West Virginia,"54053",75757,1
+2023,Mason,West Virginia,"54053",113131,1
+2023,Mason,West Virginia,"54053",101717,1
+2023,Mason,West Virginia,"54053",123232,1
+2023,Mason,West Virginia,"54053",217171,2
+2023,McDowell,West Virginia,"54047",100000,1
+2023,McDowell,West Virginia,"54047",65757,1
+2023,Mercer,West Virginia,"54055",455957,4
+2023,Mercer,West Virginia,"54055",148989,1
+2023,Mercer,West Virginia,"54055",4545139,34
+2023,Mercer,West Virginia,"54055",325252,2
+2023,Mercer,West Virginia,"54055",69696,1
+2023,Mercer,West Virginia,"54055",834493,6
+2023,Mercer,West Virginia,"54055",161616,1
+2023,Mercer,West Virginia,"54055",448483,3
+2023,Mercer,West Virginia,"54055",159266,2
+2023,Mercer,West Virginia,"54055",131313,1
+2023,Mercer,West Virginia,"54055",107474,1
+2023,Mineral,West Virginia,"54057",702421,5
+2023,Mineral,West Virginia,"54057",67676,1
+2023,Mineral,West Virginia,"54057",2174234,16
+2023,Mineral,West Virginia,"54057",123989,1
+2023,Mineral,West Virginia,"54057",289898,2
+2023,Mineral,West Virginia,"54057",374746,2
+2023,Mineral,West Virginia,"54057",343925,2
+2023,Mineral,West Virginia,"54057",161616,1
+2023,Mingo,West Virginia,"54059",57575,1
+2023,Mingo,West Virginia,"54059",55555,1
+2023,Monongalia,West Virginia,"54061",175050,1
+2023,Monongalia,West Virginia,"54061",156000,1
+2023,Monongalia,West Virginia,"54061",157500,1
+2023,Monongalia,West Virginia,"54061",81919,1
+2023,Monongalia,West Virginia,"54061",161616,1
+2023,Monongalia,West Virginia,"54061",303030,1
+2023,Monongalia,West Virginia,"54061",226262,1
+2023,Monongalia,West Virginia,"54061",170202,1
+2023,Monongalia,West Virginia,"54061",462120,2
+2023,Monongalia,West Virginia,"54061",267676,1
+2023,Monroe,West Virginia,"54063",591916,4
+2023,Monroe,West Virginia,"54063",151515,1
+2023,Monroe,West Virginia,"54063",443685,3
+2023,Monroe,West Virginia,"54063",102525,1
+2023,Morgan,West Virginia,"54065",473484,2
+2023,Morgan,West Virginia,"54065",403030,1
+2023,Morgan,West Virginia,"54065",395958,2
+2023,Morgan,West Virginia,"54065",1888533,9
+2023,Morgan,West Virginia,"54065",151515,1
+2023,Morgan,West Virginia,"54065",439292,2
+2023,Nicholas,West Virginia,"54067",389896,4
+2023,Nicholas,West Virginia,"54067",98989,1
+2023,Nicholas,West Virginia,"54067",104040,1
+2023,Nicholas,West Virginia,"54067",161616,1
+2023,Nicholas,West Virginia,"54067",92929,1
+2023,Nicholas,West Virginia,"54067",62626,1
+2023,Ohio,West Virginia,"54069",311111,1
+2023,Ohio,West Virginia,"54069",301615,3
+2023,Ohio,West Virginia,"54069",218181,1
+2023,Pendleton,West Virginia,"54071",191919,1
+2023,Pleasants,West Virginia,"54073",93200,1
+2023,Pleasants,West Virginia,"54073",551009,4
+2023,Pocahontas,West Virginia,"54075",140000,1
+2023,Pocahontas,West Virginia,"54075",80808,1
+2023,Preston,West Virginia,"54077",21600,1
+2023,Preston,West Virginia,"54077",151515,1
+2023,Preston,West Virginia,"54077",172727,1
+2023,Preston,West Virginia,"54077",238383,1
+2023,Preston,West Virginia,"54077",186868,1
+2023,Putnam,West Virginia,"54079",190000,1
+2023,Putnam,West Virginia,"54079",153890,1
+2023,Putnam,West Virginia,"54079",151515,1
+2023,Putnam,West Virginia,"54079",106060,1
+2023,Putnam,West Virginia,"54079",232222,1
+2023,Putnam,West Virginia,"54079",508787,3
+2023,Putnam,West Virginia,"54079",159090,1
+2023,Putnam,West Virginia,"54079",327272,2
+2023,Putnam,West Virginia,"54079",566160,3
+2023,Putnam,West Virginia,"54079",323636,2
+2023,Putnam,West Virginia,"54079",796967,6
+2023,Putnam,West Virginia,"54079",463030,2
+2023,Putnam,West Virginia,"54079",146464,1
+2023,Raleigh,West Virginia,"54081",145250,1
+2023,Raleigh,West Virginia,"54081",640402,5
+2023,Raleigh,West Virginia,"54081",56565,1
+2023,Raleigh,West Virginia,"54081",128282,1
+2023,Raleigh,West Virginia,"54081",3035046,25
+2023,Raleigh,West Virginia,"54081",111111,1
+2023,Raleigh,West Virginia,"54081",348484,2
+2023,Raleigh,West Virginia,"54081",58585,1
+2023,Raleigh,West Virginia,"54081",401918,3
+2023,Raleigh,West Virginia,"54081",142424,1
+2023,Raleigh,West Virginia,"54081",321211,2
+2023,Raleigh,West Virginia,"54081",1051511,9
+2023,Raleigh,West Virginia,"54081",80808,1
+2023,Raleigh,West Virginia,"54081",141414,1
+2023,Randolph,West Virginia,"54083",390000,2
+2023,Randolph,West Virginia,"54083",168000,1
+2023,Randolph,West Virginia,"54083",159900,1
+2023,Randolph,West Virginia,"54083",151515,1
+2023,Randolph,West Virginia,"54083",245958,2
+2023,Randolph,West Virginia,"54083",102525,1
+2023,Randolph,West Virginia,"54083",253837,2
+2023,Randolph,West Virginia,"54083",127979,1
+2023,Randolph,West Virginia,"54083",271717,2
+2023,Ritchie,West Virginia,"54085",76767,1
+2023,Ritchie,West Virginia,"54085",139393,1
+2023,Ritchie,West Virginia,"54085",73737,1
+2023,Roane,West Virginia,"54087",201300,1
+2023,Roane,West Virginia,"54087",79797,1
+2023,Summers,West Virginia,"54089",71000,1
+2023,Summers,West Virginia,"54089",216666,2
+2023,Summers,West Virginia,"54089",177171,1
+2023,Summers,West Virginia,"54089",201010,1
+2023,Taylor,West Virginia,"54091",174000,1
+2023,Taylor,West Virginia,"54091",45959,1
+2023,Taylor,West Virginia,"54091",157474,1
+2023,Taylor,West Virginia,"54091",348484,1
+2023,Taylor,West Virginia,"54091",330808,1
+2023,Taylor,West Virginia,"54091",277777,1
+2023,Tucker,West Virginia,"54093",170707,1
+2023,Upshur,West Virginia,"54097",163000,1
+2023,Upshur,West Virginia,"54097",143939,1
+2023,Upshur,West Virginia,"54097",219191,2
+2023,Upshur,West Virginia,"54097",93434,1
+2023,Upshur,West Virginia,"54097",70858,1
+2023,Upshur,West Virginia,"54097",638382,4
+2023,Upshur,West Virginia,"54097",121212,1
+2023,Upshur,West Virginia,"54097",156565,1
+2023,Wayne,West Virginia,"54099",90600,1
+2023,Wayne,West Virginia,"54099",418686,4
+2023,Wayne,West Virginia,"54099",179797,1
+2023,Wayne,West Virginia,"54099",529796,5
+2023,Wayne,West Virginia,"54099",125949,1
+2023,Wayne,West Virginia,"54099",145959,1
+2023,Webster,West Virginia,"54101",111111,1
+2023,Wetzel,West Virginia,"54103",104900,1
+2023,Wetzel,West Virginia,"54103",57575,1
+2023,Wetzel,West Virginia,"54103",126262,1
+2023,Wetzel,West Virginia,"54103",86868,1
+2023,Wetzel,West Virginia,"54103",165656,1
+2023,Wetzel,West Virginia,"54103",166666,1
+2023,Wetzel,West Virginia,"54103",156565,1
+2023,Wood,West Virginia,"54107",185000,1
+2023,Wood,West Virginia,"54107",261460,1
+2023,Wood,West Virginia,"54107",97500,1
+2023,Wood,West Virginia,"54107",156565,1
+2023,Wood,West Virginia,"54107",380504,3
+2023,Wood,West Virginia,"54107",184747,1
+2023,Wood,West Virginia,"54107",181818,1
+2023,Wood,West Virginia,"54107",254544,2
+2023,Wood,West Virginia,"54107",928229,5
+2023,Wood,West Virginia,"54107",216362,2
+2023,Wood,West Virginia,"54107",229797,1
+2023,Wood,West Virginia,"54107",105050,1
+2023,Wood,West Virginia,"54107",196969,1
+2023,Wyoming,West Virginia,"54109",58500,1
+2023,Wyoming,West Virginia,"54109",140302,2
+2023,Wyoming,West Virginia,"54109",176767,1
