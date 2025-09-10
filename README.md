@@ -8,4 +8,6 @@ The dataset includes filtered CSV files for education, income, investment, and p
 - **filtered/** → Cleaned CSV datasets (`education`, `income`, `investment`, `poverty`)  
 - **final/** → Final processed outputs (e.g., `final_output.geojson`)  
 - **main.ipynb** → Jupyter Notebook for analysis and processing  
-- **pyproject.toml** → Project dependencies and configuration  
+- **pyproject.toml** → Project dependencies and configuration
+- **cb_2018_us_county_5m/** → Contains U.S. Census Bureau shapefiles 
+
