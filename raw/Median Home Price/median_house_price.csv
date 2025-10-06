@@ -1,0 +1,3106 @@
+County Name,Median Home Price Q1 2025,Monthly Payment Q1 2025,Monthly Payment Q1 2024
+"Nantucket County, Massachusetts","$1,700,990 ","$10,010 ","$9,330 "
+"Marin County, California","$1,630,020 ","$9,590 ","$9,570 "
+"San Mateo County, California","$1,608,890 ","$9,470 ","$9,450 "
+"Santa Clara County, California","$1,588,730 ","$9,350 ","$9,190 "
+"Teton County, Wyoming","$1,535,580 ","$9,040 ","$8,440 "
+"San Francisco County, California","$1,453,020 ","$8,550 ","$8,530 "
+"Dukes County, Massachusetts","$1,354,050 ","$7,970 ","$7,430 "
+"Pitkin County, Colorado","$1,255,780 ","$7,390 ","$6,970 "
+"New York County, New York","$1,174,240 ","$6,910 ","$6,360 "
+"Alameda County, California","$1,150,990 ","$6,770 ","$6,760 "
+"Summit County, Utah","$1,077,460 ","$6,340 ","$6,070 "
+"Orange County, California","$1,072,580 ","$6,310 ","$5,990 "
+"Falls Church city, Virginia","$1,061,170 ","$6,250 ","$6,000 "
+"Santa Cruz County, California","$1,041,120 ","$6,130 ","$6,090 "
+"Maui County, Hawaii","$1,040,380 ","$6,120 ","$5,800 "
+"Kings County, New York","$1,022,630 ","$6,020 ","$5,540 "
+"Kauai County, Hawaii","$989,170 ","$5,820 ","$5,510 "
+"San Diego County, California","$980,530 ","$5,770 ","$5,530 "
+"Honolulu County, Hawaii","$958,650 ","$5,640 ","$5,730 "
+"Summit County, Colorado","$944,390 ","$5,560 ","$5,240 "
+"King County, Washington","$925,780 ","$5,450 ","$5,240 "
+"Los Angeles County, California","$924,540 ","$5,440 ","$5,170 "
+"San Luis Obispo County, California","$913,630 ","$5,380 ","$5,110 "
+"Ventura County, California","$905,820 ","$5,330 ","$4,970 "
+"Eagle County, Colorado","$904,420 ","$5,320 ","$5,020 "
+"Arlington County, Virginia","$898,100 ","$5,290 ","$5,080 "
+"Contra Costa County, California","$894,240 ","$5,260 ","$5,250 "
+"Santa Barbara County, California","$894,110 ","$5,260 ","$5,180 "
+"Monroe County, Florida","$885,960 ","$5,210 ","$4,950 "
+"Napa County, California","$860,130 ","$5,060 ","$5,160 "
+"Monterey County, California","$851,530 ","$5,010 ","$4,750 "
+"Routt County, Colorado","$839,480 ","$4,940 ","$4,660 "
+"San Benito County, California","$838,460 ","$4,930 ","$4,850 "
+"Williamson County, Tennessee","$837,520 ","$4,930 ","$4,720 "
+"Sonoma County, California","$829,690 ","$4,880 ","$4,740 "
+"Boulder County, Colorado","$828,810 ","$4,880 ","$4,730 "
+"Middlesex County, Massachusetts","$818,220 ","$4,820 ","$4,510 "
+"Queens County, New York","$804,470 ","$4,730 ","$4,360 "
+"San Juan County, Washington","$801,790 ","$4,720 ","$4,430 "
+"Wasatch County, Utah","$786,030 ","$4,630 ","$4,390 "
+"Norfolk County, Massachusetts","$784,400 ","$4,620 ","$4,330 "
+"Nassau County, New York","$783,210 ","$4,610 ","$4,240 "
+"Gallatin County, Montana","$782,310 ","$4,600 ","$4,240 "
+"Suffolk County, Massachusetts","$781,430 ","$4,600 ","$4,310 "
+"Richmond County, New York","$781,120 ","$4,600 ","$4,230 "
+"Alexandria city, Virginia","$778,830 ","$4,580 ","$4,400 "
+"Loudoun County, Virginia","$775,460 ","$4,560 ","$4,380 "
+"Fairfax County, Virginia","$767,540 ","$4,520 ","$4,340 "
+"Douglas County, Colorado","$763,210 ","$4,490 ","$4,400 "
+"Snohomish County, Washington","$761,420 ","$4,480 ","$4,310 "
+"District of Columbia, District of Columbia","$755,190 ","$4,440 ","$4,270 "
+"Newport County, Rhode Island","$751,350 ","$4,420 ","$4,080 "
+"Westchester County, New York","$750,100 ","$4,410 ","$4,060 "
+"El Dorado County, California","$750,080 ","$4,410 ","$4,320 "
+"Ouray County, Colorado","$743,900 ","$4,380 ","$4,130 "
+"Placer County, California","$730,880 ","$4,300 ","$4,210 "
+"Monmouth County, New Jersey","$729,540 ","$4,290 ","$3,950 "
+"Blaine County, Idaho","$721,020 ","$4,240 ","$4,010 "
+"Fairfax city, Virginia","$714,980 ","$4,210 ","$4,040 "
+"Bergen County, New Jersey","$714,790 ","$4,210 ","$3,870 "
+"Essex County, Massachusetts","$713,790 ","$4,200 ","$3,940 "
+"Deschutes County, Oregon","$704,920 ","$4,150 ","$4,120 "
+"Barnstable County, Massachusetts","$700,770 ","$4,120 ","$3,980 "
+"Elbert County, Colorado","$699,150 ","$4,110 ","$4,030 "
+"Rockland County, New York","$697,590 ","$4,110 ","$3,780 "
+"Broomfield County, Colorado","$695,150 ","$4,090 ","$4,010 "
+"San Miguel County, Colorado","$680,620 ","$4,010 ","$3,780 "
+"Whatcom County, Washington","$680,420 ","$4,000 ","$3,810 "
+"Jefferson County, Colorado","$679,470 ","$4,000 ","$3,920 "
+"Suffolk County, New York","$679,360 ","$4,000 ","$3,680 "
+"Howard County, Maryland","$672,850 ","$3,960 ","$3,750 "
+"Nevada County, California","$672,360 ","$3,960 ","$3,790 "
+"Montgomery County, Maryland","$671,490 ","$3,950 ","$3,790 "
+"Morris County, New Jersey","$671,110 ","$3,950 ","$3,630 "
+"Chaffee County, Colorado","$664,410 ","$3,910 ","$3,690 "
+"Gunnison County, Colorado","$662,970 ","$3,900 ","$3,680 "
+"Yolo County, California","$661,580 ","$3,890 ","$3,810 "
+"Denver County, Colorado","$659,070 ","$3,880 ","$3,800 "
+"Morgan County, Utah","$657,020 ","$3,870 ","$3,650 "
+"Island County, Washington","$656,770 ","$3,870 ","$3,630 "
+"Skagit County, Washington","$655,300 ","$3,860 ","$3,590 "
+"Valley County, Idaho","$651,170 ","$3,830 ","$3,620 "
+"Douglas County, Nevada","$649,880 ","$3,820 ","$3,630 "
+"Plymouth County, Massachusetts","$649,580 ","$3,820 ","$3,580 "
+"Teton County, Idaho","$647,260 ","$3,810 ","$3,600 "
+"Somerset County, New Jersey","$646,600 ","$3,810 ","$3,500 "
+"Flathead County, Montana","$646,040 ","$3,800 ","$3,500 "
+"Solano County, California","$645,910 ","$3,800 ","$3,770 "
+"Forsyth County, Georgia","$642,610 ","$3,780 ","$3,630 "
+"Washington County, Rhode Island","$642,030 ","$3,780 ","$3,480 "
+"Clackamas County, Oregon","$641,400 ","$3,770 ","$3,640 "
+"Riverside County, California","$633,070 ","$3,730 ","$3,570 "
+"Utah County, Utah","$625,110 ","$3,680 ","$3,440 "
+"Washington County, Oregon","$624,030 ","$3,670 ","$3,540 "
+"Hudson County, New Jersey","$617,900 ","$3,640 ","$3,350 "
+"Collier County, Florida","$613,730 ","$3,610 ","$3,480 "
+"Hood River County, Oregon","$612,870 ","$3,610 ","$3,390 "
+"La Plata County, Colorado","$609,570 ","$3,590 ","$3,380 "
+"Charleston County, South Carolina","$609,100 ","$3,580 ","$3,320 "
+"Essex County, New Jersey","$607,330 ","$3,570 ","$3,290 "
+"Union County, New Jersey","$606,980 ","$3,570 ","$3,290 "
+"Clear Creek County, Colorado","$602,580 ","$3,550 ","$3,470 "
+"Salt Lake County, Utah","$599,150 ","$3,530 ","$3,370 "
+"Arapahoe County, Colorado","$596,790 ","$3,510 ","$3,440 "
+"Larimer County, Colorado","$595,970 ","$3,510 ","$3,370 "
+"Fauquier County, Virginia","$593,280 ","$3,490 ","$3,350 "
+"Rockingham County, New Hampshire","$592,560 ","$3,490 ","$3,270 "
+"Washoe County, Nevada","$592,270 ","$3,490 ","$3,350 "
+"Kitsap County, Washington","$590,870 ","$3,480 ","$3,470 "
+"Hawaii County, Hawaii","$588,710 ","$3,460 ","$3,280 "
+"Davis County, Utah","$588,360 ","$3,460 ","$3,270 "
+"Hunterdon County, New Jersey","$587,810 ","$3,460 ","$3,180 "
+"Pierce County, Washington","$587,140 ","$3,460 ","$3,320 "
+"Sacramento County, California","$579,040 ","$3,410 ","$3,330 "
+"Bronx County, New York","$578,750 ","$3,410 ","$3,130 "
+"Ada County, Idaho","$578,450 ","$3,400 ","$3,210 "
+"Kootenai County, Idaho","$578,060 ","$3,400 ","$3,270 "
+"Multnomah County, Oregon","$576,030 ","$3,390 ","$3,270 "
+"Palm Beach County, Florida","$575,960 ","$3,390 ","$3,210 "
+"Clark County, Washington","$574,440 ","$3,380 ","$3,260 "
+"Benton County, Oregon","$573,530 ","$3,380 ","$3,280 "
+"Miami-Dade County, Florida","$572,570 ","$3,370 ","$3,190 "
+"San Joaquin County, California","$570,650 ","$3,360 ","$3,290 "
+"Rappahannock County, Virginia","$569,020 ","$3,350 ","$3,110 "
+"Clarke County, Virginia","$568,790 ","$3,350 ","$3,210 "
+"San Bernardino County, California","$566,580 ","$3,330 ","$3,190 "
+"Grand County, Colorado","$563,060 ","$3,310 ","$3,130 "
+"Prince William County, Virginia","$562,150 ","$3,310 ","$3,180 "
+"St. Johns County, Florida","$560,980 ","$3,300 ","$3,230 "
+"Putnam County, New York","$560,280 ","$3,300 ","$3,030 "
+"Beaufort County, South Carolina","$557,310 ","$3,280 ","$3,000 "
+"Bristol County, Rhode Island","$554,890 ","$3,270 ","$3,010 "
+"Albemarle County, Virginia","$554,490 ","$3,260 ","$3,020 "
+"Washington County, Utah","$554,010 ","$3,260 ","$3,180 "
+"Travis County, Texas","$552,450 ","$3,250 ","$3,250 "
+"Middlesex County, New Jersey","$552,030 ","$3,250 ","$2,990 "
+"Chester County, Pennsylvania","$548,440 ","$3,230 ","$2,970 "
+"Chelan County, Washington","$547,300 ","$3,220 ","$3,000 "
+"Jefferson County, Washington","$546,410 ","$3,220 ","$3,020 "
+"Goochland County, Virginia","$546,280 ","$3,220 ","$3,050 "
+"Cumberland County, Maine","$546,130 ","$3,210 ","$2,980 "
+"Bristol County, Massachusetts","$545,040 ","$3,210 ","$2,960 "
+"Garfield County, Colorado","$544,630 ","$3,210 ","$3,020 "
+"Missoula County, Montana","$542,770 ","$3,190 ","$3,070 "
+"Passaic County, New Jersey","$541,000 ","$3,180 ","$2,930 "
+"Collin County, Texas","$540,600 ","$3,180 ","$3,110 "
+"Gilpin County, Colorado","$539,250 ","$3,170 ","$3,110 "
+"Mono County, California","$534,290 ","$3,140 ","$3,010 "
+"Wake County, North Carolina","$533,340 ","$3,140 ","$2,980 "
+"Mendocino County, California","$530,240 ","$3,120 ","$2,990 "
+"Delaware County, Ohio","$529,980 ","$3,120 ","$2,890 "
+"Santa Fe County, New Mexico","$523,540 ","$3,080 ","$3,000 "
+"Fulton County, Georgia","$522,470 ","$3,070 ","$2,950 "
+"Grand County, Utah","$521,810 ","$3,070 ","$2,910 "
+"Adams County, Colorado","$520,200 ","$3,060 ","$3,000 "
+"Stafford County, Virginia","$519,820 ","$3,060 ","$2,940 "
+"James City County, Virginia","$519,600 ","$3,060 ","$2,830 "
+"Coconino County, Arizona","$517,250 ","$3,040 ","$2,910 "
+"Park County, Colorado","$514,730 ","$3,030 ","$2,970 "
+"Broward County, Florida","$514,560 ","$3,030 ","$2,870 "
+"Thurston County, Washington","$514,040 ","$3,030 ","$2,980 "
+"Anne Arundel County, Maryland","$513,610 ","$3,020 ","$2,870 "
+"Los Alamos County, New Mexico","$513,300 ","$3,020 ","$2,880 "
+"Wilson County, Tennessee","$511,580 ","$3,010 ","$2,880 "
+"Maricopa County, Arizona","$509,180 ","$3,000 ","$2,910 "
+"Kittitas County, Washington","$507,560 ","$2,990 ","$2,810 "
+"Fayette County, Georgia","$506,490 ","$2,980 ","$2,860 "
+"Orange County, North Carolina","$505,750 ","$2,980 ","$2,890 "
+"Bucks County, Pennsylvania","$505,190 ","$2,970 ","$2,730 "
+"Charlottesville city, Virginia","$504,540 ","$2,970 ","$2,750 "
+"Oconee County, Georgia","$502,230 ","$2,960 ","$2,690 "
+"Weld County, Colorado","$501,580 ","$2,950 ","$2,820 "
+"Archuleta County, Colorado","$501,110 ","$2,950 ","$2,780 "
+"Skamania County, Washington","$500,710 ","$2,950 ","$2,840 "
+"Yamhill County, Oregon","$499,960 ","$2,940 ","$2,840 "
+"El Paso County, Colorado","$499,830 ","$2,940 ","$2,830 "
+"Calvert County, Maryland","$499,660 ","$2,940 ","$2,820 "
+"Montgomery County, Pennsylvania","$498,580 ","$2,930 ","$2,700 "
+"Madison County, Montana","$498,560 ","$2,930 ","$2,700 "
+"Polk County, Oregon","$498,200 ","$2,930 ","$2,850 "
+"Worcester County, Massachusetts","$498,130 ","$2,930 ","$2,750 "
+"Union County, North Carolina","$497,210 ","$2,930 ","$2,790 "
+"Chittenden County, Vermont","$496,800 ","$2,920 ","$2,740 "
+"Stanislaus County, California","$496,790 ","$2,920 ","$2,800 "
+"Kendall County, Texas","$496,310 ","$2,920 ","$2,860 "
+"Clark County, Nevada","$495,460 ","$2,920 ","$2,710 "
+"Hillsborough County, New Hampshire","$495,000 ","$2,910 ","$2,710 "
+"Tooele County, Utah","$494,360 ","$2,910 ","$2,780 "
+"Cherokee County, Georgia","$493,250 ","$2,900 ","$2,790 "
+"Carver County, Minnesota","$492,790 ","$2,900 ","$2,780 "
+"Queen Anne's County, Maryland","$492,650 ","$2,900 ","$2,750 "
+"Ravalli County, Montana","$492,340 ","$2,900 ","$2,670 "
+"Mecklenburg County, North Carolina","$491,980 ","$2,900 ","$2,760 "
+"Cache County, Utah","$490,790 ","$2,890 ","$2,780 "
+"York County, Maine","$490,430 ","$2,890 ","$2,680 "
+"Frederick County, Maryland","$488,160 ","$2,870 ","$2,760 "
+"Hinsdale County, Colorado","$487,120 ","$2,870 ","$2,700 "
+"Fredericksburg city, Virginia","$487,100 ","$2,870 ","$2,750 "
+"Park County, Montana","$486,340 ","$2,860 ","$2,630 "
+"Humboldt County, California","$486,190 ","$2,860 ","$2,740 "
+"Denton County, Texas","$484,970 ","$2,850 ","$2,790 "
+"Alpine County, California","$484,220 ","$2,850 ","$2,730 "
+"Carroll County, Maryland","$483,170 ","$2,840 ","$2,700 "
+"Dare County, North Carolina","$482,610 ","$2,840 ","$2,670 "
+"Mercer County, New Jersey","$481,930 ","$2,840 ","$2,620 "
+"Yavapai County, Arizona","$481,770 ","$2,840 ","$2,770 "
+"Belknap County, New Hampshire","$481,640 ","$2,830 ","$2,600 "
+"Walton County, Florida","$481,390 ","$2,830 ","$2,690 "
+"Leelanau County, Michigan","$480,480 ","$2,830 ","$2,580 "
+"York County, Virginia","$479,470 ","$2,820 ","$2,610 "
+"Gillespie County, Texas","$479,190 ","$2,820 ","$2,650 "
+"Weber County, Utah","$478,030 ","$2,810 ","$2,650 "
+"Mason County, Washington","$477,210 ","$2,810 ","$2,640 "
+"Sitka City and Borough, Alaska","$477,130 ","$2,810 ","$2,780 "
+"Chatham County, North Carolina","$476,170 ","$2,800 ","$2,730 "
+"Clallam County, Washington","$475,660 ","$2,800 ","$2,630 "
+"Buncombe County, North Carolina","$475,520 ","$2,800 ","$2,550 "
+"Ocean County, New Jersey","$473,970 ","$2,790 ","$2,570 "
+"Hamilton County, Indiana","$473,920 ","$2,790 ","$2,600 "
+"Cobb County, Georgia","$472,680 ","$2,780 ","$2,670 "
+"Teller County, Colorado","$472,340 ","$2,780 ","$2,670 "
+"St. Mary's County, Maryland","$472,110 ","$2,780 ","$2,500 "
+"Comal County, Texas","$472,090 ","$2,780 ","$2,720 "
+"Davidson County, Tennessee","$471,310 ","$2,770 ","$2,650 "
+"Bonner County, Idaho","$470,760 ","$2,770 ","$2,620 "
+"Clatsop County, Oregon","$469,740 ","$2,760 ","$2,600 "
+"Ozaukee County, Wisconsin","$468,270 ","$2,760 ","$2,560 "
+"Juneau City and Borough, Alaska","$466,770 ","$2,750 ","$2,720 "
+"Boise County, Idaho","$466,740 ","$2,750 ","$2,590 "
+"Poquoson city, Virginia","$466,060 ","$2,740 ","$2,540 "
+"Lane County, Oregon","$465,950 ","$2,740 ","$2,660 "
+"Talbot County, Maryland","$465,560 ","$2,740 ","$2,460 "
+"Martin County, Florida","$464,880 ","$2,740 ","$2,680 "
+"Jefferson County, Montana","$461,780 ","$2,720 ","$2,500 "
+"Dutchess County, New York","$461,440 ","$2,720 ","$2,510 "
+"Merced County, California","$461,080 ","$2,710 ","$2,540 "
+"King George County, Virginia","$459,560 ","$2,700 ","$2,510 "
+"Calaveras County, California","$458,970 ","$2,700 ","$2,590 "
+"Manassas city, Virginia","$458,810 ","$2,700 ","$2,590 "
+"Marion County, Oregon","$458,580 ","$2,700 ","$2,620 "
+"Mineral County, Colorado","$458,480 ","$2,700 ","$2,550 "
+"Jackson County, Oregon","$458,400 ","$2,700 ","$2,630 "
+"Dane County, Wisconsin","$458,010 ","$2,700 ","$2,520 "
+"Hanover County, Virginia","$457,400 ","$2,690 ","$2,550 "
+"Orange County, New York","$457,240 ","$2,690 ","$2,480 "
+"Williamsburg city, Virginia","$454,720 ","$2,680 ","$2,480 "
+"Crook County, Oregon","$454,180 ","$2,670 ","$2,510 "
+"Benton County, Washington","$453,600 ","$2,670 ","$2,600 "
+"Waukesha County, Wisconsin","$453,410 ","$2,670 ","$2,480 "
+"Rockwall County, Texas","$452,730 ","$2,660 ","$2,600 "
+"Spokane County, Washington","$452,320 ","$2,660 ","$2,480 "
+"Aleutians West Census Area, Alaska","$452,310 ","$2,660 ","$2,630 "
+"Sumter County, Florida","$451,720 ","$2,660 ","$2,530 "
+"San Juan County, Colorado","$451,710 ","$2,660 ","$2,510 "
+"Williamson County, Texas","$451,280 ","$2,660 ","$2,650 "
+"Butte County, California","$451,220 ","$2,660 ","$2,550 "
+"Durham County, North Carolina","$450,800 ","$2,650 ","$2,580 "
+"Culpeper County, Virginia","$448,530 ","$2,640 ","$2,450 "
+"Washington County, Minnesota","$447,900 ","$2,640 ","$2,520 "
+"Providence County, Rhode Island","$447,820 ","$2,640 ","$2,430 "
+"Orange County, Florida","$446,950 ","$2,630 ","$2,520 "
+"Prince George's County, Maryland","$445,730 ","$2,620 ","$2,520 "
+"Lake County, Colorado","$445,490 ","$2,620 ","$2,470 "
+"Frederick County, Virginia","$445,250 ","$2,620 ","$2,400 "
+"Spotsylvania County, Virginia","$445,200 ","$2,620 ","$2,520 "
+"Seminole County, Florida","$445,180 ","$2,620 ","$2,510 "
+"DuPage County, Illinois","$444,480 ","$2,620 ","$2,430 "
+"Virginia Beach city, Virginia","$444,320 ","$2,610 ","$2,420 "
+"Sumner County, Tennessee","$443,530 ","$2,610 ","$2,500 "
+"Sarasota County, Florida","$443,250 ","$2,610 ","$2,680 "
+"Ulster County, New York","$443,160 ","$2,610 ","$2,450 "
+"Sutter County, California","$442,840 ","$2,610 ","$2,570 "
+"Oldham County, Kentucky","$441,400 ","$2,600 ","$2,400 "
+"Chesapeake city, Virginia","$439,570 ","$2,590 ","$2,400 "
+"Carson City, Nevada","$439,460 ","$2,590 ","$2,600 "
+"Amador County, California","$439,230 ","$2,590 ","$2,470 "
+"Blanco County, Texas","$439,180 ","$2,580 ","$2,430 "
+"Tillamook County, Oregon","$438,410 ","$2,580 ","$2,420 "
+"Rutherford County, Tennessee","$437,930 ","$2,580 ","$2,470 "
+"Lewis County, Washington","$436,150 ","$2,570 ","$2,410 "
+"Cowlitz County, Washington","$436,120 ","$2,570 ","$2,390 "
+"Merrimack County, New Hampshire","$435,210 ","$2,560 ","$2,350 "
+"Johnson County, Kansas","$434,940 ","$2,560 ","$2,420 "
+"Kent County, Rhode Island","$434,900 ","$2,560 ","$2,360 "
+"Strafford County, New Hampshire","$433,960 ","$2,550 ","$2,390 "
+"Harford County, Maryland","$433,100 ","$2,550 ","$2,420 "
+"Gwinnett County, Georgia","$432,740 ","$2,550 ","$2,450 "
+"Charles County, Maryland","$432,740 ","$2,550 ","$2,450 "
+"Nassau County, Florida","$431,810 ","$2,540 ","$2,490 "
+"Powhatan County, Virginia","$430,630 ","$2,530 ","$2,400 "
+"Lewis and Clark County, Montana","$429,520 ","$2,530 ","$2,330 "
+"Mesa County, Colorado","$429,410 ","$2,530 ","$2,280 "
+"Klickitat County, Washington","$428,980 ","$2,520 ","$2,370 "
+"Josephine County, Oregon","$428,540 ","$2,520 ","$2,370 "
+"Yuba County, California","$427,860 ","$2,520 ","$2,480 "
+"Maury County, Tennessee","$427,620 ","$2,520 ","$2,370 "
+"Linn County, Oregon","$427,360 ","$2,520 ","$2,360 "
+"Fresno County, California","$427,160 ","$2,510 ","$2,420 "
+"Storey County, Nevada","$427,110 ","$2,510 ","$2,420 "
+"York County, South Carolina","$427,070 ","$2,510 ","$2,400 "
+"Sussex County, New Jersey","$426,920 ","$2,510 ","$2,310 "
+"Scott County, Minnesota","$425,890 ","$2,510 ","$2,400 "
+"New Hanover County, North Carolina","$425,590 ","$2,500 ","$2,440 "
+"Hillsborough County, Florida","$425,260 ","$2,500 ","$2,450 "
+"Warren County, Ohio","$423,020 ","$2,490 ","$2,320 "
+"Tuolumne County, California","$421,990 ","$2,480 ","$2,380 "
+"New Kent County, Virginia","$419,560 ","$2,470 ","$2,340 "
+"Saratoga County, New York","$419,550 ","$2,470 ","$2,240 "
+"Coweta County, Georgia","$419,070 ","$2,470 ","$2,370 "
+"Douglas County, Washington","$419,050 ","$2,470 ","$2,290 "
+"Park County, Wyoming","$418,850 ","$2,470 ","$2,300 "
+"Moore County, North Carolina","$418,740 ","$2,460 ","$2,320 "
+"Lake County, Montana","$417,860 ","$2,460 ","$2,260 "
+"Manatee County, Florida","$417,370 ","$2,460 ","$2,520 "
+"Hennepin County, Minnesota","$417,150 ","$2,460 ","$2,350 "
+"Knox County, Tennessee","$416,920 ","$2,450 ","$2,340 "
+"Boone County, Indiana","$416,910 ","$2,450 ","$2,290 "
+"Cabarrus County, North Carolina","$416,830 ","$2,450 ","$2,340 "
+"Canyon County, Idaho","$416,670 ","$2,450 ","$2,310 "
+"Washtenaw County, Michigan","$416,630 ","$2,450 ","$2,300 "
+"Franklin County, Washington","$416,330 ","$2,450 ","$2,390 "
+"Lincoln County, Oregon","$415,990 ","$2,450 ","$2,300 "
+"Hays County, Texas","$415,940 ","$2,450 ","$2,450 "
+"Henderson County, North Carolina","$415,250 ","$2,440 ","$2,230 "
+"Grafton County, New Hampshire","$414,870 ","$2,440 ","$2,240 "
+"Fort Bend County, Texas","$414,770 ","$2,440 ","$2,360 "
+"Walla Walla County, Washington","$414,520 ","$2,440 ","$2,290 "
+"Chesterfield County, Virginia","$414,480 ","$2,440 ","$2,310 "
+"Washington County, Wisconsin","$414,280 ","$2,440 ","$2,270 "
+"Grand Isle County, Vermont","$414,090 ","$2,440 ","$2,280 "
+"Dakota County, Minnesota","$413,910 ","$2,440 ","$2,330 "
+"Columbia County, Oregon","$413,830 ","$2,440 ","$2,350 "
+"Kodiak Island Borough, Alaska","$413,020 ","$2,430 ","$2,400 "
+"Union County, Ohio","$412,960 ","$2,430 ","$2,250 "
+"Broadwater County, Montana","$412,880 ","$2,430 ","$2,240 "
+"Richmond city, Virginia","$412,340 ","$2,430 ","$2,300 "
+"Anchorage Municipality, Alaska","$412,250 ","$2,430 ","$2,320 "
+"Warren County, New Jersey","$411,320 ","$2,420 ","$2,250 "
+"Jackson County, Georgia","$411,320 ","$2,420 ","$2,290 "
+"Osceola County, Florida","$411,250 ","$2,420 ","$2,320 "
+"Pinellas County, Florida","$410,440 ","$2,420 ","$2,370 "
+"Henrico County, Virginia","$409,290 ","$2,410 ","$2,280 "
+"Ketchikan Gateway Borough, Alaska","$409,030 ","$2,410 ","$2,380 "
+"Carroll County, New Hampshire","$407,970 ","$2,400 ","$2,200 "
+"Suffolk city, Virginia","$407,080 ","$2,400 ","$2,220 "
+"Worcester County, Maryland","$406,890 ","$2,390 ","$2,150 "
+"Carbon County, Montana","$406,880 ","$2,390 ","$2,320 "
+"Hall County, Georgia","$406,510 ","$2,390 ","$2,280 "
+"Benton County, Arkansas","$406,250 ","$2,390 ","$2,250 "
+"Currituck County, North Carolina","$406,150 ","$2,390 ","$2,220 "
+"Juab County, Utah","$405,480 ","$2,390 ","$2,230 "
+"McKenzie County, North Dakota","$405,290 ","$2,390 ","$2,260 "
+"Grand Traverse County, Michigan","$405,260 ","$2,390 ","$2,180 "
+"St. Croix County, Wisconsin","$404,630 ","$2,380 ","$2,280 "
+"Blount County, Tennessee","$404,490 ","$2,380 ","$2,270 "
+"Gem County, Idaho","$404,230 ","$2,380 ","$2,240 "
+"Parker County, Texas","$403,640 ","$2,380 ","$2,320 "
+"Mathews County, Virginia","$403,380 ","$2,370 ","$2,200 "
+"DeKalb County, Georgia","$402,870 ","$2,370 ","$2,280 "
+"Pinal County, Arizona","$402,610 ","$2,370 ","$2,300 "
+"Stillwater County, Montana","$402,470 ","$2,370 ","$2,180 "
+"Manassas Park city, Virginia","$402,350 ","$2,370 ","$2,270 "
+"Livingston County, Michigan","$401,730 ","$2,360 ","$2,170 "
+"Taos County, New Mexico","$401,570 ","$2,360 ","$2,250 "
+"Burlington County, New Jersey","$401,110 ","$2,360 ","$2,170 "
+"Laramie County, Wyoming","$401,060 ","$2,360 ","$2,160 "
+"New Castle County, Delaware","$400,430 ","$2,360 ","$2,170 "
+"Platte County, Missouri","$399,940 ","$2,350 ","$2,230 "
+"Addison County, Vermont","$399,630 ","$2,350 ","$2,190 "
+"Wallowa County, Oregon","$399,030 ","$2,350 ","$2,210 "
+"Custer County, Colorado","$398,310 ","$2,340 ","$2,210 "
+"Montrose County, Colorado","$397,310 ","$2,340 ","$2,210 "
+"Madison County, Idaho","$396,460 ","$2,330 ","$2,200 "
+"Iredell County, North Carolina","$396,460 ","$2,330 ","$2,220 "
+"Indian River County, Florida","$396,240 ","$2,330 ","$2,310 "
+"Wayne County, Utah","$395,840 ","$2,330 ","$2,210 "
+"Sherburne County, Minnesota","$395,240 ","$2,330 ","$2,230 "
+"Lake County, Illinois","$394,940 ","$2,320 ","$2,160 "
+"Sheridan County, Wyoming","$394,220 ","$2,320 ","$2,170 "
+"Berkeley County, South Carolina","$393,910 ","$2,320 ","$2,140 "
+"St. Lucie County, Florida","$393,470 ","$2,320 ","$2,270 "
+"Curry County, Oregon","$393,450 ","$2,320 ","$2,180 "
+"Sublette County, Wyoming","$391,870 ","$2,310 ","$2,150 "
+"Glynn County, Georgia","$391,840 ","$2,310 ","$2,080 "
+"Orange County, Virginia","$391,530 ","$2,300 ","$2,140 "
+"Walton County, Georgia","$390,840 ","$2,300 ","$2,210 "
+"Lincoln County, North Carolina","$390,440 ","$2,300 ","$2,190 "
+"Oakland County, Michigan","$390,410 ","$2,300 ","$2,110 "
+"Bonneville County, Idaho","$390,390 ","$2,300 ","$2,210 "
+"Dorchester County, South Carolina","$389,970 ","$2,300 ","$2,120 "
+"Lincoln County, South Dakota","$389,860 ","$2,290 ","$2,190 "
+"Colusa County, California","$389,680 ","$2,290 ","$2,200 "
+"Carteret County, North Carolina","$389,130 ","$2,290 ","$2,160 "
+"Brunswick County, North Carolina","$388,880 ","$2,290 ","$2,230 "
+"Kern County, California","$388,760 ","$2,290 ","$2,160 "
+"Montgomery County, Texas","$388,530 ","$2,290 ","$2,210 "
+"Hood County, Texas","$388,080 ","$2,280 ","$2,150 "
+"Box Elder County, Utah","$387,810 ","$2,280 ","$2,160 "
+"Greene County, Georgia","$387,540 ","$2,280 ","$2,150 "
+"Paulding County, Georgia","$387,340 ","$2,280 ","$2,190 "
+"Northumberland County, Virginia","$386,660 ","$2,280 ","$2,110 "
+"Ellis County, Texas","$386,150 ","$2,270 ","$2,220 "
+"Isle of Wight County, Virginia","$385,800 ","$2,270 ","$2,100 "
+"Baltimore County, Maryland","$385,710 ","$2,270 ","$2,150 "
+"Dawson County, Georgia","$385,040 ","$2,270 ","$2,180 "
+"Chatham County, Georgia","$384,980 ","$2,270 ","$2,090 "
+"Georgetown County, South Carolina","$384,840 ","$2,260 ","$2,070 "
+"Yellowstone County, Montana","$384,780 ","$2,260 ","$2,200 "
+"Madison County, Virginia","$384,690 ","$2,260 ","$2,100 "
+"Granite County, Montana","$384,250 ","$2,260 ","$2,080 "
+"Cheshire County, New Hampshire","$383,770 ","$2,260 ","$2,070 "
+"Wright County, Minnesota","$383,270 ","$2,260 ","$2,160 "
+"Robertson County, Tennessee","$383,120 ","$2,250 ","$2,160 "
+"Transylvania County, North Carolina","$381,300 ","$2,240 ","$2,110 "
+"Kane County, Utah","$380,750 ","$2,240 ","$2,120 "
+"Olmsted County, Minnesota","$380,620 ","$2,240 ","$2,120 "
+"Bryan County, Georgia","$380,540 ","$2,240 ","$2,060 "
+"Wahkiakum County, Washington","$380,200 ","$2,240 ","$2,100 "
+"Dallas County, Iowa","$379,620 ","$2,230 ","$2,160 "
+"Kendall County, Illinois","$379,050 ","$2,230 ","$2,080 "
+"Lyon County, Nevada","$379,040 ","$2,230 ","$2,120 "
+"Kings County, California","$378,670 ","$2,230 ","$2,100 "
+"Okaloosa County, Florida","$377,900 ","$2,220 ","$2,200 "
+"Columbia County, Georgia","$377,840 ","$2,220 ","$2,000 "
+"Anoka County, Minnesota","$377,010 ","$2,220 ","$2,120 "
+"Clarke County, Georgia","$376,520 ","$2,220 ","$2,020 "
+"Lee County, Florida","$375,980 ","$2,210 ","$2,290 "
+"Kane County, Illinois","$375,920 ","$2,210 ","$2,060 "
+"Imperial County, California","$375,100 ","$2,210 ","$2,040 "
+"Lincoln County, Wyoming","$374,410 ","$2,200 ","$2,060 "
+"Winchester city, Virginia","$374,180 ","$2,200 ","$2,020 "
+"Bannock County, Idaho","$374,150 ","$2,200 ","$2,140 "
+"Lehigh County, Pennsylvania","$374,000 ","$2,200 ","$2,050 "
+"Delaware County, Pennsylvania","$373,990 ","$2,200 ","$2,020 "
+"Will County, Illinois","$373,830 ","$2,200 ","$2,050 "
+"Boundary County, Idaho","$373,760 ","$2,200 ","$2,080 "
+"Greenville County, South Carolina","$373,690 ","$2,200 ","$2,070 "
+"Hamilton County, Tennessee","$372,830 ","$2,190 ","$2,100 "
+"Lancaster County, South Carolina","$372,190 ","$2,190 ","$2,090 "
+"Iron County, Utah","$372,070 ","$2,190 ","$2,080 "
+"Latah County, Idaho","$372,020 ","$2,190 ","$2,070 "
+"Douglas County, Kansas","$371,980 ","$2,190 ","$1,960 "
+"Mariposa County, California","$371,920 ","$2,190 ","$2,090 "
+"St. Charles County, Missouri","$371,590 ","$2,190 ","$2,030 "
+"Tulare County, California","$371,320 ","$2,190 ","$2,100 "
+"Walworth County, Wisconsin","$370,770 ","$2,180 ","$2,030 "
+"Kent County, Delaware","$369,720 ","$2,180 ","$2,130 "
+"Geauga County, Ohio","$369,440 ","$2,170 ","$2,000 "
+"Brevard County, Florida","$369,190 ","$2,170 ","$2,140 "
+"Pima County, Arizona","$367,390 ","$2,160 ","$2,060 "
+"Northampton County, Pennsylvania","$367,080 ","$2,160 ","$2,010 "
+"Cecil County, Maryland","$366,930 ","$2,160 ","$1,980 "
+"Sanders County, Montana","$366,480 ","$2,160 ","$1,980 "
+"Crow Wing County, Minnesota","$366,430 ","$2,160 ","$2,070 "
+"Henry County, Georgia","$366,110 ","$2,150 ","$2,070 "
+"Shasta County, California","$365,920 ","$2,150 ","$2,110 "
+"Morgan County, Georgia","$365,910 ","$2,150 ","$2,030 "
+"Billings County, North Dakota","$365,820 ","$2,150 ","$2,040 "
+"Kaufman County, Texas","$365,600 ","$2,150 ","$2,100 "
+"Atlantic County, New Jersey","$365,530 ","$2,150 ","$2,030 "
+"Watauga County, North Carolina","$364,740 ","$2,150 ","$2,020 "
+"Horry County, South Carolina","$364,650 ","$2,150 ","$2,020 "
+"Matanuska-Susitna Borough, Alaska","$364,610 ","$2,150 ","$2,050 "
+"Cook County, Illinois","$363,960 ","$2,140 ","$1,990 "
+"Jefferson County, Oregon","$363,950 ","$2,140 ","$2,010 "
+"Rockingham County, Virginia","$363,410 ","$2,140 ","$1,940 "
+"Santa Rosa County, Florida","$362,880 ","$2,140 ","$2,100 "
+"Pasco County, Florida","$362,470 ","$2,130 ","$2,090 "
+"Fairfield County, Ohio","$362,220 ","$2,130 ","$1,970 "
+"Sandoval County, New Mexico","$361,730 ","$2,130 ","$2,010 "
+"Centre County, Pennsylvania","$361,560 ","$2,130 ","$1,940 "
+"Albany County, Wyoming","$360,530 ","$2,120 ","$1,980 "
+"Madison County, Mississippi","$360,160 ","$2,120 ","$2,040 "
+"Washington County, Arkansas","$360,140 ","$2,120 ","$2,000 "
+"Door County, Wisconsin","$359,830 ","$2,120 ","$1,970 "
+"Douglas County, Georgia","$359,330 ","$2,110 ","$2,030 "
+"Rockdale County, Georgia","$359,110 ","$2,110 ","$2,030 "
+"Johnston County, North Carolina","$358,990 ","$2,110 ","$2,010 "
+"Kent County, Maryland","$358,960 ","$2,110 ","$1,900 "
+"Lincoln County, Maine","$358,670 ","$2,110 ","$2,000 "
+"Christian County, Missouri","$358,130 ","$2,110 ","$1,960 "
+"McHenry County, Illinois","$357,700 ","$2,110 ","$1,960 "
+"Midland County, Texas","$357,550 ","$2,100 ","$1,950 "
+"Charlotte County, Florida","$357,390 ","$2,100 ","$2,130 "
+"Twin Falls County, Idaho","$357,360 ","$2,100 ","$1,990 "
+"Llano County, Texas","$357,260 ","$2,100 ","$1,980 "
+"Roanoke County, Virginia","$357,080 ","$2,100 ","$1,940 "
+"Lancaster County, Virginia","$357,060 ","$2,100 ","$1,950 "
+"Whitman County, Washington","$356,800 ","$2,100 ","$1,970 "
+"Wasco County, Oregon","$356,760 ","$2,100 ","$1,970 "
+"Grays Harbor County, Washington","$356,690 ","$2,100 ","$1,970 "
+"Gloucester County, New Jersey","$356,180 ","$2,100 ","$1,930 "
+"Adams County, Idaho","$355,510 ","$2,090 ","$1,980 "
+"Custer County, South Dakota","$355,060 ","$2,090 ","$2,050 "
+"Mineral County, Montana","$354,940 ","$2,090 ","$1,920 "
+"Greene County, Virginia","$354,770 ","$2,090 ","$1,930 "
+"Clay County, Florida","$354,680 ","$2,090 ","$2,040 "
+"Lake County, Florida","$354,410 ","$2,090 ","$2,000 "
+"Tarrant County, Texas","$354,010 ","$2,080 ","$2,040 "
+"Shelby County, Alabama","$353,810 ","$2,080 ","$2,020 "
+"Towns County, Georgia","$353,220 ","$2,080 ","$1,960 "
+"Pennington County, South Dakota","$353,130 ","$2,080 ","$1,940 "
+"Volusia County, Florida","$353,050 ","$2,080 ","$2,040 "
+"Delta County, Colorado","$353,020 ","$2,080 ","$1,960 "
+"Chisago County, Minnesota","$352,410 ","$2,070 ","$1,990 "
+"Sarpy County, Nebraska","$352,390 ","$2,070 ","$1,990 "
+"Washington County, Vermont","$351,970 ","$2,070 ","$1,930 "
+"Glenn County, California","$351,550 ","$2,070 ","$1,980 "
+"Inyo County, California","$351,550 ","$2,070 ","$1,980 "
+"Yakima County, Washington","$350,860 ","$2,060 ","$1,970 "
+"Douglas County, Oregon","$350,750 ","$2,060 ","$1,940 "
+"Albany County, New York","$350,390 ","$2,060 ","$1,870 "
+"Lake County, California","$349,790 ","$2,060 ","$1,970 "
+"Jefferson County, Idaho","$348,930 ","$2,050 ","$1,980 "
+"Sagadahoc County, Maine","$348,380 ","$2,050 ","$1,900 "
+"Middlesex County, Virginia","$348,000 ","$2,050 ","$1,900 "
+"Lancaster County, Pennsylvania","$347,730 ","$2,050 ","$1,970 "
+"Sierra County, California","$347,090 ","$2,040 ","$1,960 "
+"Franklin County, Ohio","$346,340 ","$2,040 ","$1,890 "
+"Kent County, Michigan","$346,300 ","$2,040 ","$1,910 "
+"Columbia County, New York","$346,280 ","$2,040 ","$1,870 "
+"Hendricks County, Indiana","$345,560 ","$2,030 ","$1,890 "
+"Norfolk city, Virginia","$345,320 ","$2,030 ","$1,880 "
+"Ramsey County, Minnesota","$344,850 ","$2,030 ","$1,940 "
+"Burnet County, Texas","$344,180 ","$2,030 ","$1,910 "
+"Haines Borough, Alaska","$344,170 ","$2,030 ","$2,000 "
+"Baldwin County, Alabama","$343,870 ","$2,020 ","$1,870 "
+"Monroe County, Indiana","$343,350 ","$2,020 ","$1,840 "
+"Johnson County, Iowa","$343,130 ","$2,020 ","$1,850 "
+"Jefferson County, West Virginia","$342,500 ","$2,020 ","$1,940 "
+"Montezuma County, Colorado","$342,030 ","$2,010 ","$1,900 "
+"Alachua County, Florida","$341,840 ","$2,010 ","$2,000 "
+"Trinity County, California","$341,790 ","$2,010 ","$1,930 "
+"Hampden County, Massachusetts","$341,690 ","$2,010 ","$1,860 "
+"Grant County, Washington","$341,570 ","$2,010 ","$1,890 "
+"Lamoille County, Vermont","$341,550 ","$2,010 ","$1,870 "
+"Sevier County, Tennessee","$341,010 ","$2,010 ","$1,890 "
+"Cascade County, Montana","$340,990 ","$2,010 ","$1,870 "
+"Pender County, North Carolina","$340,930 ","$2,010 ","$1,960 "
+"Augusta County, Virginia","$340,810 ","$2,010 ","$1,860 "
+"Knox County, Maine","$340,630 ","$2,000 ","$1,900 "
+"Fayette County, Kentucky","$340,420 ","$2,000 ","$1,870 "
+"Madison County, Alabama","$340,340 ","$2,000 ","$1,960 "
+"Galveston County, Texas","$340,150 ","$2,000 ","$1,930 "
+"Plumas County, California","$340,130 ","$2,000 ","$1,920 "
+"Stevens County, Washington","$339,920 ","$2,000 ","$1,880 "
+"Loudon County, Tennessee","$339,810 ","$2,000 ","$1,900 "
+"Pend Oreille County, Washington","$339,700 ","$2,000 ","$1,880 "
+"Effingham County, Georgia","$339,370 ","$2,000 ","$1,840 "
+"Spencer County, Kentucky","$339,000 ","$2,000 ","$1,840 "
+"Bernalillo County, New Mexico","$338,630 ","$1,990 ","$1,880 "
+"Bartow County, Georgia","$338,540 ","$1,990 ","$1,910 "
+"Payette County, Idaho","$337,480 ","$1,990 ","$1,880 "
+"Lawrence County, South Dakota","$337,270 ","$1,980 ","$1,950 "
+"Duval County, Florida","$337,260 ","$1,980 ","$1,940 "
+"Butler County, Pennsylvania","$336,940 ","$1,980 ","$1,840 "
+"Dallas County, Texas","$336,200 ","$1,980 ","$1,930 "
+"Wise County, Texas","$335,360 ","$1,970 ","$1,930 "
+"Tehama County, California","$335,350 ","$1,970 ","$1,890 "
+"Gloucester County, Virginia","$334,450 ","$1,970 ","$1,820 "
+"Sweet Grass County, Montana","$334,450 ","$1,970 ","$1,810 "
+"Bay County, Florida","$334,200 ","$1,970 ","$1,930 "
+"Brazos County, Texas","$334,140 ","$1,970 ","$1,910 "
+"Leon County, Florida","$333,910 ","$1,970 ","$1,940 "
+"Jefferson County, Wisconsin","$333,820 ","$1,960 ","$1,830 "
+"Fairbanks North Star Borough, Alaska","$333,660 ","$1,960 ","$1,720 "
+"Warren County, Virginia","$333,320 ","$1,960 ","$1,880 "
+"Burleigh County, North Dakota","$333,130 ","$1,960 ","$1,840 "
+"Rice County, Minnesota","$333,030 ","$1,960 ","$1,880 "
+"Pierce County, Wisconsin","$332,980 ","$1,960 ","$1,880 "
+"Lee County, Alabama","$332,500 ","$1,960 ","$1,760 "
+"Morgan County, Colorado","$332,260 ","$1,960 ","$1,840 "
+"Del Norte County, California","$332,020 ","$1,950 ","$1,870 "
+"Washington County, Maryland","$331,560 ","$1,950 ","$1,860 "
+"Johnson County, Wyoming","$331,320 ","$1,950 ","$1,820 "
+"Boone County, Kentucky","$331,270 ","$1,950 ","$1,820 "
+"Walker County, Texas","$330,990 ","$1,950 ","$1,830 "
+"Camden County, New Jersey","$330,410 ","$1,940 ","$1,790 "
+"Cass County, Missouri","$330,270 ","$1,940 ","$1,840 "
+"Medina County, Ohio","$330,030 ","$1,940 ","$1,780 "
+"Churchill County, Nevada","$329,700 ","$1,940 ","$1,840 "
+"Montgomery County, Virginia","$329,640 ","$1,940 ","$1,850 "
+"Montgomery County, Tennessee","$329,510 ","$1,940 ","$1,880 "
+"Guadalupe County, Texas","$329,320 ","$1,940 ","$1,900 "
+"Barrow County, Georgia","$329,130 ","$1,940 ","$1,860 "
+"Brazoria County, Texas","$329,030 ","$1,940 ","$1,870 "
+"Camden County, North Carolina","$328,770 ","$1,930 ","$1,820 "
+"Fayette County, Tennessee","$328,570 ","$1,930 ","$1,880 "
+"Johnson County, Texas","$327,570 ","$1,930 ","$1,880 "
+"Hernando County, Florida","$327,480 ","$1,930 ","$1,890 "
+"Putnam County, Tennessee","$327,140 ","$1,930 ","$1,810 "
+"Brown County, Wisconsin","$327,010 ","$1,920 ","$1,800 "
+"Clinton County, Michigan","$326,590 ","$1,920 ","$1,780 "
+"Hancock County, Indiana","$326,140 ","$1,920 ","$1,790 "
+"Hancock County, Maine","$326,100 ","$1,920 ","$1,820 "
+"Sanpete County, Utah","$325,960 ","$1,920 ","$1,820 "
+"Porter County, Indiana","$325,440 ","$1,920 ","$1,780 "
+"Nez Perce County, Idaho","$325,360 ","$1,910 ","$1,730 "
+"Franklin County, Vermont","$325,240 ","$1,910 ","$1,790 "
+"Emmet County, Michigan","$325,080 ","$1,910 ","$1,750 "
+"Coos County, Oregon","$324,890 ","$1,910 ","$1,800 "
+"Clermont County, Ohio","$324,430 ","$1,910 ","$1,780 "
+"Cook County, Minnesota","$324,100 ","$1,910 ","$1,830 "
+"Northampton County, Virginia","$323,980 ","$1,910 ","$1,770 "
+"Johnson County, Indiana","$323,880 ","$1,910 ","$1,780 "
+"Stearns County, Minnesota","$323,870 ","$1,910 ","$1,800 "
+"Bedford County, Virginia","$323,670 ","$1,900 ","$1,800 "
+"Harnett County, North Carolina","$323,670 ","$1,900 ","$1,790 "
+"Newton County, Georgia","$323,660 ","$1,900 ","$1,830 "
+"Botetourt County, Virginia","$323,510 ","$1,900 ","$1,760 "
+"Harrisonburg city, Virginia","$323,310 ","$1,900 ","$1,730 "
+"Warren County, New York","$322,520 ","$1,900 ","$1,680 "
+"Cumberland County, Pennsylvania","$322,470 ","$1,900 ","$1,800 "
+"Tompkins County, New York","$322,190 ","$1,900 ","$1,850 "
+"Minnehaha County, South Dakota","$321,820 ","$1,890 ","$1,800 "
+"Jasper County, South Carolina","$321,770 ","$1,890 ","$1,730 "
+"Douglas County, Minnesota","$321,560 ","$1,890 ","$1,820 "
+"Franklin County, North Carolina","$321,490 ","$1,890 ","$1,800 "
+"Custer County, Idaho","$321,080 ","$1,890 ","$1,790 "
+"Kenai Peninsula Borough, Alaska","$321,070 ","$1,890 ","$1,870 "
+"Umatilla County, Oregon","$321,030 ","$1,890 ","$1,780 "
+"Outagamie County, Wisconsin","$320,950 ","$1,890 ","$1,800 "
+"Windsor County, Vermont","$320,230 ","$1,880 ","$1,750 "
+"Caroline County, Virginia","$319,730 ","$1,880 ","$1,780 "
+"Asotin County, Washington","$319,660 ","$1,880 ","$1,700 "
+"Lexington city, Virginia","$319,560 ","$1,880 ","$1,750 "
+"Sauk County, Wisconsin","$319,230 ","$1,880 ","$1,750 "
+"Licking County, Ohio","$319,190 ","$1,880 ","$1,740 "
+"Beaverhead County, Montana","$319,170 ","$1,880 ","$1,730 "
+"Butler County, Ohio","$319,090 ","$1,880 ","$1,750 "
+"Boone County, Missouri","$319,030 ","$1,880 ","$1,700 "
+"Adams County, Pennsylvania","$318,930 ","$1,880 ","$1,710 "
+"Monroe County, Pennsylvania","$318,930 ","$1,880 ","$1,710 "
+"Polk County, North Carolina","$318,900 ","$1,880 ","$1,770 "
+"Pueblo County, Colorado","$318,630 ","$1,880 ","$1,790 "
+"Franklin County, Idaho","$318,600 ","$1,880 ","$1,800 "
+"Vilas County, Wisconsin","$318,530 ","$1,870 ","$1,740 "
+"Nelson County, Virginia","$318,430 ","$1,870 ","$1,740 "
+"Caroline County, Maryland","$318,400 ","$1,870 ","$1,680 "
+"Clay County, Missouri","$317,710 ","$1,870 ","$1,770 "
+"Windham County, Vermont","$317,480 ","$1,870 ","$1,740 "
+"Berkeley County, West Virginia","$317,420 ","$1,870 ","$1,780 "
+"Le Sueur County, Minnesota","$317,150 ","$1,870 ","$1,790 "
+"Fluvanna County, Virginia","$316,970 ","$1,870 ","$1,730 "
+"Pickens County, Georgia","$316,870 ","$1,860 ","$1,790 "
+"Gaston County, North Carolina","$316,630 ","$1,860 ","$1,780 "
+"Shelby County, Kentucky","$316,100 ","$1,860 ","$1,720 "
+"Kerr County, Texas","$316,030 ","$1,860 ","$1,750 "
+"Rich County, Utah","$315,970 ","$1,860 ","$1,760 "
+"Gilmer County, Georgia","$315,850 ","$1,860 ","$1,760 "
+"Waller County, Texas","$315,320 ","$1,860 ","$1,790 "
+"Limestone County, Alabama","$314,830 ","$1,850 ","$1,810 "
+"Bradley County, Tennessee","$314,760 ","$1,850 ","$1,790 "
+"Mohave County, Arizona","$314,540 ","$1,850 ","$1,760 "
+"Cass County, North Dakota","$314,030 ","$1,850 ","$1,760 "
+"Polk County, Florida","$314,020 ","$1,850 ","$1,820 "
+"Lumpkin County, Georgia","$313,930 ","$1,850 ","$1,740 "
+"Cheatham County, Tennessee","$313,780 ","$1,850 ","$1,770 "
+"Okanogan County, Washington","$313,650 ","$1,850 ","$1,730 "
+"Fremont County, Colorado","$313,170 ","$1,840 ","$1,740 "
+"Chambers County, Texas","$313,050 ","$1,840 ","$1,780 "
+"Woodford County, Kentucky","$312,780 ","$1,840 ","$1,720 "
+"Allegan County, Michigan","$312,680 ","$1,840 ","$1,680 "
+"Elko County, Nevada","$312,440 ","$1,840 ","$1,750 "
+"King William County, Virginia","$312,270 ","$1,840 ","$1,740 "
+"Beaver County, Utah","$312,070 ","$1,840 ","$1,740 "
+"La Crosse County, Wisconsin","$311,850 ","$1,840 ","$1,770 "
+"Miami County, Kansas","$311,540 ","$1,830 ","$1,740 "
+"Campbell County, Kentucky","$311,440 ","$1,830 ","$1,710 "
+"Louisa County, Virginia","$311,260 ","$1,830 ","$1,740 "
+"Fannin County, Georgia","$310,980 ","$1,830 ","$1,730 "
+"St. Louis County, Missouri","$310,880 ","$1,830 ","$1,700 "
+"Camden County, Missouri","$310,440 ","$1,830 ","$1,660 "
+"Portsmouth city, Virginia","$310,280 ","$1,830 ","$1,690 "
+"Garfield County, Utah","$310,110 ","$1,830 ","$1,730 "
+"Meade County, South Dakota","$310,030 ","$1,820 ","$1,700 "
+"Harris County, Texas","$310,030 ","$1,820 ","$1,760 "
+"Owyhee County, Idaho","$309,920 ","$1,820 ","$1,720 "
+"Rensselaer County, New York","$309,850 ","$1,820 ","$1,660 "
+"Crook County, Wyoming","$309,820 ","$1,820 ","$1,700 "
+"Guilford County, North Carolina","$309,780 ","$1,820 ","$1,700 "
+"Wicomico County, Maryland","$309,550 ","$1,820 ","$1,650 "
+"Idaho County, Idaho","$309,130 ","$1,820 ","$1,720 "
+"Leavenworth County, Kansas","$309,070 ","$1,820 ","$1,720 "
+"Rabun County, Georgia","$308,720 ","$1,820 ","$1,720 "
+"Union County, Georgia","$308,720 ","$1,820 ","$1,720 "
+"Shenandoah County, Virginia","$308,540 ","$1,820 ","$1,690 "
+"Bennington County, Vermont","$308,260 ","$1,810 ","$1,690 "
+"Eau Claire County, Wisconsin","$308,150 ","$1,810 ","$1,760 "
+"Kenosha County, Wisconsin","$308,040 ","$1,810 ","$1,690 "
+"Androscoggin County, Maine","$308,020 ","$1,810 ","$1,660 "
+"Bastrop County, Texas","$307,780 ","$1,810 ","$1,810 "
+"Alamance County, North Carolina","$307,580 ","$1,810 ","$1,730 "
+"Forsyth County, North Carolina","$307,510 ","$1,810 ","$1,710 "
+"Carroll County, Georgia","$307,240 ","$1,810 ","$1,740 "
+"Harris County, Georgia","$307,190 ","$1,810 ","$1,810 "
+"Blue Earth County, Minnesota","$306,840 ","$1,810 ","$1,690 "
+"Citrus County, Florida","$306,420 ","$1,800 ","$1,710 "
+"Lemhi County, Idaho","$306,420 ","$1,800 ","$1,700 "
+"Lancaster County, Nebraska","$306,220 ","$1,800 ","$1,710 "
+"Fremont County, Idaho","$306,090 ","$1,800 ","$1,700 "
+"Sullivan County, New York","$306,040 ","$1,800 ","$1,650 "
+"Trousdale County, Tennessee","$305,920 ","$1,800 ","$1,720 "
+"Scott County, Kentucky","$305,610 ","$1,800 ","$1,680 "
+"Greene County, Ohio","$305,580 ","$1,800 ","$1,690 "
+"Isanti County, Minnesota","$305,580 ","$1,800 ","$1,720 "
+"Rowan County, North Carolina","$304,720 ","$1,790 ","$1,710 "
+"Portage County, Wisconsin","$304,640 ","$1,790 ","$1,670 "
+"Oconee County, South Carolina","$304,570 ","$1,790 ","$1,640 "
+"Escambia County, Florida","$304,430 ","$1,790 ","$1,760 "
+"Mason County, Texas","$304,390 ","$1,790 ","$1,690 "
+"Berks County, Pennsylvania","$304,210 ","$1,790 ","$1,700 "
+"Washington County, Nebraska","$304,190 ","$1,790 ","$1,710 "
+"Dodge County, Minnesota","$303,920 ","$1,790 ","$1,690 "
+"Williams County, North Dakota","$303,770 ","$1,790 ","$1,690 "
+"Monroe County, Illinois","$303,120 ","$1,780 ","$1,660 "
+"Prince George County, Virginia","$303,010 ","$1,780 ","$1,690 "
+"Ferry County, Washington","$302,950 ","$1,780 ","$1,680 "
+"Newport News city, Virginia","$302,760 ","$1,780 ","$1,650 "
+"Pacific County, Washington","$302,390 ","$1,780 ","$1,670 "
+"Elmore County, Idaho","$302,290 ","$1,780 ","$1,680 "
+"Union County, South Dakota","$301,930 ","$1,780 ","$1,630 "
+"Converse County, Wyoming","$301,880 ","$1,780 ","$1,660 "
+"York County, Pennsylvania","$301,820 ","$1,780 ","$1,620 "
+"Onslow County, North Carolina","$301,570 ","$1,770 ","$1,560 "
+"Orleans Parish, Louisiana","$301,280 ","$1,770 ","$1,770 "
+"Columbia County, Wisconsin","$301,110 ","$1,770 ","$1,660 "
+"Grundy County, Illinois","$300,730 ","$1,770 ","$1,650 "
+"Orange County, Vermont","$300,590 ","$1,770 ","$1,640 "
+"Lincoln County, Washington","$300,520 ","$1,770 ","$1,660 "
+"Fayette County, Texas","$300,510 ","$1,770 ","$1,660 "
+"Benzie County, Michigan","$300,400 ","$1,770 ","$1,620 "
+"Douglas County, Nebraska","$300,260 ","$1,770 ","$1,690 "
+"Washington County, Texas","$299,400 ","$1,760 ","$1,660 "
+"Chippewa County, Wisconsin","$298,870 ","$1,760 ","$1,710 "
+"Hampton city, Virginia","$298,830 ","$1,760 ","$1,630 "
+"Tippecanoe County, Indiana","$298,750 ","$1,760 ","$1,610 "
+"Clay County, North Carolina","$298,710 ","$1,760 ","$1,660 "
+"Campbell County, Wyoming","$298,180 ","$1,750 ","$1,640 "
+"Natrona County, Wyoming","$297,460 ","$1,750 ","$1,610 "
+"Sevier County, Utah","$297,420 ","$1,750 ","$1,660 "
+"Goodhue County, Minnesota","$296,980 ","$1,750 ","$1,680 "
+"White County, Georgia","$296,940 ","$1,750 ","$1,650 "
+"Bullitt County, Kentucky","$296,730 ","$1,750 ","$1,610 "
+"Kennebec County, Maine","$296,590 ","$1,750 ","$1,650 "
+"Morgan County, Indiana","$296,560 ","$1,750 ","$1,630 "
+"Racine County, Wisconsin","$296,260 ","$1,740 ","$1,570 "
+"Grayson County, Texas","$296,020 ","$1,740 ","$1,660 "
+"Grand Forks County, North Dakota","$295,730 ","$1,740 ","$1,630 "
+"Siskiyou County, California","$295,560 ","$1,740 ","$1,660 "
+"Stark County, North Dakota","$295,380 ","$1,740 ","$1,650 "
+"Dorchester County, Maryland","$294,910 ","$1,740 ","$1,560 "
+"Floyd County, Indiana","$294,680 ","$1,730 ","$1,600 "
+"Salem city, Virginia","$294,520 ","$1,730 ","$1,600 "
+"Nye County, Nevada","$294,290 ","$1,730 ","$1,640 "
+"Becker County, Minnesota","$294,220 ","$1,730 ","$1,660 "
+"Madison County, North Carolina","$294,130 ","$1,730 ","$1,580 "
+"Miami County, Ohio","$294,070 ","$1,730 ","$1,620 "
+"Dickson County, Tennessee","$293,640 ","$1,730 ","$1,650 "
+"Polk County, Iowa","$293,340 ","$1,730 ","$1,670 "
+"Uintah County, Utah","$293,190 ","$1,730 ","$1,640 "
+"Warren County, Kentucky","$293,170 ","$1,730 ","$1,670 "
+"Richland County, Montana","$293,140 ","$1,730 ","$1,590 "
+"Marion County, Florida","$293,010 ","$1,720 ","$1,670 "
+"Lincoln County, Montana","$292,800 ","$1,720 ","$1,590 "
+"Ascension Parish, Louisiana","$292,770 ","$1,720 ","$1,680 "
+"Calumet County, Wisconsin","$292,630 ","$1,720 ","$1,640 "
+"Austin County, Texas","$292,530 ","$1,720 ","$1,660 "
+"Moore County, Tennessee","$292,410 ","$1,720 ","$1,620 "
+"Lafayette County, Mississippi","$292,290 ","$1,720 ","$1,600 "
+"Schenectady County, New York","$291,930 ","$1,720 ","$1,560 "
+"Kenton County, Kentucky","$291,720 ","$1,720 ","$1,600 "
+"Klamath County, Oregon","$291,520 ","$1,720 ","$1,610 "
+"Pike County, Pennsylvania","$291,470 ","$1,720 ","$1,580 "
+"Moffat County, Colorado","$291,410 ","$1,720 ","$1,620 "
+"Holmes County, Ohio","$291,330 ","$1,710 ","$1,590 "
+"Bristol Bay Borough, Alaska","$291,180 ","$1,710 ","$1,690 "
+"Pike County, Georgia","$290,720 ","$1,710 ","$1,640 "
+"Hamilton County, Ohio","$290,560 ","$1,710 ","$1,590 "
+"Wilson County, Texas","$290,100 ","$1,710 ","$1,670 "
+"Warrick County, Indiana","$289,730 ","$1,710 ","$1,610 "
+"LaGrange County, Indiana","$289,670 ","$1,700 ","$1,570 "
+"Powell County, Montana","$289,400 ","$1,700 ","$1,570 "
+"Cass County, Minnesota","$289,150 ","$1,700 ","$1,630 "
+"Sheboygan County, Wisconsin","$289,030 ","$1,700 ","$1,590 "
+"Iowa County, Wisconsin","$288,780 ","$1,700 ","$1,590 "
+"Franklin County, Pennsylvania","$288,340 ","$1,700 ","$1,550 "
+"Catawba County, North Carolina","$288,330 ","$1,700 ","$1,560 "
+"Jackson County, North Carolina","$288,050 ","$1,700 ","$1,600 "
+"Bedford County, Tennessee","$287,900 ","$1,690 ","$1,590 "
+"Story County, Iowa","$287,760 ","$1,690 ","$1,600 "
+"Kalamazoo County, Michigan","$287,230 ","$1,690 ","$1,610 "
+"Nicollet County, Minnesota","$287,070 ","$1,690 ","$1,590 "
+"Anderson County, South Carolina","$287,060 ","$1,690 ","$1,590 "
+"Washington County, Tennessee","$286,710 ","$1,690 ","$1,620 "
+"Charlevoix County, Michigan","$286,700 ","$1,690 ","$1,540 "
+"DeSoto County, Mississippi","$286,360 ","$1,690 ","$1,640 "
+"Clay County, Minnesota","$286,120 ","$1,680 ","$1,610 "
+"Uinta County, Wyoming","$285,870 ","$1,680 ","$1,570 "
+"Jefferson County, Kentucky","$285,690 ","$1,680 ","$1,550 "
+"Ward County, North Dakota","$285,620 ","$1,680 ","$1,590 "
+"Smith County, Texas","$285,470 ","$1,680 ","$1,660 "
+"Madison County, Kentucky","$285,310 ","$1,680 ","$1,600 "
+"Banks County, Georgia","$285,050 ","$1,680 ","$1,580 "
+"Dodge County, Wisconsin","$284,990 ","$1,680 ","$1,560 "
+"Huerfano County, Colorado","$284,970 ","$1,680 ","$1,580 "
+"Macomb County, Michigan","$284,840 ","$1,680 ","$1,540 "
+"Haywood County, North Carolina","$284,530 ","$1,670 ","$1,530 "
+"Humboldt County, Nevada","$284,120 ","$1,670 ","$1,590 "
+"Polk County, Wisconsin","$283,820 ","$1,670 ","$1,550 "
+"Barry County, Michigan","$283,770 ","$1,670 ","$1,570 "
+"Southeast Fairbanks Census Area, Alaska","$283,620 ","$1,670 ","$1,650 "
+"Jessamine County, Kentucky","$283,510 ","$1,670 ","$1,560 "
+"Phillips County, Colorado","$283,420 ","$1,670 ","$1,570 "
+"Westmoreland County, Virginia","$283,230 ","$1,670 ","$1,550 "
+"DeKalb County, Illinois","$283,100 ","$1,670 ","$1,550 "
+"Dickinson County, Iowa","$283,080 ","$1,670 ","$1,570 "
+"Anderson County, Tennessee","$283,020 ","$1,670 ","$1,590 "
+"Fremont County, Wyoming","$282,850 ","$1,660 ","$1,550 "
+"Denali Borough, Alaska","$282,760 ","$1,660 ","$1,640 "
+"Richland County, South Carolina","$282,740 ","$1,660 ","$1,560 "
+"Columbia County, Washington","$282,640 ","$1,660 ","$1,560 "
+"Hubbard County, Minnesota","$282,100 ","$1,660 ","$1,590 "
+"Shelby County, Tennessee","$281,780 ","$1,660 ","$1,610 "
+"St. Tammany Parish, Louisiana","$281,720 ","$1,660 ","$1,650 "
+"Somervell County, Texas","$281,110 ","$1,650 ","$1,560 "
+"Lamar County, Mississippi","$280,830 ","$1,650 ","$1,440 "
+"Bexar County, Texas","$280,680 ","$1,650 ","$1,620 "
+"Bingham County, Idaho","$280,240 ","$1,650 ","$1,560 "
+"Waldo County, Maine","$280,070 ","$1,650 ","$1,560 "
+"Canadian County, Oklahoma","$280,010 ","$1,650 ","$1,610 "
+"McLennan County, Texas","$279,990 ","$1,650 ","$1,490 "
+"Salem County, New Jersey","$279,540 ","$1,650 ","$1,510 "
+"Union County, Oregon","$279,510 ","$1,640 ","$1,550 "
+"Franklin County, Florida","$279,490 ","$1,640 ","$1,560 "
+"Cassia County, Idaho","$279,480 ","$1,640 ","$1,550 "
+"Hamblen County, Tennessee","$279,450 ","$1,640 ","$1,590 "
+"Wabasha County, Minnesota","$279,270 ","$1,640 ","$1,550 "
+"Erath County, Texas","$279,230 ","$1,640 ","$1,550 "
+"Monroe County, Michigan","$278,870 ","$1,640 ","$1,500 "
+"Lexington County, South Carolina","$278,850 ","$1,640 ","$1,540 "
+"Erie County, New York","$278,850 ","$1,640 ","$1,520 "
+"Green County, Wisconsin","$278,760 ","$1,640 ","$1,530 "
+"Platte County, Wyoming","$278,600 ","$1,640 ","$1,530 "
+"Montour County, Pennsylvania","$278,380 ","$1,640 ","$1,500 "
+"Otter Tail County, Minnesota","$278,350 ","$1,640 ","$1,570 "
+"Tuscaloosa County, Alabama","$278,030 ","$1,640 ","$1,520 "
+"Rock County, Wisconsin","$277,980 ","$1,640 ","$1,550 "
+"Rogers County, Oklahoma","$277,970 ","$1,640 ","$1,520 "
+"Dinwiddie County, Virginia","$277,940 ","$1,640 ","$1,550 "
+"Wheeler County, Oregon","$277,900 ","$1,640 ","$1,540 "
+"Benewah County, Idaho","$277,850 ","$1,640 ","$1,550 "
+"Staunton city, Virginia","$277,780 ","$1,630 ","$1,520 "
+"Berrien County, Michigan","$277,720 ","$1,630 ","$1,540 "
+"Greene County, New York","$277,540 ","$1,630 ","$1,500 "
+"Bell County, Texas","$277,540 ","$1,630 ","$1,570 "
+"Jackson County, Colorado","$277,530 ","$1,630 ","$1,540 "
+"Marshall County, Tennessee","$277,530 ","$1,630 ","$1,540 "
+"Benton County, Minnesota","$277,400 ","$1,630 ","$1,540 "
+"Adams County, Washington","$277,340 ","$1,630 ","$1,530 "
+"Rockbridge County, Virginia","$277,080 ","$1,630 ","$1,510 "
+"Dunn County, North Dakota","$276,770 ","$1,630 ","$1,540 "
+"Meagher County, Montana","$276,610 ","$1,630 ","$1,500 "
+"Sullivan County, New Hampshire","$276,310 ","$1,630 ","$1,490 "
+"Philadelphia County, Pennsylvania","$276,290 ","$1,630 ","$1,490 "
+"Jerome County, Idaho","$275,890 ","$1,620 ","$1,530 "
+"Monroe County, Georgia","$275,600 ","$1,620 ","$1,510 "
+"Glasscock County, Texas","$275,570 ","$1,620 ","$1,530 "
+"Pickens County, South Carolina","$275,480 ","$1,620 ","$1,530 "
+"Monongalia County, West Virginia","$275,400 ","$1,620 ","$1,540 "
+"Whitfield County, Georgia","$275,350 ","$1,620 ","$1,500 "
+"West Feliciana Parish, Louisiana","$275,310 ","$1,620 ","$1,580 "
+"Warren County, Missouri","$275,270 ","$1,620 ","$1,510 "
+"Duchesne County, Utah","$275,170 ","$1,620 ","$1,540 "
+"Lake County, Indiana","$274,740 ","$1,620 ","$1,500 "
+"Cumberland County, New Jersey","$274,690 ","$1,620 ","$1,420 "
+"Waynesboro city, Virginia","$274,640 ","$1,620 ","$1,500 "
+"Franklin County, Indiana","$274,550 ","$1,620 ","$1,500 "
+"Lee County, Texas","$274,350 ","$1,610 ","$1,520 "
+"Ontario County, New York","$274,200 ","$1,610 ","$1,490 "
+"Hardin County, Kentucky","$273,950 ","$1,610 ","$1,490 "
+"Brown County, Indiana","$273,760 ","$1,610 ","$1,500 "
+"Hunt County, Texas","$273,730 ","$1,610 ","$1,570 "
+"Lee County, North Carolina","$273,640 ","$1,610 ","$1,520 "
+"Warren County, Iowa","$273,330 ","$1,610 ","$1,560 "
+"Troup County, Georgia","$272,930 ","$1,610 ","$1,520 "
+"Yuma County, Arizona","$272,490 ","$1,600 ","$1,580 "
+"King and Queen County, Virginia","$272,070 ","$1,600 ","$1,520 "
+"Bulloch County, Georgia","$272,020 ","$1,600 ","$1,510 "
+"Surry County, Virginia","$272,000 ","$1,600 ","$1,480 "
+"Sweetwater County, Wyoming","$271,880 ","$1,600 ","$1,490 "
+"Washington County, Idaho","$271,870 ","$1,600 ","$1,510 "
+"Stone County, Missouri","$271,220 ","$1,600 ","$1,450 "
+"Pickaway County, Ohio","$271,200 ","$1,600 ","$1,480 "
+"Plaquemines Parish, Louisiana","$271,190 ","$1,600 ","$1,590 "
+"Dauphin County, Pennsylvania","$271,140 ","$1,600 ","$1,520 "
+"Lynchburg city, Virginia","$271,020 ","$1,600 ","$1,510 "
+"Bartholomew County, Indiana","$270,930 ","$1,590 ","$1,580 "
+"Amelia County, Virginia","$270,710 ","$1,590 ","$1,510 "
+"Lebanon County, Pennsylvania","$270,640 ","$1,590 ","$1,480 "
+"Hamilton County, New York","$270,500 ","$1,590 ","$1,460 "
+"Camas County, Idaho","$270,350 ","$1,590 ","$1,500 "
+"Lapeer County, Michigan","$270,280 ","$1,590 ","$1,460 "
+"Hamilton County, Nebraska","$270,230 ","$1,590 ","$1,510 "
+"Rio Blanco County, Colorado","$270,200 ","$1,590 ","$1,500 "
+"Cass County, Nebraska","$270,200 ","$1,590 ","$1,520 "
+"Davie County, North Carolina","$270,190 ","$1,590 ","$1,510 "
+"Milwaukee County, Wisconsin","$269,950 ","$1,590 ","$1,480 "
+"Jefferson County, Alabama","$269,740 ","$1,590 ","$1,540 "
+"Baltimore city, Maryland","$269,740 ","$1,590 ","$1,500 "
+"Portage County, Ohio","$269,730 ","$1,590 ","$1,460 "
+"Wagoner County, Oklahoma","$269,660 ","$1,590 ","$1,480 "
+"Lassen County, California","$269,590 ","$1,590 ","$1,520 "
+"Sullivan County, Tennessee","$269,490 ","$1,590 ","$1,430 "
+"Marion County, Indiana","$269,470 ","$1,590 ","$1,480 "
+"Scott County, Iowa","$269,150 ","$1,580 ","$1,530 "
+"Clayton County, Georgia","$269,060 ","$1,580 ","$1,520 "
+"Marquette County, Michigan","$268,990 ","$1,580 ","$1,450 "
+"Winneshiek County, Iowa","$268,900 ","$1,580 ","$1,490 "
+"Morton County, North Dakota","$268,660 ","$1,580 ","$1,480 "
+"St. Louis County, Minnesota","$268,560 ","$1,580 ","$1,490 "
+"Bayfield County, Wisconsin","$268,400 ","$1,580 ","$1,470 "
+"St. Clair County, Michigan","$268,320 ","$1,580 ","$1,450 "
+"Jefferson County, Missouri","$268,310 ","$1,580 ","$1,470 "
+"Fallon County, Montana","$268,240 ","$1,580 ","$1,450 "
+"Buffalo County, Nebraska","$268,080 ","$1,580 ","$1,500 "
+"Franklin County, Virginia","$268,050 ","$1,580 ","$1,460 "
+"Wood County, Ohio","$267,980 ","$1,580 ","$1,450 "
+"Tulsa County, Oklahoma","$267,980 ","$1,580 ","$1,470 "
+"Oneida County, Wisconsin","$267,690 ","$1,580 ","$1,470 "
+"Pope County, Minnesota","$267,660 ","$1,580 ","$1,510 "
+"Stanly County, North Carolina","$267,510 ","$1,570 ","$1,480 "
+"Granville County, North Carolina","$267,400 ","$1,570 ","$1,480 "
+"Millard County, Utah","$267,360 ","$1,570 ","$1,490 "
+"Brookings County, South Dakota","$267,270 ","$1,570 ","$1,540 "
+"Eaton County, Michigan","$267,180 ","$1,570 ","$1,450 "
+"Penobscot County, Maine","$266,700 ","$1,570 ","$1,470 "
+"Greene County, Missouri","$266,640 ","$1,570 ","$1,460 "
+"Teton County, Montana","$266,540 ","$1,570 ","$1,440 "
+"Madison County, Ohio","$266,260 ","$1,570 ","$1,450 "
+"Dunn County, Wisconsin","$266,170 ","$1,570 ","$1,460 "
+"Baker County, Oregon","$265,770 ","$1,560 ","$1,470 "
+"Essex County, Virginia","$265,360 ","$1,560 ","$1,450 "
+"Washington County, Pennsylvania","$265,190 ","$1,560 ","$1,450 "
+"Sioux County, Iowa","$265,070 ","$1,560 ","$1,470 "
+"East Baton Rouge Parish, Louisiana","$264,950 ","$1,560 ","$1,520 "
+"Gila County, Arizona","$264,930 ","$1,560 ","$1,480 "
+"Camden County, Georgia","$264,890 ","$1,560 ","$1,470 "
+"Clark County, Indiana","$264,730 ","$1,560 ","$1,440 "
+"Avery County, North Carolina","$264,560 ","$1,560 ","$1,470 "
+"Kosciusko County, Indiana","$264,470 ","$1,560 ","$1,430 "
+"McLean County, North Dakota","$264,410 ","$1,560 ","$1,470 "
+"Wayne County, Pennsylvania","$264,360 ","$1,560 ","$1,420 "
+"Champaign County, Illinois","$264,250 ","$1,560 ","$1,470 "
+"Cleveland County, Oklahoma","$264,210 ","$1,550 ","$1,520 "
+"Allegheny County, Pennsylvania","$264,160 ","$1,550 ","$1,450 "
+"Fond du Lac County, Wisconsin","$263,900 ","$1,550 ","$1,470 "
+"Franklin city, Virginia","$263,730 ","$1,550 ","$1,440 "
+"Allen County, Indiana","$263,640 ","$1,550 ","$1,460 "
+"Saunders County, Nebraska","$263,530 ","$1,550 ","$1,480 "
+"Dearborn County, Indiana","$263,420 ","$1,550 ","$1,440 "
+"Davidson County, North Carolina","$263,310 ","$1,550 ","$1,460 "
+"Carlton County, Minnesota","$263,230 ","$1,550 ","$1,470 "
+"Spalding County, Georgia","$263,040 ","$1,550 ","$1,490 "
+"Sawyer County, Wisconsin","$262,750 ","$1,550 ","$1,440 "
+"Antrim County, Michigan","$262,730 ","$1,550 ","$1,410 "
+"Daggett County, Utah","$262,700 ","$1,550 ","$1,470 "
+"Goshen County, Wyoming","$262,590 ","$1,550 ","$1,440 "
+"Franklin County, Missouri","$262,380 ","$1,540 ","$1,430 "
+"Rio Arriba County, New Mexico","$261,920 ","$1,540 ","$1,470 "
+"Spartanburg County, South Carolina","$261,840 ","$1,540 ","$1,510 "
+"Mille Lacs County, Minnesota","$261,810 ","$1,540 ","$1,480 "
+"Dubuque County, Iowa","$261,740 ","$1,540 ","$1,440 "
+"Faulkner County, Arkansas","$261,680 ","$1,540 ","$1,470 "
+"Colonial Heights city, Virginia","$261,680 ","$1,540 ","$1,460 "
+"Clearwater County, Idaho","$261,560 ","$1,540 ","$1,450 "
+"Rutland County, Vermont","$261,550 ","$1,540 ","$1,430 "
+"Monroe County, New York","$261,330 ","$1,540 ","$1,420 "
+"Morrison County, Minnesota","$261,260 ","$1,540 ","$1,480 "
+"Oklahoma County, Oklahoma","$260,980 ","$1,540 ","$1,500 "
+"Morgan County, West Virginia","$260,740 ","$1,530 ","$1,460 "
+"Elmore County, Alabama","$260,410 ","$1,530 ","$1,380 "
+"Craven County, North Carolina","$260,360 ","$1,530 ","$1,440 "
+"Jeff Davis County, Texas","$259,830 ","$1,530 ","$1,440 "
+"Macon County, North Carolina","$259,800 ","$1,530 ","$1,440 "
+"Valencia County, New Mexico","$259,720 ","$1,530 ","$1,440 "
+"Columbia County, Pennsylvania","$259,500 ","$1,530 ","$1,390 "
+"Houston County, Georgia","$259,490 ","$1,530 ","$1,360 "
+"Lorain County, Ohio","$259,350 ","$1,530 ","$1,400 "
+"Cole County, Missouri","$259,340 ","$1,530 ","$1,500 "
+"Houston County, Minnesota","$259,260 ","$1,530 ","$1,470 "
+"Aitkin County, Minnesota","$259,170 ","$1,530 ","$1,460 "
+"Catoosa County, Georgia","$259,050 ","$1,520 ","$1,460 "
+"Gulf County, Florida","$259,050 ","$1,520 ","$1,450 "
+"Cleveland County, North Carolina","$259,000 ","$1,520 ","$1,440 "
+"Navajo County, Arizona","$258,920 ","$1,520 ","$1,450 "
+"Lafayette Parish, Louisiana","$258,840 ","$1,520 ","$1,540 "
+"Winnebago County, Wisconsin","$258,830 ","$1,520 ","$1,400 "
+"Roanoke city, Virginia","$258,670 ","$1,520 ","$1,410 "
+"Caledonia County, Vermont","$258,560 ","$1,520 ","$1,410 "
+"Aransas County, Texas","$258,380 ","$1,520 ","$1,460 "
+"Union County, Pennsylvania","$258,220 ","$1,520 ","$1,390 "
+"Steele County, Minnesota","$258,180 ","$1,520 ","$1,460 "
+"Saline County, Arkansas","$258,180 ","$1,520 ","$1,450 "
+"Marathon County, Wisconsin","$258,130 ","$1,520 ","$1,410 "
+"Pitt County, North Carolina","$258,110 ","$1,520 ","$1,400 "
+"Ionia County, Michigan","$257,920 ","$1,520 ","$1,420 "
+"Lincoln County, Colorado","$257,660 ","$1,520 ","$1,430 "
+"Aiken County, South Carolina","$257,580 ","$1,520 ","$1,370 "
+"Page County, Virginia","$257,460 ","$1,520 ","$1,410 "
+"Dolores County, Colorado","$257,440 ","$1,520 ","$1,430 "
+"Muskegon County, Michigan","$257,360 ","$1,510 ","$1,380 "
+"McLeod County, Minnesota","$257,290 ","$1,510 ","$1,450 "
+"Cumberland County, Tennessee","$257,110 ","$1,510 ","$1,420 "
+"Lincoln County, Missouri","$256,550 ","$1,510 ","$1,400 "
+"Coffee County, Tennessee","$256,330 ","$1,510 ","$1,420 "
+"Seward County, Nebraska","$256,270 ","$1,510 ","$1,430 "
+"Madison County, Iowa","$256,140 ","$1,510 ","$1,460 "
+"Jackson County, Missouri","$255,890 ","$1,510 ","$1,430 "
+"Minidoka County, Idaho","$255,580 ","$1,500 ","$1,420 "
+"Orleans County, Vermont","$255,440 ","$1,500 ","$1,400 "
+"Piute County, Utah","$255,430 ","$1,500 ","$1,430 "
+"Nelson County, Kentucky","$255,270 ","$1,500 ","$1,390 "
+"Jefferson Parish, Louisiana","$254,770 ","$1,500 ","$1,500 "
+"Kershaw County, South Carolina","$254,690 ","$1,500 ","$1,410 "
+"Bear Lake County, Idaho","$254,390 ","$1,500 ","$1,410 "
+"Kandiyohi County, Minnesota","$254,100 ","$1,500 ","$1,440 "
+"Johnson County, Missouri","$253,910 ","$1,490 ","$1,360 "
+"Lowndes County, Georgia","$253,770 ","$1,490 ","$1,400 "
+"Garrett County, Maryland","$253,650 ","$1,490 ","$1,340 "
+"Burnett County, Wisconsin","$253,570 ","$1,490 ","$1,390 "
+"Rankin County, Mississippi","$253,540 ","$1,490 ","$1,440 "
+"Pasquotank County, North Carolina","$253,330 ","$1,490 ","$1,400 "
+"Wayne County, Ohio","$253,260 ","$1,490 ","$1,380 "
+"Craig County, Virginia","$253,250 ","$1,490 ","$1,380 "
+"Logan County, Colorado","$253,220 ","$1,490 ","$1,410 "
+"Bandera County, Texas","$253,120 ","$1,490 ","$1,460 "
+"Columbia County, Florida","$253,110 ","$1,490 ","$1,420 "
+"Oconto County, Wisconsin","$253,110 ","$1,490 ","$1,390 "
+"Charles City County, Virginia","$253,090 ","$1,490 ","$1,410 "
+"Silver Bow County, Montana","$252,960 ","$1,490 ","$1,370 "
+"Butler County, Kansas","$252,910 ","$1,490 ","$1,400 "
+"Knox County, Ohio","$252,570 ","$1,490 ","$1,380 "
+"St. Charles Parish, Louisiana","$252,510 ","$1,490 ","$1,480 "
+"Webster County, Missouri","$252,470 ","$1,490 ","$1,380 "
+"Meeker County, Minnesota","$252,330 ","$1,490 ","$1,430 "
+"Cochise County, Arizona","$252,270 ","$1,480 ","$1,410 "
+"Yancey County, North Carolina","$252,200 ","$1,480 ","$1,400 "
+"Lake County, Ohio","$252,160 ","$1,480 ","$1,360 "
+"Mountrail County, North Dakota","$252,040 ","$1,480 ","$1,400 "
+"Logan County, Oklahoma","$251,950 ","$1,480 ","$1,450 "
+"Perry County, Pennsylvania","$251,920 ","$1,480 ","$1,410 "
+"Randall County, Texas","$251,840 ","$1,480 ","$1,430 "
+"Gooding County, Idaho","$251,780 ","$1,480 ","$1,400 "
+"Ashe County, North Carolina","$251,740 ","$1,480 ","$1,390 "
+"Lee County, Georgia","$251,640 ","$1,480 ","$1,470 "
+"McClain County, Oklahoma","$251,520 ","$1,480 ","$1,440 "
+"Putnam County, Georgia","$251,410 ","$1,480 ","$1,400 "
+"Grimes County, Texas","$251,180 ","$1,480 ","$1,390 "
+"Payne County, Oklahoma","$251,120 ","$1,480 ","$1,420 "
+"Lake County, South Dakota","$250,670 ","$1,480 ","$1,450 "
+"Musselshell County, Montana","$250,360 ","$1,470 ","$1,360 "
+"Floyd County, Virginia","$250,150 ","$1,470 ","$1,370 "
+"Mills County, Iowa","$249,980 ","$1,470 ","$1,410 "
+"Lampasas County, Texas","$249,710 ","$1,470 ","$1,410 "
+"Harrison County, Indiana","$249,690 ","$1,470 ","$1,360 "
+"Kewaunee County, Wisconsin","$249,410 ","$1,470 ","$1,370 "
+"Butts County, Georgia","$249,250 ","$1,470 ","$1,410 "
+"San Juan County, New Mexico","$249,130 ","$1,470 ","$1,270 "
+"Liberty County, Georgia","$249,010 ","$1,470 ","$1,250 "
+"Cooke County, Texas","$248,960 ","$1,470 ","$1,380 "
+"Pine County, Minnesota","$248,700 ","$1,460 ","$1,410 "
+"Richmond County, Virginia","$248,640 ","$1,460 ","$1,360 "
+"Cumberland County, Virginia","$248,580 ","$1,460 ","$1,390 "
+"Vernon County, Wisconsin","$247,810 ","$1,460 ","$1,360 "
+"Oneida County, Idaho","$247,760 ","$1,460 ","$1,380 "
+"Cumberland County, North Carolina","$247,620 ","$1,460 ","$1,320 "
+"Ste. Genevieve County, Missouri","$247,250 ","$1,460 ","$1,320 "
+"Boone County, Illinois","$247,180 ","$1,450 ","$1,300 "
+"Kearney County, Nebraska","$247,140 ","$1,450 ","$1,380 "
+"Summit County, Ohio","$247,080 ","$1,450 ","$1,340 "
+"Randolph County, North Carolina","$246,910 ","$1,450 ","$1,360 "
+"Dubois County, Indiana","$246,710 ","$1,450 ","$1,330 "
+"Morrow County, Oregon","$246,570 ","$1,450 ","$1,360 "
+"Ellis County, Kansas","$246,350 ","$1,450 ","$1,350 "
+"Oktibbeha County, Mississippi","$246,290 ","$1,450 ","$1,350 "
+"Madison County, Tennessee","$246,250 ","$1,450 ","$1,390 "
+"Jefferson County, Tennessee","$246,160 ","$1,450 ","$1,400 "
+"Oliver County, North Dakota","$246,150 ","$1,450 ","$1,370 "
+"Plymouth County, Iowa","$245,950 ","$1,450 ","$1,370 "
+"Wyoming County, Pennsylvania","$245,830 ","$1,450 ","$1,310 "
+"Doña Ana County, New Mexico","$245,810 ","$1,450 ","$1,410 "
+"Kit Carson County, Colorado","$245,780 ","$1,450 ","$1,360 "
+"Lake County, Minnesota","$245,720 ","$1,450 ","$1,390 "
+"Winona County, Minnesota","$245,720 ","$1,450 ","$1,390 "
+"Walker County, Georgia","$245,430 ","$1,440 ","$1,380 "
+"Cannon County, Tennessee","$245,080 ","$1,440 ","$1,380 "
+"Beltrami County, Minnesota","$245,060 ","$1,440 ","$1,380 "
+"Greene County, Tennessee","$245,050 ","$1,440 ","$1,360 "
+"Lavaca County, Texas","$244,860 ","$1,440 ","$1,360 "
+"Bourbon County, Kentucky","$244,760 ","$1,440 ","$1,350 "
+"Washburn County, Wisconsin","$244,630 ","$1,440 ","$1,340 "
+"Carbon County, Pennsylvania","$243,980 ","$1,440 ","$1,340 "
+"Pulaski County, Arkansas","$243,920 ","$1,440 ","$1,370 "
+"Van Buren County, Michigan","$243,780 ","$1,430 ","$1,370 "
+"Kanabec County, Minnesota","$243,740 ","$1,430 ","$1,380 "
+"Treasure County, Montana","$243,680 ","$1,430 ","$1,320 "
+"Franklin County, Tennessee","$243,240 ","$1,430 ","$1,350 "
+"Sequatchie County, Tennessee","$243,200 ","$1,430 ","$1,370 "
+"Alamosa County, Colorado","$242,900 ","$1,430 ","$1,350 "
+"Green Lake County, Wisconsin","$242,750 ","$1,430 ","$1,330 "
+"Lyon County, Iowa","$242,570 ","$1,430 ","$1,350 "
+"Polk County, Minnesota","$242,540 ","$1,430 ","$1,330 "
+"Harrison County, Mississippi","$242,510 ","$1,430 ","$1,330 "
+"Andrew County, Missouri","$242,450 ","$1,430 ","$1,300 "
+"Judith Basin County, Montana","$242,430 ","$1,430 ","$1,310 "
+"Southampton County, Virginia","$242,370 ","$1,430 ","$1,320 "
+"Washington County, Colorado","$242,340 ","$1,430 ","$1,350 "
+"St. Clair County, Alabama","$242,010 ","$1,420 ","$1,380 "
+"Linn County, Iowa","$241,990 ","$1,420 ","$1,410 "
+"Shoshone County, Idaho","$241,900 ","$1,420 ","$1,350 "
+"Smith County, Tennessee","$241,740 ","$1,420 ","$1,360 "
+"Cape Girardeau County, Missouri","$241,640 ","$1,420 ","$1,320 "
+"Grant County, Oregon","$241,520 ","$1,420 ","$1,340 "
+"Mercer County, Ohio","$241,340 ","$1,420 ","$1,320 "
+"Hancock County, Ohio","$241,230 ","$1,420 ","$1,320 "
+"Jefferson County, Kansas","$240,940 ","$1,420 ","$1,320 "
+"Posey County, Indiana","$240,890 ","$1,420 ","$1,340 "
+"Wilson County, North Carolina","$240,740 ","$1,420 ","$1,330 "
+"Lincoln County, New Mexico","$240,710 ","$1,420 ","$1,350 "
+"Clay County, South Dakota","$240,690 ","$1,420 ","$1,390 "
+"Onondaga County, New York","$240,470 ","$1,420 ","$1,290 "
+"Jasper County, Georgia","$240,390 ","$1,410 ","$1,360 "
+"Anderson County, Kentucky","$240,330 ","$1,410 ","$1,350 "
+"Lackawanna County, Pennsylvania","$240,210 ","$1,410 ","$1,280 "
+"Morgan County, Alabama","$240,170 ","$1,410 ","$1,400 "
+"Carbon County, Wyoming","$240,090 ","$1,410 ","$1,320 "
+"Habersham County, Georgia","$240,090 ","$1,410 ","$1,330 "
+"Perquimans County, North Carolina","$240,060 ","$1,410 ","$1,330 "
+"Hot Springs County, Wyoming","$239,980 ","$1,410 ","$1,320 "
+"Hughes County, South Dakota","$239,930 ","$1,410 ","$1,390 "
+"Weston County, Wyoming","$239,530 ","$1,410 ","$1,320 "
+"Susquehanna County, Pennsylvania","$239,460 ","$1,410 ","$1,290 "
+"Brewster County, Texas","$239,430 ","$1,410 ","$1,330 "
+"Roane County, Tennessee","$239,410 ","$1,410 ","$1,330 "
+"Whitley County, Indiana","$239,380 ","$1,410 ","$1,320 "
+"Yuma County, Colorado","$239,340 ","$1,410 ","$1,330 "
+"Trempealeau County, Wisconsin","$239,220 ","$1,410 ","$1,310 "
+"Caribou County, Idaho","$239,180 ","$1,410 ","$1,330 "
+"Bath County, Virginia","$239,120 ","$1,410 ","$1,310 "
+"Rio Grande County, Colorado","$239,120 ","$1,410 ","$1,330 "
+"Juniata County, Pennsylvania","$238,990 ","$1,410 ","$1,280 "
+"Garland County, Arkansas","$238,980 ","$1,410 ","$1,340 "
+"LaPorte County, Indiana","$238,950 ","$1,410 ","$1,210 "
+"Sedgwick County, Kansas","$238,680 ","$1,400 ","$1,320 "
+"Fulton County, Pennsylvania","$238,640 ","$1,400 ","$1,280 "
+"Ripley County, Indiana","$238,350 ","$1,400 ","$1,290 "
+"Burke County, North Carolina","$238,310 ","$1,400 ","$1,290 "
+"Ector County, Texas","$238,290 ","$1,400 ","$1,290 "
+"Hemphill County, Texas","$238,210 ","$1,400 ","$1,320 "
+"Rains County, Texas","$238,210 ","$1,400 ","$1,320 "
+"Las Animas County, Colorado","$238,120 ","$1,400 ","$1,320 "
+"Snyder County, Pennsylvania","$238,070 ","$1,400 ","$1,280 "
+"Pamlico County, North Carolina","$238,020 ","$1,400 ","$1,320 "
+"Swain County, North Carolina","$238,020 ","$1,400 ","$1,320 "
+"Marion County, Iowa","$237,510 ","$1,400 ","$1,320 "
+"Malheur County, Oregon","$237,450 ","$1,400 ","$1,310 "
+"Erie County, Ohio","$237,420 ","$1,400 ","$1,230 "
+"Deer Lodge County, Montana","$237,340 ","$1,400 ","$1,290 "
+"Steuben County, Indiana","$237,190 ","$1,400 ","$1,280 "
+"Jasper County, Indiana","$237,150 ","$1,400 ","$1,300 "
+"Putnam County, West Virginia","$237,100 ","$1,400 ","$1,240 "
+"Lake of the Woods County, Minnesota","$237,010 ","$1,390 ","$1,340 "
+"Sibley County, Minnesota","$237,010 ","$1,390 ","$1,340 "
+"North Slope Borough, Alaska","$237,000 ","$1,390 ","$1,380 "
+"Pottawatomie County, Kansas","$236,820 ","$1,390 ","$1,350 "
+"Cherokee County, North Carolina","$236,770 ","$1,390 ","$1,310 "
+"Montcalm County, Michigan","$236,750 ","$1,390 ","$1,270 "
+"Fannin County, Texas","$236,660 ","$1,390 ","$1,310 "
+"Marquette County, Wisconsin","$236,630 ","$1,390 ","$1,300 "
+"Codington County, South Dakota","$236,560 ","$1,390 ","$1,370 "
+"Floyd County, Georgia","$236,470 ","$1,390 ","$1,480 "
+"Prince Edward County, Virginia","$236,450 ","$1,390 ","$1,290 "
+"Garfield County, Washington","$236,400 ","$1,390 ","$1,310 "
+"Franklin County, Texas","$236,330 ","$1,390 ","$1,310 "
+"Hartley County, Texas","$236,330 ","$1,390 ","$1,310 "
+"Pottawattamie County, Iowa","$236,310 ","$1,390 ","$1,330 "
+"West Baton Rouge Parish, Louisiana","$236,290 ","$1,390 ","$1,360 "
+"Baker County, Florida","$236,100 ","$1,390 ","$1,360 "
+"Washington County, Virginia","$235,930 ","$1,390 ","$1,250 "
+"Rutherford County, North Carolina","$235,860 ","$1,390 ","$1,310 "
+"Lincoln County, Tennessee","$235,800 ","$1,390 ","$1,310 "
+"Henderson County, Texas","$235,550 ","$1,390 ","$1,300 "
+"McCook County, South Dakota","$235,460 ","$1,390 ","$1,320 "
+"Lake County, Oregon","$235,410 ","$1,390 ","$1,300 "
+"Hall County, Nebraska","$235,360 ","$1,390 ","$1,320 "
+"Mason County, Michigan","$235,340 ","$1,390 ","$1,270 "
+"Platte County, Nebraska","$235,250 ","$1,380 ","$1,320 "
+"Riley County, Kansas","$235,220 ","$1,380 ","$1,340 "
+"Manitowoc County, Wisconsin","$235,100 ","$1,380 ","$1,290 "
+"Waseca County, Minnesota","$235,030 ","$1,380 ","$1,330 "
+"Hampshire County, West Virginia","$234,910 ","$1,380 ","$1,270 "
+"Jackson County, Michigan","$234,880 ","$1,380 ","$1,310 "
+"Madison County, Georgia","$234,870 ","$1,380 ","$1,260 "
+"Oglethorpe County, Georgia","$234,750 ","$1,380 ","$1,260 "
+"McLean County, Illinois","$234,550 ","$1,380 ","$1,320 "
+"Ottawa County, Ohio","$234,450 ","$1,380 ","$1,270 "
+"Hancock County, Mississippi","$234,230 ","$1,380 ","$1,290 "
+"Nash County, North Carolina","$234,060 ","$1,380 ","$1,330 "
+"Lenawee County, Michigan","$234,040 ","$1,380 ","$1,260 "
+"Livingston Parish, Louisiana","$233,880 ","$1,380 ","$1,340 "
+"Hart County, Georgia","$233,860 ","$1,380 ","$1,300 "
+"Taney County, Missouri","$233,720 ","$1,380 ","$1,250 "
+"Itasca County, Minnesota","$233,700 ","$1,380 ","$1,320 "
+"Barron County, Wisconsin","$233,340 ","$1,370 ","$1,280 "
+"Osage County, Missouri","$233,260 ","$1,370 ","$1,350 "
+"DeKalb County, Tennessee","$232,980 ","$1,370 ","$1,290 "
+"Nueces County, Texas","$232,960 ","$1,370 ","$1,310 "
+"Lander County, Nevada","$232,890 ","$1,370 ","$1,300 "
+"Gordon County, Georgia","$232,840 ","$1,370 ","$1,290 "
+"Elkhart County, Indiana","$232,520 ","$1,370 ","$1,330 "
+"Buffalo County, Wisconsin","$232,510 ","$1,370 ","$1,270 "
+"Putnam County, Indiana","$232,330 ","$1,370 ","$1,270 "
+"Howard County, Nebraska","$232,310 ","$1,370 ","$1,300 "
+"Jackson County, Kansas","$232,300 ","$1,370 ","$1,280 "
+"Sumter County, South Carolina","$232,290 ","$1,370 ","$1,220 "
+"Monroe County, Wisconsin","$232,040 ","$1,370 ","$1,270 "
+"Otsego County, Michigan","$232,030 ","$1,370 ","$1,250 "
+"Chowan County, North Carolina","$231,890 ","$1,360 ","$1,280 "
+"Santa Cruz County, Arizona","$231,780 ","$1,360 ","$1,290 "
+"Wakulla County, Florida","$231,640 ","$1,360 ","$1,350 "
+"Tangipahoa Parish, Louisiana","$231,630 ","$1,360 ","$1,280 "
+"Westmoreland County, Pennsylvania","$231,530 ","$1,360 ","$1,270 "
+"McPherson County, Kansas","$231,530 ","$1,360 ","$1,270 "
+"Midland County, Michigan","$231,320 ","$1,360 ","$1,240 "
+"Cass County, Michigan","$231,230 ","$1,360 ","$1,250 "
+"Lincoln County, Nevada","$231,120 ","$1,360 ","$1,290 "
+"Custer County, Montana","$231,120 ","$1,360 ","$1,250 "
+"Morrow County, Ohio","$231,050 ","$1,360 ","$1,260 "
+"Brown County, South Dakota","$231,030 ","$1,360 ","$1,340 "
+"Golden Valley County, Montana","$230,780 ","$1,360 ","$1,250 "
+"Pepin County, Wisconsin","$230,750 ","$1,360 ","$1,260 "
+"Wayne County, Nebraska","$230,610 ","$1,360 ","$1,290 "
+"Caldwell County, North Carolina","$230,350 ","$1,360 ","$1,240 "
+"Haralson County, Georgia","$230,210 ","$1,350 ","$1,300 "
+"Giles County, Tennessee","$230,160 ","$1,350 ","$1,270 "
+"Lauderdale County, Alabama","$229,980 ","$1,350 ","$1,280 "
+"Radford city, Virginia","$229,930 ","$1,350 ","$1,290 "
+"Highlands County, Florida","$229,590 ","$1,350 ","$1,280 "
+"Gosper County, Nebraska","$229,480 ","$1,350 ","$1,280 "
+"Fergus County, Montana","$229,420 ","$1,350 ","$1,240 "
+"Cuyahoga County, Ohio","$229,330 ","$1,350 ","$1,240 "
+"Mitchell County, North Carolina","$229,280 ","$1,350 ","$1,270 "
+"Clinton County, Missouri","$229,190 ","$1,350 ","$1,280 "
+"Clark County, Kentucky","$228,910 ","$1,350 ","$1,260 "
+"Tipton County, Tennessee","$228,860 ","$1,350 ","$1,310 "
+"Nemaha County, Kansas","$228,840 ","$1,350 ","$1,250 "
+"Coryell County, Texas","$228,650 ","$1,350 ","$1,300 "
+"Cullman County, Alabama","$228,500 ","$1,340 ","$1,240 "
+"Greenwood County, South Carolina","$228,490 ","$1,340 ","$1,230 "
+"Kingfisher County, Oklahoma","$228,030 ","$1,340 ","$1,290 "
+"Macon County, Tennessee","$227,420 ","$1,340 ","$1,280 "
+"Richmond County, Georgia","$227,260 ","$1,340 ","$1,210 "
+"Stutsman County, North Dakota","$227,200 ","$1,340 ","$1,270 "
+"Highland County, Virginia","$227,170 ","$1,340 ","$1,240 "
+"Waupaca County, Wisconsin","$226,860 ","$1,340 ","$1,240 "
+"Bibb County, Georgia","$226,420 ","$1,330 ","$1,240 "
+"Boyle County, Kentucky","$226,240 ","$1,330 ","$1,270 "
+"Eddy County, New Mexico","$226,190 ","$1,330 ","$1,270 "
+"Hoke County, North Carolina","$226,160 ","$1,330 ","$1,210 "
+"Cooper County, Missouri","$226,040 ","$1,330 ","$1,210 "
+"Yankton County, South Dakota","$225,930 ","$1,330 ","$1,310 "
+"Alleghany County, North Carolina","$225,760 ","$1,330 ","$1,250 "
+"Calcasieu Parish, Louisiana","$225,730 ","$1,330 ","$1,340 "
+"Ingham County, Michigan","$225,480 ","$1,330 ","$1,230 "
+"Butte County, South Dakota","$225,390 ","$1,330 ","$1,300 "
+"Hamlin County, South Dakota","$225,390 ","$1,330 ","$1,300 "
+"Oxford County, Maine","$225,250 ","$1,330 ","$1,260 "
+"Daviess County, Kentucky","$225,220 ","$1,330 ","$1,240 "
+"Monroe County, Tennessee","$225,200 ","$1,330 ","$1,250 "
+"Bremer County, Iowa","$225,200 ","$1,330 ","$1,270 "
+"Washington County, New York","$224,900 ","$1,320 ","$1,170 "
+"Fillmore County, Minnesota","$224,880 ","$1,320 ","$1,270 "
+"Valley County, Montana","$224,780 ","$1,320 ","$1,220 "
+"Lafayette County, Missouri","$224,710 ","$1,320 ","$1,250 "
+"Cedar County, Iowa","$224,680 ","$1,320 ","$1,250 "
+"Lincoln County, Idaho","$224,520 ","$1,320 ","$1,250 "
+"Ohio County, Indiana","$224,440 ","$1,320 ","$1,230 "
+"Autauga County, Alabama","$224,160 ","$1,320 ","$1,190 "
+"Accomack County, Virginia","$224,150 ","$1,320 ","$1,220 "
+"Edgefield County, South Carolina","$224,030 ","$1,320 ","$1,190 "
+"Franklin County, Kentucky","$223,990 ","$1,320 ","$1,250 "
+"Ramsey County, North Dakota","$223,910 ","$1,320 ","$1,250 "
+"Moody County, South Dakota","$223,870 ","$1,320 ","$1,290 "
+"Harrison County, Texas","$223,800 ","$1,320 ","$1,240 "
+"Lea County, New Mexico","$223,700 ","$1,320 ","$1,250 "
+"Essex County, New York","$223,550 ","$1,320 ","$1,200 "
+"Oneida County, New York","$223,540 ","$1,320 ","$1,200 "
+"East Feliciana Parish, Louisiana","$223,530 ","$1,320 ","$1,280 "
+"Phelps County, Missouri","$223,510 ","$1,320 ","$1,200 "
+"McCone County, Montana","$223,420 ","$1,310 ","$1,210 "
+"Nacogdoches County, Texas","$223,360 ","$1,310 ","$1,240 "
+"Clinton County, Ohio","$223,060 ","$1,310 ","$1,220 "
+"Finney County, Kansas","$223,010 ","$1,310 ","$1,220 "
+"Brule County, South Dakota","$223,000 ","$1,310 ","$1,290 "
+"Jo Daviess County, Illinois","$222,940 ","$1,310 ","$1,240 "
+"Medina County, Texas","$222,920 ","$1,310 ","$1,280 "
+"Marshall County, Alabama","$222,900 ","$1,310 ","$1,210 "
+"Mercer County, North Dakota","$222,550 ","$1,310 ","$1,240 "
+"Callaway County, Missouri","$222,490 ","$1,310 ","$1,280 "
+"Rock County, Minnesota","$222,240 ","$1,310 ","$1,260 "
+"Meade County, Kentucky","$222,120 ","$1,310 ","$1,210 "
+"Saguache County, Colorado","$222,030 ","$1,310 ","$1,230 "
+"Mills County, Texas","$221,920 ","$1,310 ","$1,230 "
+"Madison County, Nebraska","$221,890 ","$1,310 ","$1,240 "
+"Big Horn County, Wyoming","$221,850 ","$1,310 ","$1,220 "
+"Sherman County, Oregon","$221,780 ","$1,310 ","$1,230 "
+"Putnam County, Ohio","$221,680 ","$1,300 ","$1,210 "
+"Maries County, Missouri","$221,450 ","$1,300 ","$1,180 "
+"Lycoming County, Pennsylvania","$221,240 ","$1,300 ","$1,240 "
+"Van Zandt County, Texas","$221,140 ","$1,300 ","$1,220 "
+"Richland County, Ohio","$221,080 ","$1,300 ","$1,180 "
+"Gregg County, Texas","$221,020 ","$1,300 ","$1,220 "
+"Simpson County, Kentucky","$220,610 ","$1,300 ","$1,240 "
+"Clark County, Idaho","$220,500 ","$1,300 ","$1,230 "
+"Decatur County, Indiana","$220,470 ","$1,300 ","$1,190 "
+"Washington County, Iowa","$220,430 ","$1,300 ","$1,190 "
+"Lamar County, Georgia","$220,370 ","$1,300 ","$1,250 "
+"Modoc County, California","$220,240 ","$1,300 ","$1,240 "
+"Shelby County, Ohio","$220,170 ","$1,300 ","$1,200 "
+"Lee County, Mississippi","$220,150 ","$1,300 ","$1,210 "
+"St. Louis city, Missouri","$220,030 ","$1,290 ","$1,200 "
+"Jackson County, Wisconsin","$219,920 ","$1,290 ","$1,200 "
+"Woodford County, Illinois","$219,920 ","$1,290 ","$1,220 "
+"Lewis County, Idaho","$219,850 ","$1,290 ","$1,220 "
+"Shawnee County, Kansas","$219,820 ","$1,290 ","$1,210 "
+"St. Joseph County, Indiana","$219,740 ","$1,290 ","$1,190 "
+"Taylor County, Wisconsin","$219,450 ","$1,290 ","$1,200 "
+"Jasper County, Missouri","$219,230 ","$1,290 ","$1,210 "
+"Grant County, Wisconsin","$219,220 ","$1,290 ","$1,200 "
+"Traill County, North Dakota","$219,150 ","$1,290 ","$1,220 "
+"Wayne County, North Carolina","$219,090 ","$1,290 ","$1,180 "
+"Schoharie County, New York","$218,920 ","$1,290 ","$1,170 "
+"Waushara County, Wisconsin","$218,860 ","$1,290 ","$1,200 "
+"Stark County, Ohio","$218,710 ","$1,290 ","$1,200 "
+"Niagara County, New York","$218,670 ","$1,290 ","$1,190 "
+"Campbell County, Virginia","$218,490 ","$1,290 ","$1,220 "
+"Polk County, Missouri","$218,470 ","$1,290 ","$1,200 "
+"Muscogee County, Georgia","$218,460 ","$1,290 ","$1,280 "
+"Lubbock County, Texas","$218,030 ","$1,280 ","$1,260 "
+"Carbon County, Utah","$217,770 ","$1,280 ","$1,220 "
+"Daviess County, Indiana","$217,690 ","$1,280 ","$1,180 "
+"White Pine County, Nevada","$217,620 ","$1,280 ","$1,220 "
+"Pulaski County, Missouri","$217,550 ","$1,280 ","$1,160 "
+"Graham County, Arizona","$217,410 ","$1,280 ","$1,210 "
+"Niobrara County, Wyoming","$217,370 ","$1,280 ","$1,190 "
+"Beaver County, Pennsylvania","$217,310 ","$1,280 ","$1,190 "
+"Liberty County, Texas","$217,270 ","$1,280 ","$1,230 "
+"Perry County, Missouri","$217,210 ","$1,280 ","$1,160 "
+"Adams County, Wisconsin","$217,100 ","$1,280 ","$1,190 "
+"Newton County, Missouri","$217,000 ","$1,280 ","$1,200 "
+"Nome Census Area, Alaska","$216,930 ","$1,280 ","$1,260 "
+"El Paso County, Texas","$216,590 ","$1,270 ","$1,220 "
+"Bottineau County, North Dakota","$216,540 ","$1,270 ","$1,210 "
+"Union County, Tennessee","$216,360 ","$1,270 ","$1,210 "
+"Long County, Georgia","$216,310 ","$1,270 ","$1,080 "
+"Amherst County, Virginia","$216,290 ","$1,270 ","$1,200 "
+"Wood County, Texas","$216,260 ","$1,270 ","$1,200 "
+"Douglas County, Wisconsin","$216,030 ","$1,270 ","$1,200 "
+"Sullivan County, Pennsylvania","$215,940 ","$1,270 ","$1,160 "
+"Kankakee County, Illinois","$215,920 ","$1,270 ","$1,190 "
+"Turner County, South Dakota","$215,630 ","$1,270 ","$1,210 "
+"Sully County, South Dakota","$215,620 ","$1,270 ","$1,250 "
+"Shiawassee County, Michigan","$215,620 ","$1,270 ","$1,160 "
+"Champaign County, Ohio","$215,540 ","$1,270 ","$1,180 "
+"Logan County, Ohio","$215,430 ","$1,270 ","$1,180 "
+"Benton County, Iowa","$215,400 ","$1,270 ","$1,250 "
+"Grant County, Kentucky","$215,160 ","$1,270 ","$1,180 "
+"Boone County, Iowa","$215,120 ","$1,270 ","$1,190 "
+"Luzerne County, Pennsylvania","$215,100 ","$1,270 ","$1,150 "
+"Richland County, Wisconsin","$215,100 ","$1,270 ","$1,180 "
+"Colorado County, Texas","$215,040 ","$1,270 ","$1,190 "
+"Allen County, Ohio","$215,030 ","$1,270 ","$1,090 "
+"McMinn County, Tennessee","$214,710 ","$1,260 ","$1,190 "
+"Ouachita Parish, Louisiana","$214,690 ","$1,260 ","$1,180 "
+"Tuscarawas County, Ohio","$214,620 ","$1,260 ","$1,170 "
+"Madison County, New York","$214,570 ","$1,260 ","$1,150 "
+"Stokes County, North Carolina","$214,500 ","$1,260 ","$1,200 "
+"White County, Tennessee","$214,490 ","$1,260 ","$1,190 "
+"Lafayette County, Wisconsin","$214,270 ","$1,260 ","$1,170 "
+"Marshall County, Indiana","$214,200 ","$1,260 ","$1,160 "
+"Keweenaw County, Michigan","$214,200 ","$1,260 ","$1,150 "
+"Hopkins County, Texas","$214,160 ","$1,260 ","$1,190 "
+"Muskingum County, Ohio","$213,920 ","$1,260 ","$1,170 "
+"Emery County, Utah","$213,870 ","$1,260 ","$1,190 "
+"Mercer County, Kentucky","$213,840 ","$1,260 ","$1,200 "
+"Wabaunsee County, Kansas","$213,820 ","$1,260 ","$1,170 "
+"Rosebud County, Montana","$213,800 ","$1,260 ","$1,160 "
+"Arthur County, Nebraska","$213,740 ","$1,260 ","$1,200 "
+"Bossier Parish, Louisiana","$213,700 ","$1,260 ","$1,290 "
+"Pulaski County, Kentucky","$213,620 ","$1,260 ","$1,200 "
+"Iowa County, Iowa","$213,540 ","$1,260 ","$1,190 "
+"Etowah County, Alabama","$213,530 ","$1,260 ","$1,180 "
+"Sebastian County, Arkansas","$213,120 ","$1,250 ","$1,140 "
+"Alexander County, North Carolina","$213,080 ","$1,250 ","$1,150 "
+"Dodge County, Nebraska","$212,950 ","$1,250 ","$1,190 "
+"Harrison County, Kentucky","$212,940 ","$1,250 ","$1,190 "
+"Noble County, Indiana","$212,930 ","$1,250 ","$1,150 "
+"Jefferson County, Florida","$212,900 ","$1,250 ","$1,240 "
+"Lyon County, Minnesota","$212,870 ","$1,250 ","$1,200 "
+"Creek County, Oklahoma","$212,720 ","$1,250 ","$1,170 "
+"Switzerland County, Indiana","$212,690 ","$1,250 ","$1,150 "
+"Gilchrist County, Florida","$212,680 ","$1,250 ","$1,240 "
+"Butte County, Idaho","$212,680 ","$1,250 ","$1,180 "
+"Shelby County, Indiana","$212,570 ","$1,250 ","$1,170 "
+"Hill County, Montana","$212,330 ","$1,250 ","$1,150 "
+"Dawson County, Montana","$212,100 ","$1,250 ","$1,150 "
+"Toole County, Montana","$212,100 ","$1,250 ","$1,150 "
+"Montgomery County, Ohio","$211,890 ","$1,250 ","$1,170 "
+"Piatt County, Illinois","$211,800 ","$1,250 ","$1,180 "
+"Ogle County, Illinois","$211,680 ","$1,250 ","$1,170 "
+"St. Clair County, Illinois","$211,590 ","$1,250 ","$1,160 "
+"Bradford County, Pennsylvania","$211,190 ","$1,240 ","$1,130 "
+"Washakie County, Wyoming","$211,100 ","$1,240 ","$1,160 "
+"San Patricio County, Texas","$210,810 ","$1,240 ","$1,190 "
+"Humphreys County, Tennessee","$210,770 ","$1,240 ","$1,170 "
+"Peach County, Georgia","$210,760 ","$1,240 ","$1,170 "
+"Shawano County, Wisconsin","$210,740 ","$1,240 ","$1,150 "
+"Garrard County, Kentucky","$210,570 ","$1,240 ","$1,180 "
+"Auglaize County, Ohio","$210,570 ","$1,240 ","$1,150 "
+"Taylor County, Texas","$210,470 ","$1,240 ","$1,160 "
+"Tom Green County, Texas","$210,360 ","$1,240 ","$1,220 "
+"Adams County, Nebraska","$210,350 ","$1,240 ","$1,180 "
+"Franklin County, Kansas","$210,240 ","$1,240 ","$1,170 "
+"Ray County, Missouri","$210,240 ","$1,240 ","$1,170 "
+"Brown County, Ohio","$210,060 ","$1,240 ","$1,150 "
+"Wells County, Indiana","$209,980 ","$1,240 ","$1,160 "
+"Montague County, Texas","$209,950 ","$1,240 ","$1,160 "
+"St. James Parish, Louisiana","$209,880 ","$1,240 ","$1,160 "
+"Thomas County, Georgia","$209,850 ","$1,240 ","$1,170 "
+"Jefferson County, Indiana","$209,670 ","$1,230 ","$1,130 "
+"Chouteau County, Montana","$209,500 ","$1,230 ","$1,130 "
+"Otoe County, Nebraska","$209,440 ","$1,230 ","$1,170 "
+"Caldwell County, Texas","$209,330 ","$1,230 ","$1,230 "
+"Power County, Idaho","$209,300 ","$1,230 ","$1,200 "
+"Spencer County, Indiana","$209,210 ","$1,230 ","$1,130 "
+"Meigs County, Tennessee","$209,190 ","$1,230 ","$1,160 "
+"Lincoln County, Wisconsin","$209,100 ","$1,230 ","$1,150 "
+"Huntingdon County, Pennsylvania","$208,870 ","$1,230 ","$1,120 "
+"Hanson County, South Dakota","$208,780 ","$1,230 ","$1,210 "
+"Wayne County, New York","$208,780 ","$1,230 ","$1,140 "
+"Nottoway County, Virginia","$208,710 ","$1,230 ","$1,140 "
+"Stanton County, Nebraska","$208,650 ","$1,230 ","$1,170 "
+"Andrews County, Texas","$208,620 ","$1,230 ","$1,160 "
+"Hendry County, Florida","$208,490 ","$1,230 ","$1,170 "
+"Victoria County, Texas","$208,430 ","$1,230 ","$1,260 "
+"Pennington County, Minnesota","$208,240 ","$1,230 ","$1,180 "
+"Genesee County, Michigan","$207,940 ","$1,220 ","$1,140 "
+"Cheyenne County, Colorado","$207,700 ","$1,220 ","$1,150 "
+"St. Francois County, Missouri","$207,690 ","$1,220 ","$1,110 "
+"Todd County, Minnesota","$207,690 ","$1,220 ","$1,170 "
+"Newaygo County, Michigan","$207,620 ","$1,220 ","$1,150 "
+"Lonoke County, Arkansas","$207,530 ","$1,220 ","$1,170 "
+"Appomattox County, Virginia","$207,520 ","$1,220 ","$1,150 "
+"Clinton County, Pennsylvania","$207,480 ","$1,220 ","$1,110 "
+"Lincoln Parish, Louisiana","$207,440 ","$1,220 ","$1,150 "
+"Person County, North Carolina","$207,330 ","$1,220 ","$1,190 "
+"Trigg County, Kentucky","$207,290 ","$1,220 ","$1,180 "
+"Lincoln County, Nebraska","$207,290 ","$1,220 ","$1,160 "
+"Pendleton County, West Virginia","$207,260 ","$1,220 ","$1,160 "
+"Poweshiek County, Iowa","$207,240 ","$1,220 ","$1,150 "
+"Wilkes County, North Carolina","$207,160 ","$1,220 ","$1,150 "
+"DeKalb County, Missouri","$206,990 ","$1,220 ","$1,110 "
+"Franklin County, Maine","$206,980 ","$1,220 ","$1,150 "
+"Lyon County, Kentucky","$206,970 ","$1,220 ","$1,160 "
+"Vanderburgh County, Indiana","$206,970 ","$1,220 ","$1,150 "
+"Morgan County, Missouri","$206,890 ","$1,220 ","$1,110 "
+"Cheboygan County, Michigan","$206,880 ","$1,220 ","$1,110 "
+"Pierce County, Nebraska","$206,840 ","$1,220 ","$1,160 "
+"Carroll County, Arkansas","$206,760 ","$1,220 ","$1,160 "
+"Hickman County, Tennessee","$206,740 ","$1,220 ","$1,160 "
+"Effingham County, Illinois","$206,730 ","$1,220 ","$1,150 "
+"Sangamon County, Illinois","$206,710 ","$1,220 ","$1,130 "
+"Mobile County, Alabama","$206,610 ","$1,220 ","$1,150 "
+"DeKalb County, Indiana","$206,540 ","$1,220 ","$1,120 "
+"Henry County, Kentucky","$206,520 ","$1,220 ","$1,120 "
+"Perry County, Ohio","$206,290 ","$1,210 ","$1,130 "
+"Howard County, Indiana","$206,280 ","$1,210 ","$1,110 "
+"Surry County, North Carolina","$206,250 ","$1,210 ","$1,140 "
+"Davison County, South Dakota","$206,180 ","$1,210 ","$1,190 "
+"Hardin County, Texas","$206,120 ","$1,210 ","$1,190 "
+"Randolph County, Alabama","$206,100 ","$1,210 ","$1,120 "
+"Lafourche Parish, Louisiana","$206,060 ","$1,210 ","$1,200 "
+"San Juan County, Utah","$206,060 ","$1,210 ","$1,150 "
+"Crawford County, Wisconsin","$206,040 ","$1,210 ","$1,130 "
+"Clinton County, Illinois","$206,000 ","$1,210 ","$1,130 "
+"Florence County, South Carolina","$205,900 ","$1,210 ","$1,020 "
+"Jefferson County, New York","$205,890 ","$1,210 ","$1,110 "
+"Kalkaska County, Michigan","$205,820 ","$1,210 ","$1,110 "
+"Buchanan County, Missouri","$205,750 ","$1,210 ","$1,100 "
+"Fulton County, Ohio","$205,600 ","$1,210 ","$1,110 "
+"Beaufort County, North Carolina","$205,570 ","$1,210 ","$1,140 "
+"Gaines County, Texas","$205,400 ","$1,210 ","$1,140 "
+"Wood County, Wisconsin","$205,330 ","$1,210 ","$1,120 "
+"Ross County, Ohio","$205,020 ","$1,210 ","$1,120 "
+"Larue County, Kentucky","$205,000 ","$1,210 ","$1,110 "
+"Forrest County, Mississippi","$204,970 ","$1,210 ","$1,050 "
+"Woodbury County, Iowa","$204,910 ","$1,210 ","$1,110 "
+"Webb County, Texas","$204,870 ","$1,210 ","$1,130 "
+"Wayne County, Michigan","$204,790 ","$1,210 ","$1,110 "
+"Saline County, Nebraska","$204,570 ","$1,200 ","$1,140 "
+"Bosque County, Texas","$204,510 ","$1,200 ","$1,130 "
+"Harney County, Oregon","$204,510 ","$1,200 ","$1,130 "
+"Calloway County, Kentucky","$204,260 ","$1,200 ","$1,140 "
+"Menard County, Illinois","$203,980 ","$1,200 ","$1,110 "
+"Livingston County, New York","$203,970 ","$1,200 ","$1,110 "
+"Tioga County, Pennsylvania","$203,890 ","$1,200 ","$1,100 "
+"Gray County, Kansas","$203,870 ","$1,200 ","$1,120 "
+"Ashland County, Ohio","$203,510 ","$1,200 ","$1,110 "
+"Carroll County, Indiana","$203,000 ","$1,190 ","$1,090 "
+"Harrison County, West Virginia","$202,970 ","$1,190 ","$1,130 "
+"Craighead County, Arkansas","$202,960 ","$1,190 ","$1,180 "
+"Yoakum County, Texas","$202,850 ","$1,190 ","$1,120 "
+"Pondera County, Montana","$202,820 ","$1,190 ","$1,100 "
+"Jackson County, Indiana","$202,590 ","$1,190 ","$1,100 "
+"Yadkin County, North Carolina","$202,560 ","$1,190 ","$1,130 "
+"Wharton County, Texas","$202,520 ","$1,190 ","$1,120 "
+"Carroll County, Ohio","$202,460 ","$1,190 ","$1,120 "
+"McCracken County, Kentucky","$202,460 ","$1,190 ","$1,130 "
+"Erie County, Pennsylvania","$202,410 ","$1,190 ","$1,090 "
+"Chase County, Nebraska","$202,310 ","$1,190 ","$1,130 "
+"Tipton County, Indiana","$202,260 ","$1,190 ","$1,090 "
+"McIntosh County, Georgia","$202,080 ","$1,190 ","$1,070 "
+"Grady County, Oklahoma","$202,050 ","$1,190 ","$1,160 "
+"Coffee County, Alabama","$201,950 ","$1,190 ","$1,100 "
+"Garfield County, Montana","$201,800 ","$1,190 ","$1,090 "
+"Grainger County, Tennessee","$201,610 ","$1,190 ","$1,150 "
+"Sussex County, Virginia","$201,590 ","$1,190 ","$1,130 "
+"San Miguel County, New Mexico","$201,460 ","$1,190 ","$1,130 "
+"Richland County, North Dakota","$201,450 ","$1,190 ","$1,120 "
+"Hillsdale County, Michigan","$201,330 ","$1,180 ","$1,080 "
+"Rhea County, Tennessee","$201,290 ","$1,180 ","$1,110 "
+"Polk County, Nebraska","$201,290 ","$1,180 ","$1,130 "
+"Daniels County, Montana","$201,240 ","$1,180 ","$1,090 "
+"Athens County, Ohio","$201,080 ","$1,180 ","$1,100 "
+"Adams County, Indiana","$200,970 ","$1,180 ","$1,090 "
+"Winnebago County, Illinois","$200,880 ","$1,180 ","$1,060 "
+"Houston County, Alabama","$200,820 ","$1,180 ","$1,220 "
+"Rockingham County, North Carolina","$200,670 ","$1,180 ","$1,100 "
+"Mecosta County, Michigan","$200,620 ","$1,180 ","$1,080 "
+"Saline County, Kansas","$200,600 ","$1,180 ","$1,100 "
+"Essex County, Vermont","$200,590 ","$1,180 ","$1,100 "
+"Mercer County, Pennsylvania","$200,490 ","$1,180 ","$1,070 "
+"Brown County, Minnesota","$200,300 ","$1,180 ","$1,130 "
+"Bedford County, Pennsylvania","$200,300 ","$1,180 ","$1,080 "
+"Cabell County, West Virginia","$200,220 ","$1,180 ","$1,100 "
+"Bowman County, North Dakota","$200,090 ","$1,180 ","$1,110 "
+"Florence County, Wisconsin","$200,040 ","$1,180 ","$1,100 "
+"Forest County, Wisconsin","$200,040 ","$1,180 ","$1,100 "
+"Archer County, Texas","$199,970 ","$1,180 ","$1,120 "
+"Carter County, Montana","$199,880 ","$1,180 ","$1,080 "
+"Wythe County, Virginia","$199,770 ","$1,180 ","$1,090 "
+"Yakutat City and Borough, Alaska","$199,660 ","$1,180 ","$1,160 "
+"Hocking County, Ohio","$199,350 ","$1,170 ","$1,090 "
+"Stevens County, Minnesota","$199,310 ","$1,170 ","$1,130 "
+"Lawrence County, Tennessee","$199,260 ","$1,170 ","$1,100 "
+"York County, Nebraska","$199,140 ","$1,170 ","$1,110 "
+"Jones County, Iowa","$199,110 ","$1,170 ","$1,160 "
+"Yates County, New York","$198,960 ","$1,170 ","$1,070 "
+"Jasper County, Iowa","$198,920 ","$1,170 ","$1,100 "
+"Allen County, Kentucky","$198,740 ","$1,170 ","$1,110 "
+"Cedar County, Nebraska","$198,680 ","$1,170 ","$1,110 "
+"Calhoun County, Illinois","$198,580 ","$1,170 ","$1,090 "
+"Wyandotte County, Kansas","$198,570 ","$1,170 ","$1,110 "
+"Scott County, Kansas","$198,500 ","$1,170 ","$1,090 "
+"Newton County, Arkansas","$198,440 ","$1,170 ","$1,110 "
+"Coos County, New Hampshire","$198,310 ","$1,170 ","$1,070 "
+"Barry County, Missouri","$198,280 ","$1,170 ","$1,060 "
+"Ransom County, North Dakota","$198,280 ","$1,170 ","$1,100 "
+"Pulaski County, Virginia","$198,220 ","$1,170 ","$1,110 "
+"Bradford County, Florida","$198,160 ","$1,170 ","$1,110 "
+"Phillips County, Montana","$198,070 ","$1,170 ","$1,070 "
+"Cuming County, Nebraska","$198,010 ","$1,170 ","$1,110 "
+"Johnson County, Tennessee","$197,910 ","$1,160 ","$1,100 "
+"Oceana County, Michigan","$197,910 ","$1,160 ","$1,060 "
+"St. Joseph County, Michigan","$197,910 ","$1,160 ","$1,060 "
+"Laurens County, South Carolina","$197,900 ","$1,160 ","$1,100 "
+"Jones County, Georgia","$197,860 ","$1,160 ","$1,090 "
+"Madison County, Illinois","$197,780 ","$1,160 ","$1,080 "
+"Murray County, Minnesota","$197,770 ","$1,160 ","$1,120 "
+"San Jacinto County, Texas","$197,720 ","$1,160 ","$1,120 "
+"Orange County, Texas","$197,680 ","$1,160 ","$1,140 "
+"Carroll County, Iowa","$197,680 ","$1,160 ","$1,100 "
+"Somerset County, Maryland","$197,670 ","$1,160 ","$1,050 "
+"Nobles County, Minnesota","$197,550 ","$1,160 ","$1,120 "
+"Armstrong County, Texas","$197,410 ","$1,160 ","$1,120 "
+"Harvey County, Kansas","$197,250 ","$1,160 ","$1,090 "
+"Stewart County, Tennessee","$197,250 ","$1,160 ","$1,130 "
+"Bristol city, Virginia","$197,230 ","$1,160 ","$1,040 "
+"Delaware County, New York","$196,950 ","$1,160 ","$1,060 "
+"Preble County, Ohio","$196,930 ","$1,160 ","$1,090 "
+"Grant County, Minnesota","$196,880 ","$1,160 ","$1,110 "
+"Clark County, Ohio","$196,810 ","$1,160 ","$1,100 "
+"Okeechobee County, Florida","$196,730 ","$1,160 ","$1,100 "
+"Manistee County, Michigan","$196,720 ","$1,160 ","$1,060 "
+"Lucas County, Ohio","$196,720 ","$1,160 ","$1,060 "
+"Trimble County, Kentucky","$196,720 ","$1,160 ","$1,070 "
+"Woodward County, Oklahoma","$196,660 ","$1,160 ","$1,110 "
+"Leon County, Texas","$196,640 ","$1,160 ","$1,090 "
+"Mecklenburg County, Virginia","$196,640 ","$1,160 ","$1,070 "
+"Otsego County, New York","$196,610 ","$1,160 ","$1,060 "
+"Petroleum County, Montana","$196,600 ","$1,160 ","$1,060 "
+"Gallatin County, Kentucky","$196,490 ","$1,160 ","$1,080 "
+"Montgomery County, Missouri","$196,450 ","$1,160 ","$1,050 "
+"Divide County, North Dakota","$196,350 ","$1,160 ","$1,090 "
+"Washington County, Ohio","$196,210 ","$1,150 ",$990 
+"Phelps County, Nebraska","$196,190 ","$1,150 ","$1,100 "
+"Grundy County, Iowa","$196,180 ","$1,150 ","$1,100 "
+"Warren County, Tennessee","$196,110 ","$1,150 ","$1,090 "
+"Shackelford County, Texas","$196,090 ","$1,150 ","$1,090 "
+"Murray County, Georgia","$196,050 ","$1,150 ","$1,070 "
+"Roberts County, Texas","$195,980 ","$1,150 ","$1,090 "
+"Marshall County, Kentucky","$195,810 ","$1,150 ","$1,100 "
+"Pearl River County, Mississippi","$195,800 ","$1,150 ","$1,070 "
+"Black Hawk County, Iowa","$195,750 ","$1,150 ","$1,100 "
+"Alger County, Michigan","$195,660 ","$1,150 ","$1,050 "
+"Darke County, Ohio","$195,640 ","$1,150 ","$1,070 "
+"Terrebonne Parish, Louisiana","$195,610 ","$1,150 ","$1,130 "
+"Custer County, Oklahoma","$195,550 ","$1,150 ","$1,100 "
+"Mackinac County, Michigan","$195,540 ","$1,150 ","$1,050 "
+"Wheatland County, Montana","$195,460 ","$1,150 ","$1,060 "
+"Deuel County, South Dakota","$195,440 ","$1,150 ","$1,130 "
+"Clearwater County, Minnesota","$195,230 ","$1,150 ","$1,100 "
+"Roseau County, Minnesota","$195,230 ","$1,150 ","$1,100 "
+"Hawkins County, Tennessee","$195,130 ","$1,150 ","$1,030 "
+"Isabella County, Michigan","$194,950 ","$1,150 ","$1,050 "
+"Catron County, New Mexico","$194,880 ","$1,150 ","$1,090 "
+"Buckingham County, Virginia","$194,780 ","$1,150 ","$1,060 "
+"Miller County, Missouri","$194,730 ","$1,150 ","$1,040 "
+"Grant County, South Dakota","$194,680 ","$1,150 ","$1,130 "
+"Jackson County, Texas","$194,540 ","$1,140 ","$1,080 "
+"Lamar County, Texas","$194,540 ","$1,140 ","$1,080 "
+"Juneau County, Wisconsin","$194,390 ","$1,140 ","$1,060 "
+"Grant County, West Virginia","$194,380 ","$1,140 ","$1,080 "
+"White County, Arkansas","$194,330 ","$1,140 ","$1,090 "
+"Muscatine County, Iowa","$193,970 ","$1,140 ","$1,080 "
+"Marion County, Tennessee","$193,840 ","$1,140 ","$1,090 "
+"Cleburne County, Arkansas","$193,780 ","$1,140 ","$1,090 "
+"Jack County, Texas","$193,760 ","$1,140 ","$1,070 "
+"Gasconade County, Missouri","$193,700 ","$1,140 ","$1,040 "
+"Overton County, Tennessee","$193,630 ","$1,140 ","$1,070 "
+"Mineral County, Nevada","$193,610 ","$1,140 ","$1,080 "
+"Thomas County, Kansas","$193,600 ","$1,140 ","$1,060 "
+"Beadle County, South Dakota","$193,590 ","$1,140 ","$1,120 "
+"Osage County, Oklahoma","$193,510 ","$1,140 ","$1,060 "
+"Allamakee County, Iowa","$193,400 ","$1,140 ","$1,070 "
+"Clinton County, New York","$193,370 ","$1,140 ","$1,040 "
+"Montgomery County, Alabama","$193,360 ","$1,140 ","$1,020 "
+"Pottawatomie County, Oklahoma","$193,340 ","$1,140 ","$1,090 "
+"Missaukee County, Michigan","$193,300 ","$1,140 ","$1,040 "
+"Montgomery County, Indiana","$193,070 ","$1,140 ","$1,040 "
+"Clay County, Iowa","$192,950 ","$1,140 ","$1,070 "
+"Putnam County, Illinois","$192,940 ","$1,140 ","$1,070 "
+"Buchanan County, Iowa","$192,840 ","$1,130 ","$1,070 "
+"Clark County, Wisconsin","$192,740 ","$1,130 ","$1,060 "
+"Jersey County, Illinois","$192,640 ","$1,130 ","$1,050 "
+"Anderson County, Texas","$192,210 ","$1,130 ","$1,060 "
+"Henry County, Ohio","$192,060 ","$1,130 ","$1,050 "
+"Kimble County, Texas","$191,880 ","$1,130 ","$1,060 "
+"Broome County, New York","$191,800 ","$1,130 ","$1,010 "
+"Wichita County, Texas","$191,760 ","$1,130 ","$1,070 "
+"Sanilac County, Michigan","$191,530 ","$1,130 ","$1,030 "
+"Ottawa County, Kansas","$191,500 ","$1,130 ","$1,050 "
+"Upshur County, Texas","$191,390 ","$1,130 ","$1,060 "
+"Fall River County, South Dakota","$191,310 ","$1,130 ","$1,110 "
+"Jackson County, Iowa","$191,270 ","$1,130 ","$1,060 "
+"Campbell County, Tennessee","$191,140 ","$1,120 ","$1,060 "
+"Lawrence County, Indiana","$190,980 ","$1,120 ","$1,030 "
+"McDowell County, North Carolina","$190,930 ","$1,120 ","$1,060 "
+"Moniteau County, Missouri","$190,850 ","$1,120 ","$1,100 "
+"Barnes County, North Dakota","$190,680 ","$1,120 ","$1,060 "
+"Marion County, West Virginia","$190,670 ","$1,120 ","$1,060 "
+"Stephens County, Georgia","$190,480 ","$1,120 ","$1,060 "
+"Northumberland County, Pennsylvania","$190,340 ","$1,120 ","$1,020 "
+"Merrick County, Nebraska","$190,190 ","$1,120 ","$1,060 "
+"Costilla County, Colorado","$190,160 ","$1,120 ","$1,060 "
+"Pope County, Illinois","$190,060 ","$1,120 ","$1,050 "
+"Wilkin County, Minnesota","$189,940 ","$1,120 ","$1,070 "
+"Mayes County, Oklahoma","$189,920 ","$1,120 ","$1,070 "
+"McCormick County, South Carolina","$189,910 ","$1,120 ","$1,020 "
+"Delaware County, Iowa","$189,800 ","$1,120 ","$1,050 "
+"Washington County, Kentucky","$189,720 ","$1,120 ","$1,060 "
+"Mower County, Minnesota","$189,610 ","$1,120 ","$1,070 "
+"Dickey County, North Dakota","$189,540 ","$1,120 ","$1,060 "
+"Crawford County, Missouri","$189,450 ","$1,110 ","$1,040 "
+"Tioga County, New York","$189,450 ","$1,110 ","$1,000 "
+"Columbiana County, Ohio","$189,400 ","$1,110 ","$1,030 "
+"Nodaway County, Missouri","$189,340 ","$1,110 ","$1,010 "
+"Wexford County, Michigan","$189,290 ","$1,110 ","$1,020 "
+"Christian County, Kentucky","$189,260 ","$1,110 ","$1,080 "
+"White County, Indiana","$189,240 ","$1,110 ","$1,020 "
+"Crawford County, Arkansas","$189,190 ","$1,110 ","$1,010 "
+"Gage County, Nebraska","$189,170 ","$1,110 ","$1,060 "
+"Prairie County, Montana","$189,130 ","$1,110 ","$1,020 "
+"Scioto County, Ohio","$189,050 ","$1,110 ","$1,030 "
+"Newberry County, South Carolina","$188,960 ","$1,110 ","$1,020 "
+"St. Bernard Parish, Louisiana","$188,890 ","$1,110 ","$1,110 "
+"Benton County, Missouri","$188,880 ","$1,110 ","$1,010 "
+"Ashland County, Wisconsin","$188,860 ","$1,110 ","$1,030 "
+"Douglas County, Missouri","$188,540 ","$1,110 ","$1,010 "
+"Gibson County, Indiana","$188,400 ","$1,110 ","$1,050 "
+"Levy County, Florida","$188,380 ","$1,110 ","$1,050 "
+"Pontotoc County, Oklahoma","$188,370 ","$1,110 ","$1,060 "
+"Dakota County, Nebraska","$188,330 ","$1,110 ","$1,020 "
+"Union County, Indiana","$188,310 ","$1,110 ","$1,020 "
+"Banner County, Nebraska","$188,270 ","$1,110 ","$1,050 "
+"Goliad County, Texas","$188,250 ","$1,110 ","$1,140 "
+"Barren County, Kentucky","$188,140 ","$1,110 ","$1,050 "
+"Burleson County, Texas","$187,970 ","$1,110 ","$1,070 "
+"Wadena County, Minnesota","$187,960 ","$1,110 ","$1,060 "
+"Boone County, Arkansas","$187,890 ","$1,110 ","$1,060 "
+"Fayette County, Ohio","$187,660 ","$1,100 ","$1,020 "
+"Butler County, Nebraska","$187,590 ","$1,100 ","$1,050 "
+"Jefferson County, Texas","$187,280 ","$1,100 ","$1,080 "
+"Milam County, Texas","$187,220 ","$1,100 ","$1,040 "
+"Ashtabula County, Ohio","$186,970 ","$1,100 ","$1,020 "
+"Cameron Parish, Louisiana","$186,800 ","$1,100 ","$1,110 "
+"Rusk County, Texas","$186,580 ","$1,100 ","$1,030 "
+"Robertson County, Texas","$186,570 ","$1,100 ","$1,060 "
+"Bledsoe County, Tennessee","$186,520 ","$1,100 ","$1,030 "
+"Baldwin County, Georgia","$186,520 ","$1,100 ","$1,040 "
+"Pendleton County, Kentucky","$186,510 ","$1,100 ","$1,020 "
+"Upshur County, West Virginia","$186,490 ","$1,100 ","$1,040 "
+"Grant County, New Mexico","$186,490 ","$1,100 ","$1,040 "
+"Hopewell city, Virginia","$186,460 ","$1,100 ","$1,040 "
+"Boone County, Nebraska","$186,460 ","$1,100 ","$1,040 "
+"Cedar County, Missouri","$186,360 ","$1,100 ","$1,000 "
+"Dade County, Georgia","$186,030 ","$1,090 ","$1,050 "
+"Owen County, Kentucky","$186,000 ","$1,090 ","$1,040 "
+"Alcona County, Michigan","$185,980 ","$1,090 ","$1,000 "
+"Gates County, North Carolina","$185,940 ","$1,090 ","$1,030 "
+"Cherokee County, Alabama","$185,820 ","$1,090 ","$1,010 "
+"Warren County, Indiana","$185,760 ","$1,090 ","$1,000 "
+"Doddridge County, West Virginia","$185,680 ","$1,090 ","$1,040 "
+"Angelina County, Texas","$185,560 ","$1,090 ","$1,030 "
+"Mahoning County, Ohio","$185,460 ","$1,090 ",$990 
+"Palo Pinto County, Texas","$185,450 ","$1,090 ","$1,030 "
+"Renville County, North Dakota","$185,350 ","$1,090 ","$1,030 "
+"DeWitt County, Texas","$185,340 ","$1,090 ","$1,030 "
+"Hardy County, West Virginia","$185,330 ","$1,090 ","$1,030 "
+"Lincoln County, Georgia","$185,270 ","$1,090 ","$1,030 "
+"Iberville Parish, Louisiana","$185,250 ","$1,090 ","$1,060 "
+"Pettis County, Missouri","$185,210 ","$1,090 ",$990 
+"Polk County, Georgia","$185,160 ","$1,090 ","$1,030 "
+"Stone County, Mississippi","$185,140 ","$1,090 ","$1,020 "
+"Love County, Oklahoma","$185,050 ","$1,090 ","$1,050 "
+"Owen County, Indiana","$185,010 ","$1,090 ",$990 
+"Washington County, Indiana","$184,990 ","$1,090 ","$1,000 "
+"Chickasaw County, Iowa","$184,970 ","$1,090 ","$1,030 "
+"Unicoi County, Tennessee","$184,910 ","$1,090 ","$1,040 "
+"Newton County, Indiana","$184,820 ","$1,090 ","$1,010 "
+"Greensville County, Virginia","$184,800 ","$1,090 ","$1,010 "
+"Ohio County, West Virginia","$184,690 ","$1,090 ","$1,050 "
+"Foster County, North Dakota","$184,670 ","$1,090 ","$1,030 "
+"Montgomery County, Kentucky","$184,650 ","$1,090 ","$1,030 "
+"Howell County, Missouri","$184,640 ","$1,090 ",$990 
+"Mitchell County, Iowa","$184,630 ","$1,090 ","$1,030 "
+"Linn County, Kansas","$184,540 ","$1,090 ","$1,030 "
+"Wyandot County, Ohio","$184,540 ","$1,090 ","$1,010 "
+"Taylor County, Kentucky","$184,530 ","$1,090 ","$1,030 "
+"Wood County, West Virginia","$184,480 ","$1,090 ",$930 
+"Stanley County, South Dakota","$184,370 ","$1,090 ","$1,070 "
+"Lanier County, Georgia","$184,320 ","$1,080 ","$1,020 "
+"Raleigh County, West Virginia","$184,290 ","$1,080 ","$1,030 "
+"Clay County, Texas","$184,000 ","$1,080 ","$1,030 "
+"Pershing County, Nevada","$183,880 ","$1,080 ","$1,030 "
+"Huron County, Ohio","$183,840 ","$1,080 ","$1,000 "
+"Blount County, Alabama","$183,840 ","$1,080 ","$1,050 "
+"Tazewell County, Illinois","$183,830 ","$1,080 ","$1,020 "
+"Charles Mix County, South Dakota","$183,610 ","$1,080 ","$1,060 "
+"Baxter County, Arkansas","$183,560 ","$1,080 ","$1,030 "
+"Lawrence County, Missouri","$183,260 ","$1,080 ",$980 
+"Young County, Texas","$183,230 ","$1,080 ","$1,010 "
+"Henderson County, Kentucky","$183,100 ","$1,080 ","$1,020 "
+"Adair County, Missouri","$182,920 ","$1,080 ",$980 
+"Pickett County, Tennessee","$182,910 ","$1,080 ","$1,010 "
+"Calhoun County, Michigan","$182,880 ","$1,080 ","$1,000 "
+"Scotts Bluff County, Nebraska","$182,720 ","$1,080 ","$1,020 "
+"Colfax County, New Mexico","$182,630 ","$1,070 ","$1,020 "
+"Clinton County, Indiana","$182,620 ","$1,070 ",$990 
+"Iron County, Wisconsin","$182,620 ","$1,070 ","$1,000 "
+"Schuyler County, New York","$182,530 ","$1,070 ",$980 
+"Pointe Coupee Parish, Louisiana","$182,530 ","$1,070 ","$1,050 "
+"Curry County, New Mexico","$182,410 ","$1,070 ","$1,020 "
+"Box Butte County, Nebraska","$182,380 ","$1,070 ","$1,020 "
+"Oswego County, New York","$182,370 ","$1,070 ",$980 
+"Bland County, Virginia","$182,360 ","$1,070 ","$1,000 "
+"Freestone County, Texas","$182,230 ","$1,070 ","$1,010 "
+"Adams County, Ohio","$182,220 ","$1,070 ",$990 
+"Delaware County, Oklahoma","$182,180 ","$1,070 ","$1,030 "
+"Marinette County, Wisconsin","$181,910 ","$1,070 ","$1,000 "
+"Franklin County, Georgia","$181,880 ","$1,070 ","$1,010 "
+"Somerset County, Maine","$181,790 ","$1,070 ","$1,010 "
+"Freeborn County, Minnesota","$181,780 ","$1,070 ","$1,030 "
+"Custer County, Nebraska","$181,700 ","$1,070 ","$1,020 "
+"Highland County, Ohio","$181,640 ","$1,070 ",$990 
+"Reagan County, Texas","$181,460 ","$1,070 ","$1,000 "
+"Jefferson County, Iowa","$181,370 ","$1,070 ","$1,010 "
+"Marion County, Missouri","$181,310 ","$1,070 ",$970 
+"Laclede County, Missouri","$181,200 ","$1,070 ",$970 
+"Logan County, Nebraska","$181,140 ","$1,070 ","$1,010 "
+"Rush County, Indiana","$181,000 ","$1,070 ",$980 
+"St. John the Baptist Parish, Louisiana","$180,930 ","$1,060 ","$1,060 "
+"Gladwin County, Michigan","$180,900 ","$1,060 ",$970 
+"Bryan County, Oklahoma","$180,860 ","$1,060 ","$1,020 "
+"Aroostook County, Maine","$180,860 ","$1,060 ","$1,010 "
+"Hill County, Texas","$180,790 ","$1,060 ","$1,000 "
+"Chippewa County, Michigan","$180,780 ","$1,060 ",$970 
+"Cayuga County, New York","$180,740 ","$1,060 ",$970 
+"Harrison County, Iowa","$180,680 ","$1,060 ","$1,020 "
+"Haskell County, Kansas","$180,650 ","$1,060 ",$990 
+"Grayson County, Kentucky","$180,480 ","$1,060 ","$1,010 "
+"Dade County, Missouri","$180,280 ","$1,060 ",$960 
+"Clarke County, Iowa","$180,240 ","$1,060 ","$1,000 "
+"Vigo County, Indiana","$180,070 ","$1,060 ",$950 
+"Greene County, Arkansas","$180,010 ","$1,060 ","$1,010 "
+"Conejos County, Colorado","$179,950 ","$1,060 ","$1,000 "
+"Tate County, Mississippi","$179,880 ","$1,060 ","$1,030 "
+"Dyer County, Tennessee","$179,870 ","$1,060 ","$1,000 "
+"Martin County, Texas","$179,790 ","$1,060 ","$1,000 "
+"Matagorda County, Texas","$179,790 ","$1,060 ","$1,000 "
+"Piscataquis County, Maine","$179,570 ","$1,060 ","$1,000 "
+"Jones County, Mississippi","$179,530 ","$1,060 ",$980 
+"Jennings County, Indiana","$179,490 ","$1,060 ",$970 
+"Pope County, Arkansas","$179,460 ","$1,060 ","$1,010 "
+"Armstrong County, Pennsylvania","$179,450 ","$1,060 ",$980 
+"Jackson County, West Virginia","$179,410 ","$1,060 ","$1,000 "
+"Ozark County, Missouri","$179,360 ","$1,060 ",$960 
+"San Saba County, Texas","$179,350 ","$1,060 ",$990 
+"Lake and Peninsula Borough, Alaska","$179,260 ","$1,060 ","$1,040 "
+"Adams County, Illinois","$179,250 ","$1,050 ",$990 
+"Williamson County, Illinois","$179,250 ","$1,050 ",$990 
+"De Baca County, New Mexico","$179,230 ","$1,050 ","$1,000 "
+"Marshall County, Mississippi","$179,050 ","$1,050 ","$1,020 "
+"Marion County, Kentucky","$178,900 ","$1,050 ","$1,000 "
+"Rusk County, Wisconsin","$178,860 ","$1,050 ",$980 
+"McDuffie County, Georgia","$178,830 ","$1,050 ",$950 
+"Madison County, Missouri","$178,790 ","$1,050 ",$960 
+"O'Brien County, Iowa","$178,780 ","$1,050 ",$990 
+"Dawson County, Nebraska","$178,650 ","$1,050 ","$1,000 "
+"Union County, Mississippi","$178,520 ","$1,050 ",$980 
+"Otero County, Colorado","$178,400 ","$1,050 ",$990 
+"Lee County, Illinois","$178,330 ","$1,050 ",$990 
+"Petersburg city, Virginia","$178,330 ","$1,050 ","$1,000 "
+"Guernsey County, Ohio","$178,290 ","$1,050 ",$970 
+"Blair County, Pennsylvania","$178,260 ","$1,050 ",$960 
+"Buena Vista city, Virginia","$178,180 ","$1,050 ",$970 
+"Kearny County, Kansas","$177,960 ","$1,050 ",$980 
+"Lewis County, Tennessee","$177,950 ","$1,050 ",$990 
+"Marion County, Ohio","$177,940 ","$1,050 ",$970 
+"Kiowa County, Kansas","$177,850 ","$1,050 ",$980 
+"Washington County, Oklahoma","$177,760 ","$1,050 ","$1,000 "
+"Keith County, Nebraska","$177,740 ","$1,050 ",$990 
+"Cherokee County, Texas","$177,690 ","$1,050 ",$980 
+"Mason County, Kentucky","$177,550 ","$1,040 ",$990 
+"Edmunds County, South Dakota","$177,530 ","$1,040 ","$1,030 "
+"Todd County, Kentucky","$177,430 ","$1,040 ",$990 
+"LaSalle County, Illinois","$177,410 ","$1,040 ",$980 
+"Sheridan County, Kansas","$177,380 ","$1,040 ",$970 
+"Camp County, Texas","$177,250 ","$1,040 ",$980 
+"Navarro County, Texas","$177,250 ","$1,040 ",$980 
+"Guthrie County, Iowa","$177,210 ","$1,040 ","$1,010 "
+"Bay County, Michigan","$177,210 ","$1,040 ",$990 
+"Cherokee County, Oklahoma","$177,100 ","$1,040 ","$1,000 "
+"Crawford County, Michigan","$177,000 ","$1,040 ",$950 
+"Comanche County, Oklahoma","$176,990 ","$1,040 ","$1,040 "
+"Suwannee County, Florida","$176,840 ","$1,040 ",$990 
+"Indiana County, Pennsylvania","$176,780 ","$1,040 ",$950 
+"Dillingham Census Area, Alaska","$176,780 ","$1,040 ","$1,030 "
+"Graham County, North Carolina","$176,750 ","$1,040 ",$980 
+"Cortland County, New York","$176,720 ","$1,040 ",$950 
+"Lowndes County, Mississippi","$176,610 ","$1,040 ",$970 
+"Lewis County, New York","$176,610 ","$1,040 ",$950 
+"Sandusky County, Ohio","$176,440 ","$1,040 ",$960 
+"Genesee County, New York","$176,380 ","$1,040 ",$950 
+"Union County, Florida","$176,290 ","$1,040 ",$990 
+"Clarion County, Pennsylvania","$176,200 ","$1,040 ",$950 
+"Heard County, Georgia","$176,160 ","$1,040 ","$1,000 "
+"Gonzales County, Texas","$176,140 ","$1,040 ",$980 
+"Butler County, Iowa","$176,080 ","$1,040 ",$980 
+"Putnam County, Florida","$176,070 ","$1,040 ",$980 
+"Henry County, Missouri","$176,040 ","$1,040 ",$940 
+"Clarendon County, South Carolina","$175,940 ","$1,040 ",$950 
+"Ralls County, Missouri","$175,920 ","$1,040 ",$940 
+"Henderson County, Tennessee","$175,920 ","$1,040 ",$970 
+"Abbeville County, South Carolina","$175,820 ","$1,030 ",$950 
+"Marion County, Arkansas","$175,800 ","$1,030 ",$990 
+"Caldwell County, Missouri","$175,790 ","$1,030 ",$980 
+"Rowan County, Kentucky","$175,740 ","$1,030 ",$980 
+"Shelby County, Iowa","$175,740 ","$1,030 ",$980 
+"DeKalb County, Alabama","$175,630 ","$1,030 ",$960 
+"Colbert County, Alabama","$175,550 ","$1,030 ",$980 
+"Northwest Arctic Borough, Alaska","$175,380 ","$1,030 ","$1,020 "
+"Geary County, Kansas","$175,220 ","$1,030 ","$1,000 "
+"Clayton County, Iowa","$175,180 ","$1,030 ",$970 
+"Martin County, Minnesota","$175,060 ","$1,030 ",$990 
+"Titus County, Texas","$175,030 ","$1,030 ",$970 
+"Otero County, New Mexico","$174,920 ","$1,030 ",$980 
+"Roscommon County, Michigan","$174,760 ","$1,030 ",$940 
+"Lawrence County, Pennsylvania","$174,700 ","$1,030 ",$940 
+"Wright County, Missouri","$174,660 ","$1,030 ",$930 
+"Martin County, Indiana","$174,610 ","$1,030 ",$940 
+"Defiance County, Ohio","$174,590 ","$1,030 ",$950 
+"Clay County, Kansas","$174,580 ","$1,030 ",$960 
+"Beauregard Parish, Louisiana","$174,550 ","$1,030 ",$970 
+"Madison County, Arkansas","$174,490 ","$1,030 ",$970 
+"Fulton County, New York","$174,480 ","$1,030 ",$940 
+"Crawford County, Pennsylvania","$174,350 ","$1,030 ",$940 
+"Colleton County, South Carolina","$174,260 ","$1,030 ",$940 
+"Dallas County, Missouri","$174,230 ","$1,030 ",$950 
+"Branch County, Michigan","$174,170 ","$1,030 ",$940 
+"Hutchinson County, South Dakota","$174,170 ","$1,030 ","$1,010 "
+"Muskogee County, Oklahoma","$173,790 ","$1,020 ",$980 
+"Bowie County, Texas","$173,760 ","$1,020 ",$940 
+"Hardin County, Tennessee","$173,670 ","$1,020 ",$960 
+"Bates County, Missouri","$173,660 ","$1,020 ",$970 
+"Hidalgo County, Texas","$173,620 ","$1,020 ",$970 
+"Peoria County, Illinois","$173,620 ","$1,020 ",$960 
+"Glacier County, Montana","$173,620 ","$1,020 ",$940 
+"Cerro Gordo County, Iowa","$173,380 ","$1,020 ",$960 
+"Delta County, Michigan","$173,340 ","$1,020 ",$930 
+"Schuylkill County, Pennsylvania","$173,310 ","$1,020 ",$930 
+"Dickinson County, Kansas","$173,290 ","$1,020 ",$950 
+"Red Lake County, Minnesota","$173,290 ","$1,020 ",$980 
+"Kingsbury County, South Dakota","$173,190 ","$1,020 ","$1,000 "
+"Hinds County, Mississippi","$173,170 ","$1,020 ",$980 
+"Shannon County, Missouri","$173,170 ","$1,020 ",$930 
+"Schley County, Georgia","$173,160 ","$1,020 ",$960 
+"Clinton County, Iowa","$173,040 ","$1,020 ",$960 
+"Natchitoches Parish, Louisiana","$172,950 ","$1,020 ",$960 
+"Talladega County, Alabama","$172,940 ","$1,020 ",$940 
+"Wyoming County, New York","$172,920 ","$1,020 ",$930 
+"Halifax County, Virginia","$172,840 ","$1,020 ",$940 
+"Carter County, Tennessee","$172,820 ","$1,020 ",$970 
+"Noble County, Ohio","$172,740 ","$1,020 ",$940 
+"Anderson County, Kansas","$172,590 ","$1,020 ",$950 
+"Atchison County, Kansas","$172,590 ","$1,020 ",$950 
+"Washington County, Maine","$172,310 ","$1,010 ",$960 
+"Starke County, Indiana","$172,290 ","$1,010 ",$930 
+"Caddo Parish, Louisiana","$172,270 ","$1,010 ","$1,040 "
+"Washington County, Illinois","$172,240 ","$1,010 ",$960 
+"Holt County, Nebraska","$172,080 ","$1,010 ",$960 
+"Houston County, Texas","$171,920 ","$1,010 ",$950 
+"Texas County, Oklahoma","$171,910 ","$1,010 ",$970 
+"Pike County, Ohio","$171,810 ","$1,010 ",$940 
+"Price County, Wisconsin","$171,800 ","$1,010 ",$940 
+"Trumbull County, Ohio","$171,760 ","$1,010 ",$910 
+"Dent County, Missouri","$171,680 ","$1,010 ",$920 
+"Langlade County, Wisconsin","$171,560 ","$1,010 ",$940 
+"Caswell County, North Carolina","$171,530 ","$1,010 ",$950 
+"Washington County, Florida","$171,450 ","$1,010 ",$960 
+"Osage County, Kansas","$171,350 ","$1,010 ",$940 
+"Fentress County, Tennessee","$171,180 ","$1,010 ",$950 
+"Washington County, Alabama","$171,150 ","$1,010 ",$930 
+"Limestone County, Texas","$171,150 ","$1,010 ",$950 
+"Murray County, Oklahoma","$171,130 ","$1,010 ",$970 
+"Daviess County, Missouri","$171,100 ","$1,010 ",$920 
+"Cameron County, Texas","$171,020 ","$1,010 ",$990 
+"Logan County, Kentucky","$170,780 ","$1,010 ",$960 
+"Polk County, Texas","$170,710 ","$1,000 ",$950 
+"Grant County, Kansas","$170,610 ","$1,000 ",$940 
+"Montgomery County, North Carolina","$170,510 ","$1,000 ",$940 
+"Calhoun County, South Carolina","$170,400 ","$1,000 ",$940 
+"Johnson County, Illinois","$170,400 ","$1,000 ",$950 
+"McNairy County, Tennessee","$170,390 ","$1,000 ",$940 
+"Howard County, Missouri","$170,170 ","$1,000 ",$910 
+"Patrick County, Virginia","$170,060 ","$1,000 ",$930 
+"Huntington County, Indiana","$169,970 ","$1,000 ",$920 
+"Gilliam County, Oregon","$169,960 ","$1,000 ",$940 
+"Lyman County, South Dakota","$169,830 ","$1,000 ",$980 
+"Cottonwood County, Minnesota","$169,770 ","$1,000 ",$960 
+"Harding County, South Dakota","$169,720 ","$1,000 ",$980 
+"Sargent County, North Dakota","$169,690 ","$1,000 ",$950 
+"Wayne County, Georgia","$169,650 ","$1,000 ",$940 
+"Carter County, Oklahoma","$169,590 ","$1,000 ",$960 
+"Monroe County, West Virginia","$169,550 ","$1,000 ",$950 
+"Perry County, Indiana","$169,500 ","$1,000 ",$920 
+"Chester County, Tennessee","$169,480 ","$1,000 ",$960 
+"Beckham County, Oklahoma","$169,480 ","$1,000 ",$960 
+"Vermilion Parish, Louisiana","$169,450 ","$1,000 ",$940 
+"Grant County, Arkansas","$169,380 ","$1,000 ",$950 
+"Greene County, Pennsylvania","$169,370 ","$1,000 ",$910 
+"Potter County, Pennsylvania","$169,370 ","$1,000 ",$910 
+"Saginaw County, Michigan","$169,340 ","$1,000 ",$930 
+"Upson County, Georgia","$169,310 ","$1,000 ",$940 
+"Belmont County, Ohio","$169,270 ","$1,000 ",$960 
+"Carter County, Missouri","$169,270 ","$1,000 ",$910 
+"Houston County, Tennessee","$169,270 ","$1,000 ",$940 
+"Meriwether County, Georgia","$169,160 ","$1,000 ",$960 
+"Ringgold County, Iowa","$169,100 ","$1,000 ",$940 
+"Powder River County, Montana","$169,090 ","$1,000 ",$920 
+"Monroe County, Missouri","$169,040 ",$990 ,$900 
+"Marshall County, Minnesota","$168,990 ",$990 ,$950 
+"Perkins County, Nebraska","$168,910 ",$990 ,$940 
+"Lunenburg County, Virginia","$168,890 ",$990 ,$920 
+"Gibson County, Tennessee","$168,820 ",$990 ,$930 
+"Scott County, Indiana","$168,810 ",$990 ,$910 
+"Kleberg County, Texas","$168,710 ",$990 ,$930 
+"Terrell County, Texas","$168,710 ",$990 ,$930 
+"Roger Mills County, Oklahoma","$168,590 ",$990 ,$950 
+"Menominee County, Michigan","$168,500 ",$990 ,$910 
+"Calhoun County, Alabama","$168,460 ",$990 ,$950 
+"Day County, South Dakota","$168,310 ",$990 ,$970 
+"Van Buren County, Tennessee","$168,250 ",$990 ,$930 
+"Darlington County, South Carolina","$168,100 ",$990 ,$830 
+"Clearfield County, Pennsylvania","$168,090 ",$990 ,$900 
+"Fulton County, Indiana","$168,000 ",$990 ,$910 
+"Maverick County, Texas","$167,930 ",$990 ,$930 
+"Val Verde County, Texas","$167,930 ",$990 ,$930 
+"Tucker County, West Virginia","$167,920 ",$990 ,$940 
+"Russell County, Alabama","$167,870 ",$990 ,$990 
+"Lincoln County, Minnesota","$167,780 ",$990 ,$950 
+"Big Horn County, Montana","$167,730 ",$990 ,$910 
+"Montmorency County, Michigan","$167,680 ",$990 ,$900 
+"Somerset County, Pennsylvania","$167,630 ",$990 ,$900 
+"Prowers County, Colorado","$167,520 ",$990 ,$930 
+"Renville County, Minnesota","$167,450 ",$990 ,$950 
+"Carroll County, Virginia","$167,390 ",$990 ,$910 
+"Henry County, Iowa","$167,190 ",$980 ,$930 
+"Charlotte County, Virginia","$167,150 ",$980 ,$910 
+"Watonwan County, Minnesota","$167,120 ",$980 ,$940 
+"Taylor County, West Virginia","$167,110 ",$980 ,$930 
+"Orange County, Indiana","$167,070 ",$980 ,$900 
+"Russell County, Kentucky","$167,060 ",$980 ,$940 
+"Claiborne County, Tennessee","$166,900 ",$980 ,$920 
+"Pike County, Alabama","$166,890 ",$980 ,$910 
+"Huron County, Michigan","$166,850 ",$980 ,$900 
+"Wabash County, Indiana","$166,720 ",$980 ,$900 
+"Harlan County, Nebraska","$166,650 ",$980 ,$930 
+"Howard County, Texas","$166,600 ",$980 ,$920 
+"DeSoto County, Florida","$166,510 ",$980 ,$930 
+"Haakon County, South Dakota","$166,250 ",$980 ,$960 
+"Rapides Parish, Louisiana","$166,160 ",$980 ,$980 
+"Brown County, Texas","$166,160 ",$980 ,$920 
+"Preston County, West Virginia","$166,080 ",$980 ,$930 
+"Vance County, North Carolina","$165,980 ",$980 ,$920 
+"Fremont County, Iowa","$165,950 ",$980 ,$920 
+"Lyon County, Kansas","$165,940 ",$980 ,$910 
+"Dawes County, Nebraska","$165,850 ",$980 ,$930 
+"Stone County, Arkansas","$165,810 ",$980 ,$930 
+"Redwood County, Minnesota","$165,800 ",$980 ,$940 
+"Gadsden County, Florida","$165,670 ",$980 ,$960 
+"Houghton County, Michigan","$165,670 ",$980 ,$890 
+"Clay County, Nebraska","$165,630 ",$970 ,$930 
+"Decatur County, Georgia","$165,570 ",$970 ,$920 
+"Mifflin County, Pennsylvania","$165,550 ",$970 ,$890 
+"Garfield County, Oklahoma","$165,500 ",$970 ,$940 
+"Buena Vista County, Iowa","$165,280 ",$970 ,$920 
+"Humboldt County, Iowa","$165,280 ",$970 ,$920 
+"Madison County, Texas","$165,270 ",$970 ,$920 
+"Hand County, South Dakota","$165,050 ",$970 ,$950 
+"Kiowa County, Colorado","$164,960 ",$970 ,$920 
+"Osceola County, Michigan","$164,840 ",$970 ,$890 
+"Scott County, Missouri","$164,800 ",$970 ,$880 
+"Coshocton County, Ohio","$164,640 ",$970 ,$900 
+"Davis County, Iowa","$164,260 ",$970 ,$910 
+"Sierra County, New Mexico","$164,260 ",$970 ,$920 
+"Chippewa County, Minnesota","$164,250 ",$970 ,$930 
+"Fayette County, Pennsylvania","$164,090 ",$970 ,$900 
+"Crawford County, Georgia","$164,090 ",$970 ,$900 
+"Garfield County, Nebraska","$164,040 ",$970 ,$920 
+"Douglas County, Illinois","$163,960 ",$960 ,$910 
+"Benton County, Indiana","$163,900 ",$960 ,$880 
+"Delaware County, Indiana","$163,750 ",$960 ,$890 
+"Henry County, Tennessee","$163,740 ",$960 ,$910 
+"Ogemaw County, Michigan","$163,660 ",$960 ,$880 
+"McLean County, Kentucky","$163,550 ",$960 ,$900 
+"Brown County, Illinois","$163,500 ",$960 ,$910 
+"Lincoln County, Oklahoma","$163,450 ",$960 ,$940 
+"St. Clair County, Missouri","$163,420 ",$960 ,$870 
+"Pulaski County, Georgia","$163,420 ",$960 ,$910 
+"Yellow Medicine County, Minnesota","$163,370 ",$960 ,$920 
+"Lauderdale County, Mississippi","$163,370 ",$960 ,$900 
+"Jackson County, Alabama","$163,310 ",$960 ,$890 
+"Clark County, Arkansas","$163,250 ",$960 ,$920 
+"Cherokee County, Iowa","$163,250 ",$960 ,$910 
+"Lawrence County, Alabama","$163,030 ",$960 ,$950 
+"Coffey County, Kansas","$162,790 ",$960 ,$890 
+"Henry County, Indiana","$162,770 ",$960 ,$880 
+"Randolph County, Missouri","$162,730 ",$960 ,$870 
+"Alpena County, Michigan","$162,720 ",$960 ,$880 
+"Pierce County, North Dakota","$162,660 ",$960 ,$910 
+"Clay County, Indiana","$162,550 ",$960 ,$850 
+"Red Willow County, Nebraska","$162,460 ",$960 ,$910 
+"Socorro County, New Mexico","$162,440 ",$960 ,$910 
+"Jackson County, Ohio","$162,440 ",$960 ,$890 
+"McHenry County, North Dakota","$162,430 ",$960 ,$900 
+"Morgan County, Tennessee","$162,390 ",$960 ,$900 
+"Tallapoosa County, Alabama","$162,190 ",$950 ,$880 
+"Swift County, Minnesota","$162,160 ",$950 ,$920 
+"Clay County, Alabama","$162,080 ",$950 ,$880 
+"Tift County, Georgia","$162,060 ",$950 ,$900 
+"Warren County, Mississippi","$162,020 ",$950 ,$890 
+"Williams County, Ohio","$161,980 ",$950 ,$880 
+"Torrance County, New Mexico","$161,950 ",$950 ,$900 
+"Panola County, Texas","$161,840 ",$950 ,$900 
+"Scotland County, Missouri","$161,820 ",$950 ,$870 
+"Pocahontas County, West Virginia","$161,770 ",$950 ,$900 
+"Parke County, Indiana","$161,730 ",$950 ,$870 
+"Irion County, Texas","$161,720 ",$950 ,$930 
+"Tuscola County, Michigan","$161,650 ",$950 ,$870 
+"Laurel County, Kentucky","$161,650 ",$950 ,$910 
+"Pittsburg County, Oklahoma","$161,630 ",$950 ,$910 
+"Gratiot County, Michigan","$161,540 ",$950 ,$870 
+"Cleburne County, Alabama","$161,520 ",$950 ,$880 
+"Mahnomen County, Minnesota","$161,500 ",$950 ,$910 
+"Cherokee County, South Carolina","$161,480 ",$950 ,$870 
+"Crittenden County, Arkansas","$161,270 ",$950 ,$920 
+"Chaves County, New Mexico","$160,970 ",$950 ,$900 
+"Burke County, North Dakota","$160,960 ",$950 ,$900 
+"Henry County, Illinois","$160,930 ",$950 ,$910 
+"Polk County, Tennessee","$160,800 ",$950 ,$910 
+"Tunica County, Mississippi","$160,650 ",$950 ,$920 
+"Powell County, Kentucky","$160,520 ",$940 ,$900 
+"Oldham County, Texas","$160,510 ",$940 ,$890 
+"Sioux County, Nebraska","$160,420 ",$940 ,$900 
+"Jackson County, Minnesota","$160,290 ",$940 ,$910 
+"Herkimer County, New York","$160,270 ",$940 ,$860 
+"Dougherty County, Georgia","$160,260 ",$940 ,$940 
+"Miller County, Arkansas","$160,240 ",$940 ,$870 
+"Jackson County, Oklahoma","$160,200 ",$940 ,$910 
+"Worth County, Iowa","$160,100 ",$940 ,$890 
+"Chester County, South Carolina","$160,100 ",$940 ,$900 
+"Saline County, Missouri","$160,100 ",$940 ,$860 
+"Uvalde County, Texas","$160,060 ",$940 ,$890 
+"Cambria County, Pennsylvania","$159,960 ",$940 ,$760 
+"St. Martin Parish, Louisiana","$159,920 ",$940 ,$950 
+"Randolph County, West Virginia","$159,910 ",$940 ,$890 
+"Cocke County, Tennessee","$159,910 ",$940 ,$890 
+"Marshall County, South Dakota","$159,740 ",$940 ,$920 
+"Presque Isle County, Michigan","$159,650 ",$940 ,$860 
+"Covington County, Alabama","$159,610 ",$940 ,$870 
+"Rock Island County, Illinois","$159,600 ",$940 ,$910 
+"Seneca County, New York","$159,500 ",$940 ,$860 
+"Atascosa County, Texas","$159,490 ",$940 ,$920 
+"Breckinridge County, Kentucky","$159,400 ",$940 ,$890 
+"Butler County, Missouri","$159,180 ",$940 ,$850 
+"Pontotoc County, Mississippi","$158,990 ",$940 ,$870 
+"Van Wert County, Ohio","$158,850 ",$930 ,$870 
+"Sterling County, Texas","$158,730 ",$930 ,$880 
+"Henry County, Alabama","$158,640 ",$930 ,$970 
+"Livingston County, Missouri","$158,600 ",$930 ,$850 
+"Mahaska County, Iowa","$158,530 ",$930 ,$880 
+"Dixon County, Nebraska","$158,420 ",$930 ,$860 
+"Sedgwick County, Colorado","$158,420 ",$930 ,$880 
+"Koochiching County, Minnesota","$158,410 ",$930 ,$900 
+"Pecos County, Texas","$158,400 ",$930 ,$880 
+"Montgomery County, New York","$158,270 ",$930 ,$850 
+"Evans County, Georgia","$158,210 ",$930 ,$880 
+"Adair County, Iowa","$158,190 ",$930 ,$880 
+"Greenbrier County, West Virginia","$158,170 ",$930 ,$880 
+"Lac qui Parle County, Minnesota","$158,080 ",$930 ,$890 
+"Greene County, Iowa","$158,080 ",$930 ,$880 
+"Wayne County, Indiana","$158,010 ",$930 ,$850 
+"Live Oak County, Texas","$157,740 ",$930 ,$870 
+"Lewis County, West Virginia","$157,590 ",$930 ,$880 
+"Seneca County, Ohio","$157,580 ",$930 ,$860 
+"Noble County, Oklahoma","$157,550 ",$930 ,$890 
+"Delta County, Texas","$157,410 ",$930 ,$910 
+"Tama County, Iowa","$157,400 ",$930 ,$870 
+"Columbia County, Arkansas","$157,260 ",$930 ,$880 
+"Frontier County, Nebraska","$157,140 ",$920 ,$880 
+"Kidder County, North Dakota","$157,100 ",$920 ,$880 
+"Lincoln County, Kentucky","$157,030 ",$920 ,$880 
+"Tyrrell County, North Carolina","$157,010 ",$920 ,$870 
+"Woods County, Oklahoma","$156,770 ",$920 ,$890 
+"Vernon County, Missouri","$156,770 ",$920 ,$840 
+"Graves County, Kentucky","$156,690 ",$920 ,$880 
+"Iberia Parish, Louisiana","$156,510 ",$920 ,$870 
+"Seward County, Kansas","$156,370 ",$920 ,$860 
+"Marshall County, Illinois","$156,370 ",$920 ,$870 
+"Pulaski County, Indiana","$156,270 ",$920 ,$840 
+"Marshall County, West Virginia","$156,200 ",$920 ,$890 
+"Gallia County, Ohio","$156,190 ",$920 ,$850 
+"Barton County, Missouri","$155,970 ",$920 ,$830 
+"Hardin County, Ohio","$155,960 ",$920 ,$850 
+"Acadia Parish, Louisiana","$155,870 ",$920 ,$860 
+"Giles County, Virginia","$155,860 ",$920 ,$880 
+"Sutton County, Texas","$155,850 ",$920 ,$860 
+"Webster County, Iowa","$155,830 ",$920 ,$870 
+"Dallam County, Texas","$155,740 ",$920 ,$860 
+"Aleutians East Borough, Alaska","$155,730 ",$920 ,$910 
+"Sac County, Iowa","$155,710 ",$920 ,$860 
+"Laurens County, Georgia","$155,600 ",$920 ,$860 
+"Stoddard County, Missouri","$155,280 ",$910 ,$830 
+"Morgan County, Ohio","$155,270 ",$910 ,$850 
+"Crockett County, Texas","$155,190 ",$910 ,$860 
+"Lawrence County, Ohio","$155,050 ",$910 ,$850 
+"Ford County, Kansas","$154,860 ",$910 ,$850 
+"Louisa County, Iowa","$154,810 ",$910 ,$860 
+"Greenup County, Kentucky","$154,710 ",$910 ,$850 
+"Fountain County, Indiana","$154,640 ",$910 ,$840 
+"Grady County, Georgia","$154,580 ",$910 ,$860 
+"Hancock County, Kentucky","$154,570 ",$910 ,$850 
+"Calhoun County, Texas","$154,470 ",$910 ,$930 
+"Clay County, Tennessee","$154,380 ",$910 ,$850 
+"Marshall County, Oklahoma","$154,340 ",$910 ,$870 
+"Mercer County, Illinois","$154,290 ",$910 ,$880 
+"Roosevelt County, New Mexico","$154,270 ",$910 ,$860 
+"Randolph County, Illinois","$154,190 ",$910 ,$860 
+"Union County, New Mexico","$154,160 ",$910 ,$860 
+"Chilton County, Alabama","$154,150 ",$910 ,$880 
+"Des Moines County, Iowa","$154,140 ",$910 ,$860 
+"Sullivan County, Indiana","$154,100 ",$910 ,$810 
+"Bollinger County, Missouri","$154,090 ",$910 ,$840 
+"Brunswick County, Virginia","$154,040 ",$910 ,$840 
+"Clark County, South Dakota","$153,980 ",$910 ,$890 
+"Cherry County, Nebraska","$153,970 ",$910 ,$860 
+"Potter County, Texas","$153,930 ",$910 ,$870 
+"Dickinson County, Michigan","$153,860 ",$910 ,$830 
+"Ward County, Texas","$153,860 ",$910 ,$850 
+"Jefferson Davis Parish, Louisiana","$153,850 ",$910 ,$850 
+"Wheeler County, Nebraska","$153,850 ",$910 ,$860 
+"Weakley County, Tennessee","$153,700 ",$900 ,$850 
+"Grayson County, Virginia","$153,570 ",$900 ,$840 
+"Candler County, Georgia","$153,570 ",$900 ,$850 
+"Tyler County, Texas","$153,410 ",$900 ,$850 
+"Crawford County, Iowa","$153,350 ",$900 ,$850 
+"Steuben County, New York","$153,130 ",$900 ,$820 
+"Bent County, Colorado","$153,090 ",$900 ,$850 
+"Casey County, Kentucky","$152,970 ",$900 ,$860 
+"Monroe County, Iowa","$152,900 ",$900 ,$850 
+"Sherman County, Nebraska","$152,830 ",$900 ,$850 
+"Kanawha County, West Virginia","$152,750 ",$900 ,$800 
+"Comanche County, Texas","$152,750 ",$900 ,$850 
+"Monroe County, Ohio","$152,720 ",$900 ,$830 
+"Jackson County, Tennessee","$152,460 ",$900 ,$840 
+"Atoka County, Oklahoma","$152,460 ",$900 ,$860 
+"Perry County, Mississippi","$152,450 ",$900 ,$780 
+"Vinton County, Ohio","$152,370 ",$900 ,$830 
+"Arenac County, Michigan","$152,330 ",$900 ,$820 
+"De Soto Parish, Louisiana","$152,260 ",$900 ,$920 
+"Vernon Parish, Louisiana","$152,260 ",$900 ,$840 
+"Emporia city, Virginia","$152,180 ",$900 ,$830 
+"Callahan County, Texas","$152,150 ",$900 ,$840 
+"Ochiltree County, Texas","$152,080 ",$900 ,$840 
+"Conway County, Arkansas","$152,050 ",$890 ,$850 
+"Kossuth County, Iowa","$152,000 ",$890 ,$840 
+"Adair County, Kentucky","$151,960 ",$890 ,$850 
+"Bond County, Illinois","$151,900 ",$890 ,$830 
+"Orleans County, New York","$151,770 ",$890 ,$830 
+"Karnes County, Texas","$151,750 ",$890 ,$840 
+"Union County, Illinois","$151,430 ",$890 ,$840 
+"Crockett County, Tennessee","$151,220 ",$890 ,$840 
+"Livingston County, Illinois","$151,200 ",$890 ,$840 
+"Decatur County, Tennessee","$151,000 ",$890 ,$840 
+"Roberts County, South Dakota","$150,950 ",$890 ,$870 
+"Montgomery County, Arkansas","$150,940 ",$890 ,$850 
+"Marshall County, Iowa","$150,880 ",$890 ,$840 
+"Howard County, Iowa","$150,650 ",$890 ,$840 
+"Bleckley County, Georgia","$150,510 ",$890 ,$840 
+"Grundy County, Tennessee","$150,430 ",$890 ,$830 
+"Bennett County, South Dakota","$150,400 ",$890 ,$870 
+"Sanborn County, South Dakota","$150,290 ",$880 ,$870 
+"Howard County, Arkansas","$150,270 ",$880 ,$840 
+"Moore County, Texas","$150,090 ",$880 ,$830 
+"McIntosh County, Oklahoma","$150,030 ",$880 ,$850 
+"Cass County, Iowa","$149,980 ",$880 ,$830 
+"Floyd County, Iowa","$149,980 ",$880 ,$830 
+"Shelby County, Illinois","$149,930 ",$880 ,$830 
+"Assumption Parish, Louisiana","$149,820 ",$880 ,$830 
+"Ballard County, Kentucky","$149,810 ",$880 ,$840 
+"Doniphan County, Kansas","$149,770 ",$880 ,$800 
+"Pierce County, Georgia","$149,600 ",$880 ,$830 
+"Big Stone County, Minnesota","$149,590 ",$880 ,$850 
+"Norman County, Minnesota","$149,590 ",$880 ,$850 
+"Carson County, Texas","$149,460 ",$880 ,$850 
+"Stephens County, Oklahoma","$149,260 ",$880 ,$840 
+"Pike County, Indiana","$149,070 ",$880 ,$810 
+"Edmonson County, Kentucky","$149,040 ",$880 ,$850 
+"Elk County, Pennsylvania","$148,980 ",$880 ,$800 
+"Johnson County, Nebraska","$148,870 ",$880 ,$830 
+"Hamilton County, Iowa","$148,850 ",$880 ,$830 
+"Winnebago County, Iowa","$148,850 ",$880 ,$830 
+"Major County, Oklahoma","$148,820 ",$880 ,$840 
+"Oscoda County, Michigan","$148,780 ",$880 ,$800 
+"Tripp County, South Dakota","$148,780 ",$880 ,$860 
+"Tishomingo County, Mississippi","$148,670 ",$870 ,$810 
+"Chemung County, New York","$148,630 ",$870 ,$930 
+"Fillmore County, Nebraska","$148,530 ",$870 ,$830 
+"Alcorn County, Mississippi","$148,450 ",$870 ,$810 
+"Pike County, Missouri","$148,400 ",$870 ,$790 
+"Red River County, Texas","$148,310 ",$870 ,$820 
+"McDonald County, Missouri","$148,280 ",$870 ,$820 
+"Kittson County, Minnesota","$148,160 ",$870 ,$840 
+"Greene County, Indiana","$147,980 ",$870 ,$790 
+"Cass County, Texas","$147,980 ",$870 ,$820 
+"Morgan County, Illinois","$147,980 ",$870 ,$820 
+"Washington Parish, Louisiana","$147,910 ",$870 ,$820 
+"Lincoln County, Mississippi","$147,890 ",$870 ,$810 
+"Mason County, West Virginia","$147,850 ",$870 ,$820 
+"Fairfield County, South Carolina","$147,840 ",$870 ,$820 
+"Orangeburg County, South Carolina","$147,390 ",$870 ,$790 
+"Sherman County, Kansas","$147,390 ",$870 ,$810 
+"Early County, Georgia","$147,340 ",$870 ,$820 
+"Calhoun County, Florida","$147,270 ",$870 ,$820 
+"Galax city, Virginia","$147,190 ",$870 ,$800 
+"Fayette County, Iowa","$147,160 ",$870 ,$820 
+"Baraga County, Michigan","$146,890 ",$860 ,$790 
+"Craig County, Oklahoma","$146,830 ",$860 ,$830 
+"Jefferson County, Pennsylvania","$146,780 ",$860 ,$790 
+"Paulding County, Ohio","$146,700 ",$860 ,$800 
+"Stephenson County, Illinois","$146,600 ",$860 ,$810 
+"Garvin County, Oklahoma","$146,500 ",$860 ,$830 
+"Hansford County, Texas","$146,430 ",$860 ,$810 
+"Summers County, West Virginia","$146,340 ",$860 ,$820 
+"Carroll County, Kentucky","$146,320 ",$860 ,$820 
+"Barbour County, West Virginia","$146,220 ",$860 ,$820 
+"Sabine County, Texas","$146,210 ",$860 ,$810 
+"Greenlee County, Arizona","$146,190 ",$860 ,$820 
+"Cheyenne County, Nebraska","$146,150 ",$860 ,$820 
+"Smyth County, Virginia","$146,030 ",$860 ,$800 
+"Hyde County, South Dakota","$145,950 ",$860 ,$840 
+"Reno County, Kansas","$145,870 ",$860 ,$800 
+"Schoolcraft County, Michigan","$145,830 ",$860 ,$780 
+"Colfax County, Nebraska","$145,820 ",$860 ,$820 
+"Yell County, Arkansas","$145,720 ",$860 ,$820 
+"Pleasants County, West Virginia","$145,720 ",$860 ,$730 
+"Sampson County, North Carolina","$145,670 ",$860 ,$810 
+"Macon County, Missouri","$145,650 ",$860 ,$780 
+"LaSalle Parish, Louisiana","$145,580 ",$860 ,$810 
+"Columbus County, North Carolina","$145,550 ",$860 ,$810 
+"St. Lawrence County, New York","$145,530 ",$860 ,$780 
+"Hancock County, Iowa","$145,480 ",$860 ,$810 
+"Griggs County, North Dakota","$145,420 ",$860 ,$810 
+"Stevens County, Kansas","$145,290 ",$860 ,$800 
+"Chambers County, Alabama","$145,280 ",$850 ,$790 
+"Hopkins County, Kentucky","$145,190 ",$850 ,$810 
+"Iosco County, Michigan","$145,120 ",$850 ,$780 
+"Lake County, Michigan","$145,120 ",$850 ,$780 
+"Lynn County, Texas","$144,990 ",$850 ,$800 
+"Yazoo County, Mississippi","$144,970 ",$850 ,$790 
+"Cumberland County, Kentucky","$144,970 ",$850 ,$810 
+"Logan County, Illinois","$144,760 ",$850 ,$800 
+"Whiteside County, Illinois","$144,640 ",$850 ,$800 
+"Lafayette County, Florida","$144,640 ",$850 ,$810 
+"Dale County, Alabama","$144,600 ",$850 ,$790 
+"Ford County, Illinois","$144,420 ",$850 ,$800 
+"Boyd County, Kentucky","$144,420 ",$850 ,$790 
+"Iroquois County, Illinois","$144,180 ",$850 ,$800 
+"Tippah County, Mississippi","$144,070 ",$850 ,$790 
+"Talbot County, Georgia","$144,050 ",$850 ,$800 
+"Toombs County, Georgia","$143,940 ",$850 ,$800 
+"Macoupin County, Illinois","$143,910 ",$850 ,$790 
+"Franklin County, New York","$143,740 ",$850 ,$770 
+"Jackson County, Illinois","$143,720 ",$850 ,$800 
+"Bibb County, Alabama","$143,650 ",$850 ,$820 
+"Arkansas County, Arkansas","$143,610 ",$850 ,$810 
+"Knox County, Indiana","$143,380 ",$840 ,$780 
+"Franklin County, Alabama","$143,370 ",$840 ,$780 
+"Chenango County, New York","$143,180 ",$840 ,$770 
+"Brooke County, West Virginia","$143,070 ",$840 ,$720 
+"Crawford County, Ohio","$143,000 ",$840 ,$780 
+"Scott County, Virginia","$142,990 ",$840 ,$760 
+"Crawford County, Kansas","$142,840 ",$840 ,$780 
+"Wayne County, West Virginia","$142,810 ",$840 ,$780 
+"De Witt County, Illinois","$142,800 ",$840 ,$790 
+"Wayne County, Tennessee","$142,770 ",$840 ,$790 
+"Bladen County, North Carolina","$142,720 ",$840 ,$790 
+"Walsh County, North Dakota","$142,580 ",$840 ,$790 
+"Meade County, Kansas","$142,370 ",$840 ,$780 
+"Coffee County, Georgia","$142,350 ",$840 ,$790 
+"Lipscomb County, Texas","$142,330 ",$840 ,$790 
+"Hardee County, Florida","$142,220 ",$840 ,$800 
+"Carter County, Kentucky","$142,150 ",$840 ,$800 
+"Walker County, Alabama","$142,020 ",$840 ,$810 
+"Burt County, Nebraska","$141,970 ",$840 ,$790 
+"Alleghany County, Virginia","$141,960 ",$840 ,$780 
+"Hot Spring County, Arkansas","$141,950 ",$840 ,$800 
+"Sequoyah County, Oklahoma","$141,900 ",$840 ,$760 
+"Drew County, Arkansas","$141,840 ",$830 ,$800 
+"Perry County, Arkansas","$141,750 ",$830 ,$800 
+"Nemaha County, Nebraska","$141,630 ",$830 ,$790 
+"Clarke County, Alabama","$141,580 ",$830 ,$770 
+"Clark County, Illinois","$141,540 ",$830 ,$790 
+"Hale County, Alabama","$141,480 ",$830 ,$780 
+"Warren County, North Carolina","$141,470 ",$830 ,$780 
+"Grant County, Indiana","$141,410 ",$830 ,$760 
+"Texas County, Missouri","$141,400 ",$830 ,$760 
+"Blaine County, Montana","$141,360 ",$830 ,$770 
+"Jasper County, Illinois","$141,310 ",$830 ,$780 
+"Hickory County, Missouri","$141,290 ",$830 ,$760 
+"Johnson County, Kentucky","$141,250 ",$830 ,$790 
+"Pawnee County, Oklahoma","$141,180 ",$830 ,$770 
+"Parmer County, Texas","$141,110 ",$830 ,$780 
+"Warren County, Pennsylvania","$141,100 ",$830 ,$760 
+"Morris County, Kansas","$141,090 ",$830 ,$770 
+"Saluda County, South Carolina","$141,080 ",$830 ,$780 
+"Walworth County, South Dakota","$141,070 ",$830 ,$820 
+"Gentry County, Missouri","$141,060 ",$830 ,$750 
+"Logan County, Arkansas","$140,840 ",$830 ,$790 
+"Rock County, Nebraska","$140,830 ",$830 ,$790 
+"McPherson County, Nebraska","$140,610 ",$830 ,$790 
+"Roane County, West Virginia","$140,530 ",$830 ,$780 
+"Hart County, Kentucky","$140,460 ",$830 ,$790 
+"Holt County, Missouri","$140,260 ",$830 ,$750 
+"Bureau County, Illinois","$140,160 ",$820 ,$780 
+"Coles County, Illinois","$140,160 ",$820 ,$780 
+"Aurora County, South Dakota","$139,990 ",$820 ,$810 
+"Gregory County, South Dakota","$139,990 ",$820 ,$810 
+"Duplin County, North Carolina","$139,770 ",$820 ,$770 
+"Moultrie County, Illinois","$139,700 ",$820 ,$780 
+"Hamilton County, Kansas","$139,690 ",$820 ,$770 
+"Pipestone County, Minnesota","$139,670 ",$820 ,$790 
+"Henry County, Virginia","$139,640 ",$820 ,$760 
+"Jasper County, Texas","$139,560 ",$820 ,$770 
+"Audrain County, Missouri","$139,450 ",$820 ,$750 
+"Marshall County, Kansas","$139,450 ",$820 ,$760 
+"Blaine County, Oklahoma","$139,430 ",$820 ,$790 
+"McCurtain County, Oklahoma","$139,320 ",$820 ,$790 
+"Cook County, Georgia","$139,300 ",$820 ,$770 
+"Towner County, North Dakota","$139,290 ",$820 ,$780 
+"Osceola County, Iowa","$139,290 ",$820 ,$770 
+"Chautauqua County, New York","$139,270 ",$820 ,$750 
+"Jim Hogg County, Texas","$139,220 ",$820 ,$770 
+"Cheyenne County, Kansas","$139,220 ",$820 ,$760 
+"Benton County, Tennessee","$139,160 ",$820 ,$770 
+"Sherman County, Texas","$139,110 ",$820 ,$770 
+"Robertson County, Kentucky","$139,110 ",$820 ,$780 
+"Jones County, North Carolina","$139,090 ",$820 ,$770 
+"Glascock County, Georgia","$139,070 ",$820 ,$770 
+"Lee County, Iowa","$139,060 ",$820 ,$770 
+"Nance County, Nebraska","$139,020 ",$820 ,$780 
+"Gove County, Kansas","$138,870 ",$820 ,$760 
+"Lane County, Kansas","$138,870 ",$820 ,$760 
+"Russell County, Virginia","$138,830 ",$820 ,$760 
+"Cavalier County, North Dakota","$138,730 ",$820 ,$770 
+"Bolivar County, Mississippi","$138,680 ",$820 ,$760 
+"Clare County, Michigan","$138,630 ",$820 ,$750 
+"Tattnall County, Georgia","$138,620 ",$820 ,$770 
+"Johnson County, Arkansas","$138,510 ",$820 ,$780 
+"Screven County, Georgia","$138,500 ",$820 ,$770 
+"Sumter County, Georgia","$138,500 ",$820 ,$770 
+"Grenada County, Mississippi","$138,460 ",$810 ,$760 
+"Obion County, Tennessee","$138,370 ",$810 ,$770 
+"Valley County, Nebraska","$138,340 ",$810 ,$770 
+"Hamilton County, Texas","$138,340 ",$810 ,$770 
+"Pickens County, Alabama","$138,110 ",$810 ,$750 
+"Vermillion County, Indiana","$138,080 ",$810 ,$730 
+"Monona County, Iowa","$137,940 ",$810 ,$770 
+"Jerauld County, South Dakota","$137,820 ",$810 ,$800 
+"Cass County, Indiana","$137,810 ",$810 ,$750 
+"Carroll County, Tennessee","$137,690 ",$810 ,$760 
+"Lauderdale County, Tennessee","$137,690 ",$810 ,$760 
+"Mercer County, West Virginia","$137,630 ",$810 ,$770 
+"Slope County, North Dakota","$137,590 ",$810 ,$770 
+"Reynolds County, Missouri","$137,500 ",$810 ,$740 
+"Colquitt County, Georgia","$137,480 ",$810 ,$760 
+"Escambia County, Alabama","$137,430 ",$810 ,$750 
+"Itawamba County, Mississippi","$137,340 ",$810 ,$750 
+"Sabine Parish, Louisiana","$137,300 ",$810 ,$760 
+"Wayne County, Kentucky","$137,190 ",$810 ,$770 
+"Richmond County, North Carolina","$137,050 ",$810 ,$760 
+"Macon County, Illinois","$137,010 ",$810 ,$750 
+"Miami County, Indiana","$137,000 ",$810 ,$740 
+"Crisp County, Georgia","$136,800 ",$810 ,$760 
+"Barton County, Kansas","$136,770 ",$800 ,$750 
+"Muhlenberg County, Kentucky","$136,740 ",$800 ,$770 
+"Loup County, Nebraska","$136,650 ",$800 ,$760 
+"Steele County, North Dakota","$136,570 ",$800 ,$760 
+"Harrison County, Ohio","$136,520 ",$800 ,$750 
+"Presidio County, Texas","$136,450 ",$800 ,$760 
+"Chariton County, Missouri","$136,360 ",$800 ,$730 
+"Lewis County, Missouri","$136,360 ",$800 ,$730 
+"Panola County, Mississippi","$136,330 ",$800 ,$750 
+"Jefferson County, Illinois","$136,140 ",$800 ,$760 
+"Cibola County, New Mexico","$136,120 ",$800 ,$760 
+"Logan County, Kansas","$136,070 ",$800 ,$750 
+"Polk County, Arkansas","$136,060 ",$800 ,$760 
+"Mora County, New Mexico","$136,010 ",$800 ,$760 
+"Winston County, Mississippi","$135,990 ",$800 ,$750 
+"Whitley County, Kentucky","$135,950 ",$800 ,$760 
+"St. Mary Parish, Louisiana","$135,820 ",$800 ,$750 
+"Fayette County, Alabama","$135,750 ",$800 ,$740 
+"Van Buren County, Arkansas","$135,730 ",$800 ,$760 
+"Ellsworth County, Kansas","$135,720 ",$800 ,$740 
+"Hyde County, North Carolina","$135,680 ",$800 ,$750 
+"Massac County, Illinois","$135,680 ",$800 ,$750 
+"Douglas County, South Dakota","$135,640 ",$800 ,$780 
+"Schuyler County, Missouri","$135,550 ",$800 ,$720 
+"Izard County, Arkansas","$135,510 ",$800 ,$760 
+"Baca County, Colorado","$135,440 ",$800 ,$750 
+"Ellis County, Oklahoma","$135,340 ",$800 ,$760 
+"Cumberland County, Illinois","$135,330 ",$800 ,$750 
+"Le Flore County, Oklahoma","$135,330 ",$800 ,$730 
+"Walthall County, Mississippi","$135,320 ",$800 ,$740 
+"Wise County, Virginia","$135,230 ",$800 ,$740 
+"Golden Valley County, North Dakota","$135,210 ",$800 ,$750 
+"Roosevelt County, Montana","$135,140 ",$800 ,$730 
+"Washington County, Missouri","$135,120 ",$800 ,$740 
+"Brooks County, Georgia","$135,120 ",$800 ,$750 
+"Haskell County, Oklahoma","$135,120 ",$800 ,$760 
+"Jefferson County, Ohio","$135,120 ",$800 ,$680 
+"Sumner County, Kansas","$135,110 ",$800 ,$750 
+"Bracken County, Kentucky","$135,010 ",$790 ,$740 
+"Page County, Iowa","$135,010 ",$790 ,$750 
+"Oregon County, Missouri","$134,980 ",$790 ,$720 
+"Eastland County, Texas","$134,900 ",$790 ,$750 
+"Haywood County, Tennessee","$134,870 ",$790 ,$750 
+"Clark County, Missouri","$134,870 ",$790 ,$720 
+"Nicholas County, Kentucky","$134,820 ",$790 ,$760 
+"Appanoose County, Iowa","$134,790 ",$790 ,$750 
+"Tazewell County, Virginia","$134,770 ",$790 ,$740 
+"Charlton County, Georgia","$134,770 ",$790 ,$750 
+"Nowata County, Oklahoma","$134,680 ",$790 ,$760 
+"Faulk County, South Dakota","$134,670 ",$790 ,$780 
+"Trego County, Kansas","$134,670 ",$790 ,$740 
+"Marion County, Georgia","$134,580 ",$790 ,$790 
+"Linn County, Missouri","$134,520 ",$790 ,$720 
+"Rockcastle County, Kentucky","$134,480 ",$790 ,$750 
+"Winkler County, Texas","$134,350 ",$790 ,$740 
+"Palo Alto County, Iowa","$134,220 ",$790 ,$750 
+"Green County, Kentucky","$134,030 ",$790 ,$750 
+"Hancock County, West Virginia","$134,000 ",$790 ,$680 
+"Crawford County, Indiana","$133,980 ",$790 ,$720 
+"Miller County, Georgia","$133,970 ",$790 ,$740 
+"Montgomery County, Georgia","$133,860 ",$790 ,$740 
+"LaMoure County, North Dakota","$133,850 ",$790 ,$750 
+"Dundy County, Nebraska","$133,810 ",$790 ,$750 
+"Independence County, Arkansas","$133,730 ",$790 ,$750 
+"Van Buren County, Iowa","$133,660 ",$790 ,$740 
+"Pratt County, Kansas","$133,620 ",$790 ,$730 
+"Marion County, Kansas","$133,500 ",$790 ,$730 
+"Franklin County, Iowa","$133,320 ",$780 ,$740 
+"Fayette County, Indiana","$133,280 ",$780 ,$720 
+"Baker County, Georgia","$133,200 ",$780 ,$780 
+"Jefferson County, Nebraska","$133,140 ",$780 ,$740 
+"Jasper County, Mississippi","$133,070 ",$780 ,$730 
+"Hancock County, Tennessee","$133,070 ",$780 ,$740 
+"Crane County, Texas","$132,910 ",$780 ,$740 
+"Anson County, North Carolina","$132,820 ",$780 ,$750 
+"Venango County, Pennsylvania","$132,640 ",$780 ,$710 
+"Union County, Iowa","$132,540 ",$780 ,$740 
+"Nicholas County, West Virginia","$132,530 ",$780 ,$740 
+"Faribault County, Minnesota","$132,510 ",$780 ,$750 
+"Antelope County, Nebraska","$132,340 ",$780 ,$740 
+"Knox County, Nebraska","$132,340 ",$780 ,$740 
+"Pembina County, North Dakota","$132,260 ",$780 ,$740 
+"Choctaw County, Oklahoma","$132,250 ",$780 ,$750 
+"Franklin County, Arkansas","$132,210 ",$780 ,$710 
+"Liberty County, Montana","$132,200 ",$780 ,$720 
+"Grant Parish, Louisiana","$132,130 ",$780 ,$780 
+"Richland Parish, Louisiana","$132,100 ",$780 ,$730 
+"Fayette County, Illinois","$131,880 ",$780 ,$730 
+"Hardeman County, Tennessee","$131,710 ",$780 ,$730 
+"Scott County, Tennessee","$131,710 ",$780 ,$730 
+"Lucas County, Iowa","$131,640 ",$770 ,$730 
+"Potter County, South Dakota","$131,630 ",$770 ,$760 
+"Adams County, Iowa","$131,520 ",$770 ,$730 
+"Greene County, North Carolina","$131,300 ",$770 ,$710 
+"Marion County, Mississippi","$131,280 ",$770 ,$720 
+"Meigs County, Ohio","$131,200 ",$770 ,$720 
+"Livingston County, Kentucky","$131,100 ",$770 ,$730 
+"Monroe County, Kentucky","$131,100 ",$770 ,$730 
+"Randolph County, Arkansas","$131,070 ",$770 ,$740 
+"Eddy County, North Dakota","$131,010 ",$770 ,$730 
+"Washington County, Georgia","$130,920 ",$770 ,$730 
+"Crawford County, Illinois","$130,730 ",$770 ,$730 
+"Prentiss County, Mississippi","$130,720 ",$770 ,$720 
+"Dewey County, Oklahoma","$130,590 ",$770 ,$740 
+"Bon Homme County, South Dakota","$130,540 ",$770 ,$750 
+"Carroll County, Illinois","$130,500 ",$770 ,$720 
+"Berrien County, Georgia","$130,460 ",$770 ,$730 
+"Crittenden County, Kentucky","$130,430 ",$770 ,$730 
+"Luce County, Michigan","$130,360 ",$770 ,$700 
+"Beaver County, Oklahoma","$130,260 ",$770 ,$740 
+"Cowley County, Kansas","$130,230 ",$770 ,$710 
+"Bethel Census Area, Alaska","$130,160 ",$770 ,$760 
+"Tyler County, West Virginia","$130,090 ",$770 ,$730 
+"Nelson County, North Dakota","$129,880 ",$760 ,$720 
+"Fleming County, Kentucky","$129,860 ",$760 ,$730 
+"Ben Hill County, Georgia","$129,780 ",$760 ,$720 
+"Elbert County, Georgia","$129,780 ",$760 ,$720 
+"Clay County, Mississippi","$129,710 ",$760 ,$710 
+"Wayne County, Missouri","$129,700 ",$760 ,$690 
+"Edgecombe County, North Carolina","$129,690 ",$760 ,$740 
+"Brown County, Kansas","$129,650 ",$760 ,$710 
+"Forest County, Pennsylvania","$129,630 ",$760 ,$700 
+"Iron County, Missouri","$129,590 ",$760 ,$690 
+"Hidalgo County, New Mexico","$129,320 ",$760 ,$720 
+"Monroe County, Mississippi","$129,260 ",$760 ,$710 
+"Liberty County, Florida","$129,250 ",$760 ,$720 
+"Calhoun County, West Virginia","$129,050 ",$760 ,$720 
+"Kay County, Oklahoma","$129,040 ",$760 ,$730 
+"Pushmataha County, Oklahoma","$129,040 ",$760 ,$730 
+"Geneva County, Alabama","$129,020 ",$760 ,$780 
+"Grant County, Nebraska","$128,950 ",$760 ,$720 
+"Christian County, Illinois","$128,890 ",$760 ,$720 
+"Echols County, Georgia","$128,830 ",$760 ,$710 
+"Calhoun County, Iowa","$128,710 ",$760 ,$710 
+"Okmulgee County, Oklahoma","$128,710 ",$760 ,$710 
+"Monroe County, Alabama","$128,700 ",$760 ,$700 
+"Leake County, Mississippi","$128,590 ",$760 ,$700 
+"Deaf Smith County, Texas","$128,580 ",$760 ,$710 
+"Mississippi County, Arkansas","$128,520 ",$760 ,$720 
+"Clinton County, Kentucky","$128,510 ",$760 ,$720 
+"Perry County, Tennessee","$128,330 ",$760 ,$710 
+"Clarke County, Mississippi","$128,250 ",$750 ,$700 
+"Pike County, Arkansas","$128,070 ",$750 ,$720 
+"Putnam County, Missouri","$127,980 ",$750 ,$680 
+"Caldwell County, Kentucky","$127,950 ",$750 ,$720 
+"Thomas County, Nebraska","$127,930 ",$750 ,$720 
+"Smith County, Mississippi","$127,910 ",$750 ,$700 
+"Mitchell County, Kansas","$127,900 ",$750 ,$700 
+"Ohio County, Kentucky","$127,830 ",$750 ,$720 
+"Jay County, Indiana","$127,820 ",$750 ,$690 
+"Hayes County, Nebraska","$127,700 ",$750 ,$710 
+"Luna County, New Mexico","$127,620 ",$750 ,$710 
+"Childress County, Texas","$127,590 ",$750 ,$710 
+"Avoyelles Parish, Louisiana","$127,540 ",$750 ,$710 
+"Emmons County, North Dakota","$127,500 ",$750 ,$710 
+"Spink County, South Dakota","$127,400 ",$750 ,$740 
+"Union County, Arkansas","$127,300 ",$750 ,$710 
+"Hardin County, Iowa","$127,140 ",$750 ,$710 
+"Wirt County, West Virginia","$127,120 ",$750 ,$640 
+"Greeley County, Kansas","$127,080 ",$750 ,$700 
+"Jones County, South Dakota","$127,070 ",$750 ,$730 
+"Ripley County, Missouri","$127,070 ",$750 ,$680 
+"Wapello County, Iowa","$127,020 ",$750 ,$710 
+"Union Parish, Louisiana","$126,860 ",$750 ,$700 
+"Morrill County, Nebraska","$126,800 ",$750 ,$710 
+"Carroll County, Missouri","$126,720 ",$750 ,$680 
+"Seminole County, Georgia","$126,390 ",$740 ,$700 
+"Lenoir County, North Carolina","$126,380 ",$740 ,$700 
+"Sheridan County, Montana","$126,310 ",$740 ,$680 
+"Ottawa County, Oklahoma","$126,280 ",$740 ,$710 
+"Keokuk County, Iowa","$126,240 ",$740 ,$700 
+"Lamar County, Alabama","$126,230 ",$740 ,$690 
+"Glades County, Florida","$126,170 ",$740 ,$710 
+"Estill County, Kentucky","$126,140 ",$740 ,$710 
+"La Paz County, Arizona","$126,140 ",$740 ,$700 
+"Hertford County, North Carolina","$126,040 ",$740 ,$700 
+"Reeves County, Texas","$126,030 ",$740 ,$700 
+"Bath County, Kentucky","$126,030 ",$740 ,$710 
+"Little River County, Arkansas","$125,850 ",$740 ,$710 
+"Hettinger County, North Dakota","$125,800 ",$740 ,$700 
+"Wayne County, Illinois","$125,790 ",$740 ,$700 
+"Evangeline Parish, Louisiana","$125,740 ",$740 ,$700 
+"Schleicher County, Texas","$125,700 ",$740 ,$700 
+"Menifee County, Kentucky","$125,690 ",$740 ,$700 
+"Bourbon County, Kansas","$125,570 ",$740 ,$690 
+"Kingman County, Kansas","$125,330 ",$740 ,$690 
+"Choctaw County, Alabama","$125,230 ",$740 ,$680 
+"Coosa County, Alabama","$125,230 ",$740 ,$680 
+"Jackson County, Florida","$125,180 ",$740 ,$700 
+"Washita County, Oklahoma","$125,170 ",$740 ,$710 
+"Coke County, Texas","$125,150 ",$740 ,$690 
+"Ritchie County, West Virginia","$125,100 ",$740 ,$700 
+"Hamilton County, Illinois","$125,100 ",$740 ,$690 
+"Cotton County, Oklahoma","$125,060 ",$740 ,$710 
+"Hockley County, Texas","$124,930 ",$740 ,$690 
+"Martin County, North Carolina","$124,680 ",$730 ,$690 
+"Scotland County, North Carolina","$124,680 ",$730 ,$690 
+"Worth County, Georgia","$124,660 ",$730 ,$730 
+"Hancock County, Illinois","$124,640 ",$730 ,$690 
+"Kimball County, Nebraska","$124,420 ",$730 ,$700 
+"Franklin Parish, Louisiana","$124,360 ",$730 ,$690 
+"Burke County, Georgia","$124,300 ",$730 ,$660 
+"Audubon County, Iowa","$124,210 ",$730 ,$690 
+"Montgomery County, Mississippi","$124,210 ",$730 ,$680 
+"Russell County, Kansas","$124,170 ",$730 ,$680 
+"Norton County, Kansas","$124,050 ",$730 ,$680 
+"Pike County, Mississippi","$123,990 ",$730 ,$680 
+"Sevier County, Arkansas","$123,970 ",$730 ,$700 
+"Chase County, Kansas","$123,930 ",$730 ,$680 
+"Shelby County, Texas","$123,820 ",$730 ,$690 
+"Miner County, South Dakota","$123,820 ",$730 ,$720 
+"Washington County, Kansas","$123,810 ",$730 ,$680 
+"Jeff Davis County, Georgia","$123,780 ",$730 ,$690 
+"Winston County, Alabama","$123,770 ",$730 ,$670 
+"Terrell County, Georgia","$123,660 ",$730 ,$720 
+"Montgomery County, Iowa","$123,650 ",$730 ,$690 
+"Wright County, Iowa","$123,540 ",$730 ,$690 
+"Braxton County, West Virginia","$123,480 ",$730 ,$690 
+"Taylor County, Iowa","$123,420 ",$730 ,$690 
+"Terry County, Texas","$123,260 ",$730 ,$680 
+"Decatur County, Iowa","$123,200 ",$730 ,$680 
+"Adair County, Oklahoma","$123,190 ",$720 ,$700 
+"Keya Paha County, Nebraska","$123,170 ",$720 ,$690 
+"Harrison County, Missouri","$123,170 ",$720 ,$660 
+"Rice County, Kansas","$123,110 ",$720 ,$680 
+"Dodge County, Georgia","$123,100 ",$720 ,$680 
+"Knox County, Kentucky","$123,100 ",$720 ,$690 
+"Barbour County, Alabama","$123,100 ",$720 ,$670 
+"Scott County, Arkansas","$123,080 ",$720 ,$690 
+"Randolph County, Indiana","$123,060 ",$720 ,$670 
+"Union County, Kentucky","$122,870 ",$720 ,$690 
+"Webster County, Mississippi","$122,860 ",$720 ,$670 
+"Adams County, North Dakota","$122,850 ",$720 ,$680 
+"Scurry County, Texas","$122,820 ",$720 ,$680 
+"Grundy County, Missouri","$122,710 ",$720 ,$660 
+"Benton County, Mississippi","$122,640 ",$720 ,$670 
+"Richland County, Illinois","$122,570 ",$720 ,$680 
+"Telfair County, Georgia","$122,540 ",$720 ,$680 
+"Marion County, Texas","$122,490 ",$720 ,$680 
+"Okfuskee County, Oklahoma","$122,410 ",$720 ,$690 
+"Ida County, Iowa","$122,410 ",$720 ,$680 
+"Hampton County, South Carolina","$122,310 ",$720 ,$660 
+"Johnston County, Oklahoma","$122,300 ",$720 ,$690 
+"Sheridan County, North Dakota","$122,170 ",$720 ,$680 
+"Morris County, Texas","$122,150 ",$720 ,$680 
+"Schuyler County, Illinois","$122,110 ",$720 ,$680 
+"Frio County, Texas","$122,040 ",$720 ,$680 
+"Trinity County, Texas","$122,040 ",$720 ,$680 
+"Mason County, Illinois","$121,990 ",$720 ,$680 
+"Lawrence County, Kentucky","$121,860 ",$720 ,$680 
+"Lee County, South Carolina","$121,710 ",$720 ,$660 
+"Guadalupe County, New Mexico","$121,600 ",$720 ,$680 
+"Caddo County, Oklahoma","$121,420 ",$710 ,$690 
+"Crenshaw County, Alabama","$121,420 ",$710 ,$660 
+"Washington County, North Carolina","$121,390 ",$710 ,$670 
+"Traverse County, Minnesota","$121,370 ",$710 ,$690 
+"Hamilton County, Florida","$121,340 ",$710 ,$680 
+"Sharkey County, Mississippi","$121,180 ",$710 ,$660 
+"Chesterfield County, South Carolina","$121,110 ",$710 ,$650 
+"St. Landry Parish, Louisiana","$121,070 ",$710 ,$670 
+"Jackson County, South Dakota","$121,000 ",$710 ,$700 
+"New Madrid County, Missouri","$120,990 ",$710 ,$650 
+"Perry County, Illinois","$120,960 ",$710 ,$670 
+"Fayette County, West Virginia","$120,920 ",$710 ,$670 
+"Attala County, Mississippi","$120,730 ",$710 ,$660 
+"Kent County, Texas","$120,710 ",$710 ,$670 
+"Wells County, North Dakota","$120,690 ",$710 ,$670 
+"Lake County, Tennessee","$120,660 ",$710 ,$670 
+"Jackson County, Kentucky","$120,620 ",$710 ,$680 
+"Knox County, Illinois","$120,610 ",$710 ,$670 
+"Ware County, Georgia","$120,610 ",$710 ,$670 
+"McMullen County, Texas","$120,600 ",$710 ,$670 
+"Thayer County, Nebraska","$120,230 ",$710 ,$670 
+"Collingsworth County, Texas","$120,160 ",$710 ,$670 
+"Searcy County, Arkansas","$119,970 ",$710 ,$670 
+"Iron County, Michigan","$119,850 ",$710 ,$640 
+"Pawnee County, Kansas","$119,500 ",$700 ,$660 
+"Morgan County, Kentucky","$119,490 ",$700 ,$670 
+"Emmet County, Iowa","$119,490 ",$700 ,$660 
+"Mitchell County, Georgia","$119,480 ",$700 ,$660 
+"Wabash County, Illinois","$119,460 ",$700 ,$660 
+"Union County, South Carolina","$119,440 ",$700 ,$640 
+"Wetzel County, West Virginia","$119,300 ",$700 ,$670 
+"Adams County, Mississippi","$119,270 ",$700 ,$650 
+"Ontonagon County, Michigan","$119,260 ",$700 ,$640 
+"Irwin County, Georgia","$119,250 ",$700 ,$660 
+"McDonough County, Illinois","$119,000 ",$700 ,$660 
+"Thurston County, Nebraska","$118,980 ",$700 ,$670 
+"Fulton County, Arkansas","$118,970 ",$700 ,$670 
+"Butler County, Kentucky","$118,930 ",$700 ,$670 
+"Wilkes County, Georgia","$118,910 ",$700 ,$660 
+"Clay County, West Virginia","$118,550 ",$700 ,$620 
+"Sullivan County, Missouri","$118,470 ",$700 ,$630 
+"Crowley County, Colorado","$118,450 ",$700 ,$660 
+"Twiggs County, Georgia","$118,420 ",$700 ,$650 
+"Carroll County, Mississippi","$118,380 ",$700 ,$650 
+"Neosho County, Kansas","$118,100 ",$700 ,$650 
+"Carlisle County, Kentucky","$118,030 ",$690 ,$660 
+"Cattaraugus County, New York","$117,920 ",$690 ,$640 
+"Bacon County, Georgia","$117,890 ",$690 ,$660 
+"Fulton County, Illinois","$117,850 ",$690 ,$650 
+"Upton County, Texas","$117,830 ",$690 ,$650 
+"Logan County, West Virginia","$117,790 ",$690 ,$660 
+"Boyd County, Nebraska","$117,740 ",$690 ,$660 
+"Gogebic County, Michigan","$117,730 ",$690 ,$630 
+"Simpson County, Mississippi","$117,700 ",$690 ,$670 
+"Hale County, Texas","$117,610 ",$690 ,$650 
+"Allen Parish, Louisiana","$117,570 ",$690 ,$650 
+"Montgomery County, Illinois","$117,510 ",$690 ,$650 
+"Pike County, Kentucky","$117,460 ",$690 ,$660 
+"Stark County, Illinois","$117,450 ",$690 ,$650 
+"Lawrence County, Mississippi","$117,370 ",$690 ,$640 
+"Dickenson County, Virginia","$117,360 ",$690 ,$640 
+"Concho County, Texas","$117,280 ",$690 ,$650 
+"Choctaw County, Mississippi","$117,250 ",$690 ,$640 
+"Buffalo County, South Dakota","$117,200 ",$690 ,$680 
+"Stephens County, Texas","$117,170 ",$690 ,$650 
+"Allen County, Kansas","$117,160 ",$690 ,$640 
+"Scott County, Illinois","$116,930 ",$690 ,$650 
+"Norton city, Virginia","$116,890 ",$690 ,$640 
+"Borden County, Texas","$116,830 ",$690 ,$650 
+"Marion County, Alabama","$116,830 ",$690 ,$640 
+"Henderson County, Illinois","$116,820 ",$690 ,$650 
+"Menard County, Texas","$116,720 ",$690 ,$650 
+"Quitman County, Georgia","$116,650 ",$690 ,$650 
+"Sheridan County, Nebraska","$116,490 ",$690 ,$650 
+"Warren County, Illinois","$116,470 ",$690 ,$650 
+"Madison County, Florida","$116,390 ",$680 ,$650 
+"Halifax County, North Carolina","$116,280 ",$680 ,$640 
+"Metcalfe County, Kentucky","$116,220 ",$680 ,$650 
+"Jim Wells County, Texas","$116,170 ",$680 ,$640 
+"Barnwell County, South Carolina","$116,100 ",$680 ,$620 
+"Sunflower County, Mississippi","$116,020 ",$680 ,$640 
+"Cherokee County, Kansas","$116,000 ",$680 ,$640 
+"Rawlins County, Kansas","$116,000 ",$680 ,$640 
+"Northampton County, North Carolina","$115,940 ",$680 ,$640 
+"Marengo County, Alabama","$115,820 ",$680 ,$630 
+"Bailey County, Texas","$115,720 ",$680 ,$640 
+"McCulloch County, Texas","$115,720 ",$680 ,$640 
+"Blaine County, Nebraska","$115,590 ",$680 ,$650 
+"Webster County, Nebraska","$115,470 ",$680 ,$650 
+"Logan County, North Dakota","$115,470 ",$680 ,$640 
+"Cross County, Arkansas","$115,420 ",$680 ,$650 
+"Atchison County, Missouri","$115,370 ",$680 ,$620 
+"Morehouse Parish, Louisiana","$115,340 ",$680 ,$640 
+"Newton County, Mississippi","$115,230 ",$680 ,$630 
+"Wichita County, Kansas","$115,180 ",$680 ,$630 
+"Wayne County, Iowa","$115,100 ",$680 ,$640 
+"Marion County, Illinois","$115,090 ",$680 ,$640 
+"Pike County, Illinois","$115,090 ",$680 ,$640 
+"White County, Illinois","$115,090 ",$680 ,$640 
+"Mississippi County, Missouri","$115,030 ",$680 ,$620 
+"Runnels County, Texas","$114,950 ",$680 ,$640 
+"Perkins County, South Dakota","$114,920 ",$680 ,$660 
+"Bamberg County, South Carolina","$114,660 ",$670 ,$620 
+"Lee County, Virginia","$114,570 ",$670 ,$630 
+"Greer County, Oklahoma","$114,460 ",$670 ,$650 
+"Lincoln County, West Virginia","$114,450 ",$670 ,$600 
+"McKean County, Pennsylvania","$114,340 ",$670 ,$610 
+"Menominee County, Wisconsin","$114,140 ",$670 ,$630 
+"Latimer County, Oklahoma","$114,130 ",$670 ,$640 
+"Jackson Parish, Louisiana","$113,960 ",$670 ,$630 
+"Bee County, Texas","$113,950 ",$670 ,$630 
+"Alfalfa County, Oklahoma","$113,790 ",$670 ,$640 
+"Williamsburg County, South Carolina","$113,590 ",$670 ,$610 
+"Conecuh County, Alabama","$113,470 ",$670 ,$620 
+"Brown County, Nebraska","$113,440 ",$670 ,$630 
+"Esmeralda County, Nevada","$113,400 ",$670 ,$630 
+"Hutchinson County, Texas","$113,290 ",$670 ,$630 
+"Stafford County, Kansas","$112,850 ",$660 ,$620 
+"Chickasaw County, Mississippi","$112,650 ",$660 ,$620 
+"Caldwell Parish, Louisiana","$112,470 ",$660 ,$620 
+"Cloud County, Kansas","$112,380 ",$660 ,$620 
+"Blackford County, Indiana","$112,270 ",$660 ,$610 
+"Franklin County, Nebraska","$112,190 ",$660 ,$630 
+"Edwards County, Illinois","$112,100 ",$660 ,$620 
+"Webster Parish, Louisiana","$112,050 ",$660 ,$620 
+"Floyd County, Texas","$111,960 ",$660 ,$620 
+"La Salle County, Texas","$111,960 ",$660 ,$620 
+"Chattooga County, Georgia","$111,780 ",$660 ,$620 
+"Butler County, Alabama","$111,670 ",$660 ,$610 
+"Morton County, Kansas","$111,560 ",$660 ,$610 
+"Knox County, Missouri","$111,470 ",$660 ,$600 
+"Holmes County, Florida","$111,450 ",$660 ,$620 
+"Treutlen County, Georgia","$111,440 ",$660 ,$620 
+"Washington County, Mississippi","$111,420 ",$660 ,$610 
+"Copiah County, Mississippi","$111,370 ",$660 ,$630 
+"St. Helena Parish, Louisiana","$111,290 ",$660 ,$640 
+"Gray County, Texas","$111,290 ",$650 ,$620 
+"Hempstead County, Arkansas","$111,200 ",$650 ,$620 
+"Ouachita County, Arkansas","$110,540 ",$650 ,$620 
+"Covington County, Mississippi","$110,520 ",$650 ,$610 
+"Phillips County, Kansas","$110,510 ",$650 ,$610 
+"Ziebach County, South Dakota","$110,360 ",$650 ,$640 
+"Leflore County, Mississippi","$110,180 ",$650 ,$600 
+"Taylor County, Florida","$110,130 ",$650 ,$620 
+"Deuel County, Nebraska","$110,040 ",$650 ,$620 
+"Edgar County, Illinois","$110,040 ",$650 ,$610 
+"Chattahoochee County, Georgia","$110,000 ",$650 ,$650 
+"Pemiscot County, Missouri","$109,980 ",$650 ,$590 
+"Wallace County, Kansas","$109,930 ",$650 ,$600 
+"Cass County, Illinois","$109,810 ",$650 ,$610 
+"Lawrence County, Illinois","$109,810 ",$650 ,$610 
+"Elliott County, Kentucky","$109,800 ",$650 ,$610 
+"Harper County, Oklahoma","$109,710 ",$650 ,$620 
+"Wilson County, Kansas","$109,580 ",$640 ,$600 
+"Wilbarger County, Texas","$109,520 ",$640 ,$610 
+"Red River Parish, Louisiana","$109,500 ",$640 ,$610 
+"Allegany County, New York","$109,430 ",$640 ,$590 
+"Mercer County, Missouri","$109,290 ",$640 ,$580 
+"Richardson County, Nebraska","$109,250 ",$640 ,$610 
+"Dooly County, Georgia","$109,170 ",$640 ,$610 
+"Dallas County, Alabama","$109,100 ",$640 ,$590 
+"Yalobusha County, Mississippi","$109,060 ",$640 ,$600 
+"Dallas County, Arkansas","$108,980 ",$640 ,$610 
+"Nolan County, Texas","$108,960 ",$640 ,$600 
+"Winn Parish, Louisiana","$108,870 ",$640 ,$600 
+"Bertie County, North Carolina","$108,680 ",$640 ,$600 
+"Concordia Parish, Louisiana","$108,650 ",$640 ,$600 
+"Greene County, Illinois","$108,540 ",$640 ,$600 
+"Worth County, Missouri","$108,490 ",$640 ,$580 
+"Clay County, Illinois","$108,430 ",$640 ,$600 
+"Neshoba County, Mississippi","$108,390 ",$640 ,$590 
+"Poinsett County, Arkansas","$108,280 ",$640 ,$630 
+"Wheeler County, Texas","$108,190 ",$640 ,$600 
+"Barber County, Kansas","$108,180 ",$640 ,$590 
+"Hodgeman County, Kansas","$108,180 ",$640 ,$590 
+"Garden County, Nebraska","$108,120 ",$640 ,$600 
+"Lincoln County, Kansas","$108,060 ",$640 ,$590 
+"Calhoun County, Arkansas","$107,990 ",$640 ,$610 
+"Falls County, Texas","$107,850 ",$630 ,$600 
+"Webster County, Kentucky","$107,850 ",$630 ,$600 
+"Turner County, Georgia","$107,810 ",$630 ,$600 
+"Bradley County, Arkansas","$107,650 ",$630 ,$600 
+"Dunklin County, Missouri","$107,570 ",$630 ,$580 
+"Labette County, Kansas","$107,480 ",$630 ,$590 
+"Montgomery County, Kansas","$107,480 ",$630 ,$590 
+"Woodruff County, Arkansas","$107,430 ",$630 ,$600 
+"Martinsville city, Virginia","$107,370 ",$630 ,$590 
+"Macon County, Alabama","$107,190 ",$630 ,$580 
+"Saline County, Illinois","$106,820 ",$630 ,$590 
+"Franklin County, Mississippi","$106,710 ",$630 ,$580 
+"Brantley County, Georgia","$106,680 ",$630 ,$570 
+"Dixie County, Florida","$106,500 ",$630 ,$600 
+"Smith County, Kansas","$106,190 ",$620 ,$580 
+"Buchanan County, Virginia","$106,100 ",$620 ,$580 
+"Greene County, Mississippi","$105,700 ",$620 ,$580 
+"Rolette County, North Dakota","$105,490 ",$620 ,$590 
+"Hardin County, Illinois","$105,440 ",$620 ,$590 
+"Jefferson County, Georgia","$105,430 ",$620 ,$590 
+"Castro County, Texas","$105,190 ",$620 ,$580 
+"Floyd County, Kentucky","$105,170 ",$620 ,$590 
+"Rooks County, Kansas","$105,030 ",$620 ,$580 
+"Sharp County, Arkansas","$104,990 ",$620 ,$590 
+"Pocahontas County, Iowa","$104,970 ",$620 ,$580 
+"Hughes County, Oklahoma","$104,850 ",$620 ,$590 
+"Clay County, Georgia","$104,760 ",$620 ,$580 
+"Refugio County, Texas","$104,640 ",$620 ,$580 
+"Wibaux County, Montana","$104,470 ",$610 ,$570 
+"Webster County, Georgia","$104,420 ",$610 ,$580 
+"Cimarron County, Oklahoma","$104,400 ",$610 ,$590 
+"Hickman County, Kentucky","$104,050 ",$610 ,$580 
+"Furnas County, Nebraska","$103,930 ",$610 ,$580 
+"Marion County, South Carolina","$103,670 ",$610 ,$560 
+"Graham County, Kansas","$103,630 ",$610 ,$570 
+"West Carroll Parish, Louisiana","$103,560 ",$610 ,$570 
+"Baylor County, Texas","$103,420 ",$610 ,$570 
+"Johnson County, Georgia","$103,280 ",$610 ,$570 
+"Randolph County, Georgia","$102,940 ",$610 ,$570 
+"Nuckolls County, Nebraska","$102,910 ",$610 ,$580 
+"Wilkinson County, Georgia","$102,830 ",$610 ,$570 
+"Perry County, Kentucky","$102,240 ",$600 ,$570 
+"Coal County, Oklahoma","$102,190 ",$600 ,$580 
+"Cameron County, Pennsylvania","$102,180 ",$600 ,$550 
+"Haskell County, Texas","$101,980 ",$600 ,$560 
+"Issaquena County, Mississippi","$101,770 ",$600 ,$560 
+"Kemper County, Mississippi","$101,210 ",$600 ,$550 
+"Lawrence County, Arkansas","$101,100 ",$600 ,$570 
+"Coleman County, Texas","$101,090 ",$590 ,$560 
+"Scott County, Mississippi","$100,870 ",$590 ,$550 
+"Franklin County, Illinois","$100,840 ",$590 ,$560 
+"Dillon County, South Carolina","$100,810 ",$590 ,$540 
+"Amite County, Mississippi","$100,760 ",$590 ,$550 
+"Seminole County, Oklahoma","$100,760 ",$590 ,$570 
+"Dawson County, Texas","$100,650 ",$590 ,$560 
+"Hitchcock County, Nebraska","$100,530 ",$590 ,$560 
+"Chicot County, Arkansas","$100,440 ",$590 ,$560 
+"Donley County, Texas","$100,320 ",$590 ,$560 
+"Boone County, West Virginia","$99,950 ",$590 ,$520 
+"Emanuel County, Georgia","$99,890 ",$590 ,$560 
+"Kiowa County, Oklahoma","$99,760 ",$590 ,$560 
+"Ness County, Kansas","$99,660 ",$590 ,$550 
+"Humphreys County, Mississippi","$99,640 ",$590 ,$550 
+"Magoffin County, Kentucky","$99,540 ",$590 ,$560 
+"Greeley County, Nebraska","$99,400 ",$580 ,$560 
+"Mingo County, West Virginia","$99,340 ",$580 ,$550 
+"Starr County, Texas","$99,320 ",$580 ,$550 
+"Bienville Parish, Louisiana","$99,320 ",$580 ,$550 
+"Sioux County, North Dakota","$99,140 ",$580 ,$550 
+"Hancock County, Georgia","$98,980 ",$580 ,$550 
+"Desha County, Arkansas","$98,890 ",$580 ,$560 
+"Swisher County, Texas","$98,880 ",$580 ,$550 
+"Shelby County, Missouri","$98,860 ",$580 ,$530 
+"Osborne County, Kansas","$98,840 ",$580 ,$540 
+"Robeson County, North Carolina","$98,810 ",$580 ,$550 
+"Wayne County, Mississippi","$98,740 ",$580 ,$540 
+"Ashley County, Arkansas","$98,550 ",$580 ,$550 
+"Macon County, Georgia","$98,530 ",$580 ,$550 
+"Zapata County, Texas","$98,430 ",$580 ,$550 
+"Clay County, Kentucky","$98,410 ",$580 ,$550 
+"Perry County, Alabama","$98,230 ",$580 ,$530 
+"Harding County, New Mexico","$98,120 ",$580 ,$550 
+"Kinney County, Texas","$98,100 ",$580 ,$540 
+"Clay County, Arkansas","$97,780 ",$580 ,$550 
+"Clinch County, Georgia","$97,730 ",$580 ,$540 
+"Jefferson Davis County, Mississippi","$97,730 ",$580 ,$540 
+"Zavala County, Texas","$97,660 ",$570 ,$540 
+"Jones County, Texas","$97,410 ",$570 ,$540 
+"Gallatin County, Illinois","$97,390 ",$570 ,$540 
+"St. Francis County, Arkansas","$97,330 ",$570 ,$550 
+"Grant County, North Dakota","$97,320 ",$570 ,$540 
+"Prairie County, Arkansas","$97,110 ",$570 ,$550 
+"Lewis County, Kentucky","$97,060 ",$570 ,$540 
+"Coahoma County, Mississippi","$96,940 ",$570 ,$530 
+"Jackson County, Arkansas","$96,890 ",$570 ,$540 
+"Greene County, Alabama","$96,780 ",$570 ,$530 
+"Hooker County, Nebraska","$96,680 ",$570 ,$540 
+"Gilmer County, West Virginia","$96,670 ",$570 ,$540 
+"Greenwood County, Kansas","$96,390 ",$570 ,$530 
+"Madison Parish, Louisiana","$96,130 ",$570 ,$530 
+"Duval County, Texas","$95,770 ",$560 ,$530 
+"Martin County, Kentucky","$95,710 ",$560 ,$540 
+"Noxubee County, Mississippi","$95,600 ",$560 ,$520 
+"Campbell County, South Dakota","$95,390 ",$560 ,$550 
+"Nevada County, Arkansas","$95,110 ",$560 ,$530 
+"Mitchell County, Texas","$95,000 ",$560 ,$530 
+"Yukon-Koyukuk Census Area, Alaska","$94,760 ",$560 ,$550 
+"Wilcox County, Alabama","$94,310 ",$560 ,$510 
+"Benson County, North Dakota","$94,260 ",$550 ,$530 
+"Sumter County, Alabama","$94,200 ",$550 ,$510 
+"Taylor County, Georgia","$93,880 ",$550 ,$520 
+"Culberson County, Texas","$93,670 ",$550 ,$520 
+"Bell County, Kentucky","$93,560 ",$550 ,$520 
+"Catahoula Parish, Louisiana","$93,370 ",$550 ,$520 
+"Throckmorton County, Texas","$93,330 ",$550 ,$520 
+"Quay County, New Mexico","$93,240 ",$550 ,$520 
+"Pulaski County, Illinois","$93,130 ",$550 ,$520 
+"Covington city, Virginia","$93,100 ",$550 ,$510 
+"Calhoun County, Georgia","$93,090 ",$550 ,$520 
+"Calhoun County, Mississippi","$93,020 ",$550 ,$510 
+"East Carroll Parish, Louisiana","$92,740 ",$550 ,$510 
+"San Augustine County, Texas","$92,560 ",$540 ,$510 
+"Lee County, Kentucky","$92,550 ",$540 ,$520 
+"Rush County, Kansas","$92,540 ",$540 ,$510 
+"Tallahatchie County, Mississippi","$92,230 ",$540 ,$510 
+"Appling County, Georgia","$92,180 ",$540 ,$510 
+"Newton County, Texas","$92,110 ",$540 ,$510 
+"Briscoe County, Texas","$91,890 ",$540 ,$510 
+"Jenkins County, Georgia","$91,840 ",$540 ,$510 
+"Brooks County, Texas","$91,670 ",$540 ,$510 
+"Decatur County, Kansas","$91,610 ",$540 ,$500 
+"Clark County, Kansas","$91,490 ",$540 ,$500 
+"Jefferson County, Mississippi","$91,330 ",$540 ,$500 
+"Lowndes County, Alabama","$91,300 ",$540 ,$480 
+"Monroe County, Arkansas","$91,230 ",$540 ,$510 
+"McIntosh County, North Dakota","$91,090 ",$540 ,$510 
+"Wyoming County, West Virginia","$90,980 ",$540 ,$510 
+"Claiborne County, Mississippi","$90,660 ",$530 ,$500 
+"Webster County, West Virginia","$90,520 ",$530 ,$510 
+"Harper County, Kansas","$90,210 ",$530 ,$490 
+"Owsley County, Kentucky","$90,070 ",$530 ,$500 
+"Wilkinson County, Mississippi","$89,990 ",$530 ,$490 
+"Woodson County, Kansas","$89,970 ",$530 ,$490 
+"Motley County, Texas","$89,900 ",$530 ,$500 
+"Dimmit County, Texas","$89,010 ",$520 ,$490 
+"Marlboro County, South Carolina","$88,980 ",$520 ,$480 
+"Bullock County, Alabama","$88,940 ",$520 ,$480 
+"Hall County, Texas","$88,900 ",$520 ,$490 
+"Republic County, Kansas","$88,690 ",$520 ,$490 
+"Warren County, Georgia","$88,330 ",$520 ,$490 
+"Fulton County, Kentucky","$88,040 ",$520 ,$490 
+"Garza County, Texas","$87,900 ",$520 ,$490 
+"Grant County, Oklahoma","$87,830 ",$520 ,$500 
+"Claiborne Parish, Louisiana","$87,430 ",$510 ,$480 
+"McCreary County, Kentucky","$86,800 ",$510 ,$490 
+"Edwards County, Texas","$86,790 ",$510 ,$480 
+"Lee County, Arkansas","$86,460 ",$510 ,$490 
+"Atkinson County, Georgia","$86,410 ",$510 ,$480 
+"Fisher County, Texas","$86,020 ",$510 ,$480 
+"Holmes County, Mississippi","$85,840 ",$510 ,$470 
+"Jefferson County, Oklahoma","$85,620 ",$500 ,$480 
+"Tensas Parish, Louisiana","$85,200 ",$500 ,$470 
+"McPherson County, South Dakota","$85,080 ",$500 ,$490 
+"Lamb County, Texas","$84,910 ",$500 ,$470 
+"Hardeman County, Texas","$84,800 ",$500 ,$470 
+"Pawnee County, Nebraska","$84,680 ",$500 ,$470 
+"Phillips County, Arkansas","$84,570 ",$500 ,$470 
+"Wheeler County, Georgia","$84,480 ",$500 ,$470 
+"Knott County, Kentucky","$84,090 ",$490 ,$470 
+"Harmon County, Oklahoma","$83,630 ",$490 ,$470 
+"Leslie County, Kentucky","$83,530 ",$490 ,$470 
+"Lafayette County, Arkansas","$82,790 ",$490 ,$460 
+"Taliaferro County, Georgia","$82,780 ",$490 ,$460 
+"Harlan County, Kentucky","$82,400 ",$480 ,$460 
+"Edwards County, Kansas","$82,270 ",$480 ,$450 
+"Dewey County, South Dakota","$81,820 ",$480 ,$470 
+"Wilcox County, Georgia","$80,630 ",$470 ,$450 
+"McKinley County, New Mexico","$80,540 ",$470 ,$450 
+"Corson County, South Dakota","$80,080 ",$470 ,$460 
+"Letcher County, Kentucky","$79,470 ",$470 ,$450 
+"Tillman County, Oklahoma","$79,440 ",$470 ,$450 
+"Foard County, Texas","$79,150 ",$470 ,$440 
+"Quitman County, Mississippi","$76,970 ",$450 ,$420 
+"Crosby County, Texas","$76,960 ",$450 ,$450 
+"Stanton County, Kansas","$74,920 ",$440 ,$410 
+"Wolfe County, Kentucky","$74,850 ",$440 ,$420 
+"Knox County, Texas","$74,050 ",$440 ,$410 
+"Chautauqua County, Kansas","$73,870 ",$430 ,$410 
+"Allendale County, South Carolina","$73,580 ",$430 ,$400 
+"Jewell County, Kansas","$72,470 ",$430 ,$400 
+"Dickens County, Texas","$72,050 ",$420 ,$400 
+"Elk County, Kansas","$71,070 ",$420 ,$390 
+"Comanche County, Kansas","$69,900 ",$410 ,$380 
+"Breathitt County, Kentucky","$69,670 ",$410 ,$390 
+"Mellette County, South Dakota","$68,370 ",$400 ,$400 
+"Alexander County, Illinois","$67,490 ",$400 ,$370 
+"Willacy County, Texas","$67,400 ",$400 ,$370 
+"Cochran County, Texas","$63,960 ",$380 ,$350 
+"Hudspeth County, Texas","$63,630 ",$370 ,$350 
+"Stonewall County, Texas","$60,630 ",$360 ,$340 
+"Stewart County, Georgia","$60,020 ",$350 ,$330 
+"Cottle County, Texas","$59,970 ",$350 ,$330 
+"McDowell County, West Virginia","$57,100 ",$340 ,$320 
+"Apache County, Arizona","$56,520 ",$330 ,$320 
+"Todd County, South Dakota","$49,050 ",$290 ,$280 
+©2025 National Association of REALTORS®.,,,
+All Rights Reserved.,,,
+May not be reprinted in whole or in part without permission of the National Association of REALTORS®.,,,
+"For reprint information, contact data@nar.realtor",,,
