@@ -6,7 +6,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { Button } from "@/components/ui/button";
-import { XIcon } from "lucide-react";
+import { XIcon, DownloadIcon } from "lucide-react";
 
 interface LegendProps {
   title?: string;
@@ -18,6 +18,8 @@ interface LegendProps {
   availableYears: number[];
   dataSource?: string;
   onClose?: () => void;
+  downloadUrl?: string;
+  downloadFileName?: string;
 }
 
 const Legend = ({
@@ -30,6 +32,8 @@ const Legend = ({
   availableYears,
   dataSource = "FAHE Section 502 Investments",
   onClose,
+  downloadUrl = "/502-investments.geojson",
+  downloadFileName = "502-investments.geojson",
 }: LegendProps) => {
   // Generate legend steps from the color scale and breakpoints
   const steps = breakpoints.map((value, index) => ({
@@ -37,8 +41,26 @@ const Legend = ({
     color: colorScale(index / (breakpoints.length - 1)),
   }));
 
+  // Handle download
+  const handleDownload = async () => {
+    try {
+      const response = await fetch(downloadUrl);
+      const blob = await response.blob();
+      const url = window.URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = downloadFileName;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+    } catch (error) {
+      console.error("Error downloading file:", error);
+    }
+  };
+
   return (
-    <div className="absolute top-4 right-4 z-10 w-64 rounded-lg border bg-white/95 p-4 shadow-lg backdrop-blur-sm">
+    <div className="absolute top-4 right-4 z-10 w-64 rounded-lg border bg-white/80 p-4 shadow-lg backdrop-blur-sm">
       <div className="flex flex-col gap-3">
         {/* Title and Close Button */}
         <div className="flex items-start justify-between gap-2">
@@ -104,8 +126,17 @@ const Legend = ({
         </div>
 
         {/* Footer info */}
-        <div className="border-t pt-3 text-xs text-muted-foreground">
-          <p>Data: {dataSource}</p>
+        <div className="border-t pt-3 space-y-2">
+          <p className="text-xs text-muted-foreground">Data: {dataSource}</p>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={handleDownload}
+            className="w-full"
+          >
+            <DownloadIcon className="mr-2 h-4 w-4" />
+            Download GeoJSON
+          </Button>
         </div>
       </div>
     </div>

@@ -10,9 +10,10 @@ import { Protocol } from "pmtiles";
 import { interpolateCool } from "d3-scale-chromatic";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { PanelRightOpenIcon } from "lucide-react";
+import { PanelRightOpenIcon, MessageSquareIcon } from "lucide-react";
 import Legend from "./Legend";
 import FeatureInfoModal, { type FieldConfig } from "./FeatureInfoModal";
+import ChatSidebar from "./ChatSidebar";
 import "maplibre-gl/dist/maplibre-gl.css";
 
 const MapSettings = {
@@ -286,6 +287,9 @@ const Map = () => {
   const [selectedYear, setSelectedYear] = useState(MapSettings.selectedYear);
   const [isLegendVisible, setIsLegendVisible] = useState(true);
 
+  // State for chat
+  const [isChatVisible, setIsChatVisible] = useState(false);
+
   // Load the pmtiles protocol once
   useEffect(() => {
     const protocol = new Protocol();
@@ -297,6 +301,10 @@ const Map = () => {
   }, []);
 
   const colorStops = createColorStops();
+
+  const toggleChat = () => {
+    setIsChatVisible(!isChatVisible);
+  };
 
   return (
     <MapContainer
@@ -403,6 +411,24 @@ const Map = () => {
           </Button>
         </div>
       )}
+
+      {/* Chat Toggle Button - bottom right */}
+      <div className="absolute bottom-12 right-6 z-10">
+        <Button
+          onClick={toggleChat}
+          size="icon"
+          className="h-14 w-14 rounded-full bg-white/80 hover:bg-white shadow-lg"
+          title={isChatVisible ? "Close Chat" : "Open Chat"}
+        >
+          <MessageSquareIcon className="h-6 w-6 text-black" />
+        </Button>
+      </div>
+
+      {/* Chat Sidebar */}
+      <ChatSidebar
+        isVisible={isChatVisible}
+        onClose={() => setIsChatVisible(false)}
+      />
     </MapContainer>
   );
 };
