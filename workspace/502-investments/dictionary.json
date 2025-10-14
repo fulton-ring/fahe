@@ -1,0 +1,168 @@
+{
+  "id": "fahe-502-investments",
+  "kind": "geospatial",
+  "location": "internal",
+  "name": "FAHE 502 Investments",
+  "description": "FAHE 502 investment data by county with demographic and economic indicators",
+  "columns": [
+    {
+      "id": "col_county_fips",
+      "name": "county_fips",
+      "description": "5-digit FIPS code for the county",
+      "datatype": "string",
+      "nullable": false,
+      "humanReadableName": "County FIPS Code"
+    },
+    {
+      "id": "col_state",
+      "name": "state",
+      "description": "State name",
+      "datatype": "string",
+      "nullable": false,
+      "humanReadableName": "State"
+    },
+    {
+      "id": "col_county",
+      "name": "county",
+      "description": "County name",
+      "datatype": "string",
+      "nullable": false,
+      "humanReadableName": "County"
+    },
+    {
+      "id": "col_year",
+      "name": "year",
+      "description": "Year of the data",
+      "datatype": "integer",
+      "nullable": false,
+      "humanReadableName": "Year",
+      "min": 2000,
+      "max": 2025
+    },
+    {
+      "id": "col_total_investment_dollars",
+      "name": "total_investment_dollars",
+      "description": "Total investment in dollars",
+      "datatype": "float",
+      "nullable": true,
+      "humanReadableName": "Total Investment ($)",
+      "min": 0,
+      "unit": "USD"
+    },
+    {
+      "id": "col_total_number_of_investments",
+      "name": "total_number_of_investments",
+      "description": "Total number of investments made",
+      "datatype": "integer",
+      "nullable": true,
+      "humanReadableName": "Number of Investments",
+      "min": 0
+    },
+    {
+      "id": "col_total_population",
+      "name": "total_population",
+      "description": "Total population of the county",
+      "datatype": "integer",
+      "nullable": true,
+      "humanReadableName": "Total Population",
+      "min": 0
+    },
+    {
+      "id": "col_population_below_poverty",
+      "name": "population_below_poverty",
+      "description": "Number of people living below poverty line",
+      "datatype": "integer",
+      "nullable": true,
+      "humanReadableName": "Population Below Poverty",
+      "min": 0
+    },
+    {
+      "id": "col_population_below_poverty_percent",
+      "name": "population_below_poverty_percent",
+      "description": "Percentage of population below poverty line",
+      "datatype": "float",
+      "nullable": true,
+      "humanReadableName": "Poverty Rate (%)",
+      "min": 0.0,
+      "max": 100.0,
+      "unit": "percent"
+    },
+    {
+      "id": "col_adults_25_and_older_less_than_high_school_graduate",
+      "name": "adults_25_and_older_less_than_high_school_graduate",
+      "description": "Number of adults 25+ without high school diploma",
+      "datatype": "integer",
+      "nullable": true,
+      "humanReadableName": "Adults Without HS Diploma",
+      "min": 0
+    },
+    {
+      "id": "col_adults_25_and_older_less_than_high_school_graduate_percent",
+      "name": "adults_25_and_older_less_than_high_school_graduate_percent",
+      "description": "Percentage of adults 25+ without high school diploma",
+      "datatype": "float",
+      "nullable": true,
+      "humanReadableName": "Adults Without HS Diploma (%)",
+      "min": 0.0,
+      "max": 100.0,
+      "unit": "percent"
+    },
+    {
+      "id": "col_adults_25_and_older_with_bachelors_degree_or_higher",
+      "name": "adults_25_and_older_with_bachelor's_degree_or_higher",
+      "description": "Number of adults 25+ with bachelor's degree or higher",
+      "datatype": "integer",
+      "nullable": true,
+      "humanReadableName": "Adults With Bachelor's Degree+",
+      "min": 0
+    },
+    {
+      "id": "col_adults_25_and_older_with_bachelors_degree_or_higher_percent",
+      "name": "adults_25_and_older_with_bachelor's_degree_or_higher_percent",
+      "description": "Percentage of adults 25+ with bachelor's degree or higher",
+      "datatype": "float",
+      "nullable": true,
+      "humanReadableName": "Adults With Bachelor's Degree+ (%)",
+      "min": 0.0,
+      "max": 100.0,
+      "unit": "percent"
+    },
+    {
+      "id": "col_number_of_households",
+      "name": "number_of_households",
+      "description": "Total number of households in the county",
+      "datatype": "integer",
+      "nullable": true,
+      "humanReadableName": "Number of Households",
+      "min": 0
+    },
+    {
+      "id": "col_average_income_per_household",
+      "name": "average_income_per_household",
+      "description": "Average household income",
+      "datatype": "float",
+      "nullable": true,
+      "humanReadableName": "Average Household Income",
+      "min": 0,
+      "unit": "USD"
+    },
+    {
+      "id": "col_total_median_earnings",
+      "name": "total_median_earnings",
+      "description": "Median earnings in the county",
+      "datatype": "float",
+      "nullable": true,
+      "humanReadableName": "Median Earnings",
+      "min": 0,
+      "unit": "USD"
+    },
+    {
+      "id": "col_geometry",
+      "name": "geometry",
+      "description": "County boundary polygon geometry",
+      "datatype": "geometry",
+      "nullable": false,
+      "humanReadableName": "Geometry"
+    }
+  ]
+}
