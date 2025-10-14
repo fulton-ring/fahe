@@ -1,423 +1,412 @@
-county,state,median_home_price_2025,monthly_payment_2025,county_fips
-Bibb,Alabama,143650,850,01007
-Blount,Alabama,183840,1080,01009
-Calhoun,Alabama,168460,990,01015
-Chambers,Alabama,145280,850,01017
-Cherokee,Alabama,185820,1090,01019
-Chilton,Alabama,154150,910,01021
-Clay,Alabama,162080,950,01027
-Cleburne,Alabama,161520,950,01029
-Colbert,Alabama,175550,1030,01033
-Coosa,Alabama,125230,740,01037
-Cullman,Alabama,228500,1340,01043
-Elmore,Alabama,260410,1530,01051
-Etowah,Alabama,213530,1260,01055
-Fayette,Alabama,135750,800,01057
-Franklin,Alabama,143370,840,01059
-Hale,Alabama,141480,830,01065
-Jackson,Alabama,163310,960,01071
-Jefferson,Alabama,269740,1590,01073
-Lamar,Alabama,126230,740,01075
-Lauderdale,Alabama,229980,1350,01077
-Lawrence,Alabama,163030,960,01079
-Limestone,Alabama,314830,1850,01083
-Macon,Alabama,107190,630,01087
-Madison,Alabama,340340,2000,01089
-Marion,Alabama,116830,690,01093
-Marshall,Alabama,222900,1310,01095
-Morgan,Alabama,240170,1410,01103
-Pickens,Alabama,138110,810,01107
-Randolph,Alabama,206100,1210,01111
-St. Clair,Alabama,242010,1420,01115
-Shelby,Alabama,353810,2080,01117
-Talladega,Alabama,172940,1020,01121
-Tallapoosa,Alabama,162190,950,01123
-Tuscaloosa,Alabama,278030,1640,01125
-Walker,Alabama,142020,840,01127
-Winston,Alabama,123770,730,01133
-Banks,Georgia,285050,1680,13011
-Barrow,Georgia,329130,1940,13013
-Bartow,Georgia,338540,1990,13015
-Carroll,Georgia,307240,1810,13045
-Catoosa,Georgia,259050,1520,13047
-Chattooga,Georgia,111780,660,13055
-Cherokee,Georgia,493250,2900,13057
-Dade,Georgia,186030,1090,13083
-Dawson,Georgia,385040,2270,13085
-Douglas,Georgia,359330,2110,13097
-Elbert,Georgia,129780,760,13105
-Fannin,Georgia,310980,1830,13111
-Floyd,Georgia,236470,1390,13115
-Forsyth,Georgia,642610,3780,13117
-Franklin,Georgia,181880,1070,13119
-Gilmer,Georgia,315850,1860,13123
-Gordon,Georgia,232840,1370,13129
-Gwinnett,Georgia,432740,2550,13135
-Habersham,Georgia,240090,1410,13137
-Hall,Georgia,406510,2390,13139
-Haralson,Georgia,230210,1350,13143
-Hart,Georgia,233860,1380,13147
-Heard,Georgia,176160,1040,13149
-Jackson,Georgia,411320,2420,13157
-Lumpkin,Georgia,313930,1850,13187
-Madison,Georgia,234870,1380,13195
-Murray,Georgia,196050,1150,13213
-Paulding,Georgia,387340,2280,13223
-Pickens,Georgia,316870,1860,13227
-Polk,Georgia,185160,1090,13233
-Rabun,Georgia,308720,1820,13241
-Stephens,Georgia,190480,1120,13257
-Towns,Georgia,353220,2080,13281
-Union,Georgia,308720,1820,13291
-Walker,Georgia,245430,1440,13295
-White,Georgia,296940,1750,13311
-Whitfield,Georgia,275350,1620,13313
-Adair,Kentucky,151960,890,21001
-Bath,Kentucky,126030,740,21011
-Bell,Kentucky,93560,550,21013
-Boyd,Kentucky,144420,850,21019
-Breathitt,Kentucky,69670,410,21025
-Carter,Kentucky,142150,840,21043
-Casey,Kentucky,152970,900,21045
-Clark,Kentucky,228910,1350,21049
-Clay,Kentucky,98410,580,21051
-Clinton,Kentucky,128510,760,21053
-Cumberland,Kentucky,144970,850,21057
-Edmonson,Kentucky,149040,880,21061
-Elliott,Kentucky,109800,650,21063
-Estill,Kentucky,126140,740,21065
-Fleming,Kentucky,129860,760,21069
-Floyd,Kentucky,105170,620,21071
-Garrard,Kentucky,210570,1240,21079
-Green,Kentucky,134030,790,21087
-Greenup,Kentucky,154710,910,21089
-Harlan,Kentucky,82400,480,21095
-Hart,Kentucky,140460,830,21099
-Jackson,Kentucky,120620,710,21109
-Johnson,Kentucky,141250,830,21115
-Knott,Kentucky,84090,490,21119
-Knox,Kentucky,123100,720,21121
-Laurel,Kentucky,161650,950,21125
-Lawrence,Kentucky,121860,720,21127
-Lee,Kentucky,92550,540,21129
-Leslie,Kentucky,83530,490,21131
-Letcher,Kentucky,79470,470,21133
-Lewis,Kentucky,97060,570,21135
-Lincoln,Kentucky,157030,920,21137
-McCreary,Kentucky,86800,510,21147
-Madison,Kentucky,285310,1680,21151
-Magoffin,Kentucky,99540,590,21153
-Martin,Kentucky,95710,560,21159
-Menifee,Kentucky,125690,740,21165
-Metcalfe,Kentucky,116220,680,21169
-Monroe,Kentucky,131100,770,21171
-Montgomery,Kentucky,184650,1090,21173
-Morgan,Kentucky,119490,700,21175
-Nicholas,Kentucky,134820,790,21181
-Owsley,Kentucky,90070,530,21189
-Perry,Kentucky,102240,600,21193
-Pike,Kentucky,117460,690,21195
-Powell,Kentucky,160520,940,21197
-Pulaski,Kentucky,213620,1260,21199
-Robertson,Kentucky,139110,820,21201
-Rockcastle,Kentucky,134480,790,21203
-Rowan,Kentucky,175740,1030,21205
-Russell,Kentucky,167060,980,21207
-Wayne,Kentucky,137190,810,21231
-Whitley,Kentucky,135950,800,21235
-Wolfe,Kentucky,74850,440,21237
-Garrett,Maryland,253650,1490,24023
-Washington,Maryland,331560,1950,24043
-Alcorn,Mississippi,148450,870,28003
-Benton,Mississippi,122640,720,28009
-Calhoun,Mississippi,93020,550,28013
-Chickasaw,Mississippi,112650,660,28017
-Choctaw,Mississippi,117250,690,28019
-Clay,Mississippi,129710,760,28025
-Itawamba,Mississippi,137340,810,28057
-Kemper,Mississippi,101210,600,28069
-Lee,Mississippi,220150,1300,28081
-Lowndes,Mississippi,176610,1040,28087
-Marshall,Mississippi,179050,1050,28093
-Monroe,Mississippi,129260,760,28095
-Montgomery,Mississippi,124210,730,28097
-Noxubee,Mississippi,95600,560,28103
-Oktibbeha,Mississippi,246290,1450,28105
-Panola,Mississippi,136330,800,28107
-Pontotoc,Mississippi,158990,940,28115
-Prentiss,Mississippi,130720,770,28117
-Tippah,Mississippi,144070,850,28139
-Tishomingo,Mississippi,148670,870,28141
-Union,Mississippi,178520,1050,28145
-Webster,Mississippi,122860,720,28155
-Winston,Mississippi,135990,800,28159
-Yalobusha,Mississippi,109060,640,28161
-Allegany,New York,109430,640,36003
-Broome,New York,191800,1130,36007
-Cattaraugus,New York,117920,690,36009
-Chautauqua,New York,139270,820,36013
-Chemung,New York,148630,870,36015
-Chenango,New York,143180,840,36017
-Cortland,New York,176720,1040,36023
-Delaware,New York,196950,1160,36025
-Otsego,New York,196610,1160,36077
-Schoharie,New York,218920,1290,36095
-Schuyler,New York,182530,1070,36097
-Steuben,New York,153130,900,36101
-Tioga,New York,189450,1110,36107
-Tompkins,New York,322190,1900,36109
-Alexander,North Carolina,213080,1250,37003
-Alleghany,North Carolina,225760,1330,37005
-Ashe,North Carolina,251740,1480,37009
-Avery,North Carolina,264560,1560,37011
-Buncombe,North Carolina,475520,2800,37021
-Burke,North Carolina,238310,1400,37023
-Caldwell,North Carolina,230350,1360,37027
-Catawba,North Carolina,288330,1700,37035
-Cherokee,North Carolina,236770,1390,37039
-Clay,North Carolina,298710,1760,37043
-Cleveland,North Carolina,259000,1520,37045
-Davie,North Carolina,270190,1590,37059
-Forsyth,North Carolina,307510,1810,37067
-Graham,North Carolina,176750,1040,37075
-Haywood,North Carolina,284530,1670,37087
-Henderson,North Carolina,415250,2440,37089
-Jackson,North Carolina,288050,1700,37099
-McDowell,North Carolina,190930,1120,37111
-Macon,North Carolina,259800,1530,37113
-Madison,North Carolina,294130,1730,37115
-Mitchell,North Carolina,229280,1350,37121
-Polk,North Carolina,318900,1880,37149
-Rutherford,North Carolina,235860,1390,37161
-Stokes,North Carolina,214500,1260,37169
-Surry,North Carolina,206250,1210,37171
-Swain,North Carolina,238020,1400,37173
-Transylvania,North Carolina,381300,2240,37175
-Watauga,North Carolina,364740,2150,37189
-Wilkes,North Carolina,207160,1220,37193
-Yadkin,North Carolina,202560,1190,37197
-Yancey,North Carolina,252200,1480,37199
-Adams,Ohio,182220,1070,39001
-Ashtabula,Ohio,186970,1100,39007
-Athens,Ohio,201080,1180,39009
-Belmont,Ohio,169270,1000,39013
-Brown,Ohio,210060,1240,39015
-Carroll,Ohio,202460,1190,39019
-Clermont,Ohio,324430,1910,39025
-Columbiana,Ohio,189400,1110,39029
-Coshocton,Ohio,164640,970,39031
-Gallia,Ohio,156190,920,39053
-Guernsey,Ohio,178290,1050,39059
-Harrison,Ohio,136520,800,39067
-Highland,Ohio,181640,1070,39071
-Hocking,Ohio,199350,1170,39073
-Holmes,Ohio,291330,1710,39075
-Jackson,Ohio,162440,960,39079
-Jefferson,Ohio,135120,800,39081
-Lawrence,Ohio,155050,910,39087
-Mahoning,Ohio,185460,1090,39099
-Meigs,Ohio,131200,770,39105
-Monroe,Ohio,152720,900,39111
-Morgan,Ohio,155270,910,39115
-Muskingum,Ohio,213920,1260,39119
-Noble,Ohio,172740,1020,39121
-Perry,Ohio,206290,1210,39127
-Pike,Ohio,171810,1010,39131
-Ross,Ohio,205020,1210,39141
-Scioto,Ohio,189050,1110,39145
-Trumbull,Ohio,171760,1010,39155
-Tuscarawas,Ohio,214620,1260,39157
-Vinton,Ohio,152370,900,39163
-Washington,Ohio,196210,1150,39167
-Allegheny,Pennsylvania,264160,1550,42003
-Armstrong,Pennsylvania,179450,1060,42005
-Beaver,Pennsylvania,217310,1280,42007
-Bedford,Pennsylvania,200300,1180,42009
-Blair,Pennsylvania,178260,1050,42013
-Bradford,Pennsylvania,211190,1240,42015
-Butler,Pennsylvania,336940,1980,42019
-Cambria,Pennsylvania,159960,940,42021
-Cameron,Pennsylvania,102180,600,42023
-Carbon,Pennsylvania,243980,1440,42025
-Centre,Pennsylvania,361560,2130,42027
-Clarion,Pennsylvania,176200,1040,42031
-Clearfield,Pennsylvania,168090,990,42033
-Clinton,Pennsylvania,207480,1220,42035
-Columbia,Pennsylvania,259500,1530,42037
-Crawford,Pennsylvania,174350,1030,42039
-Elk,Pennsylvania,148980,880,42047
-Erie,Pennsylvania,202410,1190,42049
-Fayette,Pennsylvania,164090,970,42051
-Forest,Pennsylvania,129630,760,42053
-Fulton,Pennsylvania,238640,1400,42057
-Greene,Pennsylvania,169370,1000,42059
-Huntingdon,Pennsylvania,208870,1230,42061
-Indiana,Pennsylvania,176780,1040,42063
-Jefferson,Pennsylvania,146780,860,42065
-Juniata,Pennsylvania,238990,1410,42067
-Lackawanna,Pennsylvania,240210,1410,42069
-Lawrence,Pennsylvania,174700,1030,42073
-Luzerne,Pennsylvania,215100,1270,42079
-Lycoming,Pennsylvania,221240,1300,42081
-McKean,Pennsylvania,114340,670,42083
-Mercer,Pennsylvania,200490,1180,42085
-Mifflin,Pennsylvania,165550,970,42087
-Monroe,Pennsylvania,318930,1880,42089
-Montour,Pennsylvania,278380,1640,42093
-Northumberland,Pennsylvania,190340,1120,42097
-Perry,Pennsylvania,251920,1480,42099
-Pike,Pennsylvania,291470,1720,42103
-Potter,Pennsylvania,169370,1000,42105
-Schuylkill,Pennsylvania,173310,1020,42107
-Snyder,Pennsylvania,238070,1400,42109
-Somerset,Pennsylvania,167630,990,42111
-Sullivan,Pennsylvania,215940,1270,42113
-Susquehanna,Pennsylvania,239460,1410,42115
-Tioga,Pennsylvania,203890,1200,42117
-Union,Pennsylvania,258220,1520,42119
-Venango,Pennsylvania,132640,780,42121
-Warren,Pennsylvania,141100,830,42123
-Washington,Pennsylvania,265190,1560,42125
-Wayne,Pennsylvania,264360,1560,42127
-Westmoreland,Pennsylvania,231530,1360,42129
-Wyoming,Pennsylvania,245830,1450,42131
-Anderson,South Carolina,287060,1690,45007
-Cherokee,South Carolina,161480,950,45021
-Greenville,South Carolina,373690,2200,45045
-Oconee,South Carolina,304570,1790,45073
-Pickens,South Carolina,275480,1620,45077
-Spartanburg,South Carolina,261840,1540,45083
-Union,South Carolina,119440,700,45087
-Anderson,Tennessee,283020,1670,47001
-Bledsoe,Tennessee,186520,1100,47007
-Blount,Tennessee,404490,2380,47009
-Bradley,Tennessee,314760,1850,47011
-Campbell,Tennessee,191140,1120,47013
-Cannon,Tennessee,245080,1440,47015
-Carter,Tennessee,172820,1020,47019
-Claiborne,Tennessee,166900,980,47025
-Clay,Tennessee,154380,910,47027
-Cocke,Tennessee,159910,940,47029
-Coffee,Tennessee,256330,1510,47031
-Cumberland,Tennessee,257110,1510,47035
-Fentress,Tennessee,171180,1010,47049
-Franklin,Tennessee,243240,1430,47051
-Grainger,Tennessee,201610,1190,47057
-Greene,Tennessee,245050,1440,47059
-Grundy,Tennessee,150430,890,47061
-Hamblen,Tennessee,279450,1640,47063
-Hamilton,Tennessee,372830,2190,47065
-Hancock,Tennessee,133070,780,47067
-Hawkins,Tennessee,195130,1150,47073
-Jackson,Tennessee,152460,900,47087
-Jefferson,Tennessee,246160,1450,47089
-Johnson,Tennessee,197910,1160,47091
-Knox,Tennessee,416920,2450,47093
-Lawrence,Tennessee,199260,1170,47099
-Lewis,Tennessee,177950,1050,47101
-Loudon,Tennessee,339810,2000,47105
-McMinn,Tennessee,214710,1260,47107
-Macon,Tennessee,227420,1340,47111
-Marion,Tennessee,193840,1140,47115
-Meigs,Tennessee,209190,1230,47121
-Monroe,Tennessee,225200,1330,47123
-Morgan,Tennessee,162390,960,47129
-Overton,Tennessee,193630,1140,47133
-Pickett,Tennessee,182910,1080,47137
-Polk,Tennessee,160800,950,47139
-Putnam,Tennessee,327140,1930,47141
-Rhea,Tennessee,201290,1180,47143
-Roane,Tennessee,239410,1410,47145
-Scott,Tennessee,131710,780,47151
-Sequatchie,Tennessee,243200,1430,47153
-Sevier,Tennessee,341010,2010,47155
-Smith,Tennessee,241740,1420,47159
-Sullivan,Tennessee,269490,1590,47163
-Unicoi,Tennessee,184910,1090,47171
-Union,Tennessee,216360,1270,47173
-Van Buren,Tennessee,168250,990,47175
-Warren,Tennessee,196110,1150,47177
-Washington,Tennessee,286710,1690,47179
-White,Tennessee,214490,1260,47185
-Bath,Virginia,239120,1410,51017
-Bland,Virginia,182360,1070,51021
-Botetourt,Virginia,323510,1900,51023
-Buchanan,Virginia,106100,620,51027
-Craig,Virginia,253250,1490,51045
-Dickenson,Virginia,117360,690,51051
-Floyd,Virginia,250150,1470,51063
-Giles,Virginia,155860,920,51071
-Grayson,Virginia,153570,900,51077
-Highland,Virginia,227170,1340,51091
-Lee,Virginia,114570,670,51105
-Patrick,Virginia,170060,1000,51141
-Pulaski,Virginia,198220,1170,51155
-Russell,Virginia,138830,820,51167
-Scott,Virginia,142990,840,51169
-Smyth,Virginia,146030,860,51173
-Tazewell,Virginia,134770,790,51185
-Wythe,Virginia,199770,1180,51197
-Barbour,West Virginia,146220,860,54001
-Berkeley,West Virginia,317420,1870,54003
-Boone,West Virginia,99950,590,54005
-Braxton,West Virginia,123480,730,54007
-Brooke,West Virginia,143070,840,54009
-Cabell,West Virginia,200220,1180,54011
-Calhoun,West Virginia,129050,760,54013
-Clay,West Virginia,118550,700,54015
-Doddridge,West Virginia,185680,1090,54017
-Fayette,West Virginia,120920,710,54019
-Gilmer,West Virginia,96670,570,54021
-Grant,West Virginia,194380,1140,54023
-Greenbrier,West Virginia,158170,930,54025
-Hampshire,West Virginia,234910,1380,54027
-Hancock,West Virginia,134000,790,54029
-Hardy,West Virginia,185330,1090,54031
-Harrison,West Virginia,202970,1190,54033
-Jackson,West Virginia,179410,1060,54035
-Jefferson,West Virginia,342500,2020,54037
-Kanawha,West Virginia,152750,900,54039
-Lewis,West Virginia,157590,930,54041
-Lincoln,West Virginia,114450,670,54043
-Logan,West Virginia,117790,690,54045
-McDowell,West Virginia,57100,340,54047
-Marion,West Virginia,190670,1120,54049
-Marshall,West Virginia,156200,920,54051
-Mason,West Virginia,147850,870,54053
-Mercer,West Virginia,137630,810,54055
-Mingo,West Virginia,99340,580,54059
-Monongalia,West Virginia,275400,1620,54061
-Monroe,West Virginia,169550,1000,54063
-Morgan,West Virginia,260740,1530,54065
-Nicholas,West Virginia,132530,780,54067
-Pendleton,West Virginia,207260,1220,54071
-Pleasants,West Virginia,145720,860,54073
-Pocahontas,West Virginia,161770,950,54075
-Preston,West Virginia,166080,980,54077
-Putnam,West Virginia,237100,1400,54079
-Raleigh,West Virginia,184290,1080,54081
-Randolph,West Virginia,159910,940,54083
-Ritchie,West Virginia,125100,740,54085
-Roane,West Virginia,140530,830,54087
-Summers,West Virginia,146340,860,54089
-Taylor,West Virginia,167110,980,54091
-Tucker,West Virginia,167920,990,54093
-Tyler,West Virginia,130090,770,54095
-Upshur,West Virginia,186490,1100,54097
-Wayne,West Virginia,142810,840,54099
-Webster,West Virginia,90520,530,54101
-Wetzel,West Virginia,119300,700,54103
-Wirt,West Virginia,127120,750,54105
-Wood,West Virginia,184480,1090,54107
-Wyoming,West Virginia,90980,540,54109
-De Kalb,Alabama,296590,1750,01049
-Allegany,Maryland,505750,2980,24001
-De Kalb,Tennessee,140840,830,47041
-Alleghany + Covington city,Virginia,781120,4600,51005
-Carroll + Galax city,Virginia,385710,2270,51035
-Henry + Martinsville city,Virginia,230160,1350,51089
-Montgomery + Radford city,Virginia,170710,1000,51121
-Rockbridge + Buena Vista city + Lexington city,Virginia,139430,820,51163
-Washington + Bristol city,Virginia,101210,600,51191
-Wise + Norton city,Virginia,86800,510,51195
-Ohio,West Virginia,162440,960,54069
+year,county,state,median_home_price,county_fips
+2025,Bibb,Alabama,143650,01007
+2025,Blount,Alabama,183840,01009
+2025,Calhoun,Alabama,168460,01015
+2025,Chambers,Alabama,145280,01017
+2025,Cherokee,Alabama,185820,01019
+2025,Chilton,Alabama,154150,01021
+2025,Clay,Alabama,162080,01027
+2025,Cleburne,Alabama,161520,01029
+2025,Colbert,Alabama,175550,01033
+2025,Coosa,Alabama,125230,01037
+2025,Cullman,Alabama,228500,01043
+2025,Elmore,Alabama,260410,01051
+2025,Etowah,Alabama,213530,01055
+2025,Fayette,Alabama,135750,01057
+2025,Franklin,Alabama,143370,01059
+2025,Hale,Alabama,141480,01065
+2025,Jackson,Alabama,163310,01071
+2025,Jefferson,Alabama,269740,01073
+2025,Lamar,Alabama,126230,01075
+2025,Lauderdale,Alabama,229980,01077
+2025,Lawrence,Alabama,163030,01079
+2025,Limestone,Alabama,314830,01083
+2025,Macon,Alabama,107190,01087
+2025,Madison,Alabama,340340,01089
+2025,Marion,Alabama,116830,01093
+2025,Marshall,Alabama,222900,01095
+2025,Morgan,Alabama,240170,01103
+2025,Pickens,Alabama,138110,01107
+2025,Randolph,Alabama,206100,01111
+2025,St. Clair,Alabama,242010,01115
+2025,Shelby,Alabama,353810,01117
+2025,Talladega,Alabama,172940,01121
+2025,Tallapoosa,Alabama,162190,01123
+2025,Tuscaloosa,Alabama,278030,01125
+2025,Walker,Alabama,142020,01127
+2025,Winston,Alabama,123770,01133
+2025,Banks,Georgia,285050,13011
+2025,Barrow,Georgia,329130,13013
+2025,Bartow,Georgia,338540,13015
+2025,Carroll,Georgia,307240,13045
+2025,Catoosa,Georgia,259050,13047
+2025,Chattooga,Georgia,111780,13055
+2025,Cherokee,Georgia,493250,13057
+2025,Dade,Georgia,186030,13083
+2025,Dawson,Georgia,385040,13085
+2025,Douglas,Georgia,359330,13097
+2025,Elbert,Georgia,129780,13105
+2025,Fannin,Georgia,310980,13111
+2025,Floyd,Georgia,236470,13115
+2025,Forsyth,Georgia,642610,13117
+2025,Franklin,Georgia,181880,13119
+2025,Gilmer,Georgia,315850,13123
+2025,Gordon,Georgia,232840,13129
+2025,Gwinnett,Georgia,432740,13135
+2025,Habersham,Georgia,240090,13137
+2025,Hall,Georgia,406510,13139
+2025,Haralson,Georgia,230210,13143
+2025,Hart,Georgia,233860,13147
+2025,Heard,Georgia,176160,13149
+2025,Jackson,Georgia,411320,13157
+2025,Lumpkin,Georgia,313930,13187
+2025,Madison,Georgia,234870,13195
+2025,Murray,Georgia,196050,13213
+2025,Paulding,Georgia,387340,13223
+2025,Pickens,Georgia,316870,13227
+2025,Polk,Georgia,185160,13233
+2025,Rabun,Georgia,308720,13241
+2025,Stephens,Georgia,190480,13257
+2025,Towns,Georgia,353220,13281
+2025,Union,Georgia,308720,13291
+2025,Walker,Georgia,245430,13295
+2025,White,Georgia,296940,13311
+2025,Whitfield,Georgia,275350,13313
+2025,Adair,Kentucky,151960,21001
+2025,Bath,Kentucky,126030,21011
+2025,Bell,Kentucky,93560,21013
+2025,Boyd,Kentucky,144420,21019
+2025,Breathitt,Kentucky,69670,21025
+2025,Carter,Kentucky,142150,21043
+2025,Casey,Kentucky,152970,21045
+2025,Clark,Kentucky,228910,21049
+2025,Clay,Kentucky,98410,21051
+2025,Clinton,Kentucky,128510,21053
+2025,Cumberland,Kentucky,144970,21057
+2025,Edmonson,Kentucky,149040,21061
+2025,Elliott,Kentucky,109800,21063
+2025,Estill,Kentucky,126140,21065
+2025,Fleming,Kentucky,129860,21069
+2025,Floyd,Kentucky,105170,21071
+2025,Garrard,Kentucky,210570,21079
+2025,Green,Kentucky,134030,21087
+2025,Greenup,Kentucky,154710,21089
+2025,Harlan,Kentucky,82400,21095
+2025,Hart,Kentucky,140460,21099
+2025,Jackson,Kentucky,120620,21109
+2025,Johnson,Kentucky,141250,21115
+2025,Knott,Kentucky,84090,21119
+2025,Knox,Kentucky,123100,21121
+2025,Laurel,Kentucky,161650,21125
+2025,Lawrence,Kentucky,121860,21127
+2025,Lee,Kentucky,92550,21129
+2025,Leslie,Kentucky,83530,21131
+2025,Letcher,Kentucky,79470,21133
+2025,Lewis,Kentucky,97060,21135
+2025,Lincoln,Kentucky,157030,21137
+2025,McCreary,Kentucky,86800,21147
+2025,Madison,Kentucky,285310,21151
+2025,Magoffin,Kentucky,99540,21153
+2025,Martin,Kentucky,95710,21159
+2025,Menifee,Kentucky,125690,21165
+2025,Metcalfe,Kentucky,116220,21169
+2025,Monroe,Kentucky,131100,21171
+2025,Montgomery,Kentucky,184650,21173
+2025,Morgan,Kentucky,119490,21175
+2025,Nicholas,Kentucky,134820,21181
+2025,Owsley,Kentucky,90070,21189
+2025,Perry,Kentucky,102240,21193
+2025,Pike,Kentucky,117460,21195
+2025,Powell,Kentucky,160520,21197
+2025,Pulaski,Kentucky,213620,21199
+2025,Robertson,Kentucky,139110,21201
+2025,Rockcastle,Kentucky,134480,21203
+2025,Rowan,Kentucky,175740,21205
+2025,Russell,Kentucky,167060,21207
+2025,Wayne,Kentucky,137190,21231
+2025,Whitley,Kentucky,135950,21235
+2025,Wolfe,Kentucky,74850,21237
+2025,Garrett,Maryland,253650,24023
+2025,Washington,Maryland,331560,24043
+2025,Alcorn,Mississippi,148450,28003
+2025,Benton,Mississippi,122640,28009
+2025,Calhoun,Mississippi,93020,28013
+2025,Chickasaw,Mississippi,112650,28017
+2025,Choctaw,Mississippi,117250,28019
+2025,Clay,Mississippi,129710,28025
+2025,Itawamba,Mississippi,137340,28057
+2025,Kemper,Mississippi,101210,28069
+2025,Lee,Mississippi,220150,28081
+2025,Lowndes,Mississippi,176610,28087
+2025,Marshall,Mississippi,179050,28093
+2025,Monroe,Mississippi,129260,28095
+2025,Montgomery,Mississippi,124210,28097
+2025,Noxubee,Mississippi,95600,28103
+2025,Oktibbeha,Mississippi,246290,28105
+2025,Panola,Mississippi,136330,28107
+2025,Pontotoc,Mississippi,158990,28115
+2025,Prentiss,Mississippi,130720,28117
+2025,Tippah,Mississippi,144070,28139
+2025,Tishomingo,Mississippi,148670,28141
+2025,Union,Mississippi,178520,28145
+2025,Webster,Mississippi,122860,28155
+2025,Winston,Mississippi,135990,28159
+2025,Yalobusha,Mississippi,109060,28161
+2025,Allegany,New York,109430,36003
+2025,Broome,New York,191800,36007
+2025,Cattaraugus,New York,117920,36009
+2025,Chautauqua,New York,139270,36013
+2025,Chemung,New York,148630,36015
+2025,Chenango,New York,143180,36017
+2025,Cortland,New York,176720,36023
+2025,Delaware,New York,196950,36025
+2025,Otsego,New York,196610,36077
+2025,Schoharie,New York,218920,36095
+2025,Schuyler,New York,182530,36097
+2025,Steuben,New York,153130,36101
+2025,Tioga,New York,189450,36107
+2025,Tompkins,New York,322190,36109
+2025,Alexander,North Carolina,213080,37003
+2025,Alleghany,North Carolina,225760,37005
+2025,Ashe,North Carolina,251740,37009
+2025,Avery,North Carolina,264560,37011
+2025,Buncombe,North Carolina,475520,37021
+2025,Burke,North Carolina,238310,37023
+2025,Caldwell,North Carolina,230350,37027
+2025,Catawba,North Carolina,288330,37035
+2025,Cherokee,North Carolina,236770,37039
+2025,Clay,North Carolina,298710,37043
+2025,Cleveland,North Carolina,259000,37045
+2025,Davie,North Carolina,270190,37059
+2025,Forsyth,North Carolina,307510,37067
+2025,Graham,North Carolina,176750,37075
+2025,Haywood,North Carolina,284530,37087
+2025,Henderson,North Carolina,415250,37089
+2025,Jackson,North Carolina,288050,37099
+2025,McDowell,North Carolina,190930,37111
+2025,Macon,North Carolina,259800,37113
+2025,Madison,North Carolina,294130,37115
+2025,Mitchell,North Carolina,229280,37121
+2025,Polk,North Carolina,318900,37149
+2025,Rutherford,North Carolina,235860,37161
+2025,Stokes,North Carolina,214500,37169
+2025,Surry,North Carolina,206250,37171
+2025,Swain,North Carolina,238020,37173
+2025,Transylvania,North Carolina,381300,37175
+2025,Watauga,North Carolina,364740,37189
+2025,Wilkes,North Carolina,207160,37193
+2025,Yadkin,North Carolina,202560,37197
+2025,Yancey,North Carolina,252200,37199
+2025,Adams,Ohio,182220,39001
+2025,Ashtabula,Ohio,186970,39007
+2025,Athens,Ohio,201080,39009
+2025,Belmont,Ohio,169270,39013
+2025,Brown,Ohio,210060,39015
+2025,Carroll,Ohio,202460,39019
+2025,Clermont,Ohio,324430,39025
+2025,Columbiana,Ohio,189400,39029
+2025,Coshocton,Ohio,164640,39031
+2025,Gallia,Ohio,156190,39053
+2025,Guernsey,Ohio,178290,39059
+2025,Harrison,Ohio,136520,39067
+2025,Highland,Ohio,181640,39071
+2025,Hocking,Ohio,199350,39073
+2025,Holmes,Ohio,291330,39075
+2025,Jackson,Ohio,162440,39079
+2025,Jefferson,Ohio,135120,39081
+2025,Lawrence,Ohio,155050,39087
+2025,Mahoning,Ohio,185460,39099
+2025,Meigs,Ohio,131200,39105
+2025,Monroe,Ohio,152720,39111
+2025,Morgan,Ohio,155270,39115
+2025,Muskingum,Ohio,213920,39119
+2025,Noble,Ohio,172740,39121
+2025,Perry,Ohio,206290,39127
+2025,Pike,Ohio,171810,39131
+2025,Ross,Ohio,205020,39141
+2025,Scioto,Ohio,189050,39145
+2025,Trumbull,Ohio,171760,39155
+2025,Tuscarawas,Ohio,214620,39157
+2025,Vinton,Ohio,152370,39163
+2025,Washington,Ohio,196210,39167
+2025,Allegheny,Pennsylvania,264160,42003
+2025,Armstrong,Pennsylvania,179450,42005
+2025,Beaver,Pennsylvania,217310,42007
+2025,Bedford,Pennsylvania,200300,42009
+2025,Blair,Pennsylvania,178260,42013
+2025,Bradford,Pennsylvania,211190,42015
+2025,Butler,Pennsylvania,336940,42019
+2025,Cambria,Pennsylvania,159960,42021
+2025,Cameron,Pennsylvania,102180,42023
+2025,Carbon,Pennsylvania,243980,42025
+2025,Centre,Pennsylvania,361560,42027
+2025,Clarion,Pennsylvania,176200,42031
+2025,Clearfield,Pennsylvania,168090,42033
+2025,Clinton,Pennsylvania,207480,42035
+2025,Columbia,Pennsylvania,259500,42037
+2025,Crawford,Pennsylvania,174350,42039
+2025,Elk,Pennsylvania,148980,42047
+2025,Erie,Pennsylvania,202410,42049
+2025,Fayette,Pennsylvania,164090,42051
+2025,Forest,Pennsylvania,129630,42053
+2025,Fulton,Pennsylvania,238640,42057
+2025,Greene,Pennsylvania,169370,42059
+2025,Huntingdon,Pennsylvania,208870,42061
+2025,Indiana,Pennsylvania,176780,42063
+2025,Jefferson,Pennsylvania,146780,42065
+2025,Juniata,Pennsylvania,238990,42067
+2025,Lackawanna,Pennsylvania,240210,42069
+2025,Lawrence,Pennsylvania,174700,42073
+2025,Luzerne,Pennsylvania,215100,42079
+2025,Lycoming,Pennsylvania,221240,42081
+2025,McKean,Pennsylvania,114340,42083
+2025,Mercer,Pennsylvania,200490,42085
+2025,Mifflin,Pennsylvania,165550,42087
+2025,Monroe,Pennsylvania,318930,42089
+2025,Montour,Pennsylvania,278380,42093
+2025,Northumberland,Pennsylvania,190340,42097
+2025,Perry,Pennsylvania,251920,42099
+2025,Pike,Pennsylvania,291470,42103
+2025,Potter,Pennsylvania,169370,42105
+2025,Schuylkill,Pennsylvania,173310,42107
+2025,Snyder,Pennsylvania,238070,42109
+2025,Somerset,Pennsylvania,167630,42111
+2025,Sullivan,Pennsylvania,215940,42113
+2025,Susquehanna,Pennsylvania,239460,42115
+2025,Tioga,Pennsylvania,203890,42117
+2025,Union,Pennsylvania,258220,42119
+2025,Venango,Pennsylvania,132640,42121
+2025,Warren,Pennsylvania,141100,42123
+2025,Washington,Pennsylvania,265190,42125
+2025,Wayne,Pennsylvania,264360,42127
+2025,Westmoreland,Pennsylvania,231530,42129
+2025,Wyoming,Pennsylvania,245830,42131
+2025,Anderson,South Carolina,287060,45007
+2025,Cherokee,South Carolina,161480,45021
+2025,Greenville,South Carolina,373690,45045
+2025,Oconee,South Carolina,304570,45073
+2025,Pickens,South Carolina,275480,45077
+2025,Spartanburg,South Carolina,261840,45083
+2025,Union,South Carolina,119440,45087
+2025,Anderson,Tennessee,283020,47001
+2025,Bledsoe,Tennessee,186520,47007
+2025,Blount,Tennessee,404490,47009
+2025,Bradley,Tennessee,314760,47011
+2025,Campbell,Tennessee,191140,47013
+2025,Cannon,Tennessee,245080,47015
+2025,Carter,Tennessee,172820,47019
+2025,Claiborne,Tennessee,166900,47025
+2025,Clay,Tennessee,154380,47027
+2025,Cocke,Tennessee,159910,47029
+2025,Coffee,Tennessee,256330,47031
+2025,Cumberland,Tennessee,257110,47035
+2025,Fentress,Tennessee,171180,47049
+2025,Franklin,Tennessee,243240,47051
+2025,Grainger,Tennessee,201610,47057
+2025,Greene,Tennessee,245050,47059
+2025,Grundy,Tennessee,150430,47061
+2025,Hamblen,Tennessee,279450,47063
+2025,Hamilton,Tennessee,372830,47065
+2025,Hancock,Tennessee,133070,47067
+2025,Hawkins,Tennessee,195130,47073
+2025,Jackson,Tennessee,152460,47087
+2025,Jefferson,Tennessee,246160,47089
+2025,Johnson,Tennessee,197910,47091
+2025,Knox,Tennessee,416920,47093
+2025,Lawrence,Tennessee,199260,47099
+2025,Lewis,Tennessee,177950,47101
+2025,Loudon,Tennessee,339810,47105
+2025,McMinn,Tennessee,214710,47107
+2025,Macon,Tennessee,227420,47111
+2025,Marion,Tennessee,193840,47115
+2025,Meigs,Tennessee,209190,47121
+2025,Monroe,Tennessee,225200,47123
+2025,Morgan,Tennessee,162390,47129
+2025,Overton,Tennessee,193630,47133
+2025,Pickett,Tennessee,182910,47137
+2025,Polk,Tennessee,160800,47139
+2025,Putnam,Tennessee,327140,47141
+2025,Rhea,Tennessee,201290,47143
+2025,Roane,Tennessee,239410,47145
+2025,Scott,Tennessee,131710,47151
+2025,Sequatchie,Tennessee,243200,47153
+2025,Sevier,Tennessee,341010,47155
+2025,Smith,Tennessee,241740,47159
+2025,Sullivan,Tennessee,269490,47163
+2025,Unicoi,Tennessee,184910,47171
+2025,Union,Tennessee,216360,47173
+2025,Van Buren,Tennessee,168250,47175
+2025,Warren,Tennessee,196110,47177
+2025,Washington,Tennessee,286710,47179
+2025,White,Tennessee,214490,47185
+2025,Bath,Virginia,239120,51017
+2025,Bland,Virginia,182360,51021
+2025,Botetourt,Virginia,323510,51023
+2025,Buchanan,Virginia,106100,51027
+2025,Craig,Virginia,253250,51045
+2025,Dickenson,Virginia,117360,51051
+2025,Floyd,Virginia,250150,51063
+2025,Giles,Virginia,155860,51071
+2025,Grayson,Virginia,153570,51077
+2025,Highland,Virginia,227170,51091
+2025,Lee,Virginia,114570,51105
+2025,Patrick,Virginia,170060,51141
+2025,Pulaski,Virginia,198220,51155
+2025,Russell,Virginia,138830,51167
+2025,Scott,Virginia,142990,51169
+2025,Smyth,Virginia,146030,51173
+2025,Tazewell,Virginia,134770,51185
+2025,Wythe,Virginia,199770,51197
+2025,Barbour,West Virginia,146220,54001
+2025,Berkeley,West Virginia,317420,54003
+2025,Boone,West Virginia,99950,54005
+2025,Braxton,West Virginia,123480,54007
+2025,Brooke,West Virginia,143070,54009
+2025,Cabell,West Virginia,200220,54011
+2025,Calhoun,West Virginia,129050,54013
+2025,Clay,West Virginia,118550,54015
+2025,Doddridge,West Virginia,185680,54017
+2025,Fayette,West Virginia,120920,54019
+2025,Gilmer,West Virginia,96670,54021
+2025,Grant,West Virginia,194380,54023
+2025,Greenbrier,West Virginia,158170,54025
+2025,Hampshire,West Virginia,234910,54027
+2025,Hancock,West Virginia,134000,54029
+2025,Hardy,West Virginia,185330,54031
+2025,Harrison,West Virginia,202970,54033
+2025,Jackson,West Virginia,179410,54035
+2025,Jefferson,West Virginia,342500,54037
+2025,Kanawha,West Virginia,152750,54039
+2025,Lewis,West Virginia,157590,54041
+2025,Lincoln,West Virginia,114450,54043
+2025,Logan,West Virginia,117790,54045
+2025,McDowell,West Virginia,57100,54047
+2025,Marion,West Virginia,190670,54049
+2025,Marshall,West Virginia,156200,54051
+2025,Mason,West Virginia,147850,54053
+2025,Mercer,West Virginia,137630,54055
+2025,Mingo,West Virginia,99340,54059
+2025,Monongalia,West Virginia,275400,54061
+2025,Monroe,West Virginia,169550,54063
+2025,Morgan,West Virginia,260740,54065
+2025,Nicholas,West Virginia,132530,54067
+2025,Pendleton,West Virginia,207260,54071
+2025,Pleasants,West Virginia,145720,54073
+2025,Pocahontas,West Virginia,161770,54075
+2025,Preston,West Virginia,166080,54077
+2025,Putnam,West Virginia,237100,54079
+2025,Raleigh,West Virginia,184290,54081
+2025,Randolph,West Virginia,159910,54083
+2025,Ritchie,West Virginia,125100,54085
+2025,Roane,West Virginia,140530,54087
+2025,Summers,West Virginia,146340,54089
+2025,Taylor,West Virginia,167110,54091
+2025,Tucker,West Virginia,167920,54093
+2025,Tyler,West Virginia,130090,54095
+2025,Upshur,West Virginia,186490,54097
+2025,Wayne,West Virginia,142810,54099
+2025,Webster,West Virginia,90520,54101
+2025,Wetzel,West Virginia,119300,54103
+2025,Wirt,West Virginia,127120,54105
+2025,Wood,West Virginia,184480,54107
+2025,Wyoming,West Virginia,90980,54109
