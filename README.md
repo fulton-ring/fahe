@@ -5,9 +5,8 @@ The dataset includes filtered CSV files for education, income, investment, and p
 
 ## Repository Structure
 - **raw/** → Raw input data 
-- **filtered/** → Cleaned CSV datasets (`education`, `income`, `investment`, `poverty`)  
-- **final/** → Final processed outputs (e.g., `final_output.geojson`)  
+- **filtered/** → Cleaned CSV datasets (`education`, `income`, `investment`, `poverty`, `home prices`, `income limits`)  
+- **final/** → Final processed outputs (`final_data_502.geojson`, `final_data_prices_limits.geojson`)  
 - **main.ipynb** → Jupyter Notebook for analysis and processing  
 - **pyproject.toml** → Project dependencies and configuration
 - **cb_2018_us_county_5m/** → Contains U.S. Census Bureau shapefiles 
-
