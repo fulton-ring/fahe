@@ -1,8 +1,12 @@
+"use client";
+
 import { useEffect, useState, useRef } from "react";
 import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
 import { Table, TableBody, TableCell, TableRow } from "@/components/ui/table";
 import { useMap, type PointLike } from "react-map-gl/maplibre";
 import type { MapMouseEvent } from "maplibre-gl";
+import { useMapContext } from "@/contexts/MapContext";
+import { MapConfig } from "@/config/mapConfig";
 
 interface FeatureProperties {
   [key: string]: string | number | boolean | null;
@@ -15,16 +19,18 @@ export interface FieldConfig {
   format?: (value: any) => string; // Custom formatter function (overrides formatType)
 }
 
-interface FeatureInfoModalProps {
-  // Optional list of fields to display (in order). If not provided, shows all fields.
-  fieldsToDisplay?: FieldConfig[];
-}
-
-const FeatureInfoModal = ({ fieldsToDisplay }: FeatureInfoModalProps) => {
+const FeatureInfoModal = () => {
   const { current: map } = useMap();
+  const { selectedLayer } = useMapContext();
   const [featureProperties, setFeatureProperties] =
     useState<FeatureProperties | null>(null);
   const dragging = useRef(false);
+
+  // Get fields based on selected layer
+  const fieldsToDisplay =
+    selectedLayer === "investment"
+      ? MapConfig.investmentFields
+      : MapConfig.incomeFields;
 
   useEffect(() => {
     if (!map) return;
@@ -67,7 +73,7 @@ const FeatureInfoModal = ({ fieldsToDisplay }: FeatureInfoModalProps) => {
       map.off("dragend", onDragEnd);
       map.off("click", onClick);
     };
-  }, [map]);
+  }, [map, selectedLayer]);
 
   return (
     <Dialog
