@@ -144,7 +144,7 @@ const WelcomeModal = () => {
                 className="rounded"
               />
               <span className="text-muted-foreground">
-                Don't show this again
+                Don&apos;t show this again
               </span>
             </label>
             <Button onClick={handleClose}>Get Started</Button>

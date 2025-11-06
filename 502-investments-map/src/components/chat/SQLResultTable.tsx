@@ -19,16 +19,17 @@ interface SQLResultTableProps {
 }
 
 export const SQLResultTable = ({ result }: SQLResultTableProps) => {
-  if (!result.rows || result.rows.length === 0) {
-    return <div className="text-xs text-gray-500 italic">No results found</div>;
-  }
-
-  const columns = Object.keys(result.rows[0]);
+  const columns =
+    result.rows && result.rows.length > 0 ? Object.keys(result.rows[0]) : [];
   const rowCount = result.rowCount;
 
   // Collapse by default if more than 10 rows
   const shouldCollapseByDefault = rowCount > 10;
   const [isOpen, setIsOpen] = useState(!shouldCollapseByDefault);
+
+  if (!result.rows || result.rows.length === 0) {
+    return <div className="text-xs text-gray-500 italic">No results found</div>;
+  }
 
   const handleExportCSV = (e: React.MouseEvent) => {
     e.preventDefault();

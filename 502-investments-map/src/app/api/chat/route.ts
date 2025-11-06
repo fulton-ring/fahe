@@ -23,17 +23,22 @@ export async function POST(req: Request) {
 
   // Try to connect to MCP server
   try {
-    mcpClient = await createMCPClient({
-      transport: new StreamableHTTPClientTransport(
-        new URL(MCP_CONFIG.serverUrl)
-      ),
-    });
+    const transport = new StreamableHTTPClientTransport(
+      new URL(MCP_CONFIG.serverUrl)
+    );
+
+    mcpClient = await createMCPClient({ transport });
+
+    // Log session ID after connection
+    console.log("✅ Connected to MCP server");
+    console.log("Session ID:", transport.sessionId);
 
     mcpTools = await mcpClient.tools();
-    console.log("✅ Connected to MCP server");
     console.log("Available MCP tools:", Object.keys(mcpTools));
+    console.log("Session ID after tools:", transport.sessionId);
   } catch (error) {
     console.error("❌ Failed to connect to MCP server:", error);
+    console.log("Error details:", error);
     console.log("Continuing without MCP tools...");
     // Continue without MCP tools if connection fails
   }

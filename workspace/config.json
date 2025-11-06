@@ -1,0 +1,234 @@
+{
+  "name": "FAHE 502 Investments",
+  "description": "USDA 502 loan investment data by county with demographic and economic indicators",
+  "data": [
+    {
+      "id": "investments",
+      "name": "USDA 502 Investments",
+      "description": "FAHE 502 investment data by county with demographic and economic indicators",
+      "location": "internal",
+      "kind": "geospatial"
+    },
+    {
+      "id": "income",
+      "name": "502 Loan Income Limits",
+      "description": "2025 USDA 502 loan income limits by county",
+      "location": "internal",
+      "kind": "geospatial"
+    }
+  ],
+  "maps": [
+    {
+      "id": "fahe",
+      "name": "502 Investments and income limits by County",
+      "description": "USDA 502 loan investment data and income limits visualized by county across multiple years",
+      "centerLat": 37.8,
+      "centerLng": -84.5,
+      "zoom": 6,
+      "minZoom": 4,
+      "maxZoom": 18,
+      "layers": [
+        {
+          "id": "investments",
+          "name": "USDA 502 Investments",
+          "description": "Investment data by county and year",
+          "type": "choropleth",
+          "datasetId": "investments",
+          "geometryColumn": "geometry",
+          "controls": [
+            {
+              "controlType": "dropdown",
+              "controlName": "year",
+              "defaultValue": 2023,
+              "label": "Year",
+              "description": "Select the year to display",
+              "order": 0,
+              "options": [
+                { "value": 2015, "label": "2015" },
+                { "value": 2016, "label": "2016" },
+                { "value": 2017, "label": "2017" },
+                { "value": 2018, "label": "2018" },
+                { "value": 2019, "label": "2019" },
+                { "value": 2020, "label": "2020" },
+                { "value": 2021, "label": "2021" },
+                { "value": 2022, "label": "2022" },
+                { "value": 2023, "label": "2023" }
+              ]
+            }
+          ],
+          "fill": {
+            "type": "simple",
+            "column": "total_investment_dollars",
+            "colorScale": "Viridis",
+            "label": "Total Investment Dollars",
+            "description": "Total dollar amount of investments by county",
+            "steps": [
+              { "value": 996049.6 },
+              { "value": 2557266.8 },
+              { "value": 4839349.4 },
+              { "value": 9294704.8 }
+            ]
+          },
+          "filter": {
+            "type": "control",
+            "controlName": "year",
+            "column": "year",
+            "op": "=="
+          }
+        },
+        {
+          "id": "income",
+          "name": "502 Loan Income Limits",
+          "description": "2025 USDA 502 loan income limits by county and household size",
+          "type": "choropleth",
+          "datasetId": "income",
+          "geometryColumn": "geometry",
+          "controls": [
+            {
+              "controlType": "dropdown",
+              "controlName": "householdSize",
+              "defaultValue": "4",
+              "label": "Household Size",
+              "description": "Select household size for income limit",
+              "order": 0,
+              "options": [
+                { "value": "1", "label": "1 Person" },
+                { "value": "2", "label": "2 Person" },
+                { "value": "3", "label": "3 Person" },
+                { "value": "4", "label": "4 Person" },
+                { "value": "5", "label": "5 Person" },
+                { "value": "6", "label": "6 Person" },
+                { "value": "7", "label": "7 Person" },
+                { "value": "8", "label": "8 Person" }
+              ]
+            }
+          ],
+          "fill": {
+            "type": "conditional",
+            "conditions": [
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "1",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_1_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (1 Person)",
+                  "description": "Maximum income for 1-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "2",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_2_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (2 Person)",
+                  "description": "Maximum income for 2-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "3",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_3_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (3 Person)",
+                  "description": "Maximum income for 3-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "4",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_4_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (4 Person)",
+                  "description": "Maximum income for 4-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "5",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_5_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (5 Person)",
+                  "description": "Maximum income for 5-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "6",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_6_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (6 Person)",
+                  "description": "Maximum income for 6-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "7",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_7_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (7 Person)",
+                  "description": "Maximum income for 7-person household to qualify for 502 loan"
+                }
+              },
+              {
+                "condition": {
+                  "type": "control",
+                  "controlName": "householdSize",
+                  "value": "8",
+                  "op": "=="
+                },
+                "fill": {
+                  "column": "income_limit_8_person",
+                  "colorScale": "YlGnBu",
+                  "label": "Income Limit (8 Person)",
+                  "description": "Maximum income for 8-person household to qualify for 502 loan"
+                }
+              }
+            ],
+            "defaultFill": {
+              "column": "income_limit_4_person",
+              "colorScale": "YlGnBu",
+              "label": "Income Limit (4 Person)",
+              "description": "Maximum income for 4-person household to qualify for 502 loan"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
+

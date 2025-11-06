@@ -24,23 +24,26 @@ export const SpatialSQLResultTable = ({
   result,
   onFlyTo,
 }: SpatialSQLResultTableProps) => {
-  if (!result.geojson.features || result.geojson.features.length === 0) {
-    return <div className="text-xs text-gray-500 italic">No results found</div>;
-  }
-
   // Extract columns from first feature's properties
-  const firstFeature = result.geojson.features[0];
-  if (!firstFeature.properties) {
-    return (
-      <div className="text-xs text-gray-500 italic">No properties found</div>
-    );
-  }
-  const columns = Object.keys(firstFeature.properties);
+  const firstFeature = result.geojson.features?.[0];
+  const columns = firstFeature?.properties
+    ? Object.keys(firstFeature.properties)
+    : [];
   const rowCount = result.rowCount;
 
   // Collapse by default if more than 10 rows
   const shouldCollapseByDefault = rowCount > 10;
   const [isOpen, setIsOpen] = useState(!shouldCollapseByDefault);
+
+  if (!result.geojson.features || result.geojson.features.length === 0) {
+    return <div className="text-xs text-gray-500 italic">No results found</div>;
+  }
+
+  if (!firstFeature?.properties) {
+    return (
+      <div className="text-xs text-gray-500 italic">No properties found</div>
+    );
+  }
 
   const handleExportGeoJSON = (e: React.MouseEvent) => {
     e.preventDefault();
