@@ -24,7 +24,14 @@ export async function POST(req: Request) {
   // Try to connect to MCP server
   try {
     const transport = new StreamableHTTPClientTransport(
-      new URL(MCP_CONFIG.serverUrl)
+      new URL(MCP_CONFIG.serverUrl),
+      MCP_CONFIG.headers
+        ? {
+            requestInit: {
+              headers: MCP_CONFIG.headers,
+            },
+          }
+        : undefined
     );
 
     mcpClient = await createMCPClient({ transport });
@@ -65,9 +72,9 @@ ${
 - Trends over time
 - Statistical analysis
 
-The workspace ID is: "fahe-502-investments"
+The analysis ID is: "${MCP_CONFIG.analysisId}"
 
-Prefer to use geojson mode when calling execute_workspace_sql tool to return formatted query results to the user. The application
+Prefer to use geojson mode when calling execute_sql tool to return formatted query results to the user. The application
 allows the user to fly to a location if the tool result is a geojson feature collection.
 
 If a tool call fails, acknowledge the error gracefully and try to provide helpful information based on what you know about the data structure and map visualization.`
@@ -160,7 +167,7 @@ Be concise, helpful, and data-focused in your responses.${
       error instanceof Error ? error.message : "Unknown error occurred";
 
     return streamText({
-      model: openai("gpt-4o-mini"),
+      model: openai("gpt-5-mini"),
       system:
         "You are a helpful assistant that acknowledges errors gracefully.",
       prompt: `The user's previous message resulted in an error: "${errorMessage}". Apologize for the error, explain that something went wrong, and suggest they try again or rephrase their question. Be concise and helpful.`,

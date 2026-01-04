@@ -27,7 +27,7 @@ npm install
 
 ### 2. Set up environment variables
 
-Create a `.env.local` file in the project root:
+Create a `.env.local` file in the project root for local development:
 
 ```bash
 # Required
@@ -36,7 +36,14 @@ OPENAI_API_KEY=your_openai_api_key_here
 # Optional: Enable MCP integration
 # MCP_ENABLED=true
 # MCP_SERVER_URL=http://localhost:8000/mcp
+# MCP_API_KEY=your_mcp_api_key_here
+# MARAUDERS_ANALYSIS_KEY=your_analysis_key_here
 ```
+
+**Note:** 
+- `.env.local` is for local development only and is gitignored
+- For production, set environment variables in the Vercel dashboard (see [Deployment](#deployment) section)
+- You can also create a `.env` file with production values (also gitignored) for reference
 
 Get your OpenAI API key from [OpenAI Platform](https://platform.openai.com/api-keys).
 
@@ -80,7 +87,7 @@ public/              # Static assets
 
 ## Technologies
 
-- **Next.js 15**: React framework
+- **Next.js 16**: React framework
 - **TypeScript**: Type safety
 - **Tailwind CSS**: Styling
 - **MapLibre GL JS**: Interactive maps
@@ -96,6 +103,81 @@ To create a production build:
 npm run build
 npm start
 ```
+
+## Deployment
+
+This project is configured to deploy to [Vercel](https://vercel.com). You can deploy using either the Vercel CLI or the Vercel MCP agent.
+
+### Deploying with Vercel CLI
+
+1. **Install Vercel CLI** (if not already installed):
+   ```bash
+   npm i -g vercel
+   ```
+
+2. **Login to Vercel**:
+   ```bash
+   vercel login
+   ```
+
+3. **Deploy to production**:
+   ```bash
+   vercel --prod
+   ```
+
+### Deploying with Vercel MCP Agent
+
+The Vercel MCP (Model Context Protocol) agent provides an AI-powered way to deploy and manage your Vercel projects. If you have the Vercel MCP server configured in your AI assistant, you can simply ask it to deploy the app.
+
+**Using the MCP Agent:**
+- The agent can automatically detect your project configuration
+- It can set and update environment variables
+- It can trigger deployments and monitor build status
+- It can check deployment logs and troubleshoot issues
+
+**Example commands you can use with the MCP agent:**
+- "Deploy this app to Vercel"
+- "Set the production environment variables"
+- "Check the deployment status"
+- "View the latest deployment logs"
+
+### Environment Variables for Production
+
+Before deploying, ensure all required environment variables are set in your Vercel project:
+
+**Required:**
+- `OPENAI_API_KEY` - Your OpenAI API key for AI chat functionality
+
+**Optional (for MCP integration):**
+- `MCP_SERVER_URL` - URL of your MCP server (defaults to `http://localhost:8000/mcp`)
+- `MCP_API_KEY` - API key for MCP server authentication
+- `MARAUDERS_ANALYSIS_KEY` - Analysis ID for data queries
+- `MCP_ENABLED` - Set to `"false"` to disable MCP (defaults to enabled)
+
+**Setting environment variables via CLI:**
+```bash
+# Add a new environment variable
+echo "your_value" | vercel env add VARIABLE_NAME production
+
+# List all environment variables
+vercel env ls
+
+# Remove an environment variable
+vercel env rm VARIABLE_NAME production
+```
+
+**Setting environment variables via Dashboard:**
+1. Go to your project on [Vercel Dashboard](https://vercel.com)
+2. Navigate to Settings → Environment Variables
+3. Add or update variables for Production, Preview, and/or Development environments
+
+### Post-Deployment
+
+After deployment, your app will be available at:
+- Production URL: `https://502-investments-map.vercel.app`
+- Preview URLs: Generated for each deployment
+
+The app automatically uses environment variables configured in Vercel, so make sure all required variables are set before deploying.
 
 ## Learn More
 

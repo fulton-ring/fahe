@@ -17,6 +17,9 @@ export const MCP_CONFIG = {
     ? { Authorization: `Bearer ${process.env.MCP_API_KEY}` }
     : undefined,
 
+  // Analysis ID for querying investment data
+  analysisId: process.env.MARAUDERS_ANALYSIS_KEY,
+
   // Timeout for MCP connection (ms)
   connectionTimeout: 5000,
 } as const;

@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // Empty turbopack config to silence error - using webpack for MapLibre worker files
+  turbopack: {},
   webpack: (config) => {
     // Fix for MapLibre and other packages that use worker files
     config.module.rules.push({
