@@ -1,14 +1,8 @@
 import { openai } from "@ai-sdk/openai";
+import { experimental_createMCPClient as createMCPClient } from "@ai-sdk/mcp";
 import { StreamableHTTPClientTransport } from "@modelcontextprotocol/sdk/client/streamableHttp.js";
 
-import {
-  streamText,
-  UIMessage,
-  convertToModelMessages,
-  experimental_createMCPClient as createMCPClient,
-  type ToolSet,
-  stepCountIs,
-} from "ai";
+import { streamText, UIMessage, convertToModelMessages, stepCountIs } from "ai";
 
 import { MCP_CONFIG } from "@/lib/mcp-config";
 
@@ -18,37 +12,48 @@ export const maxDuration = 120;
 export async function POST(req: Request) {
   const { messages }: { messages: UIMessage[] } = await req.json();
 
-  let mcpClient: Awaited<ReturnType<typeof createMCPClient>> | undefined;
-  let mcpTools: ToolSet = {};
+  const transport = new StreamableHTTPClientTransport(
+    new URL(MCP_CONFIG.serverUrl),
+    MCP_CONFIG.headers
+      ? {
+          requestInit: {
+            headers: MCP_CONFIG.headers,
+          },
+        }
+      : undefined
+  );
 
-  // Try to connect to MCP server
-  try {
-    const transport = new StreamableHTTPClientTransport(
-      new URL(MCP_CONFIG.serverUrl),
-      MCP_CONFIG.headers
-        ? {
-            requestInit: {
-              headers: MCP_CONFIG.headers,
-            },
-          }
-        : undefined
-    );
+  const mcpClient = await createMCPClient({ transport });
 
-    mcpClient = await createMCPClient({ transport });
+  // Log session ID after connection
+  console.log("✅ Connected to MCP server");
+  console.log("Session ID:", transport.sessionId);
 
-    // Log session ID after connection
-    console.log("✅ Connected to MCP server");
-    console.log("Session ID:", transport.sessionId);
+  const mcpTools = await mcpClient.tools();
+  const datasets = await mcpClient.readResource({
+    uri: `analysis://${MCP_CONFIG.analysisId}/datasets`,
+  });
 
-    mcpTools = await mcpClient.tools();
-    console.log("Available MCP tools:", Object.keys(mcpTools));
-    console.log("Session ID after tools:", transport.sessionId);
-  } catch (error) {
-    console.error("❌ Failed to connect to MCP server:", error);
-    console.log("Error details:", error);
-    console.log("Continuing without MCP tools...");
-    // Continue without MCP tools if connection fails
+  if (!mcpTools) {
+    return new Response("No MCP tools found", { status: 500 });
   }
+
+  if (!datasets) {
+    return new Response("No datasets found", { status: 500 });
+  }
+
+  console.log("Available MCP tools:", Object.keys(mcpTools));
+  console.log("Datasets resource:", datasets);
+
+  const datasetsContents = datasets.contents
+    .map((content) => {
+      if (content.text) return content.text;
+      return "";
+    })
+    .filter(Boolean)
+    .join("\n\n");
+
+  console.log("Datasets contents:", datasetsContents);
 
   try {
     const result = streamText({
@@ -63,6 +68,12 @@ The map shows:
 - Education levels (high school completion, bachelor's degrees)
 - Average household income
 - Median earnings
+
+${
+  datasetsContents
+    ? `Datasets:\n${JSON.stringify(JSON.parse(datasetsContents), null, 2)}`
+    : ""
+}
 
 ${
   Object.keys(mcpTools).length > 0
@@ -94,8 +105,8 @@ Be concise, helpful, and data-focused in your responses.${
           : ""
       }`,
       messages: convertToModelMessages(messages),
-      tools: mcpTools,
-      stopWhen: stepCountIs(5), // Allow up to 5 steps for multi-step tool calls
+      tools: mcpTools as any,
+      stopWhen: stepCountIs(10), // Allow up to 10 steps for tool calls
       abortSignal: AbortSignal.timeout(120_000), // 2 minute timeout
 
       // Handle errors during streaming
