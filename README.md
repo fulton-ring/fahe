@@ -1,5 +1,7 @@
 ## Fahe
 
+A project from [Fulton Ring](https://fultonring.com).
+
 This project contains data files and scripts for processing and analyzing socioeconomic indicators.  
 The dataset includes filtered CSV files for education, income, investment, and poverty, along with geospatial output for visualization.
 
